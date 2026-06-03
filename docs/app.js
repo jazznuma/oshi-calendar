@@ -344,9 +344,9 @@
         ${event.time_open ? detail("OPEN", event.time_open) : ""}
         ${event.time_start ? detail(event.type === "ticket" ? "発売開始" : event.type === "deadline" ? "締切" : "START", event.time_start) : ""}
         ${event.time_end ? detail("END", event.time_end) : ""}
-        ${event.venue ? detail("会場", event.venue) : ""}
-        ${event.benefit_time ? detail("特典会", event.benefit_time) : ""}
-        ${event.price ? detail("料金", event.price) : ""}
+        ${event.venue ? detail("会場", event.venue, true) : ""}
+        ${event.benefit_time ? detail("特典会", event.benefit_time, true) : ""}
+        ${event.price ? detail("料金", event.price, true) : ""}
       </div>
       ${event.image_url ? `<div class="modal-image"><img src="${escapeAttr(event.image_url)}" alt="イベント画像" loading="lazy" onerror="this.parentNode.style.display='none';" /></div>` : ""}
       ${event.description ? `<p>${escapeHtml(event.description)}</p>` : ""}
@@ -363,9 +363,9 @@
     if (backdrop) backdrop.classList.remove("open");
   }
 
-  function detail(label, value) {
+  function detail(label, value, fullWidth = false) {
     return `
-      <div class="detail-item">
+      <div class="detail-item ${fullWidth ? "full-width" : ""}">
         <strong>${escapeHtml(label)}</strong>
         <span>${escapeHtml(value)}</span>
       </div>
