@@ -69,6 +69,11 @@ def main() -> int:
     api_key = os.environ.get("ANTHROPIC_API_KEY")
     if api_key:
         events = extract_with_claude(api_key, group, candidates)
+        # AIが抽出したイベントに、元のポストのimage_urlをマージする
+        post_images = {p["post_url"]: p["image_url"] for p in candidates if p.get("image_url")}
+        for event in events:
+            if event.get("post_url") in post_images:
+                event["image_url"] = post_images[event["post_url"]]
     else:
         existing = read_json(ROOT / "data" / group["id"] / "events.json", [])
         events = merge_events(existing, extract_with_rules(group, candidates))
@@ -99,16 +104,23 @@ def fetch_posts(rss_url: str) -> list[dict]:
     posts = []
     for item in root.findall("./channel/item"):
         title = item.findtext("title", "")
-        description = strip_html(item.findtext("description", ""))
+        raw_description = item.findtext("description", "")
+        description = strip_html(raw_description)
         link = item.findtext("link", "")
         guid = item.findtext("guid", "")
         pub_date = item.findtext("pubDate", "")
         text = title if len(title) >= len(description) else description
+        
+        # 画像URLを抽出
+        image_match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', raw_description)
+        image_url = image_match.group(1) if image_match else None
+
         posts.append({
             "id": guid or link,
             "text": normalize_text(text),
             "post_url": link,
             "created_at": pub_date,
+            "image_url": image_url,
         })
     return posts
 
@@ -151,6 +163,7 @@ def extract_with_rules(group: dict, candidates: list[dict]) -> list[dict]:
                 "description": summarize(text),
                 "ticket_url": ticket_url,
                 "post_url": post["post_url"],
+                "image_url": post.get("image_url"),
                 "created_at": post_dt.isoformat().replace("+00:00", "Z"),
             }))
             continue
@@ -167,6 +180,7 @@ def extract_with_rules(group: dict, candidates: list[dict]) -> list[dict]:
                 "description": summarize(text),
                 "ticket_url": ticket_url,
                 "post_url": post["post_url"],
+                "image_url": post.get("image_url"),
                 "created_at": post_dt.isoformat().replace("+00:00", "Z"),
             }))
             continue
@@ -192,6 +206,7 @@ def extract_with_rules(group: dict, candidates: list[dict]) -> list[dict]:
                 "ticket_url": ticket_url,
                 "description": summarize(text),
                 "post_url": post["post_url"],
+                "image_url": post.get("image_url"),
                 "created_at": post_dt.isoformat().replace("+00:00", "Z"),
             }))
 
@@ -220,6 +235,7 @@ def extract_ticket_event(group: dict, post: dict, title: str, ticket_url: str | 
         "time_start": time_start,
         "ticket_url": ticket_url,
         "post_url": post["post_url"],
+        "image_url": post.get("image_url"),
         "created_at": post_dt.isoformat().replace("+00:00", "Z"),
     })
 

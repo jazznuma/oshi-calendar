@@ -140,11 +140,16 @@
   }
 
   function renderCalendar() {
-    const weekdays = ["日", "月", "火", "水", "木", "金", "土"];
+    const weekdays = ["月", "火", "水", "木", "金", "土", "日"];
     const cells = getCalendarCells(state.month);
     return `
       <div class="calendar-grid">
-        ${weekdays.map((day) => `<div class="weekday">${day}</div>`).join("")}
+        ${weekdays.map((day, i) => {
+          let cls = "weekday";
+          if (i === 5) cls += " saturday";
+          if (i === 6) cls += " sunday";
+          return `<div class="${cls}">${day}</div>`;
+        }).join("")}
         ${cells.map(renderDayCell).join("")}
       </div>
     `;
@@ -156,12 +161,15 @@
     const inMonth = date.getMonth() === state.month.getMonth();
     const isToday = dateKey === toDateKey(new Date());
     const isSelected = dateKey === state.selectedDate;
+    const dayOfWeek = date.getDay(); // 0 = 日曜, 6 = 土曜
     const visibleChips = dayEvents.slice(0, 3);
     const className = [
       "day-cell",
       inMonth ? "" : "is-outside",
       isToday ? "is-today" : "",
-      isSelected ? "is-selected" : ""
+      isSelected ? "is-selected" : "",
+      dayOfWeek === 6 ? "is-saturday" : "",
+      dayOfWeek === 0 ? "is-sunday" : ""
     ].filter(Boolean).join(" ");
 
     return `
@@ -189,7 +197,8 @@
   function chipTime(event) {
     if (event.type === "ticket") return `チケ発 ${event.time_start || ""}`.trim();
     if (event.type === "deadline") return `締切 ${event.time_start || ""}`.trim();
-    if (event.time_start) return event.time_start;
+    const time = event.time_open || event.time_start;
+    if (time) return time;
     return typeLabels[event.type] || "予定";
   }
 
@@ -339,6 +348,7 @@
         ${event.benefit_time ? detail("特典会", event.benefit_time) : ""}
         ${event.price ? detail("料金", event.price) : ""}
       </div>
+      ${event.image_url ? `<div class="modal-image"><img src="${escapeAttr(event.image_url)}" alt="イベント画像" loading="lazy" /></div>` : ""}
       ${event.description ? `<p>${escapeHtml(event.description)}</p>` : ""}
       <div class="modal-actions">
         ${event.ticket_url ? `<a class="primary-button" href="${escapeAttr(event.ticket_url)}" target="_blank" rel="noreferrer">チケット/詳細</a>` : ""}
@@ -381,7 +391,7 @@
   function getCalendarCells(monthDate) {
     const first = startOfMonth(monthDate);
     const start = new Date(first);
-    start.setDate(first.getDate() - first.getDay());
+    start.setDate(first.getDate() - ((first.getDay() + 6) % 7));
     return Array.from({ length: 42 }, (_, index) => {
       const date = new Date(start);
       date.setDate(start.getDate() + index);

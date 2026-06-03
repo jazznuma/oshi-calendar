@@ -291,6 +291,14 @@ a {
   text-align: center;
 }
 
+.weekday.saturday {
+  color: #2088ff;
+}
+
+.weekday.sunday {
+  color: #ff4f9a;
+}
+
 .day-cell {
   position: relative;
   min-height: 132px;
@@ -313,6 +321,22 @@ a {
 .day-cell.is-outside {
   background: #fdfafc;
   color: #cbbcc5;
+}
+
+.day-cell.is-saturday {
+  background: #f2f8ff;
+}
+
+.day-cell.is-saturday.is-outside {
+  background: #f9fcff;
+}
+
+.day-cell.is-sunday {
+  background: #fff5f6;
+}
+
+.day-cell.is-sunday.is-outside {
+  background: #fffafb;
 }
 
 .day-cell.is-today {
@@ -650,6 +674,21 @@ a {
   display: grid;
   gap: 16px;
   padding: 0 20px 20px;
+}
+
+.modal-image {
+  width: 100%;
+  border-radius: 20px;
+  overflow: hidden;
+  border: 2px solid var(--line);
+  margin-top: 4px;
+  box-shadow: 0 6px 16px rgba(98, 37, 70, 0.05);
+}
+
+.modal-image img {
+  width: 100%;
+  height: auto;
+  display: block;
 }
 
 .detail-grid {
