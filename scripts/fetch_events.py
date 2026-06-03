@@ -188,6 +188,15 @@ def extract_with_rules(group: dict, candidates: list[dict]) -> list[dict]:
         for match in date_matches:
             event_date = normalize_event_date(post_year, int(match.group(1)), int(match.group(2)), post_dt)
             window = text[match.start():match.start() + 80]
+
+            # チケット情報や締切の告知日付である可能性が高い場合は、live/freeイベントから除外する
+            start_idx = max(0, match.start() - 30)
+            end_idx = min(len(text), match.end() + 30)
+            context = text[start_idx:end_idx]
+            if any(keyword in context for keyword in ["先行", "抽選", "先着", "一般発売", "チケ発", "締切", "まで", "迄", "販売開始", "発売開始"]):
+                if not any(kw in context for kw in ["📍", "🏟", "OPEN", "START", "開場", "開演"]):
+                    continue
+
             time_open, time_start, time_end = extract_times(text, window)
             event_type = "free" if "無料" in text or "オフ会" in text else "live"
 
