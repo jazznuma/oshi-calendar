@@ -15,6 +15,38 @@
       "color": "#3ba3ff",
       "accent": "#ff5c8a",
       "description": "Anthuriumのライブ・イベントスケジュール"
+    },
+    {
+      "id": "tohkei",
+      "name": "透色ドロップ",
+      "x_account": "Tohkei_info",
+      "color": "#85e3ff",
+      "accent": "#ff7bad",
+      "description": "透色ドロップのイベント・チケ発スケジュール"
+    },
+    {
+      "id": "hbn",
+      "name": "HBN",
+      "x_account": "HBN_187",
+      "color": "#ffd13b",
+      "accent": "#2ec4b6",
+      "description": "HBNのイベント・チケ発スケジュール"
+    },
+    {
+      "id": "miao",
+      "name": "miao",
+      "x_account": "miao__official",
+      "color": "#ff8fa9",
+      "accent": "#d90429",
+      "description": "miaoのイベント・チケ発スケジュール"
+    },
+    {
+      "id": "jumpingkiss",
+      "name": "Jumping Kiss",
+      "x_account": "jumpingkiss",
+      "color": "#ffa5a5",
+      "accent": "#f72585",
+      "description": "Jumping Kissのイベント・チケ発スケジュール"
     }
   ]
 }

@@ -130,10 +130,10 @@ def looks_relevant(text: str) -> bool:
         "開場", "開演", "チケ発", "発売", "受付", "締切", "ライブ", "LIVE",
         "公演", "対バン", "生誕", "リリース", "イベント", "OPEN", "START"
     ]
-    negative = ["御礼", "ありがとうございました", "MV公開", "映像UP"]
-    if any(word in text for word in negative) and not any(word in text for word in ["開場", "開演", "チケ発"]):
+    negative = ["御礼", "ありがとうございました", "MV公開", "映像UP", "お休み", "休演", "お詫び", "キャンセル", "欠席", "払い戻し"]
+    if any(word in text for word in negative) and not any(word in text for word in ["開場", "開演", "チケ発", "発売", "受付"]):
         return False
-    return any(word in text for word in positive) and bool(re.search(r"\d{1,2}/\d{1,2}|\d{4}\.\d{1,2}\.\d{1,2}", text))
+    return any(word in text for word in positive) and bool(re.search(r"\d{1,2}[./月]\d{1,2}|\d{4}[./年]\d{1,2}[./月]\d{1,2}", text))
 
 
 def extract_with_rules(group: dict, candidates: list[dict]) -> list[dict]:
@@ -146,13 +146,17 @@ def extract_with_rules(group: dict, candidates: list[dict]) -> list[dict]:
         venue = extract_prefixed_value(text, ("🏟", "📍"))
         ticket_url = extract_first_url(text)
 
-        date_matches = list(re.finditer(r"(?<!\d)(\d{1,2})/(\d{1,2})(?:\([^)]*\))?", text))
+        date_matches = list(re.finditer(r"(?<!\d)(?:(\d{4})[./年])?(\d{1,2})[./月](\d{1,2})日?(?:\([^)]*\))?", text))
         if not date_matches:
             continue
 
         if "締切" in text or "まで" in text and "申込み" in text:
             match = date_matches[-1]
-            event_date = normalize_event_date(post_year, int(match.group(1)), int(match.group(2)), post_dt)
+            try:
+                y = int(match.group(1)) if match.group(1) else None
+                event_date = normalize_event_date(y, int(match.group(2)), int(match.group(3)), post_dt)
+            except ValueError:
+                continue
             events.append(clean_event({
                 "id": stable_id(group["id"], "deadline", event_date, title, post["id"]),
                 "group_id": group["id"],
@@ -168,9 +172,13 @@ def extract_with_rules(group: dict, candidates: list[dict]) -> list[dict]:
             }))
             continue
 
-        if "発売" in text and "開場" not in text and "開演" not in text:
+        if "発売" in text and not any(k in text for k in ["開場", "開演", "OPEN", "START", "OP ", "ST "]):
             match = date_matches[0]
-            event_date = normalize_event_date(post_year, int(match.group(1)), int(match.group(2)), post_dt)
+            try:
+                y = int(match.group(1)) if match.group(1) else None
+                event_date = normalize_event_date(y, int(match.group(2)), int(match.group(3)), post_dt)
+            except ValueError:
+                continue
             events.append(clean_event({
                 "id": stable_id(group["id"], "release", event_date, title, post["id"]),
                 "group_id": group["id"],
@@ -186,7 +194,11 @@ def extract_with_rules(group: dict, candidates: list[dict]) -> list[dict]:
             continue
 
         for match in date_matches:
-            event_date = normalize_event_date(post_year, int(match.group(1)), int(match.group(2)), post_dt)
+            try:
+                y = int(match.group(1)) if match.group(1) else None
+                event_date = normalize_event_date(y, int(match.group(2)), int(match.group(3)), post_dt)
+            except ValueError:
+                continue
             window = text[match.start():match.start() + 80]
 
             # チケット情報や締切の告知日付である可能性が高い場合は、live/freeイベントから除外する
@@ -228,12 +240,15 @@ def extract_with_rules(group: dict, candidates: list[dict]) -> list[dict]:
 
 def extract_ticket_event(group: dict, post: dict, title: str, ticket_url: str | None, post_dt: datetime) -> dict | None:
     text = post["text"]
-    match = re.search(r"(\d{1,2})/(\d{1,2})(?:\([^)]*\))?\s*(\d{1,2}:\d{2})\s*チケ発", text)
+    match = re.search(r"(\d{1,2})[./月](\d{1,2})日?(?:\([^)]*\))?\s*(\d{1,2}:\d{2})\s*チケ発", text)
     if not match:
-        match = re.search(r"(\d{1,2})/(\d{1,2})(?:\([^)]*\))?[^。\n]{0,16}チケ発", text)
+        match = re.search(r"(\d{1,2})[./月](\d{1,2})日?(?:\([^)]*\))?[^。\n]{0,16}チケ発", text)
     if not match:
         return None
-    event_date = normalize_event_date(post_dt.year, int(match.group(1)), int(match.group(2)), post_dt)
+    try:
+        event_date = normalize_event_date(None, int(match.group(1)), int(match.group(2)), post_dt)
+    except ValueError:
+        return None
     time_start = match.group(3) if len(match.groups()) >= 3 and match.group(3) else find_time_near(text, match.start())
     return clean_event({
         "id": stable_id(group["id"], "ticket", event_date, title, post["id"]),
@@ -330,15 +345,21 @@ def stable_id(group_id: str, event_type: str, date: str, title: str, source_id: 
     return f"{group_id}-{date}-{event_type}-{slug}-{digest}"
 
 
-def normalize_event_date(year: int, month: int, day: int, post_dt: datetime) -> str:
+def normalize_event_date(year: int | None, month: int, day: int, post_dt: datetime) -> str:
+    use_year = year if year is not None else post_dt.year
+    if not (1 <= month <= 12):
+        raise ValueError(f"Invalid month: {month}")
     try:
-        event_dt = datetime(year, month, day, tzinfo=timezone.utc)
+        event_dt = datetime(use_year, month, day, tzinfo=timezone.utc)
     except ValueError:
         # 不正な日付（うるう年以外での2/29等）のフォールバック
-        event_dt = datetime(year, month, 28, tzinfo=timezone.utc)
+        try:
+            event_dt = datetime(use_year, month, 28, tzinfo=timezone.utc)
+        except ValueError:
+            raise ValueError(f"Invalid date: {use_year}-{month}-{day}")
         
-    if event_dt.date() < post_dt.date():
-        event_dt = event_dt.replace(year=year + 1)
+    if year is None and event_dt.date() < post_dt.date():
+        event_dt = event_dt.replace(year=use_year + 1)
     return event_dt.strftime("%Y-%m-%d")
 
 
