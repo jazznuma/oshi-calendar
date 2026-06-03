@@ -142,7 +142,7 @@ def extract_with_rules(group: dict, candidates: list[dict]) -> list[dict]:
         text = post["text"]
         post_dt = parse_pub_date(post.get("created_at", ""))
         post_year = post_dt.year
-        title = extract_title(text)
+        title = extract_title(text, group["name"])
         venue = extract_prefixed_value(text, ("🏟", "📍"))
         ticket_url = extract_first_url(text)
 
@@ -271,7 +271,15 @@ def merge_events(existing: list[dict], incoming: list[dict]) -> list[dict]:
     return list(merged.values())
 
 
-def extract_title(text: str) -> str:
+def extract_title(text: str, default_name: str = "イベント") -> str:
+    bracket_match = re.search(r"[「『]([^」』\n]{2,50})[」』]", text)
+    if bracket_match:
+        val = bracket_match.group(1).strip()
+        val = re.sub(r"^[ 🏟📍⏳⌛🎫💵✨🎟⚡🎥🉐🎁⚠️📢📣🆕🎨🌲🍀🌈🍇🍊🥤🕒🕗🌟🚨🔥🍑⏰🎪👥🥤]*", "", val)
+        val = val.strip()
+        if val and not re.search(r"https?://", val):
+            return val
+
     for line in text.splitlines():
         cleaned = line.strip("／＼[]【】 \t")
         if not cleaned:
@@ -281,7 +289,7 @@ def extract_title(text: str) -> str:
         if cleaned in {"ー", "・", "※タイムテーブルは画像を✅"}:
             continue
         return cleaned[:60]
-    return "STAiNY イベント"
+    return f"{default_name} イベント"
 
 
 def extract_prefixed_value(text: str, prefixes: tuple[str, ...]) -> str | None:

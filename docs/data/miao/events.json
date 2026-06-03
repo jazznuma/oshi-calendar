@@ -1,9 +1,9 @@
 [
   {
-    "id": "miao-2026-05-31-live-5-31-2b3a740b",
+    "id": "miao-2026-05-31-live-circuit-6a07b5f1",
     "group_id": "miao",
     "type": "live",
-    "title": "- ̗̀ 📢明日5/31(日)はこちら🐈‍⬛🎀",
+    "title": "踊れ！神風主催「踊祭-circuit‼",
     "date": "2026-05-31",
     "venue": "GOTANDA G7",
     "description": "／ / - ̗̀ 📢明日5/31(日)はこちら🐈‍⬛🎀 / ＼ / 1本目",
@@ -12,10 +12,10 @@
     "created_at": "2026-05-30T12:37:39Z"
   },
   {
-    "id": "miao-2026-06-01-live-6-1-4223e7dc",
+    "id": "miao-2026-06-01-live-vol-4-3238f22f",
     "group_id": "miao",
     "type": "live",
-    "title": "- ̗̀ 📢明日6/1(月)はこちら🐈‍⬛🎀",
+    "title": "トゥナイト。vol.4",
     "date": "2026-06-01",
     "time_start": "16:00",
     "venue": "渋谷音楽堂",
@@ -25,10 +25,10 @@
     "created_at": "2026-05-31T14:08:29Z"
   },
   {
-    "id": "miao-2026-06-03-live-event-17edc3a2",
+    "id": "miao-2026-06-03-live-2026-d747cd03",
     "group_id": "miao",
     "type": "live",
-    "title": "📣チケット情報🐈‍⬛💜❤️",
+    "title": "#近代麻雀水着祭2026",
     "date": "2026-06-03",
     "time_start": "20:00",
     "venue": "東京サマーランド",
@@ -38,10 +38,10 @@
     "created_at": "2026-06-01T12:00:01Z"
   },
   {
-    "id": "miao-2026-06-05-free-event-814cba72",
+    "id": "miao-2026-06-05-free-aquarium-5c2c8564",
     "group_id": "miao",
     "type": "free",
-    "title": "📣沖縄遠征情報🌊⛱️",
+    "title": "AQUARIUM.",
     "date": "2026-06-05",
     "time_start": "19:00",
     "venue": "Cyber Box",
@@ -51,10 +51,10 @@
     "created_at": "2026-06-01T15:06:32Z"
   },
   {
-    "id": "miao-2026-06-06-live-event-910598dd",
+    "id": "miao-2026-06-06-live-okinawa-girls-girls-81a9fa65",
     "group_id": "miao",
     "type": "live",
-    "title": "📣沖縄遠征情報🌊⛱️",
+    "title": "OKINAWA GIRLS GIRLS",
     "date": "2026-06-06",
     "time_start": "11:00",
     "venue": "那覇文化芸術劇場 なはーと小ホール",
@@ -65,10 +65,10 @@
     "created_at": "2026-05-31T11:09:58Z"
   },
   {
-    "id": "miao-2026-06-06-free-event-55586686",
+    "id": "miao-2026-06-06-free-aquarium-7614fc8d",
     "group_id": "miao",
     "type": "free",
-    "title": "📣沖縄遠征情報🌊⛱️",
+    "title": "AQUARIUM.",
     "date": "2026-06-06",
     "time_start": "14:30",
     "venue": "Cyber Box",
@@ -78,10 +78,10 @@
     "created_at": "2026-06-01T15:06:32Z"
   },
   {
-    "id": "miao-2026-06-07-live-event-ccccb97c",
+    "id": "miao-2026-06-07-live-okinawa-girls-girls-790d0279",
     "group_id": "miao",
     "type": "live",
-    "title": "📣沖縄遠征情報🌊⛱️",
+    "title": "OKINAWA GIRLS GIRLS",
     "date": "2026-06-07",
     "time_start": "10:00",
     "venue": "那覇文化芸術劇場 なはーと小ホール",
@@ -92,10 +92,10 @@
     "created_at": "2026-05-31T11:05:40Z"
   },
   {
-    "id": "miao-2026-06-07-free-event-919ca6c6",
+    "id": "miao-2026-06-07-free-aquarium-b70ef74c",
     "group_id": "miao",
     "type": "free",
-    "title": "📣沖縄遠征情報🌊⛱️",
+    "title": "AQUARIUM.",
     "date": "2026-06-07",
     "time_start": "12:45",
     "venue": "Cyber Box",
@@ -131,10 +131,10 @@
     "time_start": "15:05"
   },
   {
-    "id": "miao-2026-06-18-live-event-8398f97d",
+    "id": "miao-2026-06-18-live-idol-scene-efbab85b",
     "group_id": "miao",
     "type": "live",
-    "title": "🎶対バン情報🎶",
+    "title": "IDOL SCENE",
     "date": "2026-06-18",
     "time_start": "15:00",
     "venue": "大塚FUTURE",
@@ -144,10 +144,10 @@
     "created_at": "2026-06-02T11:39:27Z"
   },
   {
-    "id": "miao-2026-07-01-live-event-a2682b8b",
+    "id": "miao-2026-07-01-live-2026-fb0f820c",
     "group_id": "miao",
     "type": "live",
-    "title": "📣チケット情報🐈‍⬛💜❤️",
+    "title": "#近代麻雀水着祭2026",
     "date": "2026-07-01",
     "time_start": "20:00",
     "venue": "東京サマーランド",
@@ -157,10 +157,10 @@
     "created_at": "2026-06-01T12:00:01Z"
   },
   {
-    "id": "miao-2026-07-04-live-event-2b374548",
+    "id": "miao-2026-07-04-live-marquee-mini-vol-328-e68f84d2",
     "group_id": "miao",
     "type": "live",
-    "title": "🉐豪華入場特典🉐",
+    "title": "MARQUEE祭mini Vol.328",
     "date": "2026-07-04",
     "time_open": "10:30",
     "time_start": "11:00",
@@ -172,10 +172,10 @@
     "created_at": "2026-06-01T12:51:40Z"
   },
   {
-    "id": "miao-2026-07-22-live-event-881da7a6",
+    "id": "miao-2026-07-22-live-utage-fes-vol-5-cb319f57",
     "group_id": "miao",
     "type": "live",
-    "title": "🎶対バン情報🎶",
+    "title": "UTAGE FES Vol.5",
     "date": "2026-07-22",
     "time_open": "10:00",
     "time_start": "10:30",

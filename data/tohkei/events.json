@@ -1,9 +1,9 @@
 [
   {
-    "id": "tohkei-2026-06-10-live-time-table-d58ffd31",
+    "id": "tohkei-2026-06-10-live-shibuya-stadium-adec5018",
     "group_id": "tohkei",
     "type": "live",
-    "title": "🕗Time Table公開",
+    "title": "SHIBUYA STADIUM",
     "date": "2026-06-10",
     "time_start": "20:55",
     "description": "【 🏟️ #Tohkei出演情報  】 / 🕗Time Table公開 / 『 SHIBUYA STADIUM 』 / ✴︎ 2026/6/10(水)WWW/WWW X",
@@ -12,10 +12,10 @@
     "created_at": "2026-06-02T12:06:21Z"
   },
   {
-    "id": "tohkei-2026-06-13-live-time-table-26b97d81",
+    "id": "tohkei-2026-06-13-live-in-kanda-square-hall-78f4598e",
     "group_id": "tohkei",
     "type": "live",
-    "title": "🕗Time Table公開",
+    "title": "アイドル甲子園 in KANDA SQUARE HALL",
     "date": "2026-06-13",
     "ticket_url": "https://user.my-th.jp/login?redirect=/tickets/event/aikou_0613",
     "description": "【 🐯#Tohkei出演情報 】 / 🕗Time Table公開 / 『アイドル甲子園 in KANDA SQUARE HALL』supported by My-th / ✴︎ 2026/6/13(土),6/14(日)",
@@ -25,10 +25,10 @@
     "time_start": "14:25"
   },
   {
-    "id": "tohkei-2026-06-14-live-time-table-1c2dc4e2",
+    "id": "tohkei-2026-06-14-live-in-kanda-square-hall-93037d25",
     "group_id": "tohkei",
     "type": "live",
-    "title": "🕗Time Table公開",
+    "title": "アイドル甲子園 in KANDA SQUARE HALL",
     "date": "2026-06-14",
     "ticket_url": "https://user.my-th.jp/login?redirect=/tickets/event/aikou_0613",
     "description": "【 🐯#Tohkei出演情報 】 / 🕗Time Table公開 / 『アイドル甲子園 in KANDA SQUARE HALL』supported by My-th / ✴︎ 2026/6/13(土),6/14(日)",
@@ -38,10 +38,10 @@
     "time_start": "14:20"
   },
   {
-    "id": "tohkei-2026-06-14-live-time-table-76a26cc8",
+    "id": "tohkei-2026-06-14-live-idol-storm-ae81d994",
     "group_id": "tohkei",
     "type": "live",
-    "title": "🕗Time Table公開",
+    "title": "IDOL STORM",
     "date": "2026-06-14",
     "time_start": "18:50",
     "description": "【 🌪️ #Tohkei出演情報  】 / 🕗Time Table公開 / 『IDOL STORM』 / ✴︎ 2026/6/14(日) WOMB LIVE",
@@ -50,10 +50,10 @@
     "created_at": "2026-06-02T12:10:24Z"
   },
   {
-    "id": "tohkei-2026-06-28-live-3-live-714164e7",
+    "id": "tohkei-2026-06-28-live-festival-2026-bda6e85f",
     "group_id": "tohkei",
     "type": "live",
-    "title": "\\\\ 3周年記念LIVEの直前はこちら!! //",
+    "title": "アイドル甲子園 FESTIVAL 2026",
     "date": "2026-06-28",
     "ticket_url": "https://user.my-th.jp/tickets/event/aikoufes_0628",
     "description": "【 🐯#Tohkei出演情報 】 / \\\\ 3周年記念LIVEの直前はこちら!! // / 『アイドル甲子園 FESTIVAL 2026』 / supported by My-th -DAY2-",
@@ -62,10 +62,10 @@
     "created_at": "2026-06-02T12:54:40Z"
   },
   {
-    "id": "tohkei-2026-07-01-live-pinned-6e48ea59",
+    "id": "tohkei-2026-07-01-live-event-6db3067c",
     "group_id": "tohkei",
     "type": "live",
-    "title": "Pinned: .",
+    "title": "夏はじめるぞ！",
     "date": "2026-07-01",
     "time_open": "18:15",
     "time_start": "19:00",
@@ -76,10 +76,10 @@
     "created_at": "2026-06-01T11:26:27Z"
   },
   {
-    "id": "tohkei-2026-09-21-release-event-6f60c846",
+    "id": "tohkei-2026-09-21-release-spark-2026-in-yamanakako-4507a098",
     "group_id": "tohkei",
     "type": "release",
-    "title": "\\\\ 本年も出演決定🎆 //",
+    "title": "SPARK 2026 in YAMANAKAKO",
     "date": "2026-09-21",
     "description": "【💧 #Tohkei出演情報  】 / \\\\ 本年も出演決定🎆 // / 『 SPARK 2026 in YAMANAKAKO 』 / ✴︎ 2026/9/21(月祝)-9/23(水祝) ※出演日程後日",
     "post_url": "https://nitter.net/Tohkei_info/status/2061005076970475981#m",

@@ -10,27 +10,27 @@
     },
     {
       "id": "anthurium",
-      "name": "Anthurium",
+      "name": "アンスリューム",
       "x_account": "anthurium0317",
       "color": "#3ba3ff",
       "accent": "#ff5c8a",
-      "description": "Anthuriumのライブ・イベントスケジュール"
+      "description": "アンスリュームのライブ・イベントスケジュール"
     },
     {
       "id": "tohkei",
-      "name": "透色ドロップ",
+      "name": "Tohkei",
       "x_account": "Tohkei_info",
       "color": "#85e3ff",
       "accent": "#ff7bad",
-      "description": "透色ドロップのイベント・チケ発スケジュール"
+      "description": "Tohkeiのイベント・チケ発スケジュール"
     },
     {
       "id": "hbn",
-      "name": "HBN",
+      "name": "HIBANA",
       "x_account": "HBN_187",
       "color": "#ffd13b",
       "accent": "#2ec4b6",
-      "description": "HBNのイベント・チケ発スケジュール"
+      "description": "HIBANAのイベント・チケ発スケジュール"
     },
     {
       "id": "miao",
