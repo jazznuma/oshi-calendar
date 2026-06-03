@@ -746,56 +746,129 @@ a {
 
 @media (max-width: 680px) {
   .app-shell {
-    width: min(100% - 20px, 1180px);
-    padding-top: 20px;
-  }
-
-  .topbar,
-  .calendar-toolbar,
-  .event-card-header {
-    align-items: stretch;
-    flex-direction: column;
+    width: min(100% - 16px, 1180px);
+    padding-top: 16px;
+    padding-bottom: 32px;
   }
 
   .topbar {
-    gap: 14px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    margin-bottom: 20px;
   }
 
-  .nav-links,
-  .toolbar-buttons {
+  .brand {
+    gap: 10px;
+  }
+
+  .brand-mark {
+    width: 36px;
+    height: 36px;
+    flex: 0 0 36px;
+    font-size: 1rem;
+    border-radius: 10px;
+  }
+
+  .brand h1 {
+    font-size: 1.4rem;
+  }
+
+  .brand p {
+    font-size: 0.8rem;
+    margin-top: 3px;
+  }
+
+  .nav-links {
+    gap: 6px;
     justify-content: flex-start;
   }
 
+  .pill-link {
+    padding: 6px 12px;
+    font-size: 0.8rem;
+    min-height: 32px;
+  }
+
+  .calendar-toolbar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 12px 16px;
+    gap: 8px;
+  }
+
+  .month-title {
+    font-size: 1.2rem;
+  }
+
+  .toolbar-buttons {
+    gap: 6px;
+    justify-content: flex-start;
+  }
+
+  .toolbar-buttons .icon-button,
+  .toolbar-buttons .primary-button {
+    min-height: 32px;
+    font-size: 0.9rem;
+    padding: 4px 12px;
+  }
+  
+  .toolbar-buttons .icon-button {
+    width: 32px;
+    padding: 0;
+  }
+
   .calendar-grid {
-    grid-template-columns: repeat(7, minmax(42px, 1fr));
+    grid-template-columns: repeat(7, minmax(0, 1fr));
   }
 
   .weekday {
-    padding: 10px 2px;
-    font-size: 0.72rem;
+    padding: 8px 2px;
+    font-size: 0.7rem;
   }
 
   .day-cell {
-    min-height: 84px;
-    padding: 4px;
+    min-height: 60px;
+    padding: 2px;
   }
 
   .day-number {
-    width: 26px;
-    height: 26px;
-    font-size: 0.85rem;
+    width: 22px;
+    height: 22px;
+    font-size: 0.75rem;
+    margin-bottom: 2px;
+  }
+
+  .day-events {
+    gap: 3px;
+    margin-top: 2px;
   }
 
   .event-chip {
     grid-template-columns: 1fr;
     gap: 1px;
-    min-height: 22px;
-    padding: 3px 6px;
-    font-size: 0.68rem;
+    min-height: 16px;
+    padding: 1px 4px;
+    font-size: 0.62rem;
+    border-radius: 4px;
   }
 
   .event-chip span {
     display: none;
+  }
+  
+  .event-chip.more {
+    font-size: 0.6rem;
+  }
+  
+  .event-card-header {
+    align-items: stretch;
+    flex-direction: column;
   }
 
   .detail-grid {
