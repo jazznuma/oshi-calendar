@@ -1,0 +1,12 @@
+{
+  "groups": [
+    {
+      "id": "stainy",
+      "name": "STAiNY",
+      "x_account": "STAiNY_official",
+      "color": "#ff4f9a",
+      "accent": "#25c2a0",
+      "description": "ライブ告知、チケ発、締切、リリース情報をまとめたカレンダー"
+    }
+  ]
+}
