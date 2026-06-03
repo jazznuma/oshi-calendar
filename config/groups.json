@@ -7,6 +7,14 @@
       "color": "#ff4f9a",
       "accent": "#25c2a0",
       "description": "ライブ告知、チケ発、締切、リリース情報をまとめたカレンダー"
+    },
+    {
+      "id": "anthurium",
+      "name": "Anthurium",
+      "x_account": "anthurium0317",
+      "color": "#3ba3ff",
+      "accent": "#ff5c8a",
+      "description": "Anthuriumのライブ・イベントスケジュール"
     }
   ]
 }

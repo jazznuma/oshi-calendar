@@ -348,7 +348,7 @@
         ${event.benefit_time ? detail("特典会", event.benefit_time) : ""}
         ${event.price ? detail("料金", event.price) : ""}
       </div>
-      ${event.image_url ? `<div class="modal-image"><img src="${escapeAttr(event.image_url)}" alt="イベント画像" loading="lazy" /></div>` : ""}
+      ${event.image_url ? `<div class="modal-image"><img src="${escapeAttr(event.image_url)}" alt="イベント画像" loading="lazy" onerror="this.parentNode.style.display='none';" /></div>` : ""}
       ${event.description ? `<p>${escapeHtml(event.description)}</p>` : ""}
       <div class="modal-actions">
         ${event.ticket_url ? `<a class="primary-button" href="${escapeAttr(event.ticket_url)}" target="_blank" rel="noreferrer">チケット/詳細</a>` : ""}

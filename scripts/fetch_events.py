@@ -322,9 +322,14 @@ def stable_id(group_id: str, event_type: str, date: str, title: str, source_id: 
 
 
 def normalize_event_date(year: int, month: int, day: int, post_dt: datetime) -> str:
-    event_dt = datetime(year, month, day, tzinfo=timezone.utc)
-    if event_dt.date() < post_dt.date() and post_dt.month == 12 and month == 1:
-        event_dt = datetime(year + 1, month, day, tzinfo=timezone.utc)
+    try:
+        event_dt = datetime(year, month, day, tzinfo=timezone.utc)
+    except ValueError:
+        # 不正な日付（うるう年以外での2/29等）のフォールバック
+        event_dt = datetime(year, month, 28, tzinfo=timezone.utc)
+        
+    if event_dt.date() < post_dt.date():
+        event_dt = event_dt.replace(year=year + 1)
     return event_dt.strftime("%Y-%m-%d")
 
 
