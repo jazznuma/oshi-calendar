@@ -51,7 +51,15 @@ API キーがない場合は、STAiNY の典型的な告知フォーマット向
 
 ## 公開
 
-`main` に push すると `.github/workflows/pages.yml` が `docs/` を GitHub Pages にデプロイします。
+GitHub Pages の公開元は `main` ブランチの `/docs` にしてください。
+
+Repository Settings → Pages → Build and deployment:
+
+- Source: `Deploy from a branch`
+- Branch: `main`
+- Folder: `/docs`
+
+この方式なら、静的サイト用の deploy workflow は不要です。GitHub Actions は RSS 取得と `events.json` 更新だけに使います。
 
 公開 URL:
 
