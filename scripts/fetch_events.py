@@ -12,7 +12,7 @@ import re
 import sys
 import urllib.request
 import xml.etree.ElementTree as ET
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 
@@ -128,12 +128,15 @@ def fetch_posts(rss_url: str) -> list[dict]:
 def looks_relevant(text: str) -> bool:
     positive = [
         "開場", "開演", "チケ発", "発売", "受付", "締切", "ライブ", "LIVE",
-        "公演", "対バン", "生誕", "リリース", "イベント", "OPEN", "START"
+        "公演", "対バン", "生誕", "リリース", "イベント", "OPEN", "START",
+        "明日", "本日", "今日", "明後日"
     ]
     negative = ["御礼", "ありがとうございました", "MV公開", "映像UP", "お休み", "休演", "お詫び", "キャンセル", "欠席", "払い戻し"]
     if any(word in text for word in negative) and not any(word in text for word in ["開場", "開演", "チケ発", "発売", "受付"]):
         return False
-    return any(word in text for word in positive) and bool(re.search(r"\d{1,2}[./月]\d{1,2}|\d{4}[./年]\d{1,2}[./月]\d{1,2}", text))
+    has_date = bool(re.search(r"\d{1,2}[./月]\d{1,2}|\d{4}[./年]\d{1,2}[./月]\d{1,2}", text))
+    has_relative = any(w in text for w in ["明日", "本日", "今日", "明後日"])
+    return any(word in text for word in positive) and (has_date or has_relative)
 
 
 def extract_with_rules(group: dict, candidates: list[dict]) -> list[dict]:
@@ -143,11 +146,45 @@ def extract_with_rules(group: dict, candidates: list[dict]) -> list[dict]:
         post_dt = parse_pub_date(post.get("created_at", ""))
         post_year = post_dt.year
         title = extract_title(text, group["name"])
-        venue = extract_prefixed_value(text, ("🏟", "📍"))
+        venue = extract_venue(text)
         ticket_url = extract_first_url(text)
 
         date_matches = list(re.finditer(r"(?<!\d)(?:(\d{4})[./年])?(\d{1,2})[./月](\d{1,2})日?(?:\([^)]*\))?", text))
         if not date_matches:
+            event_date = None
+            if "明後日" in text:
+                event_date = (post_dt + timedelta(days=2)).strftime("%Y-%m-%d")
+            elif "明日" in text:
+                event_date = (post_dt + timedelta(days=1)).strftime("%Y-%m-%d")
+            elif any(w in text for w in ["本日", "今日"]):
+                event_date = post_dt.strftime("%Y-%m-%d")
+                
+            if event_date:
+                window = text[:80]
+                time_open, time_start, time_end = extract_times(text, window)
+                event_type = "free" if "無料" in text or "オフ会" in text else "live"
+                
+                events.append(clean_event({
+                    "id": stable_id(group["id"], event_type, event_date, title, post["id"]),
+                    "group_id": group["id"],
+                    "type": event_type,
+                    "title": title,
+                    "date": event_date,
+                    "time_open": time_open,
+                    "time_start": time_start,
+                    "time_end": time_end,
+                    "venue": venue,
+                    "benefit_time": extract_benefit_time(window),
+                    "price": extract_prefixed_value(text, ("💵",)),
+                    "ticket_url": ticket_url,
+                    "description": summarize(text),
+                    "post_url": post["post_url"],
+                    "image_url": post.get("image_url"),
+                    "created_at": post_dt.isoformat().replace("+00:00", "Z"),
+                }))
+                ticket = extract_ticket_event(group, post, title, ticket_url, post_dt)
+                if ticket:
+                    events.append(ticket)
             continue
 
         if "締切" in text or "まで" in text and "申込み" in text:
@@ -284,12 +321,38 @@ def extract_title(text: str, default_name: str = "イベント") -> str:
         cleaned = line.strip("／＼[]【】 \t")
         if not cleaned:
             continue
-        if re.search(r"https?://|#|^\d{1,2}/\d{1,2}", cleaned):
+        if re.search(r"https?://|#|^\d{1,2}[/\.月]\d{1,2}", cleaned):
             continue
-        if cleaned in {"ー", "・", "※タイムテーブルは画像を✅"}:
+        if re.search(r"^(?:明日|本日|今日|明後日)(?:はこちら|の予定|のライブ|のイベント|ライブ)?$", cleaned):
+            continue
+        if not re.search(r"[a-zA-Z0-9\u4e00-\u9fff\u3040-\u309f\u30a0-\u30ff]", cleaned):
+            continue
+        if cleaned in {"ー", "・", "※タイムテーブルは画像を✅", "お知らせ", "告知"}:
             continue
         return cleaned[:60]
     return f"{default_name} イベント"
+
+
+def extract_venue(text: str) -> str | None:
+    venue = extract_prefixed_value(text, ("🏟", "📍"))
+    if venue:
+        return venue
+    
+    for line in text.splitlines():
+        match = re.search(r"^(?:[🏟📍]?\s*(?:会場|場所|＠|at|@)\s*[:：〜~]?\s*)(.+)$", line, re.IGNORECASE)
+        if match:
+            cleaned = match.group(1).strip("／＼[]【】 \t").strip()
+            cleaned = re.sub(r"\s*(?:https?://\S+|#\S+)\s*", "", cleaned).strip()
+            if cleaned:
+                return cleaned
+    
+    at_match = re.search(r"(?:at|@|＠)\s*([a-zA-Z0-9\u4e00-\u9fff\u3040-\u309f\u30a0-\u30ff\s\-（）\(\)]+)(?:\n|¥|💵|🎟|▼|$)", text)
+    if at_match:
+        val = at_match.group(1).strip()
+        if val and not re.search(r"^\d|^\(|^[a-z]+発$", val) and len(val) >= 2 and len(val) <= 30:
+            return val
+            
+    return None
 
 
 def extract_prefixed_value(text: str, prefixes: tuple[str, ...]) -> str | None:
