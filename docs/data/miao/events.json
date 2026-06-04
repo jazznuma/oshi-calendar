@@ -80,19 +80,6 @@
     "created_at": "2026-06-03T13:13:35Z"
   },
   {
-    "id": "miao-2026-06-05-free-aquarium-5c2c8564",
-    "group_id": "miao",
-    "type": "free",
-    "title": "AQUARIUM.",
-    "date": "2026-06-05",
-    "time_start": "19:00",
-    "venue": "Cyber Box",
-    "description": "／ / 📣沖縄遠征情報🌊⛱️ / ＼ / 今週末は沖縄遠征✈️ なんと新体制披露曲もあり🌞！",
-    "post_url": "https://nitter.net/miao__official/status/2061464419050430731#m",
-    "image_url": "https://nitter.net/pic/media%2FHJvK9MUaQAAix1q.jpg",
-    "created_at": "2026-06-01T15:06:32Z"
-  },
-  {
     "id": "miao-2026-06-05-free-aquarium-502e2823",
     "group_id": "miao",
     "type": "free",
@@ -128,19 +115,6 @@
     "post_url": "https://nitter.net/miao__official/status/2061042498341056819#m",
     "image_url": "https://nitter.net/pic/media%2FHJpLM4RaoAAWBXh.jpg",
     "created_at": "2026-05-31T11:09:58Z"
-  },
-  {
-    "id": "miao-2026-06-06-free-aquarium-7614fc8d",
-    "group_id": "miao",
-    "type": "free",
-    "title": "AQUARIUM.",
-    "date": "2026-06-06",
-    "time_start": "14:30",
-    "venue": "Cyber Box",
-    "description": "／ / 📣沖縄遠征情報🌊⛱️ / ＼ / 今週末は沖縄遠征✈️ なんと新体制披露曲もあり🌞！",
-    "post_url": "https://nitter.net/miao__official/status/2061464419050430731#m",
-    "image_url": "https://nitter.net/pic/media%2FHJvK9MUaQAAix1q.jpg",
-    "created_at": "2026-06-01T15:06:32Z"
   },
   {
     "id": "miao-2026-06-06-free-aquarium-cdd5ece0",
@@ -196,19 +170,6 @@
     "post_url": "https://nitter.net/miao__official/status/2061041415745122753#m",
     "image_url": "https://nitter.net/pic/media%2FHJpKHjua0AAzLda.jpg",
     "created_at": "2026-05-31T11:05:40Z"
-  },
-  {
-    "id": "miao-2026-06-07-free-aquarium-b70ef74c",
-    "group_id": "miao",
-    "type": "free",
-    "title": "AQUARIUM.",
-    "date": "2026-06-07",
-    "time_start": "12:45",
-    "venue": "Cyber Box",
-    "description": "／ / 📣沖縄遠征情報🌊⛱️ / ＼ / 今週末は沖縄遠征✈️ なんと新体制披露曲もあり🌞！",
-    "post_url": "https://nitter.net/miao__official/status/2061464419050430731#m",
-    "image_url": "https://nitter.net/pic/media%2FHJvK9MUaQAAix1q.jpg",
-    "created_at": "2026-06-01T15:06:32Z"
   },
   {
     "id": "miao-2026-06-07-free-aquarium-bb1acdbf",
@@ -382,6 +343,20 @@
     "created_at": "2026-06-04T01:08:26.977Z"
   },
   {
+    "id": "miao-2026-06-20-live-tokyo-girls-girls-extra-e9041978",
+    "group_id": "miao",
+    "type": "live",
+    "title": "TOKYO GIRLS GIRLS extra!!",
+    "date": "2026-06-20",
+    "time_start": "9:30",
+    "venue": "EBiS303",
+    "ticket_url": "https://nitter.net/Girls_Girlsinfo/status/2062127155027575281#m",
+    "description": "／ / ⏰タイテ情報⏰ / ＼ / 『TOKYO GIRLS GIRLS extra!!』",
+    "post_url": "https://nitter.net/miao__official/status/2062135712196227504#m",
+    "image_url": "https://nitter.net/pic/media%2FHJ4tf8AbwAAM7zW.jpg",
+    "created_at": "2026-06-03T11:34:01Z"
+  },
+  {
     "id": "miao-2026-06-20-live-ebis303-50e5adc1",
     "group_id": "miao",
     "type": "live",
@@ -398,20 +373,6 @@
     "date": "2026-06-20",
     "description": "ライブ予定",
     "created_at": "2026-06-04T01:08:26.977Z"
-  },
-  {
-    "id": "miao-2026-06-20-live-tokyo-girls-girls-extra-e9041978",
-    "group_id": "miao",
-    "type": "live",
-    "title": "TOKYO GIRLS GIRLS extra!!",
-    "date": "2026-06-20",
-    "time_start": "9:30",
-    "venue": "EBiS303",
-    "ticket_url": "https://nitter.net/Girls_Girlsinfo/status/2062127155027575281#m",
-    "description": "／ / ⏰タイテ情報⏰ / ＼ / 『TOKYO GIRLS GIRLS extra!!』",
-    "post_url": "https://nitter.net/miao__official/status/2062135712196227504#m",
-    "image_url": "https://nitter.net/pic/media%2FHJ4tf8AbwAAM7zW.jpg",
-    "created_at": "2026-06-03T11:34:01Z"
   },
   {
     "id": "miao-2026-06-21-live-ebis303-32c37760",

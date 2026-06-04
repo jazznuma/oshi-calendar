@@ -6,25 +6,7 @@
     "title": "MARQUEE祭",
     "date": "2026-04-27",
     "description": "MARQUEE祭",
-    "created_at": "2026-06-04T01:51:48.192Z"
-  },
-  {
-    "id": "stainy-2026-04-27-live---45478516",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "対バン名古屋",
-    "date": "2026-04-27",
-    "description": "対バン名古屋",
-    "created_at": "2026-06-04T04:49:50.665Z"
-  },
-  {
-    "id": "stainy-2026-04-28-live-neo-kassen-349bc6ff",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "NEO KASSEN",
-    "date": "2026-04-28",
-    "description": "NEO KASSEN",
-    "created_at": "2026-06-04T04:49:50.665Z"
+    "created_at": "2026-06-04T05:18:56.141Z"
   },
   {
     "id": "stainy-2026-04-29-live-leading-umikaze-32b59861",
@@ -33,16 +15,7 @@
     "title": "LEADING UMIKAZE",
     "date": "2026-04-29",
     "description": "LEADING UMIKAZE",
-    "created_at": "2026-06-04T01:51:48.192Z"
-  },
-  {
-    "id": "stainy-2026-04-29-live-sweet-party-1585789d",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "SWEET PARTY",
-    "date": "2026-04-29",
-    "description": "SWEET PARTY",
-    "created_at": "2026-06-04T04:49:50.665Z"
+    "created_at": "2026-06-04T05:18:56.141Z"
   },
   {
     "id": "stainy-2026-05-02-live-summer-jungle-62057ea5",
@@ -51,16 +24,7 @@
     "title": "SUMMER JUNGLE",
     "date": "2026-05-02",
     "description": "SUMMER JUNGLE",
-    "created_at": "2026-06-04T01:51:48.192Z"
-  },
-  {
-    "id": "stainy-2026-05-02-live---55323f86",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "リリースイベント",
-    "date": "2026-05-02",
-    "description": "リリースイベント",
-    "created_at": "2026-06-04T04:49:50.665Z"
+    "created_at": "2026-06-04T05:18:56.141Z"
   },
   {
     "id": "stainy-2026-05-03-live---4ccf8e99",
@@ -69,7 +33,7 @@
     "title": "リリースツアー名古屋",
     "date": "2026-05-03",
     "description": "リリースツアー名古屋",
-    "created_at": "2026-06-04T01:51:48.192Z"
+    "created_at": "2026-06-04T05:18:56.141Z"
   },
   {
     "id": "stainy-2026-05-03-live---6369a119",
@@ -78,16 +42,7 @@
     "title": "リリースイベント名古屋",
     "date": "2026-05-03",
     "description": "リリースイベント名古屋",
-    "created_at": "2026-06-04T01:51:48.192Z"
-  },
-  {
-    "id": "stainy-2026-05-03-live-stay-tune-4man-bf26a50",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "STAY TUNE! 4MAN",
-    "date": "2026-05-03",
-    "description": "STAY TUNE! 4MAN",
-    "created_at": "2026-06-04T04:49:50.665Z"
+    "created_at": "2026-06-04T05:18:56.141Z"
   },
   {
     "id": "stainy-2026-05-04-live---d05b208",
@@ -96,25 +51,7 @@
     "title": "対バン名古屋",
     "date": "2026-05-04",
     "description": "対バン名古屋",
-    "created_at": "2026-06-04T04:56:29.425Z"
-  },
-  {
-    "id": "stainy-2026-05-05-live--upgate--1cc21797",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "歌舞伎町UPGATE↑",
-    "date": "2026-05-05",
-    "description": "歌舞伎町UPGATE↑",
-    "created_at": "2026-06-04T04:49:50.665Z"
-  },
-  {
-    "id": "stainy-2026-05-05-live-kyun-fes-tokyo-vol-2-6175b021",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "KYUN-FES TOKYO vol.2",
-    "date": "2026-05-05",
-    "description": "KYUN-FES TOKYO vol.2",
-    "created_at": "2026-06-04T04:49:50.665Z"
+    "created_at": "2026-06-04T05:18:56.141Z"
   },
   {
     "id": "stainy-2026-05-05-live-neo-kassen-5ee3c0e3",
@@ -123,7 +60,16 @@
     "title": "NEO KASSEN",
     "date": "2026-05-05",
     "description": "NEO KASSEN",
-    "created_at": "2026-06-04T04:56:29.425Z"
+    "created_at": "2026-06-04T05:18:56.141Z"
+  },
+  {
+    "id": "stainy-2026-05-05-live--upgate--1cc21797",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "歌舞伎町UPGATE↑",
+    "date": "2026-05-05",
+    "description": "歌舞伎町UPGATE↑",
+    "created_at": "2026-06-04T05:18:56.141Z"
   },
   {
     "id": "stainy-2026-05-06-live-sweet-party-3914043f",
@@ -132,16 +78,7 @@
     "title": "SWEET PARTY",
     "date": "2026-05-06",
     "description": "SWEET PARTY",
-    "created_at": "2026-06-04T04:56:29.425Z"
-  },
-  {
-    "id": "stainy-2026-05-09-live-fes-tive-presents--6e08555f",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "FES☆TIVE Presents「波響祭」",
-    "date": "2026-05-09",
-    "description": "FES☆TIVE Presents「波響祭」",
-    "created_at": "2026-06-04T04:49:50.665Z"
+    "created_at": "2026-06-04T05:18:56.141Z"
   },
   {
     "id": "stainy-2026-05-09-live---1fcda841",
@@ -150,25 +87,7 @@
     "title": "リリースイベント",
     "date": "2026-05-09",
     "description": "リリースイベント",
-    "created_at": "2026-06-04T04:49:50.665Z"
-  },
-  {
-    "id": "stainy-2026-05-10-live---4b97056f",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "リリースツアー",
-    "date": "2026-05-10",
-    "description": "リリースツアー",
-    "created_at": "2026-06-04T04:49:50.665Z"
-  },
-  {
-    "id": "stainy-2026-05-10-live-idol-storm-47d90111",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "IDOL STORM",
-    "date": "2026-05-10",
-    "description": "IDOL STORM",
-    "created_at": "2026-06-04T04:49:50.665Z"
+    "created_at": "2026-06-04T05:18:56.141Z"
   },
   {
     "id": "stainy-2026-05-10-live-stay-tune-4man-555200ec",
@@ -177,43 +96,16 @@
     "title": "STAY TUNE! 4MAN",
     "date": "2026-05-10",
     "description": "STAY TUNE! 4MAN",
-    "created_at": "2026-06-04T04:56:29.425Z"
+    "created_at": "2026-06-04T05:18:56.141Z"
   },
   {
-    "id": "stainy-2026-05-11-live-marquee--625f7a1c",
+    "id": "stainy-2026-05-10-live---4b97056f",
     "group_id": "stainy",
     "type": "live",
-    "title": "MARQUEE祭",
-    "date": "2026-05-11",
-    "description": "MARQUEE祭",
-    "created_at": "2026-06-04T01:09:30.191Z"
-  },
-  {
-    "id": "stainy-2026-05-11-live---235a6824",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "対バン名古屋",
-    "date": "2026-05-11",
-    "description": "対バン名古屋",
-    "created_at": "2026-06-04T01:51:48.192Z"
-  },
-  {
-    "id": "stainy-2026-05-12-live-neo-kassen-73b08739",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "NEO KASSEN",
-    "date": "2026-05-12",
-    "description": "NEO KASSEN",
-    "created_at": "2026-06-04T01:51:48.192Z"
-  },
-  {
-    "id": "stainy-2026-05-12-live--upgate--63492d05",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "歌舞伎町UPGATE↑",
-    "date": "2026-05-12",
-    "description": "歌舞伎町UPGATE↑",
-    "created_at": "2026-06-04T01:51:48.192Z"
+    "title": "リリースツアー",
+    "date": "2026-05-10",
+    "description": "リリースツアー",
+    "created_at": "2026-06-04T05:18:56.141Z"
   },
   {
     "id": "stainy-2026-05-12-live-kyun-fes-tokyo-vol-2-59ac7ac3",
@@ -222,61 +114,7 @@
     "title": "KYUN-FES TOKYO vol.2",
     "date": "2026-05-12",
     "description": "KYUN-FES TOKYO vol.2",
-    "created_at": "2026-06-04T04:56:29.425Z"
-  },
-  {
-    "id": "stainy-2026-05-13-live-leading-umikaze-1fd9445b",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "LEADING UMIKAZE",
-    "date": "2026-05-13",
-    "description": "LEADING UMIKAZE",
-    "created_at": "2026-06-04T01:09:30.191Z"
-  },
-  {
-    "id": "stainy-2026-05-13-live-sweet-party-46f7405d",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "SWEET PARTY",
-    "date": "2026-05-13",
-    "description": "SWEET PARTY",
-    "created_at": "2026-06-04T01:51:48.192Z"
-  },
-  {
-    "id": "stainy-2026-05-13-live---3904a036",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "#フライングサマー",
-    "date": "2026-05-13",
-    "description": "#フライングサマー",
-    "created_at": "2026-06-04T04:49:50.665Z"
-  },
-  {
-    "id": "stainy-2026-05-16-live-summer-jungle-491ad058",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "SUMMER JUNGLE",
-    "date": "2026-05-16",
-    "description": "SUMMER JUNGLE",
-    "created_at": "2026-06-04T01:09:30.191Z"
-  },
-  {
-    "id": "stainy-2026-05-16-live---c32b8a3",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "リリースイベント",
-    "date": "2026-05-16",
-    "description": "リリースイベント",
-    "created_at": "2026-06-04T01:51:48.192Z"
-  },
-  {
-    "id": "stainy-2026-05-16-live---4a2d17ce",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "リリイベ大阪",
-    "date": "2026-05-16",
-    "description": "リリイベ大阪",
-    "created_at": "2026-06-04T04:49:50.665Z"
+    "created_at": "2026-06-04T05:18:56.141Z"
   },
   {
     "id": "stainy-2026-05-16-live-fes-tive-presents--16b4a8bd",
@@ -285,43 +123,16 @@
     "title": "FES☆TIVE Presents「波響祭」",
     "date": "2026-05-16",
     "description": "FES☆TIVE Presents「波響祭」",
-    "created_at": "2026-06-04T04:56:29.425Z"
+    "created_at": "2026-06-04T05:18:56.141Z"
   },
   {
-    "id": "stainy-2026-05-17-live---45963476",
+    "id": "stainy-2026-05-16-live---c32b8a3",
     "group_id": "stainy",
     "type": "live",
-    "title": "リリースツアー名古屋",
-    "date": "2026-05-17",
-    "description": "リリースツアー名古屋",
-    "created_at": "2026-06-04T01:09:30.191Z"
-  },
-  {
-    "id": "stainy-2026-05-17-live-stay-tune-4man-5856196d",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "STAY TUNE! 4MAN",
-    "date": "2026-05-17",
-    "description": "STAY TUNE! 4MAN",
-    "created_at": "2026-06-04T01:51:48.192Z"
-  },
-  {
-    "id": "stainy-2026-05-17-live---1e868216",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "リリースツアー",
-    "date": "2026-05-17",
-    "description": "リリースツアー",
-    "created_at": "2026-06-04T01:51:48.192Z"
-  },
-  {
-    "id": "stainy-2026-05-17-live---691d0d4d",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "リリースツアー大阪",
-    "date": "2026-05-17",
-    "description": "リリースツアー大阪",
-    "created_at": "2026-06-04T04:49:50.665Z"
+    "title": "リリースイベント",
+    "date": "2026-05-16",
+    "description": "リリースイベント",
+    "created_at": "2026-06-04T05:18:56.141Z"
   },
   {
     "id": "stainy-2026-05-17-live-idol-storm-7c7e1318",
@@ -330,7 +141,7 @@
     "title": "IDOL STORM",
     "date": "2026-05-17",
     "description": "IDOL STORM",
-    "created_at": "2026-06-04T04:56:29.425Z"
+    "created_at": "2026-06-04T05:18:56.141Z"
   },
   {
     "id": "stainy-2026-05-20-live---1b071b66",
@@ -339,43 +150,7 @@
     "title": "#フライングサマー",
     "date": "2026-05-20",
     "description": "#フライングサマー",
-    "created_at": "2026-06-04T04:56:29.425Z"
-  },
-  {
-    "id": "stainy-2026-05-21-live---2437901d",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "でびぱっぱ",
-    "date": "2026-05-21",
-    "description": "でびぱっぱ",
-    "created_at": "2026-06-04T04:49:50.665Z"
-  },
-  {
-    "id": "stainy-2026-05-22-live--vv--6ab370da",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "リリイベ VV渋谷",
-    "date": "2026-05-22",
-    "description": "リリイベ VV渋谷",
-    "created_at": "2026-06-04T04:49:50.665Z"
-  },
-  {
-    "id": "stainy-2026-05-23-live---1a4b6ade",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "リリイベ 埼玉コクーシンシティ",
-    "date": "2026-05-23",
-    "description": "リリイベ 埼玉コクーシンシティ",
-    "created_at": "2026-06-04T04:49:50.665Z"
-  },
-  {
-    "id": "stainy-2026-05-23-live---681344b5",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "フライングサマー 後夜祭",
-    "date": "2026-05-23",
-    "description": "フライングサマー 後夜祭",
-    "created_at": "2026-06-04T04:49:50.665Z"
+    "created_at": "2026-06-04T05:18:56.141Z"
   },
   {
     "id": "stainy-2026-05-23-live---6081cdea",
@@ -384,25 +159,7 @@
     "title": "リリイベ大阪",
     "date": "2026-05-23",
     "description": "リリイベ大阪",
-    "created_at": "2026-06-04T04:56:29.425Z"
-  },
-  {
-    "id": "stainy-2026-05-24-live---3cafb946",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "リリースイベント名古屋",
-    "date": "2026-05-24",
-    "description": "リリースイベント名古屋",
-    "created_at": "2026-06-04T01:09:30.191Z"
-  },
-  {
-    "id": "stainy-2026-05-24-live---29146e3e",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "リリイベ タワレコ新宿",
-    "date": "2026-05-24",
-    "description": "リリイベ タワレコ新宿",
-    "created_at": "2026-06-04T04:49:50.665Z"
+    "created_at": "2026-06-04T05:18:56.141Z"
   },
   {
     "id": "stainy-2026-05-24-live---151151b1",
@@ -411,16 +168,7 @@
     "title": "リリースツアー大阪",
     "date": "2026-05-24",
     "description": "リリースツアー大阪",
-    "created_at": "2026-06-04T04:56:29.425Z"
-  },
-  {
-    "id": "stainy-2026-05-26-live-kyun-fes-tokyo-vol-2-7c68cfa0",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "KYUN-FES TOKYO vol.2",
-    "date": "2026-05-26",
-    "description": "KYUN-FES TOKYO vol.2",
-    "created_at": "2026-06-04T01:51:48.192Z"
+    "created_at": "2026-06-04T05:18:56.141Z"
   },
   {
     "id": "stainy-2026-05-28-live---11a3f57c",
@@ -429,7 +177,7 @@
     "title": "でびぱっぱ",
     "date": "2026-05-28",
     "description": "でびぱっぱ",
-    "created_at": "2026-06-04T04:56:29.425Z"
+    "created_at": "2026-06-04T05:18:56.141Z"
   },
   {
     "id": "stainy-2026-05-29-live--vv--3fb65fc1",
@@ -438,59 +186,7 @@
     "title": "リリイベ VV渋谷",
     "date": "2026-05-29",
     "description": "リリイベ VV渋谷",
-    "created_at": "2026-06-04T04:56:29.425Z"
-  },
-  {
-    "id": "stainy-ticket-2026-05-30-sweet-partt",
-    "group_id": "stainy",
-    "type": "ticket",
-    "title": "SWEET PARTT チケ発",
-    "date": "2026-05-30",
-    "time_start": "22:30",
-    "related_event_id": "stainy-2026-06-26-sweet-partt",
-    "ticket_url": "https://livepocket.jp/e/sweetparty_selene",
-    "post_url": "https://nitter.net/STAiNY_official/status/2060323359335063633#m",
-    "created_at": "2026-05-29T11:32:22Z"
-  },
-  {
-    "id": "stainy-2026-05-30-ticket-sweet-partt-e793dc6a",
-    "group_id": "stainy",
-    "type": "ticket",
-    "title": "「SWEET PARTT」 チケ発",
-    "date": "2026-05-30",
-    "time_start": "22:30",
-    "post_url": "https://nitter.net/STAiNY_official/status/2060323359335063633#m",
-    "image_url": "https://nitter.net/pic/media%2FHJe9K9kbMAA3TAn.jpg",
-    "created_at": "2026-05-29T11:32:22Z"
-  },
-  {
-    "id": "stainy-2026-05-30-ticket-sweet-partt-4351cc5f",
-    "group_id": "stainy",
-    "type": "ticket",
-    "title": "SWEET PARTT チケ発",
-    "date": "2026-05-30",
-    "time_start": "22:30",
-    "post_url": "https://nitter.net/STAiNY_official/status/2060323359335063633#m",
-    "image_url": "https://nitter.net/pic/media%2FHJe9K9kbMAA3TAn.jpg",
-    "created_at": "2026-05-29T11:32:22Z"
-  },
-  {
-    "id": "stainy-2026-05-30-live-fes-tive-presents--202ea4f5",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "FES☆TIVE Presents「波響祭」",
-    "date": "2026-05-30",
-    "description": "FES☆TIVE Presents「波響祭」",
-    "created_at": "2026-06-04T01:51:48.192Z"
-  },
-  {
-    "id": "stainy-2026-05-30-live---64337a6b",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "リリースイベント",
-    "date": "2026-05-30",
-    "description": "リリースイベント",
-    "created_at": "2026-06-04T01:51:48.192Z"
+    "created_at": "2026-06-04T05:18:56.141Z"
   },
   {
     "id": "stainy-2026-05-30-live---2f142bbe",
@@ -499,7 +195,7 @@
     "title": "リリイベ 埼玉コクーシンシティ",
     "date": "2026-05-30",
     "description": "リリイベ 埼玉コクーシンシティ",
-    "created_at": "2026-06-04T04:56:29.425Z"
+    "created_at": "2026-06-04T05:18:56.141Z"
   },
   {
     "id": "stainy-2026-05-30-live---194a0a2f",
@@ -508,16 +204,7 @@
     "title": "フライングサマー 後夜祭",
     "date": "2026-05-30",
     "description": "フライングサマー 後夜祭",
-    "created_at": "2026-06-04T04:56:29.425Z"
-  },
-  {
-    "id": "stainy-2026-05-31-live-idol-storm-21a6a350",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "IDOL STORM",
-    "date": "2026-05-31",
-    "description": "IDOL STORM",
-    "created_at": "2026-06-04T01:51:48.192Z"
+    "created_at": "2026-06-04T05:18:56.141Z"
   },
   {
     "id": "stainy-2026-05-31-live---56f6d65e",
@@ -526,87 +213,7 @@
     "title": "リリイベ タワレコ新宿",
     "date": "2026-05-31",
     "description": "リリイベ タワレコ新宿",
-    "created_at": "2026-06-04T04:56:29.425Z"
-  },
-  {
-    "id": "stainy-ticket-2026-06-02-sawayaka-date",
-    "group_id": "stainy",
-    "type": "ticket",
-    "title": "爽やかデート私服公演 チケ発",
-    "date": "2026-06-02",
-    "time_start": "22:00",
-    "related_event_id": "stainy-2026-06-12-sawayaka-date",
-    "ticket_url": "https://t-dv.com/STAiNY0612",
-    "post_url": "https://nitter.net/STAiNY_official/status/2061403523267575825#m",
-    "created_at": "2026-06-01T11:04:33Z"
-  },
-  {
-    "id": "stainy-2026-06-02-deadline-event-34b68507",
-    "group_id": "stainy",
-    "type": "deadline",
-    "title": "プレミアムライブ参加申込みのご案内 締切",
-    "date": "2026-06-02",
-    "time_start": "22:00",
-    "description": "【プレミアムライブ参加申込みのご案内】 / 日頃よりSTAiNYを応援して頂き誠にありがとうございます。 / プレミアムライブのご案内になります。 / ポイントカード250ポイントを達成されたお客様で、「プレミアムライブ」へのご参加を希望される方は、下記フォームよりお申込みをお願いいたします。",
-    "ticket_url": "https://nitter.net/STAiNY_official/status/2061403523267575825#m",
-    "post_url": "https://nitter.net/STAiNY_official/status/2061800688213172410#m",
-    "image_url": "https://nitter.net/pic/card_img%2F2061800690167771136%2FztnULKDj%3Fformat%3Djpg%26name%3D420x420_2",
-    "created_at": "2026-06-02T13:22:45Z"
-  },
-  {
-    "id": "stainy-2026-06-02-ticket-event-bd701e09",
-    "group_id": "stainy",
-    "type": "ticket",
-    "title": "｢爽やかデート私服公演」 チケ発",
-    "date": "2026-06-02",
-    "time_start": "22:00",
-    "post_url": "https://nitter.net/STAiNY_official/status/2061403523267575825#m",
-    "image_url": "https://nitter.net/pic/media%2FHJuTk6laoAA3iWk.jpg",
-    "created_at": "2026-06-01T11:04:33Z"
-  },
-  {
-    "id": "stainy-2026-06-02-deadline-event-dea34bf9",
-    "group_id": "stainy",
-    "type": "deadline",
-    "title": "プレミアムライブ 締切",
-    "date": "2026-06-02",
-    "time_start": "22:00",
-    "description": "【プレミアムライブ参加申込みのご案内】 / 日頃よりSTAiNYを応援して頂き誠にありがとうございます。 / プレミアムライブのご案内になります。 / ポイントカード250ポイントを達成されたお客様で、「プレミアムライブ」へのご参加を希望される方は、下記フォームよりお申込みをお願いいたします。",
-    "ticket_url": "https://nitter.net/STAiNY_official/status/2061403523267575825#m",
-    "post_url": "https://nitter.net/STAiNY_official/status/2061800688213172410#m",
-    "image_url": "https://nitter.net/pic/card_img%2F2061800690167771136%2FztnULKDj%3Fformat%3Djpg%26name%3D420x420_2",
-    "created_at": "2026-06-02T13:22:45Z"
-  },
-  {
-    "id": "stainy-2026-06-02-live-yoru-fes-rock-fes-6841efd5",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "YORU-FESよるあみなりのROCK FES",
-    "date": "2026-06-02",
-    "description": "YORU-FESよるあみなりのROCK FES",
-    "created_at": "2026-06-04T04:49:50.665Z"
-  },
-  {
-    "id": "stainy-2026-06-03-ticket-event-5d8bde45",
-    "group_id": "stainy",
-    "type": "ticket",
-    "title": "「佐々木ひまり生誕祭」 チケ発",
-    "date": "2026-06-03",
-    "time_start": "22:00",
-    "post_url": "https://nitter.net/STAiNY_official/status/2061749699728863301#m",
-    "image_url": "https://nitter.net/pic/media%2FHJzOaMIbIAEHNa6.jpg",
-    "created_at": "2026-06-02T10:00:08Z"
-  },
-  {
-    "id": "stainy-2026-06-03-ticket-event-0eddbb71",
-    "group_id": "stainy",
-    "type": "ticket",
-    "title": "佐々木ひまり生誕祭 チケ発",
-    "date": "2026-06-03",
-    "time_start": "22:00",
-    "post_url": "https://nitter.net/STAiNY_official/status/2061749699728863301#m",
-    "image_url": "https://nitter.net/pic/media%2FHJzOaMIbIAEHNa6.jpg",
-    "created_at": "2026-06-02T10:00:08Z"
+    "created_at": "2026-06-04T05:18:56.141Z"
   },
   {
     "id": "stainy-2026-06-03-live---bda40a8",
@@ -615,7 +222,7 @@
     "title": "リリイベ",
     "date": "2026-06-03",
     "description": "リリイベ",
-    "created_at": "2026-06-04T01:51:48.191Z"
+    "created_at": "2026-06-04T05:18:56.140Z"
   },
   {
     "id": "stainy-2026-06-04-live-summer-beat-6c3d5d93",
@@ -624,16 +231,7 @@
     "title": "summer beat",
     "date": "2026-06-04",
     "description": "summer beat",
-    "created_at": "2026-06-04T01:51:48.192Z"
-  },
-  {
-    "id": "stainy-2026-06-04-live---5f410c97",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "リリイベ",
-    "date": "2026-06-04",
-    "description": "リリイベ",
-    "created_at": "2026-06-04T04:49:50.665Z"
+    "created_at": "2026-06-04T05:18:56.140Z"
   },
   {
     "id": "stainy-2026-06-05-live---10ad0a34",
@@ -642,7 +240,7 @@
     "title": "リリイベ沖縄県",
     "date": "2026-06-05",
     "description": "リリイベ沖縄県",
-    "created_at": "2026-06-04T01:51:48.192Z"
+    "created_at": "2026-06-04T05:18:56.141Z"
   },
   {
     "id": "stainy-2026-06-05-live-stargazer-sg--7aa808ce",
@@ -651,62 +249,7 @@
     "title": "StarGazer-SG-",
     "date": "2026-06-05",
     "description": "StarGazer-SG-",
-    "created_at": "2026-06-04T01:51:48.192Z"
-  },
-  {
-    "id": "stainy-2026-06-05-live---464644f1",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "単独公演",
-    "date": "2026-06-05",
-    "description": "単独公演",
-    "created_at": "2026-06-04T04:49:50.665Z"
-  },
-  {
-    "id": "stainy-2026-06-06-okinawa-girls-girls-day1",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "OKINAWA GIRLS GIRLS",
-    "date": "2026-06-06",
-    "time_start": "12:50",
-    "time_end": "13:20",
-    "venue": "那覇文化会館 なはーと小ホール",
-    "benefit_time": "13:30-14:40(D)",
-    "ticket_url": "http://tiget.net/events/486723",
-    "description": "各: 2s写メ券+2pt(前方+15秒動画)",
-    "post_url": "https://nitter.net/STAiNY_official/status/2060316558610849853#m",
-    "created_at": "2026-05-29T11:05:21Z"
-  },
-  {
-    "id": "stainy-2026-06-06-free-event-c2c8e768",
-    "group_id": "stainy",
-    "type": "free",
-    "title": "🌺プチオフ会開催🌺",
-    "date": "2026-06-06",
-    "time_open": "18:00",
-    "time_start": "18:30",
-    "venue": "瀬長島ビーチ",
-    "price": "無料",
-    "description": "【🌺プチオフ会開催🌺】 / 沖縄で花火をしながら / みんなでゆったり過ごしましょう🎆✨ / 📅6/6(土)",
-    "post_url": "https://nitter.net/STAiNY_official/status/2061734772427374864#m",
-    "image_url": "https://nitter.net/pic/media%2FHJzA2P1bQAAqzSA.jpg",
-    "created_at": "2026-06-02T09:00:49Z"
-  },
-  {
-    "id": "stainy-2026-06-06-free-event-a33db6ea",
-    "group_id": "stainy",
-    "type": "free",
-    "title": "プチオフ会",
-    "date": "2026-06-06",
-    "time_open": "18:00",
-    "time_start": "18:30",
-    "venue": "瀬長島ビーチ",
-    "price": "無料",
-    "ticket_url": "https://nitter.net/STAiNY_official/status/2061734772427374864#m",
-    "description": "【中止のお知らせ】 / 6日に開催を予定しておりました「プチオフ会」につきまして、雨予報が変わりにくい状況を踏まえ、安全面を考慮した結果、中止とさせていただくこととなりました。 / 楽しみにしてくださっていた皆さまには大変申し訳ございませんが、ご理解いただけますと幸いです。 / 何卒よろしくお願いいたします。",
-    "post_url": "https://nitter.net/STAiNY_official/status/2062163958556230045#m",
-    "image_url": "https://nitter.net/pic/media%2FHJzA2P1bQAAqzSA.jpg",
-    "created_at": "2026-06-03T13:26:15Z"
+    "created_at": "2026-06-04T05:18:56.141Z"
   },
   {
     "id": "stainy-2026-06-06-live-girls-girls-1830d958",
@@ -715,31 +258,7 @@
     "title": "GIRLS GIRLS",
     "date": "2026-06-06",
     "description": "GIRLS GIRLS",
-    "created_at": "2026-06-04T01:51:48.192Z"
-  },
-  {
-    "id": "stainy-2026-06-06-live--vv--2bc122ea",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "リリイベVV札幌",
-    "date": "2026-06-06",
-    "description": "リリイベVV札幌",
-    "created_at": "2026-06-04T04:49:50.665Z"
-  },
-  {
-    "id": "stainy-2026-06-07-okinawa-girls-girls-day2",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "OKINAWA GIRLS GIRLS",
-    "date": "2026-06-07",
-    "time_start": "15:10",
-    "time_end": "15:35",
-    "venue": "那覇文化会館 なはーと小ホール",
-    "benefit_time": "15:45-16:55(D)",
-    "ticket_url": "http://tiget.net/events/486726",
-    "description": "各: 2s写メ券+2pt(前方+15秒動画)",
-    "post_url": "https://nitter.net/STAiNY_official/status/2060316558610849853#m",
-    "created_at": "2026-05-29T11:05:21Z"
+    "created_at": "2026-06-04T05:18:56.141Z"
   },
   {
     "id": "stainy-2026-06-07-live-girls-girls-233d4489",
@@ -748,25 +267,7 @@
     "title": "GIRLS GIRLS",
     "date": "2026-06-07",
     "description": "GIRLS GIRLS",
-    "created_at": "2026-06-04T01:51:48.192Z"
-  },
-  {
-    "id": "stainy-2026-06-07-live---22868ed7",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "リリースツアー北海道",
-    "date": "2026-06-07",
-    "description": "リリースツアー北海道",
-    "created_at": "2026-06-04T04:49:50.665Z"
-  },
-  {
-    "id": "stainy-2026-06-09-live---68279448",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "対バン",
-    "date": "2026-06-09",
-    "description": "対バン",
-    "created_at": "2026-06-04T04:49:50.665Z"
+    "created_at": "2026-06-04T05:18:56.141Z"
   },
   {
     "id": "stainy-2026-06-09-live-yoru-fes-rock-fes-6cfaa12e",
@@ -775,37 +276,7 @@
     "title": "YORU-FESよるあみなりのROCK FES",
     "date": "2026-06-09",
     "description": "YORU-FESよるあみなりのROCK FES",
-    "created_at": "2026-06-04T04:56:29.425Z"
-  },
-  {
-    "id": "stainy-2026-06-10-premium-live-deadline",
-    "group_id": "stainy",
-    "type": "deadline",
-    "title": "プレミアムライブ参加申込み締切",
-    "date": "2026-06-10",
-    "time_start": "12:00",
-    "description": "ポイントカード250ポイント達成者向けプレミアムライブの申込み締切。",
-    "ticket_url": "https://docs.google.com/forms/d/e/1FAIpQLScIsTQT0ln1r1MBL6IpAwyqffOVmpL7cc3m0sP9Tln4MpJpAQ/viewform?usp=publish-editor",
-    "post_url": "https://nitter.net/STAiNY_official/status/2061800688213172410#m",
-    "created_at": "2026-06-02T13:22:45Z"
-  },
-  {
-    "id": "stainy-2026-06-10-live---61f9685a",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "#フライングサマー",
-    "date": "2026-06-10",
-    "description": "#フライングサマー",
-    "created_at": "2026-06-04T01:51:48.192Z"
-  },
-  {
-    "id": "stainy-2026-06-10-live---66774cf2",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "対バン",
-    "date": "2026-06-10",
-    "description": "対バン",
-    "created_at": "2026-06-04T04:49:50.665Z"
+    "created_at": "2026-06-04T05:18:56.141Z"
   },
   {
     "id": "stainy-2026-06-11-live---163d7f7b",
@@ -814,55 +285,7 @@
     "title": "リリイベ",
     "date": "2026-06-11",
     "description": "リリイベ",
-    "created_at": "2026-06-04T04:56:29.425Z"
-  },
-  {
-    "id": "stainy-2026-06-12-sawayaka-date",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "爽やかデート私服公演",
-    "date": "2026-06-12",
-    "time_open": "19:00",
-    "time_start": "19:20",
-    "venue": "新宿 WALLY",
-    "price": "優先3000円（2s写メ券+1pt）/ 通常1000円(D代事前徴収) / 当日+500円(各1D別)",
-    "ticket_url": "https://t-dv.com/STAiNY0612",
-    "description": "6/12(金) 単独公演。",
-    "post_url": "https://nitter.net/STAiNY_official/status/2061403523267575825#m",
-    "created_at": "2026-06-01T11:04:33Z"
-  },
-  {
-    "id": "stainy-2026-06-12-live-event-763017f1",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "｢爽やかデート私服公演」",
-    "date": "2026-06-12",
-    "time_open": "19:00",
-    "time_start": "19:20",
-    "venue": "新宿 WALLY",
-    "price": "優先3000円（2s写メ券+1pt）/通常1000円(D代事前徴収)/当日+500円(各1D別)",
-    "description": "【6/12(金)単独公演】 / ｢爽やかデート私服公演」 / 🏟新宿 WALLY / 🚪開場19:00/🏁開演19:20",
-    "post_url": "https://nitter.net/STAiNY_official/status/2061403523267575825#m",
-    "image_url": "https://nitter.net/pic/media%2FHJuTk6laoAA3iWk.jpg",
-    "created_at": "2026-06-01T11:04:33Z"
-  },
-  {
-    "id": "stainy-2026-06-12-live---4f0a2f30",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "対バン",
-    "date": "2026-06-12",
-    "description": "対バン",
-    "created_at": "2026-06-04T04:49:50.665Z"
-  },
-  {
-    "id": "stainy-2026-06-12-live---7ea73346",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "リリイベ",
-    "date": "2026-06-12",
-    "description": "リリイベ",
-    "created_at": "2026-06-04T04:49:50.665Z"
+    "created_at": "2026-06-04T05:18:56.141Z"
   },
   {
     "id": "stainy-2026-06-12-live---70b62df3",
@@ -871,25 +294,7 @@
     "title": "単独公演",
     "date": "2026-06-12",
     "description": "単独公演",
-    "created_at": "2026-06-04T04:56:29.425Z"
-  },
-  {
-    "id": "stainy-2026-06-13-live---6035e22a",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "リリイベ大阪",
-    "date": "2026-06-13",
-    "description": "リリイベ大阪",
-    "created_at": "2026-06-04T01:51:48.192Z"
-  },
-  {
-    "id": "stainy-2026-06-13-live---603755a2",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "リリイベ東京",
-    "date": "2026-06-13",
-    "description": "リリイベ東京",
-    "created_at": "2026-06-04T04:49:50.665Z"
+    "created_at": "2026-06-04T05:18:56.141Z"
   },
   {
     "id": "stainy-2026-06-13-live--vv--3f3dfa",
@@ -898,16 +303,7 @@
     "title": "リリイベVV札幌",
     "date": "2026-06-13",
     "description": "リリイベVV札幌",
-    "created_at": "2026-06-04T04:56:29.425Z"
-  },
-  {
-    "id": "stainy-2026-06-14-live---6dee2a8f",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "リリースツアー大阪",
-    "date": "2026-06-14",
-    "description": "リリースツアー大阪",
-    "created_at": "2026-06-04T01:51:48.192Z"
+    "created_at": "2026-06-04T05:18:56.141Z"
   },
   {
     "id": "stainy-2026-06-14-live---4ff246bb",
@@ -916,34 +312,7 @@
     "title": "リリースツアー北海道",
     "date": "2026-06-14",
     "description": "リリースツアー北海道",
-    "created_at": "2026-06-04T04:56:29.425Z"
-  },
-  {
-    "id": "stainy-2026-06-15-live---1abaaf",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "リリースツアー東京ファイナル",
-    "date": "2026-06-15",
-    "description": "リリースツアー東京ファイナル",
-    "created_at": "2026-06-04T04:49:50.665Z"
-  },
-  {
-    "id": "stainy-2026-06-16-live-yoru-fes-rock-fes-7fdd6692",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "YORU-FESよるあみなりのROCK FES",
-    "date": "2026-06-16",
-    "description": "YORU-FESよるあみなりのROCK FES",
-    "created_at": "2026-06-04T01:51:48.192Z"
-  },
-  {
-    "id": "stainy-2026-06-16-live---2dc601b6",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "リリイベ",
-    "date": "2026-06-16",
-    "description": "リリイベ",
-    "created_at": "2026-06-04T04:49:50.665Z"
+    "created_at": "2026-06-04T05:18:56.141Z"
   },
   {
     "id": "stainy-2026-06-16-live---202ff3ac",
@@ -952,25 +321,7 @@
     "title": "対バン",
     "date": "2026-06-16",
     "description": "対バン",
-    "created_at": "2026-06-04T04:56:29.425Z"
-  },
-  {
-    "id": "stainy-2026-06-17-live---671eb10b",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "リリイベ",
-    "date": "2026-06-17",
-    "description": "リリイベ",
-    "created_at": "2026-06-04T01:08:10.787Z"
-  },
-  {
-    "id": "stainy-2026-06-17-live-parad-i-se-vol-5-2-s-59a1fc6e",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "PARAD-i-SE Vol.5 -2周年ワンマン前SP！",
-    "date": "2026-06-17",
-    "description": "PARAD-i-SE Vol.5 -2周年ワンマン前SP！",
-    "created_at": "2026-06-04T04:49:50.665Z"
+    "created_at": "2026-06-04T05:18:56.141Z"
   },
   {
     "id": "stainy-2026-06-17-live---147964cb",
@@ -979,43 +330,7 @@
     "title": "対バン",
     "date": "2026-06-17",
     "description": "対バン",
-    "created_at": "2026-06-04T04:56:29.425Z"
-  },
-  {
-    "id": "stainy-2026-06-18-live-summer-beat-4c2f47d0",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "summer beat",
-    "date": "2026-06-18",
-    "description": "summer beat",
-    "created_at": "2026-06-04T01:08:10.788Z"
-  },
-  {
-    "id": "stainy-2026-06-18-live---3fc9c34",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "リリイベ",
-    "date": "2026-06-18",
-    "description": "リリイベ",
-    "created_at": "2026-06-04T01:51:48.192Z"
-  },
-  {
-    "id": "stainy-2026-06-19-live---e00650f",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "リリイベ沖縄県",
-    "date": "2026-06-19",
-    "description": "リリイベ沖縄県",
-    "created_at": "2026-06-04T01:08:10.788Z"
-  },
-  {
-    "id": "stainy-2026-06-19-live---5e754aac",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "単独公演",
-    "date": "2026-06-19",
-    "description": "単独公演",
-    "created_at": "2026-06-04T01:51:48.192Z"
+    "created_at": "2026-06-04T05:18:56.141Z"
   },
   {
     "id": "stainy-2026-06-19-live---2f3b8f7",
@@ -1024,7 +339,7 @@
     "title": "対バン",
     "date": "2026-06-19",
     "description": "対バン",
-    "created_at": "2026-06-04T04:49:50.665Z"
+    "created_at": "2026-06-04T05:18:56.141Z"
   },
   {
     "id": "stainy-2026-06-19-live---6f17e973",
@@ -1033,25 +348,7 @@
     "title": "リリイベ",
     "date": "2026-06-19",
     "description": "リリイベ",
-    "created_at": "2026-06-04T04:56:29.425Z"
-  },
-  {
-    "id": "stainy-2026-06-20-live-girls-girls-181a5020",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "GIRLS GIRLS",
-    "date": "2026-06-20",
-    "description": "GIRLS GIRLS",
-    "created_at": "2026-06-04T01:08:10.788Z"
-  },
-  {
-    "id": "stainy-2026-06-20-live--vv--2c3f9ede",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "リリイベVV札幌",
-    "date": "2026-06-20",
-    "description": "リリイベVV札幌",
-    "created_at": "2026-06-04T01:51:48.192Z"
+    "created_at": "2026-06-04T05:18:56.141Z"
   },
   {
     "id": "stainy-2026-06-20-live---768c0bbe",
@@ -1060,64 +357,7 @@
     "title": "リリイベ東京",
     "date": "2026-06-20",
     "description": "リリイベ東京",
-    "created_at": "2026-06-04T04:49:50.665Z"
-  },
-  {
-    "id": "stainy-2026-06-21-live-event-bc1c792c",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "「佐々木ひまり生誕祭」",
-    "date": "2026-06-21",
-    "time_open": "10:30",
-    "time_start": "11:00",
-    "venue": "下北沢シャングリラ",
-    "price": "優先3000円/通常2000円/当日2500円(各1D別)",
-    "description": "【6/21(日)生誕祭情報🎂🧡ྀི】 / 「佐々木ひまり生誕祭」 / 🏟下北沢シャングリラ / 🚪開場10:30🏁開演11:00",
-    "post_url": "https://nitter.net/STAiNY_official/status/2061749699728863301#m",
-    "image_url": "https://nitter.net/pic/media%2FHJzOaMIbIAEHNa6.jpg",
-    "created_at": "2026-06-02T10:00:08Z"
-  },
-  {
-    "id": "stainy-2026-06-21-live-event-cf1c0a4d",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "佐々木ひまり生誕祭",
-    "date": "2026-06-21",
-    "time_open": "10:30",
-    "time_start": "11:00",
-    "venue": "下北沢シャングリラ",
-    "price": "優先3000円/通常2000円/当日2500円(各1D別)",
-    "description": "【6/21(日)生誕祭情報🎂🧡ྀི】 / 「佐々木ひまり生誕祭」 / 🏟下北沢シャングリラ / 🚪開場10:30🏁開演11:00",
-    "post_url": "https://nitter.net/STAiNY_official/status/2061749699728863301#m",
-    "image_url": "https://nitter.net/pic/media%2FHJzOaMIbIAEHNa6.jpg",
-    "created_at": "2026-06-02T10:00:08Z"
-  },
-  {
-    "id": "stainy-2026-06-21-live-girls-girls-2353cdc1",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "GIRLS GIRLS",
-    "date": "2026-06-21",
-    "description": "GIRLS GIRLS",
-    "created_at": "2026-06-04T01:08:10.788Z"
-  },
-  {
-    "id": "stainy-2026-06-21-live---7d5dfe9f",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "リリースツアー北海道",
-    "date": "2026-06-21",
-    "description": "リリースツアー北海道",
-    "created_at": "2026-06-04T01:51:48.192Z"
-  },
-  {
-    "id": "stainy-2026-06-21-live---1073f41b",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "名古屋",
-    "date": "2026-06-21",
-    "description": "名古屋",
-    "created_at": "2026-06-04T04:49:50.665Z"
+    "created_at": "2026-06-04T05:18:56.141Z"
   },
   {
     "id": "stainy-2026-06-22-live---60a01f6d",
@@ -1126,65 +366,7 @@
     "title": "リリースツアー東京ファイナル",
     "date": "2026-06-22",
     "description": "リリースツアー東京ファイナル",
-    "created_at": "2026-06-04T04:56:29.425Z"
-  },
-  {
-    "id": "stainy-2026-06-23-dont-you-liar-release",
-    "group_id": "stainy",
-    "type": "release",
-    "title": "1stアルバム「ドンチューライアー」発売・配信開始",
-    "date": "2026-06-23",
-    "description": "STAiNY 1stアルバム「ドンチューライアー」発売＆配信開始。",
-    "ticket_url": "https://entabaonline.stores.jp/?category_id=69cf44b98474878675f5b41c",
-    "post_url": "https://nitter.net/STAiNY_official/status/2061791566658957332#m",
-    "created_at": "2026-06-02T12:46:30Z"
-  },
-  {
-    "id": "stainy-2026-06-23-release-stainy-f3f5a752",
-    "group_id": "stainy",
-    "type": "release",
-    "title": "👾明日のSTAiNY✨",
-    "date": "2026-06-23",
-    "description": "／ / 👾明日のSTAiNY✨ / 💽1stアルバム「ドンチューライアー」 / 🚀リリースイベント東京編🤖",
-    "ticket_url": "https://entabaonline.stores.jp/?category_id=69cf44b98474878675f5b41c",
-    "post_url": "https://nitter.net/STAiNY_official/status/2061791566658957332#m",
-    "image_url": "https://nitter.net/pic/media%2FHJz0fNFbAAAq4QO.jpg",
-    "created_at": "2026-06-02T12:46:30Z"
-  },
-  {
-    "id": "stainy-2026-06-23-release-stainy-c801fea4",
-    "group_id": "stainy",
-    "type": "release",
-    "title": "👾STAiNY「ドンチューライアー」",
-    "date": "2026-06-23",
-    "description": "／ / 👾STAiNY「ドンチューライアー」 / 📺tvk「音楽缶」 / 🗓6月度オープニングテーマに決定‼️",
-    "ticket_url": "https://www.tvk-yokohama.com/ongakukan/index2.php",
-    "post_url": "https://nitter.net/STAiNY_official/status/2061440243929403733#m",
-    "image_url": "https://nitter.net/pic/media%2FHJu0-cbbwAEv1vv.jpg",
-    "created_at": "2026-06-01T13:30:28Z"
-  },
-  {
-    "id": "stainy-2026-06-23-release-stainy-1st-801352f7",
-    "group_id": "stainy",
-    "type": "release",
-    "title": "💽STAiNY 1stアルバム",
-    "date": "2026-06-23",
-    "description": "／ / 💽STAiNY 1stアルバム / 「ドンチューライアー」 / リリースイベント追加日程&TT解禁✨",
-    "post_url": "https://nitter.net/STAiNY_official/status/2061428750626283537#m",
-    "image_url": "https://nitter.net/pic/media%2FHJuqg3saAAApWQj.jpg",
-    "created_at": "2026-06-01T12:44:48Z"
-  },
-  {
-    "id": "stainy-2026-06-23-release-event-726b4cf6",
-    "group_id": "stainy",
-    "type": "release",
-    "title": "ドンチューライアー",
-    "date": "2026-06-23",
-    "description": "／ / 👾STAiNY「ドンチューライアー」 / 📺tvk「音楽缶」 / 🗓6月度オープニングテーマに決定‼️",
-    "ticket_url": "https://www.tvk-yokohama.com/ongakukan/index2.php",
-    "post_url": "https://nitter.net/STAiNY_official/status/2061440243929403733#m",
-    "image_url": "https://nitter.net/pic/media%2FHJu0-cbbwAEv1vv.jpg",
-    "created_at": "2026-06-01T13:30:28Z"
+    "created_at": "2026-06-04T05:18:56.141Z"
   },
   {
     "id": "stainy-2026-06-23-live---1b3d8b66",
@@ -1193,41 +375,7 @@
     "title": "リリイベ",
     "date": "2026-06-23",
     "description": "リリイベ",
-    "created_at": "2026-06-04T04:56:29.425Z"
-  },
-  {
-    "id": "stainy-2026-06-23-release-event-952a3fdb",
-    "group_id": "stainy",
-    "type": "release",
-    "title": "ドンチューライアー",
-    "date": "2026-06-23",
-    "description": "／ / 👾明日のSTAiNY✨ / 💽1stアルバム「ドンチューライアー」 / 🚀リリースイベント東京編🤖",
-    "ticket_url": "https://entabaonline.stores.jp/?category_id=69cf44b98474878675f5b41c",
-    "post_url": "https://nitter.net/STAiNY_official/status/2061791566658957332#m",
-    "image_url": "https://nitter.net/pic/media%2FHJz0fNFbAAAq4QO.jpg",
-    "created_at": "2026-06-02T12:46:30Z"
-  },
-  {
-    "id": "stainy-2026-06-23-release-event-00dd7220",
-    "group_id": "stainy",
-    "type": "release",
-    "title": "ドンチューライアー",
-    "date": "2026-06-23",
-    "description": "／ / 💽STAiNY 1stアルバム / 「ドンチューライアー」 / リリースイベント追加日程&TT解禁✨",
-    "post_url": "https://nitter.net/STAiNY_official/status/2061428750626283537#m",
-    "image_url": "https://nitter.net/pic/media%2FHJuqg3saAAApWQj.jpg",
-    "created_at": "2026-06-01T12:44:48Z"
-  },
-  {
-    "id": "stainy-2026-06-23-release-event-3877e8a3",
-    "group_id": "stainy",
-    "type": "release",
-    "title": "ドンチューライアー",
-    "date": "2026-06-23",
-    "description": "／ / 👾STAiNY「ドンチューライアー」 / 📺MBS「かまいたちの知らんけど」 / 🗓6月度エンディングテーマに決定‼️",
-    "post_url": "https://nitter.net/STAiNY_official/status/2060760752068481048#m",
-    "image_url": "https://nitter.net/pic/media%2FHJlK-7MaEAA2HjW.jpg",
-    "created_at": "2026-05-30T16:30:25Z"
+    "created_at": "2026-06-04T05:18:56.141Z"
   },
   {
     "id": "stainy-2026-06-24-live-parad-i-se-vol-5-2-s-5d482df6",
@@ -1236,62 +384,7 @@
     "title": "PARAD-i-SE Vol.5 -2周年ワンマン前SP！",
     "date": "2026-06-24",
     "description": "PARAD-i-SE Vol.5 -2周年ワンマン前SP！",
-    "created_at": "2026-06-04T04:56:29.425Z"
-  },
-  {
-    "id": "stainy-2026-06-25-live---546a6fa0",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "でびぱっぱ",
-    "date": "2026-06-25",
-    "description": "でびぱっぱ",
-    "created_at": "2026-06-04T01:51:48.192Z"
-  },
-  {
-    "id": "stainy-2026-06-26-live-sweet-partt-93f6fefa",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "「SWEET PARTT」",
-    "date": "2026-06-26",
-    "time_open": "16:45",
-    "time_start": "17:15",
-    "venue": "白金高輪SELENE b2",
-    "description": "【6/26(金)対バン情報✨】 / 「SWEET PARTT」 / 🏟白金高輪SELENE b2 / 🚪開場16:45/🏁開演17:15",
-    "post_url": "https://nitter.net/STAiNY_official/status/2060323359335063633#m",
-    "image_url": "https://nitter.net/pic/media%2FHJe9K9kbMAA3TAn.jpg",
-    "created_at": "2026-05-29T11:32:22Z"
-  },
-  {
-    "id": "stainy-2026-06-26-live-sweet-partt-4972b688",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "SWEET PARTT",
-    "date": "2026-06-26",
-    "time_open": "16:45",
-    "time_start": "17:15",
-    "venue": "白金高輪SELENE b2",
-    "description": "【6/26(金)対バン情報✨】 / 「SWEET PARTT」 / 🏟白金高輪SELENE b2 / 🚪開場16:45/🏁開演17:15",
-    "post_url": "https://nitter.net/STAiNY_official/status/2060323359335063633#m",
-    "image_url": "https://nitter.net/pic/media%2FHJe9K9kbMAA3TAn.jpg",
-    "created_at": "2026-05-29T11:32:22Z"
-  },
-  {
-    "id": "stainy-2026-06-26-live-stargazer-sg--79d4476d",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "StarGazer-SG-",
-    "date": "2026-06-26",
-    "description": "StarGazer-SG-",
-    "created_at": "2026-06-04T01:08:10.788Z"
-  },
-  {
-    "id": "stainy-2026-06-26-live--vv--16c1979d",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "リリイベ VV渋谷",
-    "date": "2026-06-26",
-    "description": "リリイベ VV渋谷",
-    "created_at": "2026-06-04T01:51:48.192Z"
+    "created_at": "2026-06-04T05:18:56.141Z"
   },
   {
     "id": "stainy-2026-06-26-live---4aeb5993",
@@ -1300,34 +393,7 @@
     "title": "対バン",
     "date": "2026-06-26",
     "description": "対バン",
-    "created_at": "2026-06-04T04:56:29.425Z"
-  },
-  {
-    "id": "stainy-2026-06-27-live---476d5da5",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "リリイベ 埼玉コクーシンシティ",
-    "date": "2026-06-27",
-    "description": "リリイベ 埼玉コクーシンシティ",
-    "created_at": "2026-06-04T01:51:48.192Z"
-  },
-  {
-    "id": "stainy-2026-06-27-live---25428658",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "フライングサマー 後夜祭",
-    "date": "2026-06-27",
-    "description": "フライングサマー 後夜祭",
-    "created_at": "2026-06-04T01:51:48.192Z"
-  },
-  {
-    "id": "stainy-2026-06-27-live---56a1e874",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "対バン",
-    "date": "2026-06-27",
-    "description": "対バン",
-    "created_at": "2026-06-04T04:49:50.665Z"
+    "created_at": "2026-06-04T05:18:56.141Z"
   },
   {
     "id": "stainy-2026-06-27-live---3dec6bb",
@@ -1336,25 +402,7 @@
     "title": "リリイベ東京",
     "date": "2026-06-27",
     "description": "リリイベ東京",
-    "created_at": "2026-06-04T04:56:29.425Z"
-  },
-  {
-    "id": "stainy-2026-06-28-live---47f4ec3b",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "リリイベ タワレコ新宿",
-    "date": "2026-06-28",
-    "description": "リリイベ タワレコ新宿",
-    "created_at": "2026-06-04T01:51:48.192Z"
-  },
-  {
-    "id": "stainy-2026-06-28-live---62587755",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "対バン",
-    "date": "2026-06-28",
-    "description": "対バン",
-    "created_at": "2026-06-04T04:49:50.665Z"
+    "created_at": "2026-06-04T05:18:56.141Z"
   },
   {
     "id": "stainy-2026-06-28-live---6271dc42",
@@ -1363,52 +411,7 @@
     "title": "名古屋",
     "date": "2026-06-28",
     "description": "名古屋",
-    "created_at": "2026-06-04T04:56:29.425Z"
-  },
-  {
-    "id": "stainy-2026-06-30-live---6fbf4d8c",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "対バン",
-    "date": "2026-06-30",
-    "description": "対バン",
-    "created_at": "2026-06-04T01:51:48.192Z"
-  },
-  {
-    "id": "stainy-2026-07-01-live---4ba0ee2f",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "対バン",
-    "date": "2026-07-01",
-    "description": "対バン",
-    "created_at": "2026-06-04T01:51:48.192Z"
-  },
-  {
-    "id": "stainy-2026-07-03-live---630e0bf1",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "対バン",
-    "date": "2026-07-03",
-    "description": "対バン",
-    "created_at": "2026-06-04T01:51:48.192Z"
-  },
-  {
-    "id": "stainy-2026-07-03-live---1247f5b9",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "リリイベ",
-    "date": "2026-07-03",
-    "description": "リリイベ",
-    "created_at": "2026-06-04T01:51:48.192Z"
-  },
-  {
-    "id": "stainy-2026-07-04-live---4e6e7063",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "リリイベ東京",
-    "date": "2026-07-04",
-    "description": "リリイベ東京",
-    "created_at": "2026-06-04T01:51:48.192Z"
+    "created_at": "2026-06-04T05:18:56.141Z"
   },
   {
     "id": "stainy-2026-07-04-live---6ec49ad2",
@@ -1417,7 +420,7 @@
     "title": "対バン",
     "date": "2026-07-04",
     "description": "対バン",
-    "created_at": "2026-06-04T01:51:48.192Z"
+    "created_at": "2026-06-04T05:18:56.141Z"
   },
   {
     "id": "stainy-2026-07-05-live---7a7b29b3",
@@ -1426,7 +429,7 @@
     "title": "対バン",
     "date": "2026-07-05",
     "description": "対バン",
-    "created_at": "2026-06-04T01:51:48.192Z"
+    "created_at": "2026-06-04T05:18:56.141Z"
   },
   {
     "id": "stainy-2026-07-06-live---52d08538",

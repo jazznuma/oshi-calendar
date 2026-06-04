@@ -154,20 +154,27 @@ const path = require('path');
         };
       });
       
-      // マージ（既存データを優先的に保護しつつ、TimeTreeからの新規分を補正・追加）
-      const mergedMap = new Map();
-      existingEvents.forEach(ev => mergedMap.set(ev.id, ev));
-      newEvents.forEach(ev => {
-        if (mergedMap.has(ev.id)) {
-          // 既存のRSS経由データ等の方が詳細（チケットURLなど）を持っていることが多いため、
-          // マージ時は既存の値を壊さないようにする。ただし日時やタイトルなどの基本は更新
-          mergedMap.set(ev.id, { ...ev, ...mergedMap.get(ev.id) });
-        } else {
-          mergedMap.set(ev.id, ev);
-        }
-      });
+      // 今回スクレイピングして取得された全イベントから日付の最小値・最大値を求め、
+      // 既存データからその範囲内のイベントを削除してマージする（過去のバグデータや削除された予定のクリーンアップ）
+      let startStr = null;
+      let endStr = null;
+      if (newEvents.length > 0) {
+        const dates = newEvents.map(ev => ev.date).sort();
+        startStr = dates[0];
+        endStr = dates[dates.length - 1];
+      }
+
+      let finalEvents = [];
+      if (startStr && endStr) {
+        console.log(`Cleaning up existing events in scraped range [${startStr} to ${endStr}] to avoid duplicate/stale TimeTree events...`);
+        const preservedEvents = existingEvents.filter(ev => {
+          return ev.date < startStr || ev.date > endStr;
+        });
+        finalEvents = [...preservedEvents, ...newEvents];
+      } else {
+        finalEvents = existingEvents;
+      }
       
-      const finalEvents = Array.from(mergedMap.values());
       finalEvents.sort((a, b) => `${a.date} ${a.time_start || '99:99'}`.localeCompare(`${b.date} ${b.time_start || '99:99'}`));
       
       // 書き出し
