@@ -51,10 +51,13 @@ const path = require('path');
       const slug = summary.toLowerCase().replace(/[^a-z0-9]+/g, '-').slice(0, 20) || 'event';
       const id = `tohkei-${dateStr}-${type}-${slug}-${digest}`;
       
+      // HTMLタグとエンティティの除去
+      const cleanDesc = stripHtml(ev.description);
+      
       // 説明文からチケットURLなどを簡易抽出
       let ticket_url = undefined;
-      if (ev.description) {
-        const urlMatch = ev.description.match(/https?:\/\/[^\s]+/);
+      if (cleanDesc) {
+        const urlMatch = cleanDesc.match(/https?:\/\/[^\s]+/);
         if (urlMatch) {
           ticket_url = urlMatch[0].replace(/[。、)]$/, '');
         }
@@ -69,7 +72,7 @@ const path = require('path');
         time_start: parsedTime.time_start || undefined,
         venue: ev.location || undefined,
         ticket_url: ticket_url,
-        description: ev.description || summary,
+        description: cleanDesc || summary,
         created_at: new Date().toISOString()
       };
     });
@@ -79,7 +82,13 @@ const path = require('path');
     existingEvents.forEach(ev => mergedMap.set(ev.id, ev));
     newEvents.forEach(ev => {
       if (mergedMap.has(ev.id)) {
-        mergedMap.set(ev.id, { ...ev, ...mergedMap.get(ev.id) }); // 既存のものを優先（手動追加などのメタデータを維持）
+        const existing = mergedMap.get(ev.id);
+        mergedMap.set(ev.id, {
+          ...existing,
+          ...ev,
+          image_url: existing.image_url || ev.image_url,
+          post_url: existing.post_url || ev.post_url
+        });
       } else {
         mergedMap.set(ev.id, ev);
       }
@@ -229,4 +238,21 @@ function crypto_digest(string) {
     hash |= 0;
   }
   return Math.abs(hash).toString(16).slice(0, 8);
+}
+
+function stripHtml(html) {
+  if (!html) return '';
+  // <br> タグを改行に置換
+  let text = html.replace(/<br\s*\/?>/gi, '\n');
+  // その他の HTML タグを除去
+  text = text.replace(/<[^>]+>/g, ' ');
+  // HTML エンティティのアンエスケープ
+  text = text
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'")
+    .replace(/&nbsp;/g, ' ');
+  return text.trim();
 }
