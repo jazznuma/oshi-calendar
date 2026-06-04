@@ -4,10 +4,11 @@ on:
   workflow_dispatch:
     inputs:
       group:
-        description: Group id in config/groups.json
+        description: Group id in config/groups.json (or 'all')
         required: false
-        default: stainy
+        default: all
   schedule:
+    # 毎日日本時間 午前3:00 (UTC 18:00) に自動更新
     - cron: "0 18 * * *"
 
 permissions:
@@ -26,8 +27,20 @@ jobs:
       - name: Fetch and extract events
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          GROUP_ID: ${{ github.event.inputs.group || 'stainy' }}
-        run: python scripts/fetch_events.py --group "$GROUP_ID"
+        run: |
+          TARGET_GROUP="${{ github.event.inputs.group }}"
+          if [ -n "$TARGET_GROUP" ] && [ "$TARGET_GROUP" != "all" ]; then
+            echo "Fetching single group: $TARGET_GROUP"
+            python scripts/fetch_events.py --group "$TARGET_GROUP"
+          else
+            echo "Fetching all groups..."
+            python scripts/fetch_events.py --group stainy
+            python scripts/fetch_events.py --group anthurium
+            python scripts/fetch_events.py --group tohkei
+            python scripts/fetch_events.py --group hbn
+            python scripts/fetch_events.py --group miao
+            python scripts/fetch_events.py --group jumpingkiss
+          fi
 
       - name: Commit updated events
         run: |
