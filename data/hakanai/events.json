@@ -18,6 +18,15 @@
     "created_at": "2026-06-04T05:38:09.847Z"
   },
   {
+    "id": "hakanai-2026-04-29-live-leading-umikaze-32b59861",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "LEADING UMIKAZE",
+    "date": "2026-04-29",
+    "description": "LEADING UMIKAZE",
+    "created_at": "2026-06-04T05:46:06.808Z"
+  },
+  {
     "id": "hakanai-2026-04-30-live-oishii-inc-presents--4c36cf8f",
     "group_id": "hakanai",
     "type": "live",
@@ -36,13 +45,22 @@
     "created_at": "2026-06-04T05:38:09.847Z"
   },
   {
+    "id": "hakanai-2026-04-30-live-oishii-inc-presents--4c36cf8f",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "OISHII.inc Presents 「美味しいイベント」 -裏ハロウィン",
+    "date": "2026-04-30",
+    "description": "OISHII.inc Presents 「美味しいイベント」 -裏ハロウィン",
+    "created_at": "2026-06-04T05:46:06.808Z"
+  },
+  {
     "id": "hakanai-2026-05-02-live-idol-summer-jungle-g-6f1bf190",
     "group_id": "hakanai",
     "type": "live",
     "title": "IDOL SUMMER JUNGLE GOLDEN",
     "date": "2026-05-02",
     "description": "IDOL SUMMER JUNGLE GOLDEN",
-    "created_at": "2026-06-04T05:38:09.847Z"
+    "created_at": "2026-06-04T05:46:06.808Z"
   },
   {
     "id": "hakanai-2026-05-05-live---6e7228ca",
@@ -51,7 +69,7 @@
     "title": "ひっそりプロデュースライブ",
     "date": "2026-05-05",
     "description": "ひっそりプロデュースライブ",
-    "created_at": "2026-06-04T05:38:09.847Z"
+    "created_at": "2026-06-04T05:46:06.808Z"
   },
   {
     "id": "hakanai-2026-05-05-live--2026--33f3cdd",
@@ -60,7 +78,7 @@
     "title": "ひっそりゆうみ生誕祭2026 『#ひっそりとは』",
     "date": "2026-05-05",
     "description": "ひっそりゆうみ生誕祭2026 『#ひっそりとは』",
-    "created_at": "2026-06-04T05:38:09.847Z"
+    "created_at": "2026-06-04T05:46:06.808Z"
   },
   {
     "id": "hakanai-2026-05-06-live-sova-10th-anniversar-48d19660",
@@ -69,7 +87,7 @@
     "title": "SOVA 10th Anniversary 「Owl Decade」",
     "date": "2026-05-06",
     "description": "SOVA 10th Anniversary 「Owl Decade」",
-    "created_at": "2026-06-04T05:38:09.847Z"
+    "created_at": "2026-06-04T05:46:06.808Z"
   },
   {
     "id": "hakanai-2026-05-07-live-otona-child-presents-575fa84a",
@@ -78,7 +96,7 @@
     "title": "OTONA CHILD.presents 『HAKONIWA vol.10』",
     "date": "2026-05-07",
     "description": "OTONA CHILD.presents 『HAKONIWA vol.10』",
-    "created_at": "2026-06-04T05:38:09.847Z"
+    "created_at": "2026-06-04T05:46:06.808Z"
   },
   {
     "id": "hakanai-2026-05-12-live--afterimage-vol-2--5553353d",
@@ -87,7 +105,7 @@
     "title": "『Afterimage Vol.2』",
     "date": "2026-05-12",
     "description": "『Afterimage Vol.2』",
-    "created_at": "2026-06-04T05:38:09.847Z"
+    "created_at": "2026-06-04T05:46:06.808Z"
   },
   {
     "id": "hakanai-2026-05-13-live--creora-supported-by-4f2d4df0",
@@ -96,7 +114,7 @@
     "title": "「Creora supported by My-th」",
     "date": "2026-05-13",
     "description": "「Creora supported by My-th」",
-    "created_at": "2026-06-04T05:38:09.847Z"
+    "created_at": "2026-06-04T05:46:06.808Z"
   },
   {
     "id": "hakanai-2026-05-14-live--zuttomotto-presents-7081b60f",
@@ -105,7 +123,7 @@
     "title": "『ZUTTOMOTTO presents アオハル vol.13』",
     "date": "2026-05-14",
     "description": "『ZUTTOMOTTO presents アオハル vol.13』",
-    "created_at": "2026-06-04T05:38:09.847Z"
+    "created_at": "2026-06-04T05:46:06.808Z"
   },
   {
     "id": "hakanai-2026-05-16-live-fes-tive-presents--16b4a8bd",
@@ -114,7 +132,7 @@
     "title": "FES☆TIVE Presents「波響祭」",
     "date": "2026-05-16",
     "description": "FES☆TIVE Presents「波響祭」",
-    "created_at": "2026-06-04T05:38:09.847Z"
+    "created_at": "2026-06-04T05:46:06.808Z"
   },
   {
     "id": "hakanai-2026-05-17-live-rise-idol-zone-2026--515a801e",
@@ -123,7 +141,7 @@
     "title": "RISE IDOL ZONE 2026 -TOKYO-",
     "date": "2026-05-17",
     "description": "RISE IDOL ZONE 2026 -TOKYO-",
-    "created_at": "2026-06-04T05:38:09.847Z"
+    "created_at": "2026-06-04T05:46:06.808Z"
   },
   {
     "id": "hakanai-2026-05-23-live-girls-girls-festival-b364d7a",
@@ -132,7 +150,7 @@
     "title": "GIRLS GIRLS FESTIVAL 2026",
     "date": "2026-05-23",
     "description": "GIRLS GIRLS FESTIVAL 2026",
-    "created_at": "2026-06-04T05:38:09.847Z"
+    "created_at": "2026-06-04T05:46:06.808Z"
   },
   {
     "id": "hakanai-2026-05-24-live---7e131e74",
@@ -141,7 +159,7 @@
     "title": "さとりモンスター 春のわくわく大サーキット",
     "date": "2026-05-24",
     "description": "さとりモンスター 春のわくわく大サーキット",
-    "created_at": "2026-06-04T05:38:09.847Z"
+    "created_at": "2026-06-04T05:46:06.808Z"
   },
   {
     "id": "hakanai-2026-05-25-live-hakanai--5bbaec11",
@@ -150,7 +168,7 @@
     "title": "hakanai × 美味しい曖昧『曖昧ごっこ』",
     "date": "2026-05-25",
     "description": "hakanai × 美味しい曖昧『曖昧ごっこ』",
-    "created_at": "2026-06-04T05:38:09.847Z"
+    "created_at": "2026-06-04T05:46:06.808Z"
   },
   {
     "id": "hakanai-2026-05-28-live---25cf26a",
@@ -159,7 +177,7 @@
     "title": "#ﾆｷﾌﾟﾚ『シキサイ。』",
     "date": "2026-05-28",
     "description": "#ﾆｷﾌﾟﾚ『シキサイ。』",
-    "created_at": "2026-06-04T05:38:09.847Z"
+    "created_at": "2026-06-04T05:46:06.808Z"
   },
   {
     "id": "hakanai-2026-05-31-live--tif-oneman-live--339c89ff",
@@ -168,7 +186,7 @@
     "title": "『TIF初出演記念 無銭ONEMAN LIVE』",
     "date": "2026-05-31",
     "description": "『TIF初出演記念 無銭ONEMAN LIVE』",
-    "created_at": "2026-06-04T05:38:09.847Z"
+    "created_at": "2026-06-04T05:46:06.808Z"
   },
   {
     "id": "hakanai-2026-06-03-live-fulit-box-presents-m-64b71f0a",
@@ -177,7 +195,7 @@
     "title": "FULIT BOX presents 『MIX BOX vol.10』",
     "date": "2026-06-03",
     "description": "FULIT BOX presents 『MIX BOX vol.10』",
-    "created_at": "2026-06-04T05:38:09.847Z"
+    "created_at": "2026-06-04T05:46:06.808Z"
   },
   {
     "id": "hakanai-2026-06-07-live-tif2026-live--4d4537eb",
@@ -186,7 +204,7 @@
     "title": "TIF2026メインステージ争奪LIVE 前哨戦",
     "date": "2026-06-07",
     "description": "TIF2026メインステージ争奪LIVE 前哨戦",
-    "created_at": "2026-06-04T05:38:09.847Z"
+    "created_at": "2026-06-04T05:46:06.808Z"
   },
   {
     "id": "hakanai-2026-06-09-live-infinity-live-presen-2321fa34",
@@ -195,7 +213,7 @@
     "title": "INFINITY LIVE presents 『ASTROTRONIC』",
     "date": "2026-06-09",
     "description": "INFINITY LIVE presents 『ASTROTRONIC』",
-    "created_at": "2026-06-04T05:38:09.847Z"
+    "created_at": "2026-06-04T05:46:06.808Z"
   },
   {
     "id": "hakanai-2026-06-10-live---16209d2d",
@@ -204,7 +222,7 @@
     "title": "#ﾆｷﾌﾟﾚ 『カンシャサイ。-夏-』",
     "date": "2026-06-10",
     "description": "#ﾆｷﾌﾟﾚ 『カンシャサイ。-夏-』",
-    "created_at": "2026-06-04T05:38:09.847Z"
+    "created_at": "2026-06-04T05:46:06.808Z"
   },
   {
     "id": "hakanai-2026-06-12-live---1365524",
@@ -213,7 +231,7 @@
     "title": "𝗡𝗔𝗡𝗜𝗠𝗢𝗡𝗢 𝗧𝗢𝗨𝗥 𝟮𝟬𝟮𝟲 ｢コンティニューしますか？｣",
     "date": "2026-06-12",
     "description": "𝗡𝗔𝗡𝗜𝗠𝗢𝗡𝗢 𝗧𝗢𝗨𝗥 𝟮𝟬𝟮𝟲 ｢コンティニューしますか？｣",
-    "created_at": "2026-06-04T05:38:09.847Z"
+    "created_at": "2026-06-04T05:46:06.808Z"
   },
   {
     "id": "hakanai-2026-06-14-live-mistfes2026-10th-ann-24ff161",
@@ -222,7 +240,7 @@
     "title": "mistFES2026 10th anniversary Supported by My-th",
     "date": "2026-06-14",
     "description": "mistFES2026 10th anniversary Supported by My-th",
-    "created_at": "2026-06-04T05:38:09.847Z"
+    "created_at": "2026-06-04T05:46:06.808Z"
   },
   {
     "id": "hakanai-2026-06-15-live--2026-ultimate-talen-792af790",
@@ -231,7 +249,7 @@
     "title": "椎名うた生誕祭2026 Ultimate Talent's Anniversary あるてぃめっつ たれんつ あにば~さり~",
     "date": "2026-06-15",
     "description": "椎名うた生誕祭2026 Ultimate Talent's Anniversary あるてぃめっつ たれんつ あにば~さり~",
-    "created_at": "2026-06-04T05:38:09.847Z"
+    "created_at": "2026-06-04T05:46:06.808Z"
   },
   {
     "id": "hakanai-2026-06-16-live-otona-child-presents-4ffeea9a",
@@ -240,7 +258,7 @@
     "title": "OTONA CHILD.presents 『HAKONIWA vol.11』",
     "date": "2026-06-16",
     "description": "OTONA CHILD.presents 『HAKONIWA vol.11』",
-    "created_at": "2026-06-04T05:38:09.847Z"
+    "created_at": "2026-06-04T05:46:06.808Z"
   },
   {
     "id": "hakanai-2026-06-21-live-otona-child-presents-614fb02b",
@@ -249,7 +267,7 @@
     "title": "OTONA CHILD.presents 『NO FUTURE GIRL』",
     "date": "2026-06-21",
     "description": "OTONA CHILD.presents 『NO FUTURE GIRL』",
-    "created_at": "2026-06-04T05:38:09.847Z"
+    "created_at": "2026-06-04T05:46:06.808Z"
   },
   {
     "id": "hakanai-2026-06-21-live-otona-child-presents-6d69ee1d",
@@ -258,7 +276,7 @@
     "title": "OTONA CHILD.presents 『ひなたとまゆた』",
     "date": "2026-06-21",
     "description": "OTONA CHILD.presents 『ひなたとまゆた』",
-    "created_at": "2026-06-04T05:38:09.847Z"
+    "created_at": "2026-06-04T05:46:06.808Z"
   },
   {
     "id": "hakanai-2026-06-23-live---142d4d9d",
@@ -267,7 +285,7 @@
     "title": "『ぜんぶ夏のせいだ。』",
     "date": "2026-06-23",
     "description": "『ぜんぶ夏のせいだ。』",
-    "created_at": "2026-06-04T05:38:09.847Z"
+    "created_at": "2026-06-04T05:46:06.808Z"
   },
   {
     "id": "hakanai-2026-06-27-live---7c20df8f",
@@ -276,7 +294,7 @@
     "title": "イベント予定",
     "date": "2026-06-27",
     "description": "イベント予定",
-    "created_at": "2026-06-04T05:38:09.847Z"
+    "created_at": "2026-06-04T05:46:06.808Z"
   },
   {
     "id": "hakanai-2026-06-27-live---56f8f33c",
@@ -285,7 +303,7 @@
     "title": "ツアー直前無銭ワンマン 『ガールフレンド』",
     "date": "2026-06-27",
     "description": "ツアー直前無銭ワンマン 『ガールフレンド』",
-    "created_at": "2026-06-04T05:38:09.847Z"
+    "created_at": "2026-06-04T05:46:06.808Z"
   },
   {
     "id": "hakanai-2026-06-28-live--festival-2026-suppo-5e3a3555",
@@ -294,7 +312,7 @@
     "title": "「アイドル甲子園 FESTIVAL 2026」 supported by My-th -DAY2-",
     "date": "2026-06-28",
     "description": "「アイドル甲子園 FESTIVAL 2026」 supported by My-th -DAY2-",
-    "created_at": "2026-06-04T05:38:09.847Z"
+    "created_at": "2026-06-04T05:46:06.808Z"
   },
   {
     "id": "hakanai-2026-07-04-live-hakanai-release-tour-20cf2e08",
@@ -303,7 +321,7 @@
     "title": "hakanai Release tour 『 無彩色の青 』",
     "date": "2026-07-04",
     "description": "hakanai Release tour 『 無彩色の青 』",
-    "created_at": "2026-06-04T05:38:09.847Z"
+    "created_at": "2026-06-04T05:46:06.808Z"
   },
   {
     "id": "hakanai-2026-07-05-live--natsuzome-2026-3221639d",
@@ -312,7 +330,7 @@
     "title": "超NATSUZOME 2026",
     "date": "2026-07-05",
     "description": "超NATSUZOME 2026",
-    "created_at": "2026-06-04T05:38:09.847Z"
+    "created_at": "2026-06-04T05:46:06.808Z"
   },
   {
     "id": "hakanai-2026-07-07-live--yoru-fes-sp--1814a83",
@@ -321,7 +339,7 @@
     "title": "夜光性アミューズ主催ライブ 『YORU-FES ~夜を駆けるサーキットSP~』",
     "date": "2026-07-07",
     "description": "夜光性アミューズ主催ライブ 『YORU-FES ~夜を駆けるサーキットSP~』",
-    "created_at": "2026-06-04T05:38:09.847Z"
+    "created_at": "2026-06-04T05:46:06.808Z"
   },
   {
     "id": "hakanai-2026-07-11-live--spark-2026--144c8ff9",
@@ -330,7 +348,7 @@
     "title": "『SPARK 2026 渋谷納涼祭』",
     "date": "2026-07-11",
     "description": "『SPARK 2026 渋谷納涼祭』",
-    "created_at": "2026-06-04T05:38:09.847Z"
+    "created_at": "2026-06-04T05:46:06.808Z"
   },
   {
     "id": "hakanai-2026-07-11-live---57c03fa2",
@@ -339,7 +357,7 @@
     "title": "ライブ予定",
     "date": "2026-07-11",
     "description": "ライブ予定",
-    "created_at": "2026-06-04T05:38:09.847Z"
+    "created_at": "2026-06-04T05:46:06.808Z"
   },
   {
     "id": "hakanai-2026-07-13-live--2th-anniversary--34d3aa36",
@@ -348,7 +366,7 @@
     "title": "#ﾆｷﾌﾟﾚ『ミツドモエ。』 -#ﾆｷﾌﾟﾚ 2th Anniversary!!-",
     "date": "2026-07-13",
     "description": "#ﾆｷﾌﾟﾚ『ミツドモエ。』 -#ﾆｷﾌﾟﾚ 2th Anniversary!!-",
-    "created_at": "2026-06-04T05:38:09.847Z"
+    "created_at": "2026-06-04T05:46:06.808Z"
   },
   {
     "id": "hakanai-2026-07-14-live---47f5ded2",
@@ -357,7 +375,7 @@
     "title": "イベント予定",
     "date": "2026-07-14",
     "description": "イベント予定",
-    "created_at": "2026-06-04T05:38:09.847Z"
+    "created_at": "2026-06-04T05:46:06.808Z"
   },
   {
     "id": "hakanai-2026-07-15-live---38f9aa26",
@@ -366,7 +384,7 @@
     "title": "ライブ予定",
     "date": "2026-07-15",
     "description": "ライブ予定",
-    "created_at": "2026-06-04T05:38:09.848Z"
+    "created_at": "2026-06-04T05:46:06.808Z"
   },
   {
     "id": "hakanai-2026-07-18-live-hakanai-release-tour-2f3ee755",
@@ -375,7 +393,7 @@
     "title": "hakanai Release tour 『 無彩色の青 』",
     "date": "2026-07-18",
     "description": "hakanai Release tour 『 無彩色の青 』",
-    "created_at": "2026-06-04T05:38:09.848Z"
+    "created_at": "2026-06-04T05:46:06.808Z"
   },
   {
     "id": "hakanai-2026-07-19-live-hakanai-release-tour-1b9713d4",
@@ -384,7 +402,7 @@
     "title": "hakanai Release tour 『 無彩色の青 』",
     "date": "2026-07-19",
     "description": "hakanai Release tour 『 無彩色の青 』",
-    "created_at": "2026-06-04T05:38:09.848Z"
+    "created_at": "2026-06-04T05:46:06.808Z"
   },
   {
     "id": "hakanai-2026-07-20-live---20242f37",
@@ -393,7 +411,7 @@
     "title": "イベント予定",
     "date": "2026-07-20",
     "description": "イベント予定",
-    "created_at": "2026-06-04T05:38:09.848Z"
+    "created_at": "2026-06-04T05:46:06.808Z"
   },
   {
     "id": "hakanai-2026-07-22-live--utage-fes-vol-5--14c1fe20",
@@ -402,7 +420,7 @@
     "title": "『UTAGE FES Vol.5』",
     "date": "2026-07-22",
     "description": "『UTAGE FES Vol.5』",
-    "created_at": "2026-06-04T05:38:09.848Z"
+    "created_at": "2026-06-04T05:46:06.808Z"
   },
   {
     "id": "hakanai-2026-07-24-live---66181533",
@@ -411,7 +429,7 @@
     "title": "イベント予定",
     "date": "2026-07-24",
     "description": "イベント予定",
-    "created_at": "2026-06-04T05:38:09.848Z"
+    "created_at": "2026-06-04T05:46:06.808Z"
   },
   {
     "id": "hakanai-2026-07-25-live-hakanai-release-tour-8e3c539",
@@ -420,7 +438,7 @@
     "title": "hakanai Release tour 『 無彩色の青 』",
     "date": "2026-07-25",
     "description": "hakanai Release tour 『 無彩色の青 』",
-    "created_at": "2026-06-04T05:38:09.848Z"
+    "created_at": "2026-06-04T05:46:06.808Z"
   },
   {
     "id": "hakanai-2026-07-26-live---76edf7cf",
@@ -429,7 +447,7 @@
     "title": "イベント予定",
     "date": "2026-07-26",
     "description": "イベント予定",
-    "created_at": "2026-06-04T05:38:09.848Z"
+    "created_at": "2026-06-04T05:46:06.808Z"
   },
   {
     "id": "hakanai-2026-07-31-live-tokyo-idol-festival--388c565c",
@@ -438,429 +456,6 @@
     "title": "TOKYO IDOL FESTIVAL 2026 supported by にしたんクリニック",
     "date": "2026-07-31",
     "description": "TOKYO IDOL FESTIVAL 2026 supported by にしたんクリニック",
-    "created_at": "2026-06-04T05:38:09.848Z"
-  },
-  {
-    "id": "hakanai-2026-08-01-live-hakanai-release-tour-3cf5a464",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "hakanai Release tour 『 無彩色の青 』",
-    "date": "2026-08-01",
-    "description": "hakanai Release tour 『 無彩色の青 』",
-    "created_at": "2026-06-04T01:52:18.071Z"
-  },
-  {
-    "id": "hakanai-2026-08-02-live--natsuzome-2026-41824679",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "超NATSUZOME 2026",
-    "date": "2026-08-02",
-    "description": "超NATSUZOME 2026",
-    "created_at": "2026-06-04T01:52:18.071Z"
-  },
-  {
-    "id": "hakanai-2026-08-02-live-hakanai-release-tour-509d77e5",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "hakanai Release tour 『 無彩色の青 』",
-    "date": "2026-08-02",
-    "description": "hakanai Release tour 『 無彩色の青 』",
-    "created_at": "2026-06-04T01:52:18.071Z"
-  },
-  {
-    "id": "hakanai-2026-08-10-live---20701af7",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "イベント予定",
-    "date": "2026-08-10",
-    "description": "イベント予定",
-    "created_at": "2026-06-04T01:52:18.071Z"
-  },
-  {
-    "id": "hakanai-2026-08-11-live-infinity-live-presen-2ef208c9",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "INFINITY LIVE presents 『ASTROTRONIC』",
-    "date": "2026-08-11",
-    "description": "INFINITY LIVE presents 『ASTROTRONIC』",
-    "created_at": "2026-06-04T01:24:02.571Z"
-  },
-  {
-    "id": "hakanai-2026-08-12-live---4031d213",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "#ﾆｷﾌﾟﾚ 『カンシャサイ。-夏-』",
-    "date": "2026-08-12",
-    "description": "#ﾆｷﾌﾟﾚ 『カンシャサイ。-夏-』",
-    "created_at": "2026-06-04T01:24:02.571Z"
-  },
-  {
-    "id": "hakanai-2026-08-12-live--utage-fes-vol-5--361d3e20",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "『UTAGE FES Vol.5』",
-    "date": "2026-08-12",
-    "description": "『UTAGE FES Vol.5』",
-    "created_at": "2026-06-04T01:52:18.071Z"
-  },
-  {
-    "id": "hakanai-2026-08-14-live---22a1ea1c",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "𝗡𝗔𝗡𝗜𝗠𝗢𝗡𝗢 𝗧𝗢𝗨𝗥 𝟮𝟬𝟮𝟲 ｢コンティニューしますか？｣",
-    "date": "2026-08-14",
-    "description": "𝗡𝗔𝗡𝗜𝗠𝗢𝗡𝗢 𝗧𝗢𝗨𝗥 𝟮𝟬𝟮𝟲 ｢コンティニューしますか？｣",
-    "created_at": "2026-06-04T01:24:02.571Z"
-  },
-  {
-    "id": "hakanai-2026-08-14-live---666400f3",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "イベント予定",
-    "date": "2026-08-14",
-    "description": "イベント予定",
-    "created_at": "2026-06-04T01:52:18.071Z"
-  },
-  {
-    "id": "hakanai-2026-08-15-live-hakanai-release-tour-131870f9",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "hakanai Release tour 『 無彩色の青 』",
-    "date": "2026-08-15",
-    "description": "hakanai Release tour 『 無彩色の青 』",
-    "created_at": "2026-06-04T01:52:18.071Z"
-  },
-  {
-    "id": "hakanai-2026-08-16-live-mistfes2026-10th-ann-7e50ff5f",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "mistFES2026 10th anniversary Supported by My-th",
-    "date": "2026-08-16",
-    "description": "mistFES2026 10th anniversary Supported by My-th",
-    "created_at": "2026-06-04T01:24:02.571Z"
-  },
-  {
-    "id": "hakanai-2026-08-16-live---76a20c0f",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "イベント予定",
-    "date": "2026-08-16",
-    "description": "イベント予定",
-    "created_at": "2026-06-04T01:52:18.071Z"
-  },
-  {
-    "id": "hakanai-2026-08-28-live-tokyo-idol-festival--14737f8b",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "TOKYO IDOL FESTIVAL 2026 supported by にしたんクリニック",
-    "date": "2026-08-28",
-    "description": "TOKYO IDOL FESTIVAL 2026 supported by にしたんクリニック",
-    "created_at": "2026-06-04T01:52:18.071Z"
-  },
-  {
-    "id": "hakanai-2026-09-01-live--afterimage-vol-2--6d724d67",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "『Afterimage Vol.2』",
-    "date": "2026-09-01",
-    "description": "『Afterimage Vol.2』",
-    "created_at": "2026-06-04T01:24:02.571Z"
-  },
-  {
-    "id": "hakanai-2026-09-02-live--creora-supported-by-5b797c34",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "「Creora supported by My-th」",
-    "date": "2026-09-02",
-    "description": "「Creora supported by My-th」",
-    "created_at": "2026-06-04T01:24:02.571Z"
-  },
-  {
-    "id": "hakanai-2026-09-03-live--zuttomotto-presents-40c5e915",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "『ZUTTOMOTTO presents アオハル vol.13』",
-    "date": "2026-09-03",
-    "description": "『ZUTTOMOTTO presents アオハル vol.13』",
-    "created_at": "2026-06-04T01:24:02.571Z"
-  },
-  {
-    "id": "hakanai-2026-09-05-live-fes-tive-presents--d791819",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "FES☆TIVE Presents「波響祭」",
-    "date": "2026-09-05",
-    "description": "FES☆TIVE Presents「波響祭」",
-    "created_at": "2026-06-04T01:24:02.571Z"
-  },
-  {
-    "id": "hakanai-2026-09-06-live-rise-idol-zone-2026--594c4a06",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "RISE IDOL ZONE 2026 -TOKYO-",
-    "date": "2026-09-06",
-    "description": "RISE IDOL ZONE 2026 -TOKYO-",
-    "created_at": "2026-06-04T01:24:02.571Z"
-  },
-  {
-    "id": "hakanai-2026-09-08-live--yoru-fes-sp--45f3f3dc",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "夜光性アミューズ主催ライブ 『YORU-FES ~夜を駆けるサーキットSP~』",
-    "date": "2026-09-08",
-    "description": "夜光性アミューズ主催ライブ 『YORU-FES ~夜を駆けるサーキットSP~』",
-    "created_at": "2026-06-04T01:24:02.571Z"
-  },
-  {
-    "id": "hakanai-2026-09-12-live--spark-2026--7a1eebb8",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "『SPARK 2026 渋谷納涼祭』",
-    "date": "2026-09-12",
-    "description": "『SPARK 2026 渋谷納涼祭』",
-    "created_at": "2026-06-04T01:24:02.571Z"
-  },
-  {
-    "id": "hakanai-2026-09-19-live---667c4028",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "ライブ予定",
-    "date": "2026-09-19",
-    "description": "ライブ予定",
-    "created_at": "2026-06-04T01:24:02.571Z"
-  },
-  {
-    "id": "hakanai-2026-10-05-live--2026-ultimate-talen-7405198",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "椎名うた生誕祭2026 Ultimate Talent's Anniversary あるてぃめっつ たれんつ あにば~さり~",
-    "date": "2026-10-05",
-    "description": "椎名うた生誕祭2026 Ultimate Talent's Anniversary あるてぃめっつ たれんつ あにば~さり~",
-    "created_at": "2026-06-04T01:24:02.571Z"
-  },
-  {
-    "id": "hakanai-2026-10-06-live-otona-child-presents-64aca972",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "OTONA CHILD.presents 『HAKONIWA vol.11』",
-    "date": "2026-10-06",
-    "description": "OTONA CHILD.presents 『HAKONIWA vol.11』",
-    "created_at": "2026-06-04T01:24:02.571Z"
-  },
-  {
-    "id": "hakanai-2026-10-11-live-otona-child-presents-3f9caa03",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "OTONA CHILD.presents 『NO FUTURE GIRL』",
-    "date": "2026-10-11",
-    "description": "OTONA CHILD.presents 『NO FUTURE GIRL』",
-    "created_at": "2026-06-04T01:24:02.571Z"
-  },
-  {
-    "id": "hakanai-2026-10-18-live-otona-child-presents-3cc6c392",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "OTONA CHILD.presents 『ひなたとまゆた』",
-    "date": "2026-10-18",
-    "description": "OTONA CHILD.presents 『ひなたとまゆた』",
-    "created_at": "2026-06-04T01:24:02.571Z"
-  },
-  {
-    "id": "hakanai-2026-10-31-live-girls-girls-festival-2bbb979d",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "GIRLS GIRLS FESTIVAL 2026",
-    "date": "2026-10-31",
-    "description": "GIRLS GIRLS FESTIVAL 2026",
-    "created_at": "2026-06-04T01:24:02.571Z"
-  },
-  {
-    "id": "hakanai-2026-11-01-live---6e98deb8",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "さとりモンスター 春のわくわく大サーキット",
-    "date": "2026-11-01",
-    "description": "さとりモンスター 春のわくわく大サーキット",
-    "created_at": "2026-06-04T01:24:02.571Z"
-  },
-  {
-    "id": "hakanai-2026-11-02-live--2th-anniversary--2a6e01c3",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "#ﾆｷﾌﾟﾚ『ミツドモエ。』 -#ﾆｷﾌﾟﾚ 2th Anniversary!!-",
-    "date": "2026-11-02",
-    "description": "#ﾆｷﾌﾟﾚ『ミツドモエ。』 -#ﾆｷﾌﾟﾚ 2th Anniversary!!-",
-    "created_at": "2026-06-04T01:24:02.571Z"
-  },
-  {
-    "id": "hakanai-2026-11-03-live---1118042b",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "イベント予定",
-    "date": "2026-11-03",
-    "description": "イベント予定",
-    "created_at": "2026-06-04T01:24:02.571Z"
-  },
-  {
-    "id": "hakanai-2026-11-04-live---68c0f5ad",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "ライブ予定",
-    "date": "2026-11-04",
-    "description": "ライブ予定",
-    "created_at": "2026-06-04T01:24:02.571Z"
-  },
-  {
-    "id": "hakanai-2026-11-07-live-hakanai-release-tour-224cd1ae",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "hakanai Release tour 『 無彩色の青 』",
-    "date": "2026-11-07",
-    "description": "hakanai Release tour 『 無彩色の青 』",
-    "created_at": "2026-06-04T01:24:02.571Z"
-  },
-  {
-    "id": "hakanai-2026-11-08-live-hakanai-release-tour-ea4fe2d",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "hakanai Release tour 『 無彩色の青 』",
-    "date": "2026-11-08",
-    "description": "hakanai Release tour 『 無彩色の青 』",
-    "created_at": "2026-06-04T01:24:02.571Z"
-  },
-  {
-    "id": "hakanai-2026-12-01-live---1b7c0f3e",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "『ぜんぶ夏のせいだ。』",
-    "date": "2026-12-01",
-    "description": "『ぜんぶ夏のせいだ。』",
-    "created_at": "2026-06-04T01:24:02.571Z"
-  },
-  {
-    "id": "hakanai-2026-12-05-live---5280194a",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "イベント予定",
-    "date": "2026-12-05",
-    "description": "イベント予定",
-    "created_at": "2026-06-04T01:24:02.571Z"
-  },
-  {
-    "id": "hakanai-2026-12-06-live--festival-2026-suppo-2c2dea10",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "「アイドル甲子園 FESTIVAL 2026」 supported by My-th -DAY2-",
-    "date": "2026-12-06",
-    "description": "「アイドル甲子園 FESTIVAL 2026」 supported by My-th -DAY2-",
-    "created_at": "2026-06-04T01:24:02.571Z"
-  },
-  {
-    "id": "hakanai-2026-12-12-live---51def745",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "ツアー直前無銭ワンマン 『ガールフレンド』",
-    "date": "2026-12-12",
-    "description": "ツアー直前無銭ワンマン 『ガールフレンド』",
-    "created_at": "2026-06-04T01:24:02.571Z"
-  },
-  {
-    "id": "hakanai-2026-12-21-live-hakanai--1ca0cdb1",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "hakanai × 美味しい曖昧『曖昧ごっこ』",
-    "date": "2026-12-21",
-    "description": "hakanai × 美味しい曖昧『曖昧ごっこ』",
-    "created_at": "2026-06-04T01:24:02.571Z"
-  },
-  {
-    "id": "hakanai-2026-12-24-live---7c887736",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "#ﾆｷﾌﾟﾚ『シキサイ。』",
-    "date": "2026-12-24",
-    "description": "#ﾆｷﾌﾟﾚ『シキサイ。』",
-    "created_at": "2026-06-04T01:24:02.571Z"
-  },
-  {
-    "id": "hakanai-2026-12-27-live--tif-oneman-live--71215b0c",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "『TIF初出演記念 無銭ONEMAN LIVE』",
-    "date": "2026-12-27",
-    "description": "『TIF初出演記念 無銭ONEMAN LIVE』",
-    "created_at": "2026-06-04T01:24:02.571Z"
-  },
-  {
-    "id": "hakanai-2026-12-28-live---3cc48d77",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "イベント予定",
-    "date": "2026-12-28",
-    "description": "イベント予定",
-    "created_at": "2026-06-04T01:24:02.571Z"
-  },
-  {
-    "id": "hakanai-2026-12-30-live--utage-fes-vol-5--732ae0fd",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "『UTAGE FES Vol.5』",
-    "date": "2026-12-30",
-    "description": "『UTAGE FES Vol.5』",
-    "created_at": "2026-06-04T01:24:02.571Z"
-  },
-  {
-    "id": "hakanai-2027-01-01-live---711d8d6d",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "イベント予定",
-    "date": "2027-01-01",
-    "description": "イベント予定",
-    "created_at": "2026-06-04T01:24:02.571Z"
-  },
-  {
-    "id": "hakanai-2027-01-02-live-hakanai-release-tour-2bf2af73",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "hakanai Release tour 『 無彩色の青 』",
-    "date": "2027-01-02",
-    "description": "hakanai Release tour 『 無彩色の青 』",
-    "created_at": "2026-06-04T01:24:02.571Z"
-  },
-  {
-    "id": "hakanai-2027-01-03-live---6be87f95",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "イベント予定",
-    "date": "2027-01-03",
-    "description": "イベント予定",
-    "created_at": "2026-06-04T01:24:02.571Z"
-  },
-  {
-    "id": "hakanai-2027-01-30-live-hakanai-release-tour-2f4a8098",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "hakanai Release tour 『 無彩色の青 』",
-    "date": "2027-01-30",
-    "description": "hakanai Release tour 『 無彩色の青 』",
-    "created_at": "2026-06-04T01:24:02.571Z"
-  },
-  {
-    "id": "hakanai-2027-01-31-live--natsuzome-2026-6a0bb703",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "超NATSUZOME 2026",
-    "date": "2027-01-31",
-    "description": "超NATSUZOME 2026",
-    "created_at": "2026-06-04T01:24:02.571Z"
-  },
-  {
-    "id": "hakanai-2027-02-26-live-tokyo-idol-festival--241ee770",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "TOKYO IDOL FESTIVAL 2026 supported by にしたんクリニック",
-    "date": "2027-02-26",
-    "description": "TOKYO IDOL FESTIVAL 2026 supported by にしたんクリニック",
-    "created_at": "2026-06-04T01:24:02.571Z"
+    "created_at": "2026-06-04T05:46:06.808Z"
   }
 ]

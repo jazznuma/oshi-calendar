@@ -224,8 +224,8 @@ const path = require('path');
       const endStr = `${endDate.getFullYear()}-${String(endDate.getMonth() + 1).padStart(2, '0')}-${String(endDate.getDate()).padStart(2, '0')}`;
 
       let finalEvents = [];
-      if (startStr && endStr) {
-        console.log(`Cleaning up stale/duplicate TimeTree events in range [${startStr} to ${endStr}]...`);
+      if (startStr) {
+        console.log(`Cleaning up stale/duplicate TimeTree events from ${startStr} onwards...`);
         const preservedEvents = existingEvents.filter(ev => {
           // ① X(RSS)などの他ソース由来のイベント（post_urlが存在するもの）は保護する
           if (ev.post_url) return true;
@@ -233,16 +233,16 @@ const path = require('path');
           // ② 他のグループのデータは処理対象外のため保護する
           if (ev.group_id !== group.id) return true;
           
-          // ③ 今回のスクレイピング対象期間（startStr〜endStr）の範囲外にある過去データは保護する
-          if (ev.date < startStr || ev.date > endStr) return true;
+          // ③ 今回のスクレイピング開始基準日（前月1日）より前の過去データは保護する
+          if (ev.date < startStr) return true;
           
           // ④ 今回の最新スクレイピング結果（newEvents）に存在するイベントは、
           // 重複を避けるために既存のものは一旦除外する（後でnewEventsを追加するため）
           const existsInNew = newEvents.some(newEv => newEv.id === ev.id);
           if (existsInNew) return false;
           
-          // ⑤ 対象期間内にあるが最新データに「存在しない」TimeTreeデータは、
-          // 過去のバグで混入したゴミか、カレンダーから削除された予定であるため、排除する
+          // ⑤ 前月1日以降の現在・未来すべてにおいて、最新取得データに「存在しない」TimeTreeデータは、
+          // 過去のバグによる未来へのゴミデータ、またはTimeTreeから削除された予定であるため、排除する
           return false;
         });
         
