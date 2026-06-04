@@ -1,5 +1,69 @@
 [
   {
+    "id": "anthurium-2026-04-29-live--devil-anthem-utage--4eecfa71",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "『Devil ANTHEM. × UtaGe! × アンスリューム』",
+    "date": "2026-04-29",
+    "description": "『Devil ANTHEM. × UtaGe! × アンスリューム』",
+    "created_at": "2026-06-04T01:51:55.645Z"
+  },
+  {
+    "id": "anthurium-2026-05-02-live---381dc27",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "朝日奈まみ生誕祭🎂 『まみ展コレクション 〜引きこもりから輝くアイドルへの道〜』",
+    "date": "2026-05-02",
+    "description": "朝日奈まみ生誕祭🎂 『まみ展コレクション 〜引きこもりから輝くアイドルへの道〜』",
+    "created_at": "2026-06-04T01:51:55.645Z"
+  },
+  {
+    "id": "anthurium-2026-05-03-live--idol-summer-jungle--24c2929a",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "『IDOL SUMMER JUNGLE GOLDEN』",
+    "date": "2026-05-03",
+    "description": "『IDOL SUMMER JUNGLE GOLDEN』",
+    "created_at": "2026-06-04T01:51:55.645Z"
+  },
+  {
+    "id": "anthurium-2026-05-05-live---36977679",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "『アンスぱーく大！無！銭！祭！』",
+    "date": "2026-05-05",
+    "description": "『アンスぱーく大！無！銭！祭！』",
+    "created_at": "2026-06-04T05:00:24.789Z"
+  },
+  {
+    "id": "anthurium-2026-05-09-live--mawa-loop-osaka-202-296c54e",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "『MAWA LOOP OSAKA 2026』",
+    "date": "2026-05-09",
+    "description": "『MAWA LOOP OSAKA 2026』",
+    "created_at": "2026-06-04T05:00:24.789Z"
+  },
+  {
+    "id": "anthurium-2026-05-11-live---52146160",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "📡ちぎら配信ゲスト出演",
+    "date": "2026-05-11",
+    "time_start": "20:00",
+    "description": "📡ちぎら配信ゲスト出演",
+    "created_at": "2026-06-04T05:00:24.789Z"
+  },
+  {
+    "id": "anthurium-2026-05-12-live---54043995",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "『アンスぱーく大！無！銭！祭！』",
+    "date": "2026-05-12",
+    "description": "『アンスぱーく大！無！銭！祭！』",
+    "created_at": "2026-06-04T01:51:55.645Z"
+  },
+  {
     "id": "anthurium-2026-05-13-live--devil-anthem-utage--20d937c9",
     "group_id": "anthurium",
     "type": "live",
@@ -7,6 +71,15 @@
     "date": "2026-05-13",
     "description": "『Devil ANTHEM. × UtaGe! × アンスリューム』",
     "created_at": "2026-06-04T01:09:37.713Z"
+  },
+  {
+    "id": "anthurium-2026-05-14-live-road-to-zepp-diverci-52044cc",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "Road to Zepp DiverCity『共鳴加速』vol.3",
+    "date": "2026-05-14",
+    "description": "Road to Zepp DiverCity『共鳴加速』vol.3",
+    "created_at": "2026-06-04T05:00:24.789Z"
   },
   {
     "id": "anthurium-2026-05-16-live---1ccdbaaa",
@@ -18,6 +91,24 @@
     "created_at": "2026-06-04T01:09:37.713Z"
   },
   {
+    "id": "anthurium-2026-05-16-live--mawa-loop-osaka-202-7dd9c732",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "『MAWA LOOP OSAKA 2026』",
+    "date": "2026-05-16",
+    "description": "『MAWA LOOP OSAKA 2026』",
+    "created_at": "2026-06-04T01:51:55.645Z"
+  },
+  {
+    "id": "anthurium-2026-05-16-live-fes-tive-presents--16b4a8bd",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "FES☆TIVE Presents「波響祭」",
+    "date": "2026-05-16",
+    "description": "FES☆TIVE Presents「波響祭」",
+    "created_at": "2026-06-04T05:00:24.789Z"
+  },
+  {
     "id": "anthurium-2026-05-17-live--idol-summer-jungle--36953da3",
     "group_id": "anthurium",
     "type": "live",
@@ -25,6 +116,97 @@
     "date": "2026-05-17",
     "description": "『IDOL SUMMER JUNGLE GOLDEN』",
     "created_at": "2026-06-04T01:09:37.713Z"
+  },
+  {
+    "id": "anthurium-2026-05-17-live--in-supported-by-my--21313893",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "「アイドル甲子園 in 品川インターシティホール」supported by My-th -DAY2-",
+    "date": "2026-05-17",
+    "description": "「アイドル甲子園 in 品川インターシティホール」supported by My-th -DAY2-",
+    "created_at": "2026-06-04T05:00:24.789Z"
+  },
+  {
+    "id": "anthurium-2026-05-19-live---53780081",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "『伊藤詩乃ピアノリサイタル』",
+    "date": "2026-05-19",
+    "description": "『伊藤詩乃ピアノリサイタル』",
+    "created_at": "2026-06-04T05:00:24.789Z"
+  },
+  {
+    "id": "anthurium-2026-05-23-live--girls-girls-festiva-1f1df98d",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "『GIRLS GIRLS FESTIVAL 2026』",
+    "date": "2026-05-23",
+    "description": "『GIRLS GIRLS FESTIVAL 2026』",
+    "created_at": "2026-06-04T05:00:24.789Z"
+  },
+  {
+    "id": "anthurium-2026-05-24-live-inuwasi-presents--5d66e387",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "INUWASI presents〝狗祭〟",
+    "date": "2026-05-24",
+    "description": "INUWASI presents〝狗祭〟",
+    "created_at": "2026-06-04T05:00:24.789Z"
+  },
+  {
+    "id": "anthurium-2026-05-25-live---705fbec3",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "📡ちぎら配信ゲスト出演",
+    "date": "2026-05-25",
+    "time_start": "20:00",
+    "description": "📡ちぎら配信ゲスト出演",
+    "created_at": "2026-06-04T01:51:55.645Z"
+  },
+  {
+    "id": "anthurium-2026-05-26-live--2man--6989a733",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "アンスリューム×キングサリ『緊急！バチバチ2MAN!!』",
+    "date": "2026-05-26",
+    "description": "アンスリューム×キングサリ『緊急！バチバチ2MAN!!』",
+    "created_at": "2026-06-04T05:00:24.789Z"
+  },
+  {
+    "id": "anthurium-2026-05-28-live-road-to-zepp-diverci-11c7ccb7",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "Road to Zepp DiverCity『共鳴加速』vol.3",
+    "date": "2026-05-28",
+    "description": "Road to Zepp DiverCity『共鳴加速』vol.3",
+    "created_at": "2026-06-04T01:51:55.645Z"
+  },
+  {
+    "id": "anthurium-2026-05-28-live--devil-anthem-presen-31edfcca",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "『Devil ANTHEM. Presents でびぱっぱ』",
+    "date": "2026-05-28",
+    "description": "『Devil ANTHEM. Presents でびぱっぱ』",
+    "created_at": "2026-06-04T05:00:24.789Z"
+  },
+  {
+    "id": "anthurium-2026-05-30-live-fes-tive-presents--202ea4f5",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "FES☆TIVE Presents「波響祭」",
+    "date": "2026-05-30",
+    "description": "FES☆TIVE Presents「波響祭」",
+    "created_at": "2026-06-04T01:51:55.645Z"
+  },
+  {
+    "id": "anthurium-2026-05-31-live--in-supported-by-my--599330cb",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "「アイドル甲子園 in 品川インターシティホール」supported by My-th -DAY2-",
+    "date": "2026-05-31",
+    "description": "「アイドル甲子園 in 品川インターシティホール」supported by My-th -DAY2-",
+    "created_at": "2026-06-04T01:51:55.645Z"
   },
   {
     "id": "anthurium-2026-06-01-live-event-c830a2f5",
@@ -65,6 +247,15 @@
     "created_at": "2026-05-31T23:00:35Z"
   },
   {
+    "id": "anthurium-2026-06-01-live--one-man-live-2026--47233163",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "『アンスリュームONE MAN LIVE 2026』",
+    "date": "2026-06-01",
+    "description": "『アンスリュームONE MAN LIVE 2026』",
+    "created_at": "2026-06-04T01:51:55.645Z"
+  },
+  {
     "id": "anthurium-2026-06-03-live-event-c29d2a4f",
     "group_id": "anthurium",
     "type": "live",
@@ -77,6 +268,87 @@
     "created_at": "2026-05-31T23:00:35Z"
   },
   {
+    "id": "anthurium-2026-06-04-live--hype-idol-dx--4ea3441c",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "『HYPE IDOL！ DX』",
+    "date": "2026-06-04",
+    "description": "『HYPE IDOL！ DX』",
+    "created_at": "2026-06-04T01:51:55.645Z"
+  },
+  {
+    "id": "anthurium-2026-06-06-live---3b0a86f8",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "ワンマン御礼後日特典会",
+    "date": "2026-06-06",
+    "description": "ワンマン御礼後日特典会",
+    "created_at": "2026-06-04T01:51:55.645Z"
+  },
+  {
+    "id": "anthurium-2026-06-07-live--leading--4d595760",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "『LEADING』",
+    "date": "2026-06-07",
+    "description": "『LEADING』",
+    "created_at": "2026-06-04T01:51:55.645Z"
+  },
+  {
+    "id": "anthurium-2026-06-09-live---370c2b3f",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "『伊藤詩乃ピアノリサイタル』",
+    "date": "2026-06-09",
+    "description": "『伊藤詩乃ピアノリサイタル』",
+    "created_at": "2026-06-04T01:51:55.645Z"
+  },
+  {
+    "id": "anthurium-2026-06-12-live-avam-presents-d-buta-7ae17f0",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "AVAM presents『Débutante vol.9",
+    "date": "2026-06-12",
+    "description": "AVAM presents『Débutante vol.9",
+    "created_at": "2026-06-04T05:00:24.788Z"
+  },
+  {
+    "id": "anthurium-2026-06-13-live--girls-girls-festiva-724ee5cd",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "『GIRLS GIRLS FESTIVAL 2026』",
+    "date": "2026-06-13",
+    "description": "『GIRLS GIRLS FESTIVAL 2026』",
+    "created_at": "2026-06-04T01:51:55.645Z"
+  },
+  {
+    "id": "anthurium-2026-06-13-live--in-kanda-square-hal-506b7260",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "「アイドル甲子園 in KANDA SQUARE HALL」supported by My-th -DAY1-",
+    "date": "2026-06-13",
+    "description": "「アイドル甲子園 in KANDA SQUARE HALL」supported by My-th -DAY1-",
+    "created_at": "2026-06-04T05:00:24.788Z"
+  },
+  {
+    "id": "anthurium-2026-06-14-live-inuwasi-presents--6d4287c7",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "INUWASI presents〝狗祭〟",
+    "date": "2026-06-14",
+    "description": "INUWASI presents〝狗祭〟",
+    "created_at": "2026-06-04T01:51:55.645Z"
+  },
+  {
+    "id": "anthurium-2026-06-14-live--luna-parade--5d4ca9bb",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "『LUNA PARADE』",
+    "date": "2026-06-14",
+    "description": "『LUNA PARADE』",
+    "created_at": "2026-06-04T05:00:24.788Z"
+  },
+  {
     "id": "anthurium-2026-06-15-live--one-man-live-2026--7ba1e586",
     "group_id": "anthurium",
     "type": "live",
@@ -86,6 +358,15 @@
     "created_at": "2026-06-04T01:08:12.000Z"
   },
   {
+    "id": "anthurium-2026-06-16-live---29aeaedd",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "『伊藤詩乃ピアノリサイタル』",
+    "date": "2026-06-16",
+    "description": "『伊藤詩乃ピアノリサイタル』",
+    "created_at": "2026-06-04T05:00:24.789Z"
+  },
+  {
     "id": "anthurium-2026-06-18-live--hype-idol-dx--15a53fa1",
     "group_id": "anthurium",
     "type": "live",
@@ -93,6 +374,24 @@
     "date": "2026-06-18",
     "description": "『HYPE IDOL！ DX』",
     "created_at": "2026-06-04T01:08:12.000Z"
+  },
+  {
+    "id": "anthurium-2026-06-18-live--blooming-night-vol--29e9b3a9",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "『Blooming Night vol.3 - EARLY SUMMER -』",
+    "date": "2026-06-18",
+    "description": "『Blooming Night vol.3 - EARLY SUMMER -』",
+    "created_at": "2026-06-04T05:00:24.789Z"
+  },
+  {
+    "id": "anthurium-2026-06-19-live-avam-presents-d-buta-260c72a9",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "AVAM presents『Débutante vol.9",
+    "date": "2026-06-19",
+    "description": "AVAM presents『Débutante vol.9",
+    "created_at": "2026-06-04T01:51:55.645Z"
   },
   {
     "id": "anthurium-2026-06-20-live-event-b6676ca6",
@@ -132,6 +431,24 @@
     "created_at": "2026-06-04T01:08:12.000Z"
   },
   {
+    "id": "anthurium-2026-06-20-live--in-kanda-square-hal-78c0583c",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "「アイドル甲子園 in KANDA SQUARE HALL」supported by My-th -DAY1-",
+    "date": "2026-06-20",
+    "description": "「アイドル甲子園 in KANDA SQUARE HALL」supported by My-th -DAY1-",
+    "created_at": "2026-06-04T01:51:55.645Z"
+  },
+  {
+    "id": "anthurium-2026-06-20-live---5a74a9b1",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "もなかこゆ生誕祭",
+    "date": "2026-06-20",
+    "description": "もなかこゆ生誕祭",
+    "created_at": "2026-06-04T05:00:24.789Z"
+  },
+  {
     "id": "anthurium-2026-06-21-live--leading--a8f3168",
     "group_id": "anthurium",
     "type": "live",
@@ -139,6 +456,105 @@
     "date": "2026-06-21",
     "description": "『LEADING』",
     "created_at": "2026-06-04T01:08:12.000Z"
+  },
+  {
+    "id": "anthurium-2026-06-21-live--luna-parade--7993757",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "『LUNA PARADE』",
+    "date": "2026-06-21",
+    "description": "『LUNA PARADE』",
+    "created_at": "2026-06-04T01:51:55.645Z"
+  },
+  {
+    "id": "anthurium-2026-06-21-live-neo-japonism-present-389b4868",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "NEO JAPONISM PRESENTS KASSEN2026 @ダイバーシティ東京 プラザ",
+    "date": "2026-06-21",
+    "description": "NEO JAPONISM PRESENTS KASSEN2026 @ダイバーシティ東京 プラザ",
+    "created_at": "2026-06-04T05:00:24.789Z"
+  },
+  {
+    "id": "anthurium-2026-06-23-live--2man--69adfb71",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "アンスリューム×キングサリ『緊急！バチバチ2MAN!!』",
+    "date": "2026-06-23",
+    "description": "アンスリューム×キングサリ『緊急！バチバチ2MAN!!』",
+    "created_at": "2026-06-04T01:51:55.645Z"
+  },
+  {
+    "id": "anthurium-2026-06-25-live--devil-anthem-presen-4e147326",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "『Devil ANTHEM. Presents でびぱっぱ』",
+    "date": "2026-06-25",
+    "description": "『Devil ANTHEM. Presents でびぱっぱ』",
+    "created_at": "2026-06-04T01:51:55.645Z"
+  },
+  {
+    "id": "anthurium-2026-06-27-live--herosonic2026--9023bcc",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "『HEROSONIC2026』",
+    "date": "2026-06-27",
+    "description": "『HEROSONIC2026』",
+    "created_at": "2026-06-04T05:00:24.789Z"
+  },
+  {
+    "id": "anthurium-2026-06-28-live--festival-2026-suppo-783e90fd",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "「アイドル甲子園 FESTIVAL 2026」supported by My-th -DAY2-",
+    "date": "2026-06-28",
+    "description": "「アイドル甲子園 FESTIVAL 2026」supported by My-th -DAY2-",
+    "created_at": "2026-06-04T05:00:24.789Z"
+  },
+  {
+    "id": "anthurium-2026-06-30-live---14db9ceb",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "『伊藤詩乃ピアノリサイタル』",
+    "date": "2026-06-30",
+    "description": "『伊藤詩乃ピアノリサイタル』",
+    "created_at": "2026-06-04T01:51:55.645Z"
+  },
+  {
+    "id": "anthurium-2026-07-02-live--blooming-night-vol--5b2bd5af",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "『Blooming Night vol.3 - EARLY SUMMER -』",
+    "date": "2026-07-02",
+    "description": "『Blooming Night vol.3 - EARLY SUMMER -』",
+    "created_at": "2026-06-04T01:51:55.645Z"
+  },
+  {
+    "id": "anthurium-2026-07-04-live---e6725b4",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "もなかこゆ生誕祭",
+    "date": "2026-07-04",
+    "description": "もなかこゆ生誕祭",
+    "created_at": "2026-06-04T01:51:55.645Z"
+  },
+  {
+    "id": "anthurium-2026-07-04-live--natsuzome-2026--61aeffed",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "『超NATSUZOME 2026』",
+    "date": "2026-07-04",
+    "description": "『超NATSUZOME 2026』",
+    "created_at": "2026-06-04T01:51:55.645Z"
+  },
+  {
+    "id": "anthurium-2026-07-05-live-neo-japonism-present-2be1093",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "NEO JAPONISM PRESENTS KASSEN2026 @ダイバーシティ東京 プラザ",
+    "date": "2026-07-05",
+    "description": "NEO JAPONISM PRESENTS KASSEN2026 @ダイバーシティ東京 プラザ",
+    "created_at": "2026-06-04T01:51:55.645Z"
   },
   {
     "id": "anthurium-2026-07-07-live---3152b0c7",
@@ -150,6 +566,15 @@
     "created_at": "2026-06-04T01:09:37.713Z"
   },
   {
+    "id": "anthurium-2026-07-07-live--yoru-fes-sp--3a3125b",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "『YORU-FES ~夜を駆けるサーキットSP~』",
+    "date": "2026-07-07",
+    "description": "『YORU-FES ~夜を駆けるサーキットSP~』",
+    "created_at": "2026-06-04T05:00:24.789Z"
+  },
+  {
     "id": "anthurium-2026-07-11-live--mawa-loop-osaka-202-3c08bdf9",
     "group_id": "anthurium",
     "type": "live",
@@ -159,6 +584,24 @@
     "created_at": "2026-06-04T01:09:37.713Z"
   },
   {
+    "id": "anthurium-2026-07-11-live---90fca99",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "『バリ！リーディング フクオカ!!』",
+    "date": "2026-07-11",
+    "description": "『バリ！リーディング フクオカ!!』",
+    "created_at": "2026-06-04T05:00:24.789Z"
+  },
+  {
+    "id": "anthurium-2026-07-14-live--yoru-fes-sp--1e5c15f7",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "『YORU-FES ~夜を駆けるサーキットSP~』",
+    "date": "2026-07-14",
+    "description": "『YORU-FES ~夜を駆けるサーキットSP~』",
+    "created_at": "2026-06-04T01:51:55.645Z"
+  },
+  {
     "id": "anthurium-2026-07-18-live--natsuzome-2026--12878890",
     "group_id": "anthurium",
     "type": "live",
@@ -166,6 +609,96 @@
     "date": "2026-07-18",
     "description": "『超NATSUZOME 2026』",
     "created_at": "2026-06-04T01:09:37.713Z"
+  },
+  {
+    "id": "anthurium-2026-07-18-live--herosonic2026--487dcd6d",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "『HEROSONIC2026』",
+    "date": "2026-07-18",
+    "description": "『HEROSONIC2026』",
+    "created_at": "2026-06-04T01:51:55.645Z"
+  },
+  {
+    "id": "anthurium-2026-07-18-live---6bbdaf92",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "『バリ！リーディング フクオカ!!』",
+    "date": "2026-07-18",
+    "description": "『バリ！リーディング フクオカ!!』",
+    "created_at": "2026-06-04T01:51:55.645Z"
+  },
+  {
+    "id": "anthurium-2026-07-19-live--festival-2026-suppo-3ccc8884",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "「アイドル甲子園 FESTIVAL 2026」supported by My-th -DAY2-",
+    "date": "2026-07-19",
+    "description": "「アイドル甲子園 FESTIVAL 2026」supported by My-th -DAY2-",
+    "created_at": "2026-06-04T01:51:55.645Z"
+  },
+  {
+    "id": "anthurium-2026-07-20-live---3e6be5c0",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "ライブ仮",
+    "date": "2026-07-20",
+    "description": "ライブ仮",
+    "created_at": "2026-06-04T05:00:24.789Z"
+  },
+  {
+    "id": "anthurium-2026-07-22-live--utage-fes-vol-5--14c1fe20",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "『UTAGE FES Vol.5』",
+    "date": "2026-07-22",
+    "description": "『UTAGE FES Vol.5』",
+    "created_at": "2026-06-04T05:00:24.789Z"
+  },
+  {
+    "id": "anthurium-2026-07-25-live---26e36385",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "ライブ仮",
+    "date": "2026-07-25",
+    "description": "ライブ仮",
+    "created_at": "2026-06-04T05:00:24.789Z"
+  },
+  {
+    "id": "anthurium-2026-07-26-live---4437e9ba",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "ライブ仮",
+    "date": "2026-07-26",
+    "description": "ライブ仮",
+    "created_at": "2026-06-04T05:00:24.789Z"
+  },
+  {
+    "id": "anthurium-2026-08-01-live--natsuzome-2026--1c629bc9",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "『超NATSUZOME 2026』",
+    "date": "2026-08-01",
+    "description": "『超NATSUZOME 2026』",
+    "created_at": "2026-06-04T01:51:55.645Z"
+  },
+  {
+    "id": "anthurium-2026-08-10-live---18980a00",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "ライブ仮",
+    "date": "2026-08-10",
+    "description": "ライブ仮",
+    "created_at": "2026-06-04T01:51:55.645Z"
+  },
+  {
+    "id": "anthurium-2026-08-12-live--utage-fes-vol-5--361d3e20",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "『UTAGE FES Vol.5』",
+    "date": "2026-08-12",
+    "description": "『UTAGE FES Vol.5』",
+    "created_at": "2026-06-04T01:51:55.645Z"
   },
   {
     "id": "anthurium-2026-08-14-live-avam-presents-d-buta-72d24750",
@@ -186,6 +719,15 @@
     "created_at": "2026-06-04T01:08:12.000Z"
   },
   {
+    "id": "anthurium-2026-08-15-live---10f87c5",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "ライブ仮",
+    "date": "2026-08-15",
+    "description": "ライブ仮",
+    "created_at": "2026-06-04T01:51:55.645Z"
+  },
+  {
     "id": "anthurium-2026-08-16-live--luna-parade--65a3585",
     "group_id": "anthurium",
     "type": "live",
@@ -193,6 +735,15 @@
     "date": "2026-08-16",
     "description": "『LUNA PARADE』",
     "created_at": "2026-06-04T01:08:12.000Z"
+  },
+  {
+    "id": "anthurium-2026-08-16-live---6a0bc57a",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "ライブ仮",
+    "date": "2026-08-16",
+    "description": "ライブ仮",
+    "created_at": "2026-06-04T01:51:55.645Z"
   },
   {
     "id": "anthurium-2026-08-31-live---4b16c205",

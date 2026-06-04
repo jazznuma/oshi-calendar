@@ -53,6 +53,15 @@
       "accent": "#f72585",
       "description": "Jumping Kissのイベント・チケ発スケジュール",
       "timetree_id": "jumpingkiss"
+    },
+    {
+      "id": "hakanai",
+      "name": "hakanai",
+      "x_account": "hakanai_info",
+      "color": "#c3a6ff",
+      "accent": "#ff85e3",
+      "description": "hakanaiのイベント・チケ発スケジュール",
+      "timetree_id": "hakanai"
     }
   ]
 }

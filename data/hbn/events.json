@@ -1,5 +1,95 @@
 [
   {
+    "id": "hbn-2026-04-27-live--dramatic-pop-vol-16-768e8c81",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京｜DRAMATIC POP！vol.16",
+    "date": "2026-04-27",
+    "description": "東京｜DRAMATIC POP！vol.16",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
+    "id": "hbn-2026-04-29-live--supported-by-favezo-36672f84",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "🌈大阪｜火花放電 supported by FaveZone",
+    "date": "2026-04-29",
+    "description": "🌈大阪｜火花放電 supported by FaveZone",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
+    "id": "hbn-2026-04-30-live--11v--3f8403c3",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "🌈大阪｜火花放電-11V-",
+    "date": "2026-04-30",
+    "description": "🌈大阪｜火花放電-11V-",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
+    "id": "hbn-2026-05-03-live--idol-summer-jungle--3a49f4d6",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京｜IDOL SUMMER JUNGLE GOLDEN",
+    "date": "2026-05-03",
+    "description": "東京｜IDOL SUMMER JUNGLE GOLDEN",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
+    "id": "hbn-2026-05-04-live--sync-64fa7b87",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京｜SYNC",
+    "date": "2026-05-04",
+    "description": "東京｜SYNC",
+    "created_at": "2026-06-04T05:00:32.439Z"
+  },
+  {
+    "id": "hbn-2026-05-05-live--kassen-gw-sp--2bca3fb7",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京｜KASSEN -GW SP-",
+    "date": "2026-05-05",
+    "description": "東京｜KASSEN -GW SP-",
+    "created_at": "2026-06-04T05:00:32.439Z"
+  },
+  {
+    "id": "hbn-2026-05-06-live--summer-gate-7886d732",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京｜SUMMER GATE",
+    "date": "2026-05-06",
+    "description": "東京｜SUMMER GATE",
+    "created_at": "2026-06-04T05:00:32.439Z"
+  },
+  {
+    "id": "hbn-2026-05-08-live--electrocute-49ac5c85",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "🌈大阪｜ELECTROCUTE",
+    "date": "2026-05-08",
+    "description": "🌈大阪｜ELECTROCUTE",
+    "created_at": "2026-06-04T05:00:32.439Z"
+  },
+  {
+    "id": "hbn-2026-05-09-live--mawa-loop-osaka-202-81599c8",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "大阪｜MAWA LOOP OSAKA 2026",
+    "date": "2026-05-09",
+    "description": "大阪｜MAWA LOOP OSAKA 2026",
+    "created_at": "2026-06-04T05:00:32.439Z"
+  },
+  {
+    "id": "hbn-2026-05-10-live--mawa-loop-osaka-202-16ec5972",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "大阪｜MAWA LOOP OSAKA 2026",
+    "date": "2026-05-10",
+    "description": "大阪｜MAWA LOOP OSAKA 2026",
+    "created_at": "2026-06-04T05:00:32.439Z"
+  },
+  {
     "id": "hbn-2026-05-11-live--dramatic-pop-vol-16-1915acb9",
     "group_id": "hbn",
     "type": "live",
@@ -7,6 +97,33 @@
     "date": "2026-05-11",
     "description": "東京｜DRAMATIC POP！vol.16",
     "created_at": "2026-06-04T01:09:45.070Z"
+  },
+  {
+    "id": "hbn-2026-05-11-live--sync-193c88eb",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京｜SYNC",
+    "date": "2026-05-11",
+    "description": "東京｜SYNC",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
+    "id": "hbn-2026-05-11-live--2026-in-janus-6fa48022",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "大阪｜環状線メリーゴーランド 2026 in 心斎橋JANUS",
+    "date": "2026-05-11",
+    "description": "大阪｜環状線メリーゴーランド 2026 in 心斎橋JANUS",
+    "created_at": "2026-06-04T05:00:32.439Z"
+  },
+  {
+    "id": "hbn-2026-05-12-live--kassen-gw-sp--440a1fe5",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京｜KASSEN -GW SP-",
+    "date": "2026-05-12",
+    "description": "東京｜KASSEN -GW SP-",
+    "created_at": "2026-06-04T01:52:03.114Z"
   },
   {
     "id": "hbn-2026-05-13-live--supported-by-favezo-4de94876",
@@ -18,6 +135,15 @@
     "created_at": "2026-06-04T01:09:45.070Z"
   },
   {
+    "id": "hbn-2026-05-13-live--summer-gate-26be4eb2",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京｜SUMMER GATE",
+    "date": "2026-05-13",
+    "description": "東京｜SUMMER GATE",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
     "id": "hbn-2026-05-14-live--11v--60ddf368",
     "group_id": "hbn",
     "type": "live",
@@ -27,6 +153,42 @@
     "created_at": "2026-06-04T01:09:45.070Z"
   },
   {
+    "id": "hbn-2026-05-14-live--vol-1-6ac864a7",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "大阪｜劇情 Vol.1",
+    "date": "2026-05-14",
+    "description": "大阪｜劇情 Vol.1",
+    "created_at": "2026-06-04T05:00:32.439Z"
+  },
+  {
+    "id": "hbn-2026-05-15-live--electrocute-2c3f9969",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "🌈大阪｜ELECTROCUTE",
+    "date": "2026-05-15",
+    "description": "🌈大阪｜ELECTROCUTE",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
+    "id": "hbn-2026-05-16-live--mawa-loop-osaka-202-1af85f2c",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "大阪｜MAWA LOOP OSAKA 2026",
+    "date": "2026-05-16",
+    "description": "大阪｜MAWA LOOP OSAKA 2026",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
+    "id": "hbn-2026-05-16-live--in--6813997e",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京｜アイドル甲子園 in 品川インターシティホール",
+    "date": "2026-05-16",
+    "description": "東京｜アイドル甲子園 in 品川インターシティホール",
+    "created_at": "2026-06-04T05:00:32.439Z"
+  },
+  {
     "id": "hbn-2026-05-17-live--idol-summer-jungle--49ec2c39",
     "group_id": "hbn",
     "type": "live",
@@ -34,6 +196,33 @@
     "date": "2026-05-17",
     "description": "東京｜IDOL SUMMER JUNGLE GOLDEN",
     "created_at": "2026-06-04T01:09:45.070Z"
+  },
+  {
+    "id": "hbn-2026-05-17-live--mawa-loop-osaka-202-1ba50acb",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "大阪｜MAWA LOOP OSAKA 2026",
+    "date": "2026-05-17",
+    "description": "大阪｜MAWA LOOP OSAKA 2026",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
+    "id": "hbn-2026-05-17-live--idol-storm-53abc36b",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京｜IDOL STORM",
+    "date": "2026-05-17",
+    "description": "東京｜IDOL STORM",
+    "created_at": "2026-06-04T05:00:32.439Z"
+  },
+  {
+    "id": "hbn-2026-05-17-live--in--1a14aa81",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京｜アイドル甲子園 in 品川インターシティホール",
+    "date": "2026-05-17",
+    "description": "東京｜アイドル甲子園 in 品川インターシティホール",
+    "created_at": "2026-06-04T05:00:32.439Z"
   },
   {
     "id": "hbn-2026-05-18-live-tif-live-free-live-b61c319a",
@@ -62,6 +251,249 @@
     "created_at": "2026-05-27T04:23:33Z"
   },
   {
+    "id": "hbn-2026-05-18-free--tif-live-free-live-6d63aa53",
+    "group_id": "hbn",
+    "type": "free",
+    "title": "東京｜TIFメインステージ争奪LIVE 決起集会FREE LIVE",
+    "date": "2026-05-18",
+    "description": "東京｜TIFメインステージ争奪LIVE 決起集会FREE LIVE",
+    "created_at": "2026-06-04T05:00:32.439Z"
+  },
+  {
+    "id": "hbn-2026-05-20-live--soul-6ec5fb1b",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京｜SOUL",
+    "date": "2026-05-20",
+    "description": "東京｜SOUL",
+    "created_at": "2026-06-04T05:00:32.439Z"
+  },
+  {
+    "id": "hbn-2026-05-22-live--electrocute-ed2d64d",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "🌈大阪｜ELECTROCUTE",
+    "date": "2026-05-22",
+    "description": "🌈大阪｜ELECTROCUTE",
+    "created_at": "2026-06-04T05:00:32.439Z"
+  },
+  {
+    "id": "hbn-2026-05-23-live---77007286",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "大阪｜熱夏到来",
+    "date": "2026-05-23",
+    "description": "大阪｜熱夏到来",
+    "created_at": "2026-06-04T05:00:32.439Z"
+  },
+  {
+    "id": "hbn-2026-05-24-live--girls-girls-festiva-9642e44",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "神奈川｜GIRLS GIRLS FESTIVAL 2026",
+    "date": "2026-05-24",
+    "description": "神奈川｜GIRLS GIRLS FESTIVAL 2026",
+    "created_at": "2026-06-04T05:00:32.439Z"
+  },
+  {
+    "id": "hbn-2026-05-25-live--2026-in-janus-42101621",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "大阪｜環状線メリーゴーランド 2026 in 心斎橋JANUS",
+    "date": "2026-05-25",
+    "description": "大阪｜環状線メリーゴーランド 2026 in 心斎橋JANUS",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
+    "id": "hbn-2026-05-26-free--free-7fb98807",
+    "group_id": "hbn",
+    "type": "free",
+    "title": "神奈川｜ハルライズ FREE",
+    "date": "2026-05-26",
+    "description": "神奈川｜ハルライズ FREE",
+    "created_at": "2026-06-04T05:00:32.439Z"
+  },
+  {
+    "id": "hbn-2026-05-27-free--tif-live-free-live-37e17031",
+    "group_id": "hbn",
+    "type": "free",
+    "title": "東京｜TIFメインステージ争奪LIVE 決起集会FREE LIVE",
+    "date": "2026-05-27",
+    "description": "東京｜TIFメインステージ争奪LIVE 決起集会FREE LIVE",
+    "created_at": "2026-06-04T05:00:32.439Z"
+  },
+  {
+    "id": "hbn-2026-05-28-live--vol-1-75298596",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "大阪｜劇情 Vol.1",
+    "date": "2026-05-28",
+    "description": "大阪｜劇情 Vol.1",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
+    "id": "hbn-2026-05-28-live--saboriryu-58def572",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京｜SABORIRYU",
+    "date": "2026-05-28",
+    "description": "東京｜SABORIRYU",
+    "created_at": "2026-06-04T05:00:32.439Z"
+  },
+  {
+    "id": "hbn-2026-05-30-live--in--10bb464a",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京｜アイドル甲子園 in 品川インターシティホール",
+    "date": "2026-05-30",
+    "description": "東京｜アイドル甲子園 in 品川インターシティホール",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
+    "id": "hbn-2026-05-30-live--in-kanda-square-hal-27dd4ce7",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京｜アイドル甲子園 in KANDA SQUARE HALL",
+    "date": "2026-05-30",
+    "description": "東京｜アイドル甲子園 in KANDA SQUARE HALL",
+    "created_at": "2026-06-04T05:00:32.439Z"
+  },
+  {
+    "id": "hbn-2026-05-31-live--idol-storm-ed57cd",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京｜IDOL STORM",
+    "date": "2026-05-31",
+    "description": "東京｜IDOL STORM",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
+    "id": "hbn-2026-05-31-live--in--6d1c75b7",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京｜アイドル甲子園 in 品川インターシティホール",
+    "date": "2026-05-31",
+    "description": "東京｜アイドル甲子園 in 品川インターシティホール",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
+    "id": "hbn-2026-05-31-live--in-kanda-square-hal-39754fb8",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京｜アイドル甲子園 in KANDA SQUARE HALL",
+    "date": "2026-05-31",
+    "description": "東京｜アイドル甲子園 in KANDA SQUARE HALL",
+    "created_at": "2026-06-04T05:00:32.439Z"
+  },
+  {
+    "id": "hbn-2026-06-01-free--tif-live-free-live-7693fcac",
+    "group_id": "hbn",
+    "type": "free",
+    "title": "東京｜TIFメインステージ争奪LIVE 決起集会FREE LIVE",
+    "date": "2026-06-01",
+    "description": "東京｜TIFメインステージ争奪LIVE 決起集会FREE LIVE",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
+    "id": "hbn-2026-06-05-live---2a0d4a72",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "🌈大阪｜導火閃",
+    "date": "2026-06-05",
+    "description": "🌈大阪｜導火閃",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
+    "id": "hbn-2026-06-06-live---5d84b23f",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "🌈東京｜導花閃",
+    "date": "2026-06-06",
+    "description": "🌈東京｜導花閃",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
+    "id": "hbn-2026-06-07-live--tif2026-live--41c24114",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "❤️‍🔥東京｜TIF2026メインステージ争奪LIVE 前哨戦",
+    "date": "2026-06-07",
+    "description": "❤️‍🔥東京｜TIF2026メインステージ争奪LIVE 前哨戦",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
+    "id": "hbn-2026-06-08-free--tif-live-free-live-14c26693",
+    "group_id": "hbn",
+    "type": "free",
+    "title": "東京｜TIFメインステージ争奪LIVE 決起集会FREE LIVE",
+    "date": "2026-06-08",
+    "description": "東京｜TIFメインステージ争奪LIVE 決起集会FREE LIVE",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
+    "id": "hbn-2026-06-10-live--soul-77f7875b",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京｜SOUL",
+    "date": "2026-06-10",
+    "description": "東京｜SOUL",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
+    "id": "hbn-2026-06-10-live--shibuya-stadium-117b6806",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京｜SHIBUYA STADIUM",
+    "date": "2026-06-10",
+    "description": "東京｜SHIBUYA STADIUM",
+    "created_at": "2026-06-04T05:00:32.438Z"
+  },
+  {
+    "id": "hbn-2026-06-12-live--electrocute-8fb120d",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "🌈大阪｜ELECTROCUTE",
+    "date": "2026-06-12",
+    "description": "🌈大阪｜ELECTROCUTE",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
+    "id": "hbn-2026-06-13-live---7fce013a",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "大阪｜熱夏到来",
+    "date": "2026-06-13",
+    "description": "大阪｜熱夏到来",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
+    "id": "hbn-2026-06-13-live--in-kanda-square-hal-9473a8b",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京｜アイドル甲子園 in KANDA SQUARE HALL",
+    "date": "2026-06-13",
+    "description": "東京｜アイドル甲子園 in KANDA SQUARE HALL",
+    "created_at": "2026-06-04T05:00:32.438Z"
+  },
+  {
+    "id": "hbn-2026-06-14-live--girls-girls-festiva-540b0a84",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "神奈川｜GIRLS GIRLS FESTIVAL 2026",
+    "date": "2026-06-14",
+    "description": "神奈川｜GIRLS GIRLS FESTIVAL 2026",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
+    "id": "hbn-2026-06-14-live--in-kanda-square-hal-580b6214",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京｜アイドル甲子園 in KANDA SQUARE HALL",
+    "date": "2026-06-14",
+    "description": "東京｜アイドル甲子園 in KANDA SQUARE HALL",
+    "created_at": "2026-06-04T05:00:32.438Z"
+  },
+  {
     "id": "hbn-2026-06-15-free--tif-live-free-live-7283f1d1",
     "group_id": "hbn",
     "type": "free",
@@ -69,6 +501,33 @@
     "date": "2026-06-15",
     "description": "東京｜TIFメインステージ争奪LIVE 決起集会FREE LIVE",
     "created_at": "2026-06-04T01:08:13.206Z"
+  },
+  {
+    "id": "hbn-2026-06-17-live--shibuya-stadium-74294cff",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京｜SHIBUYA STADIUM",
+    "date": "2026-06-17",
+    "description": "東京｜SHIBUYA STADIUM",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
+    "id": "hbn-2026-06-17-live---fd98e0f",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京",
+    "date": "2026-06-17",
+    "description": "東京",
+    "created_at": "2026-06-04T05:00:32.438Z"
+  },
+  {
+    "id": "hbn-2026-06-18-live--soul-69093a63",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京｜SOUL",
+    "date": "2026-06-18",
+    "description": "東京｜SOUL",
+    "created_at": "2026-06-04T05:00:32.438Z"
   },
   {
     "id": "hbn-2026-06-19-live---1ef23c71",
@@ -89,6 +548,15 @@
     "created_at": "2026-06-04T01:08:13.206Z"
   },
   {
+    "id": "hbn-2026-06-20-live--in-kanda-square-hal-643e1927",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京｜アイドル甲子園 in KANDA SQUARE HALL",
+    "date": "2026-06-20",
+    "description": "東京｜アイドル甲子園 in KANDA SQUARE HALL",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
     "id": "hbn-2026-06-21-live--tif2026-live--498c2adc",
     "group_id": "hbn",
     "type": "live",
@@ -98,6 +566,141 @@
     "created_at": "2026-06-04T01:08:13.206Z"
   },
   {
+    "id": "hbn-2026-06-21-live--in-kanda-square-hal-2eb7c88",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京｜アイドル甲子園 in KANDA SQUARE HALL",
+    "date": "2026-06-21",
+    "description": "東京｜アイドル甲子園 in KANDA SQUARE HALL",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
+    "id": "hbn-2026-06-21-live--beats--5bc4f9f7",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "大阪｜∞Beats (エイトビーツ)",
+    "date": "2026-06-21",
+    "description": "大阪｜∞Beats (エイトビーツ)",
+    "created_at": "2026-06-04T05:00:32.438Z"
+  },
+  {
+    "id": "hbn-2026-06-23-free--free-55f03663",
+    "group_id": "hbn",
+    "type": "free",
+    "title": "神奈川｜ハルライズ FREE",
+    "date": "2026-06-23",
+    "description": "神奈川｜ハルライズ FREE",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
+    "id": "hbn-2026-06-24-free--tif-live-free-live-57f9d40d",
+    "group_id": "hbn",
+    "type": "free",
+    "title": "東京｜TIFメインステージ争奪LIVE 決起集会FREE LIVE",
+    "date": "2026-06-24",
+    "description": "東京｜TIFメインステージ争奪LIVE 決起集会FREE LIVE",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
+    "id": "hbn-2026-06-24-live--neo-spark-77c98972",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "大阪｜NEO SPARK",
+    "date": "2026-06-24",
+    "description": "大阪｜NEO SPARK",
+    "created_at": "2026-06-04T05:00:32.438Z"
+  },
+  {
+    "id": "hbn-2026-06-25-live--saboriryu-76658ace",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京｜SABORIRYU",
+    "date": "2026-06-25",
+    "description": "東京｜SABORIRYU",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
+    "id": "hbn-2026-06-27-live--in-kanda-square-hal-45042f32",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京｜アイドル甲子園 in KANDA SQUARE HALL",
+    "date": "2026-06-27",
+    "description": "東京｜アイドル甲子園 in KANDA SQUARE HALL",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
+    "id": "hbn-2026-06-27-live--festival-2026-7caa55fa",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京｜アイドル甲子園FESTIVAL 2026",
+    "date": "2026-06-27",
+    "description": "東京｜アイドル甲子園FESTIVAL 2026",
+    "created_at": "2026-06-04T05:00:32.438Z"
+  },
+  {
+    "id": "hbn-2026-06-28-live--in-kanda-square-hal-59a9342f",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京｜アイドル甲子園 in KANDA SQUARE HALL",
+    "date": "2026-06-28",
+    "description": "東京｜アイドル甲子園 in KANDA SQUARE HALL",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
+    "id": "hbn-2026-06-28-live--festival-2026-7bfdaa5b",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京｜アイドル甲子園FESTIVAL 2026",
+    "date": "2026-06-28",
+    "description": "東京｜アイドル甲子園FESTIVAL 2026",
+    "created_at": "2026-06-04T05:00:32.438Z"
+  },
+  {
+    "id": "hbn-2026-07-01-live---760bf3d5",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京",
+    "date": "2026-07-01",
+    "description": "東京",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
+    "id": "hbn-2026-07-02-live--soul-42927fa3",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京｜SOUL",
+    "date": "2026-07-02",
+    "description": "東京｜SOUL",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
+    "id": "hbn-2026-07-04-live--natsuzome-2026-254840ec",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "千葉｜超NATSUZOME 2026",
+    "date": "2026-07-04",
+    "description": "千葉｜超NATSUZOME 2026",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
+    "id": "hbn-2026-07-05-live--beats--5de564d2",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "大阪｜∞Beats (エイトビーツ)",
+    "date": "2026-07-05",
+    "description": "大阪｜∞Beats (エイトビーツ)",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
+    "id": "hbn-2026-07-05-live--maverick-78be4dbf",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "神奈川｜MAVERICK",
+    "date": "2026-07-05",
+    "description": "神奈川｜MAVERICK",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
     "id": "hbn-2026-07-06-live--sync-35f63539",
     "group_id": "hbn",
     "type": "live",
@@ -105,6 +708,15 @@
     "date": "2026-07-06",
     "description": "東京｜SYNC",
     "created_at": "2026-06-04T01:09:45.070Z"
+  },
+  {
+    "id": "hbn-2026-07-06-live---6f4a3730",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京",
+    "date": "2026-07-06",
+    "description": "東京",
+    "created_at": "2026-06-04T05:00:32.439Z"
   },
   {
     "id": "hbn-2026-07-07-live--kassen-gw-sp--69908109",
@@ -143,6 +755,15 @@
     "created_at": "2026-06-04T01:09:45.070Z"
   },
   {
+    "id": "hbn-2026-07-11-live---7e3d7d4a",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京",
+    "date": "2026-07-11",
+    "description": "東京",
+    "created_at": "2026-06-04T05:00:32.439Z"
+  },
+  {
     "id": "hbn-2026-07-12-live--mawa-loop-osaka-202-13f528b2",
     "group_id": "hbn",
     "type": "live",
@@ -150,6 +771,42 @@
     "date": "2026-07-12",
     "description": "大阪｜MAWA LOOP OSAKA 2026",
     "created_at": "2026-06-04T01:09:45.070Z"
+  },
+  {
+    "id": "hbn-2026-07-12-live---1281ec4b",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京",
+    "date": "2026-07-12",
+    "description": "東京",
+    "created_at": "2026-06-04T05:00:32.439Z"
+  },
+  {
+    "id": "hbn-2026-07-13-live---440d4e58",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "🌈東京",
+    "date": "2026-07-13",
+    "description": "🌈東京",
+    "created_at": "2026-06-04T05:00:32.439Z"
+  },
+  {
+    "id": "hbn-2026-07-15-live--neo-spark-b3b4371",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "大阪｜NEO SPARK",
+    "date": "2026-07-15",
+    "description": "大阪｜NEO SPARK",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
+    "id": "hbn-2026-07-17-live---7d42684f",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "🎂大阪｜由茉生誕ライブ",
+    "date": "2026-07-17",
+    "description": "🎂大阪｜由茉生誕ライブ",
+    "created_at": "2026-06-04T05:00:32.439Z"
   },
   {
     "id": "hbn-2026-07-18-live--natsuzome-2026-12adb9c9",
@@ -161,6 +818,33 @@
     "created_at": "2026-06-04T01:09:45.070Z"
   },
   {
+    "id": "hbn-2026-07-18-live--festival-2026-130eb69b",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京｜アイドル甲子園FESTIVAL 2026",
+    "date": "2026-07-18",
+    "description": "東京｜アイドル甲子園FESTIVAL 2026",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
+    "id": "hbn-2026-07-18-live---73e379af",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京",
+    "date": "2026-07-18",
+    "description": "東京",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
+    "id": "hbn-2026-07-18-live--eden-summer-363435a5",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "大阪｜超Eden SUMMER",
+    "date": "2026-07-18",
+    "description": "大阪｜超Eden SUMMER",
+    "created_at": "2026-06-04T05:00:32.439Z"
+  },
+  {
     "id": "hbn-2026-07-19-live--maverick-68f654de",
     "group_id": "hbn",
     "type": "live",
@@ -168,6 +852,159 @@
     "date": "2026-07-19",
     "description": "神奈川｜MAVERICK",
     "created_at": "2026-06-04T01:09:45.070Z"
+  },
+  {
+    "id": "hbn-2026-07-19-live--festival-2026-12620afc",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京｜アイドル甲子園FESTIVAL 2026",
+    "date": "2026-07-19",
+    "description": "東京｜アイドル甲子園FESTIVAL 2026",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
+    "id": "hbn-2026-07-19-live---2060f552",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京",
+    "date": "2026-07-19",
+    "description": "東京",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
+    "id": "hbn-2026-07-20-live---21bd8098",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京",
+    "date": "2026-07-20",
+    "description": "東京",
+    "created_at": "2026-06-04T05:00:32.439Z"
+  },
+  {
+    "id": "hbn-2026-07-22-live--utage-fes-vol-5-3b37e1a4",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京｜UTAGE FES Vol.5",
+    "date": "2026-07-22",
+    "description": "東京｜UTAGE FES Vol.5",
+    "created_at": "2026-06-04T05:00:32.439Z"
+  },
+  {
+    "id": "hbn-2026-07-25-live---3c675593",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京",
+    "date": "2026-07-25",
+    "description": "東京",
+    "created_at": "2026-06-04T05:00:32.439Z"
+  },
+  {
+    "id": "hbn-2026-07-26-live---57dd196e",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京",
+    "date": "2026-07-26",
+    "description": "東京",
+    "created_at": "2026-06-04T05:00:32.439Z"
+  },
+  {
+    "id": "hbn-2026-07-27-live---60ae4145",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "🌈東京",
+    "date": "2026-07-27",
+    "description": "🌈東京",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
+    "id": "hbn-2026-07-28-live---3434fe04",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "🌈大阪",
+    "date": "2026-07-28",
+    "description": "🌈大阪",
+    "created_at": "2026-06-04T05:00:32.439Z"
+  },
+  {
+    "id": "hbn-2026-07-31-live---7a87ca87",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "🎂大阪｜由茉生誕ライブ",
+    "date": "2026-07-31",
+    "description": "🎂大阪｜由茉生誕ライブ",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
+    "id": "hbn-2026-07-31-live--tokyo-idol-festival-7950c155",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京｜TOKYO IDOL FESTIVAL 2026supported by にしたんクリニック",
+    "date": "2026-07-31",
+    "description": "東京｜TOKYO IDOL FESTIVAL 2026supported by にしたんクリニック",
+    "created_at": "2026-06-04T05:00:32.439Z"
+  },
+  {
+    "id": "hbn-2026-08-01-live--natsuzome-2026-3ef7df70",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "千葉｜超NATSUZOME 2026",
+    "date": "2026-08-01",
+    "description": "千葉｜超NATSUZOME 2026",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
+    "id": "hbn-2026-08-01-live--eden-summer-3d7530f4",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "大阪｜超Eden SUMMER",
+    "date": "2026-08-01",
+    "description": "大阪｜超Eden SUMMER",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
+    "id": "hbn-2026-08-01-live--tokyo-idol-festival-194a7313",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京｜TOKYO IDOL FESTIVAL 2026supported by にしたんクリニック",
+    "date": "2026-08-01",
+    "description": "東京｜TOKYO IDOL FESTIVAL 2026supported by にしたんクリニック",
+    "created_at": "2026-06-04T05:00:32.439Z"
+  },
+  {
+    "id": "hbn-2026-08-02-live--maverick-69bb1ce5",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "神奈川｜MAVERICK",
+    "date": "2026-08-02",
+    "description": "神奈川｜MAVERICK",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
+    "id": "hbn-2026-08-02-live---25ea208b",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京",
+    "date": "2026-08-02",
+    "description": "東京",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
+    "id": "hbn-2026-08-02-live--tokyo-idol-festival-1a80c5f2",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京｜TOKYO IDOL FESTIVAL 2026supported by にしたんクリニック",
+    "date": "2026-08-02",
+    "description": "東京｜TOKYO IDOL FESTIVAL 2026supported by にしたんクリニック",
+    "created_at": "2026-06-04T05:00:32.439Z"
+  },
+  {
+    "id": "hbn-2026-08-10-live---e554c58",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京",
+    "date": "2026-08-10",
+    "description": "東京",
+    "created_at": "2026-06-04T01:52:03.114Z"
   },
   {
     "id": "hbn-2026-08-12-live--shibuya-stadium-2778bf46",
@@ -179,6 +1016,15 @@
     "created_at": "2026-06-04T01:08:13.206Z"
   },
   {
+    "id": "hbn-2026-08-12-live--utage-fes-vol-5-4c402d64",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京｜UTAGE FES Vol.5",
+    "date": "2026-08-12",
+    "description": "東京｜UTAGE FES Vol.5",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
     "id": "hbn-2026-08-15-live--in-kanda-square-hal-2d61ab4b",
     "group_id": "hbn",
     "type": "live",
@@ -188,6 +1034,15 @@
     "created_at": "2026-06-04T01:08:13.206Z"
   },
   {
+    "id": "hbn-2026-08-15-live---28ff2153",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京",
+    "date": "2026-08-15",
+    "description": "東京",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
     "id": "hbn-2026-08-16-live--in-kanda-square-hal-33f0f154",
     "group_id": "hbn",
     "type": "live",
@@ -195,6 +1050,15 @@
     "date": "2026-08-16",
     "description": "東京｜アイドル甲子園 in KANDA SQUARE HALL",
     "created_at": "2026-06-04T01:08:13.206Z"
+  },
+  {
+    "id": "hbn-2026-08-16-live---6b454dae",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京",
+    "date": "2026-08-16",
+    "description": "東京",
+    "created_at": "2026-06-04T01:52:03.114Z"
   },
   {
     "id": "hbn-2026-08-22-live-2026-8db06960",
@@ -209,6 +1073,15 @@
     "created_at": "2026-05-28T11:00:00Z"
   },
   {
+    "id": "hbn-2026-08-25-live---5764af60",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "🌈大阪",
+    "date": "2026-08-25",
+    "description": "🌈大阪",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
     "id": "hbn-2026-08-28-free-a-villa-idol-festival-hokkai-3724bb90",
     "group_id": "hbn",
     "type": "free",
@@ -219,6 +1092,15 @@
     "post_url": "https://nitter.net/HBN_187/status/2058866339800817879#m",
     "image_url": "https://nitter.net/pic/media%2FHJKQBW6asAABHF2.jpg",
     "created_at": "2026-05-25T11:02:41Z"
+  },
+  {
+    "id": "hbn-2026-08-28-live--tokyo-idol-festival-6ceec92e",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京｜TOKYO IDOL FESTIVAL 2026supported by にしたんクリニック",
+    "date": "2026-08-28",
+    "description": "東京｜TOKYO IDOL FESTIVAL 2026supported by にしたんクリニック",
+    "created_at": "2026-06-04T01:52:03.114Z"
   },
   {
     "id": "hbn-2026-08-29-free-a-villa-idol-festival-hokkai-7e47ef05",
@@ -234,6 +1116,15 @@
     "created_at": "2026-05-25T11:02:41Z"
   },
   {
+    "id": "hbn-2026-08-29-live--tokyo-idol-festival-6e251c0d",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京｜TOKYO IDOL FESTIVAL 2026supported by にしたんクリニック",
+    "date": "2026-08-29",
+    "description": "東京｜TOKYO IDOL FESTIVAL 2026supported by にしたんクリニック",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
     "id": "hbn-2026-08-30-free-a-villa-idol-festival-hokkai-b5723d54",
     "group_id": "hbn",
     "type": "free",
@@ -244,6 +1135,15 @@
     "post_url": "https://nitter.net/HBN_187/status/2058866339800817879#m",
     "image_url": "https://nitter.net/pic/media%2FHJKQBW6asAABHF2.jpg",
     "created_at": "2026-05-25T11:02:41Z"
+  },
+  {
+    "id": "hbn-2026-08-30-live--tokyo-idol-festival-772fc4c9",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京｜TOKYO IDOL FESTIVAL 2026supported by にしたんクリニック",
+    "date": "2026-08-30",
+    "description": "東京｜TOKYO IDOL FESTIVAL 2026supported by にしたんクリニック",
+    "created_at": "2026-06-04T01:52:03.114Z"
   },
   {
     "id": "hbn-2026-08-31-live--2026-in-janus-58791059",

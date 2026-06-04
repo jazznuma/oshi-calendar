@@ -46,6 +46,7 @@ const path = require('path');
       console.log(`==================================================`);
       
       const page = await browser.newPage();
+      page.on('console', msg => console.log('BROWSER CONSOLE:', msg.text()));
       await page.setViewport({ width: 1200, height: 1000 });
       
       const targetUrl = `https://timetreeapp.com/public_calendars/${group.timetree_id}`;
@@ -208,6 +209,8 @@ async function parseCurrentMonth(page) {
     const currentYear = parseInt(yearMatch[1]);
     const currentMonth = parseInt(monthMatch[1]);
     
+    console.log("Parsed MonthText:", monthText, "Year:", currentYear, "Month:", currentMonth);
+    
     // 当月の1日を取得
     const firstDayOfMonth = new Date(currentYear, currentMonth - 1, 1);
     const dayOfWeekOfFirst = firstDayOfMonth.getDay(); // 0=日, 1=月, ..., 6=土
@@ -215,6 +218,22 @@ async function parseCurrentMonth(page) {
     
     const startDate = new Date(firstDayOfMonth);
     startDate.setDate(firstDayOfMonth.getDate() - daysToSubtract);
+    
+    // すべての日付セルから row を収集して週のベース行を特定する
+    const dateCellRows = [];
+    const allElements = Array.from(document.querySelectorAll('*'));
+    allElements.forEach(el => {
+      const cls = el.className;
+      if (typeof cls !== 'string') return;
+      if (cls.includes('1lkmlsa') && /^\d+$/.test(el.innerText.trim())) {
+        const style = el.getAttribute('style') || '';
+        const rowMatch = style.match(/--[a-zA-Z0-9_]+1:\s*(\d+)/);
+        if (rowMatch) {
+          dateCellRows.push(parseInt(rowMatch[1]));
+        }
+      }
+    });
+    const rowValues = Array.from(new Set(dateCellRows)).sort((a, b) => a - b);
     
     // すべてのイベントボタン要素を取得
     const eventButtons = Array.from(document.querySelectorAll('button')).filter(btn => {
@@ -231,10 +250,20 @@ async function parseCurrentMonth(page) {
       if (!colMatch || !rowMatch) return;
       
       const col = parseInt(colMatch[1]); // 曜日 (1=月, ..., 7=日)
-      const row = parseInt(rowMatch[1]); // 週 (1=1週目, ...)
+      const row = parseInt(rowMatch[1]); // グリッド行 (ベース行 + オフセット)
+      
+      // rowValues から weekIndex を決定する (レスポンシブな行数変化に対応)
+      let weekIndex = 0;
+      const baseRows = rowValues.length > 0 ? rowValues : [2, 12, 22, 32, 42];
+      for (let i = baseRows.length - 1; i >= 0; i--) {
+        if (baseRows[i] <= row) {
+          weekIndex = i;
+          break;
+        }
+      }
       
       const eventDate = new Date(startDate);
-      eventDate.setDate(startDate.getDate() + (row - 1) * 7 + (col - 1));
+      eventDate.setDate(startDate.getDate() + weekIndex * 7 + (col - 1));
       
       const y = eventDate.getFullYear();
       const m = String(eventDate.getMonth() + 1).padStart(2, '0');
@@ -246,6 +275,8 @@ async function parseCurrentMonth(page) {
       
       const title = titleSpan ? titleSpan.innerText.trim() : btn.innerText.trim();
       const time_start = timeSpan ? timeSpan.innerText.trim() : null;
+      
+      console.log(`Event "${title}" (row:${row}, col:${col}) -> weekIndex:${weekIndex} -> Calculated Date:${dateStr} (startDate was ${startDate.getFullYear()}-${startDate.getMonth()+1}-${startDate.getDate()})`);
       
       events.push({
         title,
