@@ -1073,6 +1073,19 @@
     "created_at": "2026-05-28T11:00:00Z"
   },
   {
+    "id": "hbn-2026-08-22-live-2026-a93f3e9d",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "でびぱっぱ夏祭 2026 〜東の陣〜",
+    "date": "2026-08-22",
+    "time_start": "9:45",
+    "ticket_url": "https://nitter.net/HBN_187/status/2059952825220689942#m",
+    "description": "💥日割解禁💥 / ㅤ / Devil ANTHEM. presents / 『でびぱっぱ夏祭 2026 〜東の陣〜』",
+    "post_url": "https://nitter.net/HBN_187/status/2062112056745287729#m",
+    "image_url": "https://nitter.net/pic/media%2FHJ003MIbsAAwYmq.jpg",
+    "created_at": "2026-06-03T10:00:01Z"
+  },
+  {
     "id": "hbn-2026-08-25-live---5764af60",
     "group_id": "hbn",
     "type": "live",
@@ -1103,6 +1116,15 @@
     "created_at": "2026-06-04T01:52:03.114Z"
   },
   {
+    "id": "hbn-2026-08-29-live--tokyo-idol-festival-6e251c0d",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "東京｜TOKYO IDOL FESTIVAL 2026supported by にしたんクリニック",
+    "date": "2026-08-29",
+    "description": "東京｜TOKYO IDOL FESTIVAL 2026supported by にしたんクリニック",
+    "created_at": "2026-06-04T01:52:03.114Z"
+  },
+  {
     "id": "hbn-2026-08-29-free-a-villa-idol-festival-hokkai-7e47ef05",
     "group_id": "hbn",
     "type": "free",
@@ -1114,15 +1136,6 @@
     "post_url": "https://nitter.net/HBN_187/status/2058866339800817879#m",
     "image_url": "https://nitter.net/pic/media%2FHJKQBW6asAABHF2.jpg",
     "created_at": "2026-05-25T11:02:41Z"
-  },
-  {
-    "id": "hbn-2026-08-29-live--tokyo-idol-festival-6e251c0d",
-    "group_id": "hbn",
-    "type": "live",
-    "title": "東京｜TOKYO IDOL FESTIVAL 2026supported by にしたんクリニック",
-    "date": "2026-08-29",
-    "description": "東京｜TOKYO IDOL FESTIVAL 2026supported by にしたんクリニック",
-    "created_at": "2026-06-04T01:52:03.114Z"
   },
   {
     "id": "hbn-2026-08-30-free-a-villa-idol-festival-hokkai-b5723d54",
@@ -1228,6 +1241,19 @@
     "post_url": "https://nitter.net/HBN_187/status/2059952828127584735#m",
     "image_url": "https://nitter.net/pic/media%2FHJYy2_FaYAAh075.jpg",
     "created_at": "2026-05-28T11:00:00Z"
+  },
+  {
+    "id": "hbn-2026-09-20-live-2026-a6bc7869",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "でびぱっぱ夏祭2026〜西の陣〜",
+    "date": "2026-09-20",
+    "time_start": "10:30",
+    "ticket_url": "https://nitter.net/HBN_187/status/2059952828127584735#m",
+    "description": "💥日割解禁💥 / ㅤ / Devil ANTHEM. presents / 『でびぱっぱ夏祭2026〜西の陣〜』",
+    "post_url": "https://nitter.net/HBN_187/status/2062112055771931116#m",
+    "image_url": "https://nitter.net/pic/media%2FHJ00_i5aEAAqPlC.jpg",
+    "created_at": "2026-06-03T10:00:00Z"
   },
   {
     "id": "hbn-2026-10-07-live---43c9d8e7",

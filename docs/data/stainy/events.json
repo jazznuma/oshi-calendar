@@ -598,6 +598,17 @@
     "created_at": "2026-06-02T10:00:08Z"
   },
   {
+    "id": "stainy-2026-06-03-ticket-event-0eddbb71",
+    "group_id": "stainy",
+    "type": "ticket",
+    "title": "佐々木ひまり生誕祭 チケ発",
+    "date": "2026-06-03",
+    "time_start": "22:00",
+    "post_url": "https://nitter.net/STAiNY_official/status/2061749699728863301#m",
+    "image_url": "https://nitter.net/pic/media%2FHJzOaMIbIAEHNa6.jpg",
+    "created_at": "2026-06-02T10:00:08Z"
+  },
+  {
     "id": "stainy-2026-06-03-live---bda40a8",
     "group_id": "stainy",
     "type": "live",
@@ -1067,6 +1078,21 @@
     "created_at": "2026-06-02T10:00:08Z"
   },
   {
+    "id": "stainy-2026-06-21-live-event-cf1c0a4d",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "佐々木ひまり生誕祭",
+    "date": "2026-06-21",
+    "time_open": "10:30",
+    "time_start": "11:00",
+    "venue": "下北沢シャングリラ",
+    "price": "優先3000円/通常2000円/当日2500円(各1D別)",
+    "description": "【6/21(日)生誕祭情報🎂🧡ྀི】 / 「佐々木ひまり生誕祭」 / 🏟下北沢シャングリラ / 🚪開場10:30🏁開演11:00",
+    "post_url": "https://nitter.net/STAiNY_official/status/2061749699728863301#m",
+    "image_url": "https://nitter.net/pic/media%2FHJzOaMIbIAEHNa6.jpg",
+    "created_at": "2026-06-02T10:00:08Z"
+  },
+  {
     "id": "stainy-2026-06-21-live-girls-girls-2353cdc1",
     "group_id": "stainy",
     "type": "live",
@@ -1170,6 +1196,40 @@
     "created_at": "2026-06-04T04:56:29.425Z"
   },
   {
+    "id": "stainy-2026-06-23-release-event-952a3fdb",
+    "group_id": "stainy",
+    "type": "release",
+    "title": "ドンチューライアー",
+    "date": "2026-06-23",
+    "description": "／ / 👾明日のSTAiNY✨ / 💽1stアルバム「ドンチューライアー」 / 🚀リリースイベント東京編🤖",
+    "ticket_url": "https://entabaonline.stores.jp/?category_id=69cf44b98474878675f5b41c",
+    "post_url": "https://nitter.net/STAiNY_official/status/2061791566658957332#m",
+    "image_url": "https://nitter.net/pic/media%2FHJz0fNFbAAAq4QO.jpg",
+    "created_at": "2026-06-02T12:46:30Z"
+  },
+  {
+    "id": "stainy-2026-06-23-release-event-00dd7220",
+    "group_id": "stainy",
+    "type": "release",
+    "title": "ドンチューライアー",
+    "date": "2026-06-23",
+    "description": "／ / 💽STAiNY 1stアルバム / 「ドンチューライアー」 / リリースイベント追加日程&TT解禁✨",
+    "post_url": "https://nitter.net/STAiNY_official/status/2061428750626283537#m",
+    "image_url": "https://nitter.net/pic/media%2FHJuqg3saAAApWQj.jpg",
+    "created_at": "2026-06-01T12:44:48Z"
+  },
+  {
+    "id": "stainy-2026-06-23-release-event-3877e8a3",
+    "group_id": "stainy",
+    "type": "release",
+    "title": "ドンチューライアー",
+    "date": "2026-06-23",
+    "description": "／ / 👾STAiNY「ドンチューライアー」 / 📺MBS「かまいたちの知らんけど」 / 🗓6月度エンディングテーマに決定‼️",
+    "post_url": "https://nitter.net/STAiNY_official/status/2060760752068481048#m",
+    "image_url": "https://nitter.net/pic/media%2FHJlK-7MaEAA2HjW.jpg",
+    "created_at": "2026-05-30T16:30:25Z"
+  },
+  {
     "id": "stainy-2026-06-24-live-parad-i-se-vol-5-2-s-5d482df6",
     "group_id": "stainy",
     "type": "live",
@@ -1192,6 +1252,20 @@
     "group_id": "stainy",
     "type": "live",
     "title": "「SWEET PARTT」",
+    "date": "2026-06-26",
+    "time_open": "16:45",
+    "time_start": "17:15",
+    "venue": "白金高輪SELENE b2",
+    "description": "【6/26(金)対バン情報✨】 / 「SWEET PARTT」 / 🏟白金高輪SELENE b2 / 🚪開場16:45/🏁開演17:15",
+    "post_url": "https://nitter.net/STAiNY_official/status/2060323359335063633#m",
+    "image_url": "https://nitter.net/pic/media%2FHJe9K9kbMAA3TAn.jpg",
+    "created_at": "2026-05-29T11:32:22Z"
+  },
+  {
+    "id": "stainy-2026-06-26-live-sweet-partt-4972b688",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "SWEET PARTT",
     "date": "2026-06-26",
     "time_open": "16:45",
     "time_start": "17:15",

@@ -268,6 +268,34 @@
     "created_at": "2026-05-31T23:00:35Z"
   },
   {
+    "id": "anthurium-2026-06-04-live-hype-idol-dx-5a85fbf5",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "HYPE IDOL！ DX",
+    "date": "2026-06-04",
+    "time_open": "9:45",
+    "time_start": "10:00",
+    "venue": "豊洲PIT",
+    "description": "\\\\\\✨️本日✨️/// / 『HYPE IDOL！ DX』 / 6/4(木) / 📍 豊洲PIT",
+    "post_url": "https://nitter.net/anthurium0317/status/2062376787292918179#m",
+    "image_url": "https://nitter.net/pic/media%2FHJ8IwcsaUAAfMLC.jpg",
+    "created_at": "2026-06-04T03:31:57Z"
+  },
+  {
+    "id": "anthurium-2026-06-04-live-hype-idol-dx-81440723",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "HYPE IDOL！ DX",
+    "date": "2026-06-04",
+    "time_open": "9:45",
+    "time_start": "10:00",
+    "venue": "豊洲PIT",
+    "description": "\\\\\\✨️明日✨️/// / 『HYPE IDOL！ DX』 / 6/4(木) / 📍 豊洲PIT",
+    "post_url": "https://nitter.net/anthurium0317/status/2062096977459089444#m",
+    "image_url": "https://nitter.net/pic/media%2FHJ4KRVmbYAA34r9.jpg",
+    "created_at": "2026-06-03T09:00:05Z"
+  },
+  {
     "id": "anthurium-2026-06-04-live--hype-idol-dx--4ea3441c",
     "group_id": "anthurium",
     "type": "live",
@@ -277,6 +305,20 @@
     "created_at": "2026-06-04T01:51:55.645Z"
   },
   {
+    "id": "anthurium-2026-06-04-live-festival-2026-c0f54892",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "アイドル甲子園 FESTIVAL 2026",
+    "date": "2026-06-04",
+    "time_open": "9:00",
+    "time_start": "9:30",
+    "venue": "TFTホール 1000・500・300",
+    "description": "\\\\\\✨️出演決定✨️/// / 「アイドル甲子園 FESTIVAL 2026」supported by My-th -DAY2- / 6/28(日) / 📍 TFTホール 1000・500・300",
+    "post_url": "https://nitter.net/anthurium0317/status/2062089466198872452#m",
+    "image_url": "https://nitter.net/pic/media%2FHJ4DcFxa0AArY-S.jpg",
+    "created_at": "2026-06-03T08:30:15Z"
+  },
+  {
     "id": "anthurium-2026-06-06-live---3b0a86f8",
     "group_id": "anthurium",
     "type": "live",
@@ -284,6 +326,20 @@
     "date": "2026-06-06",
     "description": "ワンマン御礼後日特典会",
     "created_at": "2026-06-04T01:51:55.645Z"
+  },
+  {
+    "id": "anthurium-2026-06-07-live-2026-5d0e1dde",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "でびぱっぱ夏祭 2026 〜東の陣〜",
+    "date": "2026-06-07",
+    "time_open": "9:45",
+    "time_start": "10:30",
+    "venue": "三崎公園野外音楽堂",
+    "description": "\\\\\\✨️日割り公開✨️/// / Devil ANTHEM. presents / 「でびぱっぱ夏祭 2026 〜東の陣〜」 / 8/22,23(土,日)",
+    "post_url": "https://nitter.net/anthurium0317/status/2062112146729644069#m",
+    "image_url": "https://nitter.net/pic/media%2FHJ4YEFza4AAFB4O.jpg",
+    "created_at": "2026-06-03T10:00:22Z"
   },
   {
     "id": "anthurium-2026-06-07-live--leading--4d595760",
@@ -329,6 +385,21 @@
     "date": "2026-06-13",
     "description": "「アイドル甲子園 in KANDA SQUARE HALL」supported by My-th -DAY1-",
     "created_at": "2026-06-04T05:00:24.788Z"
+  },
+  {
+    "id": "anthurium-2026-06-13-live-in-kanda-square-hall-8505e004",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "アイドル甲子園 in KANDA SQUARE HALL",
+    "date": "2026-06-13",
+    "time_open": "9:15",
+    "time_start": "9:30",
+    "venue": "KANDA SQUARE HALL",
+    "ticket_url": "https://user.my-th.jp/login?redirect=/tickets/event/aikou_0613",
+    "description": "\\\\\\✨️ TT公開✨️/// / 「アイドル甲子園 in KANDA SQUARE HALL」supported by My-th -DAY1- / 6/13(土) / 📍 KANDA SQUARE HALL",
+    "post_url": "https://nitter.net/anthurium0317/status/2062081966426800331#m",
+    "image_url": "https://nitter.net/pic/media%2FHJ38nl4aAAAtB4N.jpg",
+    "created_at": "2026-06-03T08:00:27Z"
   },
   {
     "id": "anthurium-2026-06-14-live-inuwasi-presents--6d4287c7",
@@ -510,6 +581,20 @@
     "date": "2026-06-28",
     "description": "「アイドル甲子園 FESTIVAL 2026」supported by My-th -DAY2-",
     "created_at": "2026-06-04T05:00:24.789Z"
+  },
+  {
+    "id": "anthurium-2026-06-28-live-festival-2026-e1faf70b",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "アイドル甲子園 FESTIVAL 2026",
+    "date": "2026-06-28",
+    "time_open": "9:00",
+    "time_start": "9:30",
+    "venue": "TFTホール 1000・500・300",
+    "description": "\\\\\\✨️出演決定✨️/// / 「アイドル甲子園 FESTIVAL 2026」supported by My-th -DAY2- / 6/28(日) / 📍 TFTホール 1000・500・300",
+    "post_url": "https://nitter.net/anthurium0317/status/2062089466198872452#m",
+    "image_url": "https://nitter.net/pic/media%2FHJ4DcFxa0AArY-S.jpg",
+    "created_at": "2026-06-03T08:30:15Z"
   },
   {
     "id": "anthurium-2026-06-30-live---14db9ceb",
@@ -746,6 +831,20 @@
     "created_at": "2026-06-04T01:51:55.645Z"
   },
   {
+    "id": "anthurium-2026-08-22-live-2026-71fb06f0",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "でびぱっぱ夏祭 2026 〜東の陣〜",
+    "date": "2026-08-22",
+    "time_open": "9:45",
+    "time_start": "10:30",
+    "venue": "三崎公園野外音楽堂",
+    "description": "\\\\\\✨️日割り公開✨️/// / Devil ANTHEM. presents / 「でびぱっぱ夏祭 2026 〜東の陣〜」 / 8/22,23(土,日)",
+    "post_url": "https://nitter.net/anthurium0317/status/2062112146729644069#m",
+    "image_url": "https://nitter.net/pic/media%2FHJ4YEFza4AAFB4O.jpg",
+    "created_at": "2026-06-03T10:00:22Z"
+  },
+  {
     "id": "anthurium-2026-08-31-live---4b16c205",
     "group_id": "anthurium",
     "type": "live",
@@ -799,6 +898,20 @@
     "date": "2026-09-12",
     "description": "『バリ！リーディング フクオカ!!』",
     "created_at": "2026-06-04T01:09:37.713Z"
+  },
+  {
+    "id": "anthurium-2026-09-20-live-2026-cac607ff",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "でびぱっぱ夏祭 2026 〜東の陣〜",
+    "date": "2026-09-20",
+    "time_open": "9:45",
+    "time_start": "10:30",
+    "venue": "三崎公園野外音楽堂",
+    "description": "\\\\\\✨️日割り公開✨️/// / Devil ANTHEM. presents / 「でびぱっぱ夏祭 2026 〜東の陣〜」 / 8/22,23(土,日)",
+    "post_url": "https://nitter.net/anthurium0317/status/2062112146729644069#m",
+    "image_url": "https://nitter.net/pic/media%2FHJ4YEFza4AAFB4O.jpg",
+    "created_at": "2026-06-03T10:00:22Z"
   },
   {
     "id": "anthurium-2026-10-06-live---3f4fe805",
