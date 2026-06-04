@@ -42,6 +42,7 @@ jobs:
             python scripts/fetch_history.py --group hbn --pages "$PAGES"
             python scripts/fetch_history.py --group miao --pages "$PAGES"
             python scripts/fetch_history.py --group jumpingkiss --pages "$PAGES"
+            python scripts/fetch_history.py --group hakanai --pages "$PAGES"
           fi
 
       - name: Commit updated history events
