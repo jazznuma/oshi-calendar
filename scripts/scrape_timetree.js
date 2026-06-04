@@ -55,6 +55,19 @@ const path = require('path');
       
       const allEvents = [];
       
+      // 月ヘッダーテキスト取得関数
+      const getMonthText = async (p) => {
+        return p.evaluate(() => {
+          const headers = Array.from(document.querySelectorAll('h2, div, span'));
+          for (const h of headers) {
+            if (h.innerText && /\d{4}年\d{1,2}月/.test(h.innerText)) {
+              return h.innerText.trim();
+            }
+          }
+          return '';
+        });
+      };
+
       // 当月、前月、翌月の3ヶ月分をループして取得
       console.log('Parsing current month...');
       const currentEvents = await parseCurrentMonth(page);
@@ -73,14 +86,30 @@ const path = require('path');
       }
       
       if (prevMonthBtn) {
+        const curMonthText = await getMonthText(page);
         await prevMonthBtn.click();
-        await new Promise(r => setTimeout(r, 2000)); // ロード待ち
+        
+        // ヘッダーテキストが変わるまで待つ（非同期の描画ラグ対応）
+        await page.waitForFunction(
+          (oldText) => {
+            const headers = Array.from(document.querySelectorAll('h2, div, span'));
+            for (const h of headers) {
+              if (h.innerText && /\d{4}年\d{1,2}月/.test(h.innerText)) {
+                return h.innerText.trim() !== oldText;
+              }
+            }
+            return false;
+          },
+          { timeout: 15000 },
+          curMonthText
+        );
+        await new Promise(r => setTimeout(r, 1000)); // 安定化待機
+        
         console.log('Parsing previous month...');
         const prevEvents = await parseCurrentMonth(page);
         allEvents.push(...prevEvents);
         
         // 元の月に戻すために次へをクリック
-        // ボタンを再取得（DOM更新されている可能性があるため）
         const reButtons = await page.$$('button');
         let reNextMonthBtn = null;
         for (const btn of reButtons) {
@@ -90,15 +119,28 @@ const path = require('path');
           if (label === '翌月' || cls.includes('_94ajna2') || text.includes('›')) reNextMonthBtn = btn;
         }
         if (reNextMonthBtn) {
+          const prevMonthText = await getMonthText(page);
           await reNextMonthBtn.click();
-          await new Promise(r => setTimeout(r, 2000));
+          await page.waitForFunction(
+            (oldText) => {
+              const headers = Array.from(document.querySelectorAll('h2, div, span'));
+              for (const h of headers) {
+                if (h.innerText && /\d{4}年\d{1,2}月/.test(h.innerText)) {
+                  return h.innerText.trim() !== oldText;
+                }
+              }
+              return false;
+            },
+            { timeout: 15000 },
+            prevMonthText
+          );
+          await new Promise(r => setTimeout(r, 1000));
         }
       } else {
         console.log('Could not find previous month button.');
       }
       
       // 翌月へ移動
-      // ボタンを再取得
       const postReButtons = await page.$$('button');
       let finalNextMonthBtn = null;
       for (const btn of postReButtons) {
@@ -109,8 +151,23 @@ const path = require('path');
       }
       
       if (finalNextMonthBtn) {
+        const curMonthText = await getMonthText(page);
         await finalNextMonthBtn.click();
-        await new Promise(r => setTimeout(r, 2000));
+        await page.waitForFunction(
+          (oldText) => {
+            const headers = Array.from(document.querySelectorAll('h2, div, span'));
+            for (const h of headers) {
+              if (h.innerText && /\d{4}年\d{1,2}月/.test(h.innerText)) {
+                return h.innerText.trim() !== oldText;
+              }
+            }
+            return false;
+          },
+          { timeout: 15000 },
+          curMonthText
+        );
+        await new Promise(r => setTimeout(r, 1000));
+        
         console.log('Parsing next month...');
         const nextEvents = await parseCurrentMonth(page);
         allEvents.push(...nextEvents);
@@ -155,21 +212,40 @@ const path = require('path');
       });
       
       // 今回スクレイピングして取得された全イベントから日付の最小値・最大値を求め、
-      // 既存データからその範囲内のイベントを削除してマージする（過去のバグデータや削除された予定のクリーンアップ）
-      let startStr = null;
-      let endStr = null;
-      if (newEvents.length > 0) {
-        const dates = newEvents.map(ev => ev.date).sort();
-        startStr = dates[0];
-        endStr = dates[dates.length - 1];
-      }
+      // 既存データから「TimeTree由来であり、かつ今回の最新データに存在しないイベント」のみを選別除外する
+      // 今回のスクレイピング対象期間（前月1日〜翌月末日）の日付範囲を算出する
+      const now = new Date();
+      const refYear = now.getFullYear();
+      const refMonth = now.getMonth(); // 0-indexed
+      const startDate = new Date(refYear, refMonth - 1, 1);
+      const endDate = new Date(refYear, refMonth + 2, 0); // 翌々月の0日は翌月の末日
+      
+      const startStr = `${startDate.getFullYear()}-${String(startDate.getMonth() + 1).padStart(2, '0')}-01`;
+      const endStr = `${endDate.getFullYear()}-${String(endDate.getMonth() + 1).padStart(2, '0')}-${String(endDate.getDate()).padStart(2, '0')}`;
 
       let finalEvents = [];
       if (startStr && endStr) {
-        console.log(`Cleaning up existing events in scraped range [${startStr} to ${endStr}] to avoid duplicate/stale TimeTree events...`);
+        console.log(`Cleaning up stale/duplicate TimeTree events in range [${startStr} to ${endStr}]...`);
         const preservedEvents = existingEvents.filter(ev => {
-          return ev.date < startStr || ev.date > endStr;
+          // ① X(RSS)などの他ソース由来のイベント（post_urlが存在するもの）は保護する
+          if (ev.post_url) return true;
+          
+          // ② 他のグループのデータは処理対象外のため保護する
+          if (ev.group_id !== group.id) return true;
+          
+          // ③ 今回のスクレイピング対象期間（startStr〜endStr）の範囲外にある過去データは保護する
+          if (ev.date < startStr || ev.date > endStr) return true;
+          
+          // ④ 今回の最新スクレイピング結果（newEvents）に存在するイベントは、
+          // 重複を避けるために既存のものは一旦除外する（後でnewEventsを追加するため）
+          const existsInNew = newEvents.some(newEv => newEv.id === ev.id);
+          if (existsInNew) return false;
+          
+          // ⑤ 対象期間内にあるが最新データに「存在しない」TimeTreeデータは、
+          // 過去のバグで混入したゴミか、カレンダーから削除された予定であるため、排除する
+          return false;
         });
+        
         finalEvents = [...preservedEvents, ...newEvents];
       } else {
         finalEvents = existingEvents;
@@ -233,6 +309,7 @@ async function parseCurrentMonth(page) {
       const cls = el.className;
       if (typeof cls !== 'string') return;
       if (cls.includes('1lkmlsa') && /^\d+$/.test(el.innerText.trim())) {
+        if (el.offsetParent === null) return; // 非表示の日付セルを除外
         const style = el.getAttribute('style') || '';
         const rowMatch = style.match(/--[a-zA-Z0-9_]+1:\s*(\d+)/);
         if (rowMatch) {
@@ -245,7 +322,9 @@ async function parseCurrentMonth(page) {
     // すべてのイベントボタン要素を取得
     const eventButtons = Array.from(document.querySelectorAll('button')).filter(btn => {
       const cls = btn.className || '';
-      return cls.includes('_1r1c5vl3') || cls.includes('_2353s62');
+      const isEventBtn = cls.includes('_1r1c5vl3') || cls.includes('_2353s62');
+      if (!isEventBtn) return false;
+      return btn.offsetParent !== null; // 表示されているボタンのみを対象にする
     });
     
     eventButtons.forEach(btn => {
