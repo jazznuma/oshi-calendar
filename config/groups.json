@@ -6,7 +6,8 @@
       "x_account": "STAiNY_official",
       "color": "#ff4f9a",
       "accent": "#25c2a0",
-      "description": "ライブ告知、チケ発、締切、リリース情報をまとめたカレンダー"
+      "description": "ライブ告知、チケ発、締切、リリース情報をまとめたカレンダー",
+      "timetree_id": "stainy_liveschedule"
     },
     {
       "id": "anthurium",
@@ -14,7 +15,8 @@
       "x_account": "anthurium0317",
       "color": "#3ba3ff",
       "accent": "#ff5c8a",
-      "description": "アンスリュームのライブ・イベントスケジュール"
+      "description": "アンスリュームのライブ・イベントスケジュール",
+      "timetree_id": "anthurium_official_calendar"
     },
     {
       "id": "tohkei",
@@ -22,7 +24,8 @@
       "x_account": "Tohkei_info",
       "color": "#85e3ff",
       "accent": "#ff7bad",
-      "description": "Tohkeiのイベント・チケ発スケジュール"
+      "description": "Tohkeiのイベント・チケ発スケジュール",
+      "google_calendar_id": "tohkei.info@gmail.com"
     },
     {
       "id": "hbn",
@@ -30,7 +33,8 @@
       "x_account": "HBN_187",
       "color": "#ffd13b",
       "accent": "#2ec4b6",
-      "description": "HIBANAのイベント・チケ発スケジュール"
+      "description": "HIBANAのイベント・チケ発スケジュール",
+      "timetree_id": "hbn_187"
     },
     {
       "id": "miao",
@@ -38,7 +42,8 @@
       "x_account": "miao__official",
       "color": "#ff8fa9",
       "accent": "#d90429",
-      "description": "miaoのイベント・チケ発スケジュール"
+      "description": "miaoのイベント・チケ発スケジュール",
+      "schedule_url": "https://miao-info.com/schedule/"
     },
     {
       "id": "jumpingkiss",
@@ -46,7 +51,9 @@
       "x_account": "jumpingkiss",
       "color": "#ffa5a5",
       "accent": "#f72585",
-      "description": "Jumping Kissのイベント・チケ発スケジュール"
+      "description": "Jumping Kissのイベント・チケ発スケジュール",
+      "timetree_id": "jumpingkiss"
     }
   ]
 }
+

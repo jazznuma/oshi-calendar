@@ -1,5 +1,133 @@
 [
   {
+    "id": "jumpingkiss-2026-05-11-live-showroom--f8113bd",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "【配信】19:30〜秋月柑七 [SHOWROOM]",
+    "date": "2026-05-11",
+    "time_start": "19:30",
+    "description": "【配信】19:30〜秋月柑七 [SHOWROOM]",
+    "created_at": "2026-06-04T01:09:52.583Z"
+  },
+  {
+    "id": "jumpingkiss-2026-05-12-live--showroom--44843eb0",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "※配信休止【配信】桜井里咲 [SHOWROOM]",
+    "date": "2026-05-12",
+    "time_start": "19:00",
+    "description": "※配信休止【配信】桜井里咲 [SHOWROOM]",
+    "created_at": "2026-06-04T01:09:52.583Z"
+  },
+  {
+    "id": "jumpingkiss-2026-05-13-live---654a1003",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "※雪本恋百、休演です🙇",
+    "date": "2026-05-13",
+    "description": "※雪本恋百、休演です🙇",
+    "created_at": "2026-06-04T01:09:52.583Z"
+  },
+  {
+    "id": "jumpingkiss-2026-05-15-live--g6--4636d24c",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "※五反田G6でのライブは中止となりました。",
+    "date": "2026-05-15",
+    "description": "※五反田G6でのライブは中止となりました。",
+    "created_at": "2026-06-04T01:09:52.583Z"
+  },
+  {
+    "id": "jumpingkiss-2026-05-16-live--vol-69--235f3d42",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "🌈無銭ぷろじぇくと!! vol.69🌈",
+    "date": "2026-05-16",
+    "time_start": "11:35",
+    "description": "🌈無銭ぷろじぇくと!! vol.69🌈",
+    "created_at": "2026-06-04T01:09:52.583Z"
+  },
+  {
+    "id": "jumpingkiss-2026-05-17-live--jk-2--2e4f77fe",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "🏫帰ってきたアトリエクラブ〜JK学園・五反田校〜2時間目！🏫",
+    "date": "2026-05-17",
+    "time_start": "11:15",
+    "description": "🏫帰ってきたアトリエクラブ〜JK学園・五反田校〜2時間目！🏫",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-05-19-live--showroom--9f3e61b",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "※配信休止【配信】山田莉愛 [SHOWROOM]",
+    "date": "2026-05-19",
+    "time_start": "19:30",
+    "description": "※配信休止【配信】山田莉愛 [SHOWROOM]",
+    "created_at": "2026-06-04T01:09:52.583Z"
+  },
+  {
+    "id": "jumpingkiss-2026-05-20-live--showroom--28f4439e",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "※振替配信【さくらだ配信】山田莉愛&桜井里咲 [SHOWROOM]",
+    "date": "2026-05-20",
+    "time_start": "9:30",
+    "description": "※振替配信【さくらだ配信】山田莉愛&桜井里咲 [SHOWROOM]",
+    "created_at": "2026-06-04T01:09:52.583Z"
+  },
+  {
+    "id": "jumpingkiss-2026-05-21-live--vol-68-28e00d1d",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "無銭ぷろじぇくと!! vol.68",
+    "date": "2026-05-21",
+    "time_start": "19:35",
+    "description": "無銭ぷろじぇくと!! vol.68",
+    "created_at": "2026-06-04T01:09:52.583Z"
+  },
+  {
+    "id": "jumpingkiss-2026-05-22-live--jumpingkiss-golden--480a00be",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "🌈JumpingKiss Golden Week Start Dash Meetup🌈",
+    "date": "2026-05-22",
+    "time_start": "19:00",
+    "description": "🌈JumpingKiss Golden Week Start Dash Meetup🌈",
+    "created_at": "2026-06-04T01:09:52.583Z"
+  },
+  {
+    "id": "jumpingkiss-2026-05-23-live-live-with-you-129-4fe5c572",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "LIVE with YOU!! #129",
+    "date": "2026-05-23",
+    "time_start": "14:15",
+    "description": "LIVE with YOU!! #129",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-05-24-live--vol-101--55a56cba",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "🌈セカイべフェス vol.101🌈",
+    "date": "2026-05-24",
+    "time_start": "15:50",
+    "description": "🌈セカイべフェス vol.101🌈",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-05-27-live--next-dimension-live-47a5edc7",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "🌈NEXT DIMENSION LIVE DX-SPRING HAS COME!!＆星乃まおり生誕祭2026-🌈",
+    "date": "2026-05-27",
+    "time_start": "12:15",
+    "description": "🌈NEXT DIMENSION LIVE DX-SPRING HAS COME!!＆星乃まおり生誕祭2026-🌈",
+    "created_at": "2026-06-04T01:09:52.583Z"
+  },
+  {
     "id": "jumpingkiss-2026-05-28-live-pinned-jumpingkiss-live-info-19e72858",
     "group_id": "jumpingkiss",
     "type": "live",
@@ -22,6 +150,16 @@
     "post_url": "https://nitter.net/jumpingkiss/status/2060313097051701635#m",
     "image_url": "https://nitter.net/pic/media%2FHJezpcMa4AAyiXe.jpg",
     "created_at": "2026-05-29T10:51:35Z"
+  },
+  {
+    "id": "jumpingkiss-2026-05-30-free--free-bomber--1faf2435",
+    "group_id": "jumpingkiss",
+    "type": "free",
+    "title": "💣FREE BOMBER!!💣",
+    "date": "2026-05-30",
+    "time_start": "17:20",
+    "description": "💣FREE BOMBER!!💣",
+    "created_at": "2026-06-04T01:09:52.584Z"
   },
   {
     "id": "jumpingkiss-2026-05-30-live-pinned-jumpingkiss-live-info-c700959a",
@@ -74,6 +212,16 @@
     "created_at": "2026-05-30T11:21:53Z"
   },
   {
+    "id": "jumpingkiss-2026-05-31-live--stage-vol-1--57893484",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "🌈アイチャレSTAGE＋ vol.1 🌈",
+    "date": "2026-05-31",
+    "time_start": "20:00",
+    "description": "🌈アイチャレSTAGE＋ vol.1 🌈",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
     "id": "jumpingkiss-2026-05-31-live-event-0436f535",
     "group_id": "jumpingkiss",
     "type": "live",
@@ -110,6 +258,16 @@
     "created_at": "2026-05-28T15:19:32Z"
   },
   {
+    "id": "jumpingkiss-2026-06-03-free--free-bomber--3f8c0570",
+    "group_id": "jumpingkiss",
+    "type": "free",
+    "title": "💣FREE BOMBER!!💣",
+    "date": "2026-06-03",
+    "time_start": "14:45",
+    "description": "💣FREE BOMBER!!💣",
+    "created_at": "2026-06-04T01:09:52.583Z"
+  },
+  {
     "id": "jumpingkiss-2026-06-06-live-event-bc69ca19",
     "group_id": "jumpingkiss",
     "type": "live",
@@ -132,6 +290,16 @@
     "post_url": "https://nitter.net/jumpingkiss/status/2060966129502449908#m",
     "image_url": "https://nitter.net/pic/media%2FHJoEvSjbQAAjDXy.jpg",
     "created_at": "2026-05-31T06:06:30Z"
+  },
+  {
+    "id": "jumpingkiss-2026-06-06-live--jumping-kiss--6f00cf96",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "🍑桃色革命✖︎Jumping Kiss 至高のノンストップツーマン🎤",
+    "date": "2026-06-06",
+    "time_start": "19:30",
+    "description": "🍑桃色革命✖︎Jumping Kiss 至高のノンストップツーマン🎤",
+    "created_at": "2026-06-04T01:09:52.584Z"
   },
   {
     "id": "jumpingkiss-2026-06-06-live-pinned-jumpingkiss-live-info-dad1e6d2",
@@ -193,6 +361,16 @@
     "created_at": "2026-05-28T15:19:32Z"
   },
   {
+    "id": "jumpingkiss-2026-06-10-live--jumping-kiss--2d9b5f91",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "🍑桃色革命✖︎Jumping Kiss 至高のノンストップツーマン🎤",
+    "date": "2026-06-10",
+    "time_start": "16:30",
+    "description": "🍑桃色革命✖︎Jumping Kiss 至高のノンストップツーマン🎤",
+    "created_at": "2026-06-04T01:09:52.583Z"
+  },
+  {
     "id": "jumpingkiss-2026-06-13-free-event-ac70b080",
     "group_id": "jumpingkiss",
     "type": "free",
@@ -239,6 +417,46 @@
     "created_at": "2026-06-01T11:39:48Z"
   },
   {
+    "id": "jumpingkiss-2026-06-15-live-showroom--39ca6220",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "【配信】19:30〜秋月柑七 [SHOWROOM]",
+    "date": "2026-06-15",
+    "time_start": "19:30",
+    "description": "【配信】19:30〜秋月柑七 [SHOWROOM]",
+    "created_at": "2026-06-04T01:08:14.485Z"
+  },
+  {
+    "id": "jumpingkiss-2026-06-16-live-showroom--758bbfdf",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "【配信】19:30~山田莉愛 [SHOWROOM]",
+    "date": "2026-06-16",
+    "time_start": "19:30",
+    "description": "【配信】19:30~山田莉愛 [SHOWROOM]",
+    "created_at": "2026-06-04T01:08:14.485Z"
+  },
+  {
+    "id": "jumpingkiss-2026-06-17-live-showroom--24e1e1de",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "【配信】19:00〜雪本恋百 [SHOWROOM]",
+    "date": "2026-06-17",
+    "time_start": "19:00",
+    "description": "【配信】19:00〜雪本恋百 [SHOWROOM]",
+    "created_at": "2026-06-04T01:08:14.485Z"
+  },
+  {
+    "id": "jumpingkiss-2026-06-18-live-showroom--2bc7fc23",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "【配信】19:30〜平川咲衣 [SHOWROOM]",
+    "date": "2026-06-18",
+    "time_start": "19:30",
+    "description": "【配信】19:30〜平川咲衣 [SHOWROOM]",
+    "created_at": "2026-06-04T01:08:14.485Z"
+  },
+  {
     "id": "jumpingkiss-2026-06-20-live-pinned-jumpingkiss-live-info-49afeb12",
     "group_id": "jumpingkiss",
     "type": "live",
@@ -249,6 +467,15 @@
     "post_url": "https://nitter.net/jumpingkiss/status/2060018139883262201#m",
     "image_url": "https://nitter.net/pic/media%2FHJaYdNib0AAAAqF.jpg",
     "created_at": "2026-05-28T15:19:32Z"
+  },
+  {
+    "id": "jumpingkiss-2026-06-20-live---3cf15acc",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "※桜井里咲、休演です🙇",
+    "date": "2026-06-20",
+    "description": "※桜井里咲、休演です🙇",
+    "created_at": "2026-06-04T01:08:14.485Z"
   },
   {
     "id": "jumpingkiss-2026-06-21-live-pinned-jumpingkiss-live-info-353a80d6",
@@ -263,6 +490,26 @@
     "created_at": "2026-05-28T15:19:32Z"
   },
   {
+    "id": "jumpingkiss-2026-06-24-live--19-30-showroom--5e66b5f5",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "＊配信日変更【配信】19:30~桜井里咲 [SHOWROOM]",
+    "date": "2026-06-24",
+    "time_start": "19:30",
+    "description": "＊配信日変更【配信】19:30~桜井里咲 [SHOWROOM]",
+    "created_at": "2026-06-04T01:08:14.485Z"
+  },
+  {
+    "id": "jumpingkiss-2026-06-27-live--bomber--461e94c8",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "💣ワンコインBOMBER!!💣",
+    "date": "2026-06-27",
+    "time_start": "14:25",
+    "description": "💣ワンコインBOMBER!!💣",
+    "created_at": "2026-06-04T01:08:14.485Z"
+  },
+  {
     "id": "jumpingkiss-2026-06-27-live-pinned-jumpingkiss-live-info-29b7484d",
     "group_id": "jumpingkiss",
     "type": "live",
@@ -273,6 +520,16 @@
     "post_url": "https://nitter.net/jumpingkiss/status/2060018139883262201#m",
     "image_url": "https://nitter.net/pic/media%2FHJaYdNib0AAAAqF.jpg",
     "created_at": "2026-05-28T15:19:32Z"
+  },
+  {
+    "id": "jumpingkiss-2026-06-28-live--jk-3--75462f82",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "🏫帰ってきたアトリエクラブ〜JK学園・五反田校〜3時間目！🏫",
+    "date": "2026-06-28",
+    "time_start": "11:15",
+    "description": "🏫帰ってきたアトリエクラブ〜JK学園・五反田校〜3時間目！🏫",
+    "created_at": "2026-06-04T01:08:14.485Z"
   },
   {
     "id": "jumpingkiss-2026-06-28-live-pinned-jumpingkiss-live-info-91302663",
@@ -297,5 +554,857 @@
     "post_url": "https://nitter.net/jumpingkiss/status/2061428469201088913#m",
     "image_url": "https://nitter.net/pic/card_img%2F2061439823861395456%2F9QEmLeE7%3Fformat%3Djpg%26name%3D800x419",
     "created_at": "2026-06-01T12:43:41Z"
+  },
+  {
+    "id": "jumpingkiss-2026-07-04-live--jumping-kiss--2c87765b",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "🍑桃色革命✖Jumping Kiss 至高のノンストップツーマン🎤",
+    "date": "2026-07-04",
+    "time_start": "17:00",
+    "description": "🍑桃色革命✖Jumping Kiss 至高のノンストップツーマン🎤",
+    "created_at": "2026-06-04T01:08:14.485Z"
+  },
+  {
+    "id": "jumpingkiss-2026-07-05-live--bomber--d313bc7",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "💣ワンコインBOMBER!!💣",
+    "date": "2026-07-05",
+    "time_start": "14:50",
+    "description": "💣ワンコインBOMBER!!💣",
+    "created_at": "2026-06-04T01:08:14.485Z"
+  },
+  {
+    "id": "jumpingkiss-2026-07-06-live--jumping-kiss--28785d35",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "🍑桃色革命✖︎Jumping Kiss 至高のノンストップツーマン🎤",
+    "date": "2026-07-06",
+    "time_start": "11:15",
+    "description": "🍑桃色革命✖︎Jumping Kiss 至高のノンストップツーマン🎤",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-07-07-live--riara-yamada-s-birt-36dc2308",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "🎂📸Riara Yamada's Birthday Photo Shoot 2026📸🎂",
+    "date": "2026-07-07",
+    "time_start": "10:55",
+    "description": "🎂📸Riara Yamada's Birthday Photo Shoot 2026📸🎂",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-07-08-live---185c3ee3",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "※桜井里咲、休演です🙇",
+    "date": "2026-07-08",
+    "description": "※桜井里咲、休演です🙇",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-07-09-live--showroom--483f55e4",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "＊配信お休みです。【配信】平川咲衣 [SHOWROOM]",
+    "date": "2026-07-09",
+    "time_start": "19:30",
+    "description": "＊配信お休みです。【配信】平川咲衣 [SHOWROOM]",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-07-11-live--vol-78--525d9f03",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "🌈無銭ぷろじぇくと!! vol.78🌈",
+    "date": "2026-07-11",
+    "time_start": "20:00",
+    "description": "🌈無銭ぷろじぇくと!! vol.78🌈",
+    "created_at": "2026-06-04T01:08:14.485Z"
+  },
+  {
+    "id": "jumpingkiss-2026-07-11-live---2f9ceb35",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "※桜井里咲、休演です🙇",
+    "date": "2026-07-11",
+    "description": "※桜井里咲、休演です🙇",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-07-12-live--jumping-kiss--2fe7ade",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "🍑桃色革命✖Jumping Kiss 至高のノンストップツーマン🎤",
+    "date": "2026-07-12",
+    "time_start": "17:00",
+    "description": "🍑桃色革命✖Jumping Kiss 至高のノンストップツーマン🎤",
+    "created_at": "2026-06-04T01:08:14.485Z"
+  },
+  {
+    "id": "jumpingkiss-2026-07-13-free--free-bomber--7df55852",
+    "group_id": "jumpingkiss",
+    "type": "free",
+    "title": "💣FREE BOMBER!!💣",
+    "date": "2026-07-13",
+    "time_start": "16:00",
+    "description": "💣FREE BOMBER!!💣",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-07-13-live-showroom--7fe78383",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "【配信】19:30〜秋月柑七 [SHOWROOM]",
+    "date": "2026-07-13",
+    "time_start": "19:30",
+    "description": "【配信】19:30〜秋月柑七 [SHOWROOM]",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-07-14-live--jumpingkiss-yamada--7ebd9e47",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "🩷🎂JumpingKiss 山田莉愛 生誕祭~Yamada Riara Birthday Celebration 2026~🎂🩷",
+    "date": "2026-07-14",
+    "time_start": "11:45",
+    "description": "🩷🎂JumpingKiss 山田莉愛 生誕祭~Yamada Riara Birthday Celebration 2026~🎂🩷",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-07-14-live-showroom--2f3da582",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "【配信】19:00~桜井里咲 [SHOWROOM]",
+    "date": "2026-07-14",
+    "time_start": "19:00",
+    "description": "【配信】19:00~桜井里咲 [SHOWROOM]",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-07-15-live--glittre-girl-s-lit--38a11ade",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "🌈GLiTTRE～Girl’s LiT Trend 〜SPIRITS🌈",
+    "date": "2026-07-15",
+    "time_start": "12:05",
+    "description": "🌈GLiTTRE～Girl’s LiT Trend 〜SPIRITS🌈",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-07-18-live---76a96e06",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "※雪本恋百、休演です🙇",
+    "date": "2026-07-18",
+    "description": "※雪本恋百、休演です🙇",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-07-20-free--013--2bb1a718",
+    "group_id": "jumpingkiss",
+    "type": "free",
+    "title": "🍑桃色革命 無料単独公演013🍑",
+    "date": "2026-07-20",
+    "time_start": "19:30",
+    "description": "🍑桃色革命 無料単独公演013🍑",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-07-21-free--free-bomber--a228795",
+    "group_id": "jumpingkiss",
+    "type": "free",
+    "title": "💣FREE BOMBER!!💣",
+    "date": "2026-07-21",
+    "time_start": "15:40",
+    "description": "💣FREE BOMBER!!💣",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-07-21-live-showroom--5ca95d66",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "【配信】19:30~山田莉愛 [SHOWROOM]",
+    "date": "2026-07-21",
+    "time_start": "19:30",
+    "description": "【配信】19:30~山田莉愛 [SHOWROOM]",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-07-22-live-next-dimension-live--43f3712",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "NEXT DIMENSION LIVE DX-SPRING EXPLOSION!!-",
+    "date": "2026-07-22",
+    "time_start": "15:15",
+    "description": "NEXT DIMENSION LIVE DX-SPRING EXPLOSION!!-",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-07-25-live--vol-153--4dfa7928",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "キミ推しフェス vol.153 ①",
+    "date": "2026-07-25",
+    "time_start": "14:05",
+    "description": "キミ推しフェス vol.153 ①",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-07-26-live---3641197f",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "東京アイドル劇場",
+    "date": "2026-07-26",
+    "time_start": "11:50",
+    "description": "東京アイドル劇場",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-07-28-live--jumping-kiss--78d40d75",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "🍑桃色革命✖︎Jumping Kiss 至高のノンストップツーマン🎤",
+    "date": "2026-07-28",
+    "time_start": "19:30",
+    "description": "🍑桃色革命✖︎Jumping Kiss 至高のノンストップツーマン🎤",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-07-29-live--girls-integlation-0-77cf788e",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "🌈Girls InteglatioN -0506-🌈",
+    "date": "2026-07-29",
+    "time_start": "18:15",
+    "description": "🌈Girls InteglatioN -0506-🌈",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-08-01-live--vol-153--711b4b94",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "キミ推しフェス vol.153 ②",
+    "date": "2026-08-01",
+    "time_start": "17:35",
+    "description": "キミ推しフェス vol.153 ②",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-08-02-live---caead9f",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "コトネの日➀",
+    "date": "2026-08-02",
+    "time_start": "14:55",
+    "description": "コトネの日➀",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-08-09-live---78e67fe9",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "コトネの日➁",
+    "date": "2026-08-09",
+    "time_start": "19:20",
+    "description": "コトネの日➁",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-08-10-live-showroom--75bcb8d9",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "【配信】19:30〜秋月柑七 [SHOWROOM]",
+    "date": "2026-08-10",
+    "time_start": "19:30",
+    "description": "【配信】19:30〜秋月柑七 [SHOWROOM]",
+    "created_at": "2026-06-04T01:08:14.485Z"
+  },
+  {
+    "id": "jumpingkiss-2026-08-11-live-showroom--39996926",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "【配信】19:00~桜井里咲 [SHOWROOM]",
+    "date": "2026-08-11",
+    "time_start": "19:00",
+    "description": "【配信】19:00~桜井里咲 [SHOWROOM]",
+    "created_at": "2026-06-04T01:08:14.485Z"
+  },
+  {
+    "id": "jumpingkiss-2026-08-12-live-showroom--171074db",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "【配信】19:00〜雪本恋百 [SHOWROOM]",
+    "date": "2026-08-12",
+    "time_start": "19:00",
+    "description": "【配信】19:00〜雪本恋百 [SHOWROOM]",
+    "created_at": "2026-06-04T01:08:14.485Z"
+  },
+  {
+    "id": "jumpingkiss-2026-08-13-live-showroom--67ba52dc",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "【配信】19:30〜平川咲衣 [SHOWROOM]",
+    "date": "2026-08-13",
+    "time_start": "19:30",
+    "description": "【配信】19:30〜平川咲衣 [SHOWROOM]",
+    "created_at": "2026-06-04T01:08:14.485Z"
+  },
+  {
+    "id": "jumpingkiss-2026-08-15-live-mistfes2026-10th-ann-69390319",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "mistFES2026 -10th anniversary- Supported My-th",
+    "date": "2026-08-15",
+    "time_start": "14:20",
+    "description": "mistFES2026 -10th anniversary- Supported My-th",
+    "created_at": "2026-06-04T01:08:14.485Z"
+  },
+  {
+    "id": "jumpingkiss-2026-08-16-live-mistfes2026-10th-ann-610ac733",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "mistFES2026 -10th anniversary- Supported My-th のコピー",
+    "date": "2026-08-16",
+    "time_start": "11:45",
+    "description": "mistFES2026 -10th anniversary- Supported My-th のコピー",
+    "created_at": "2026-06-04T01:08:14.485Z"
+  },
+  {
+    "id": "jumpingkiss-2026-08-18-live-showroom--4f4571f",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "【配信】19:30~山田莉愛 [SHOWROOM]",
+    "date": "2026-08-18",
+    "time_start": "19:30",
+    "description": "【配信】19:30~山田莉愛 [SHOWROOM]",
+    "created_at": "2026-06-04T01:08:14.485Z"
+  },
+  {
+    "id": "jumpingkiss-2026-08-22-live-mistfes2026-10th-ann-3e0c3778",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "mistFES2026 -10th anniversary- Supported My-th のコピー",
+    "date": "2026-08-22",
+    "time_start": "20:55",
+    "description": "mistFES2026 -10th anniversary- Supported My-th のコピー",
+    "created_at": "2026-06-04T01:08:14.485Z"
+  },
+  {
+    "id": "jumpingkiss-2026-08-23-live-mistfes2026-10th-ann-5cd6e356",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "mistFES2026 -10th anniversary- Supported My-th のコピー のコピー",
+    "date": "2026-08-23",
+    "time_start": "16:50",
+    "description": "mistFES2026 -10th anniversary- Supported My-th のコピー のコピー",
+    "created_at": "2026-06-04T01:08:14.485Z"
+  },
+  {
+    "id": "jumpingkiss-2026-08-31-live-showroom--4f8a5b18",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "【配信】19:30〜秋月柑七 [SHOWROOM]",
+    "date": "2026-08-31",
+    "time_start": "19:30",
+    "description": "【配信】19:30〜秋月柑七 [SHOWROOM]",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-09-01-live-showroom--168974e6",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "【配信】桜井里咲 [SHOWROOM]",
+    "date": "2026-09-01",
+    "time_start": "19:00",
+    "description": "【配信】桜井里咲 [SHOWROOM]",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-09-02-live--showroom--1049570",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "※配信お休みです。【配信】雪本恋百 [SHOWROOM]",
+    "date": "2026-09-02",
+    "time_start": "19:00",
+    "description": "※配信お休みです。【配信】雪本恋百 [SHOWROOM]",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-09-03-live-showroom--7535b8e4",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "【配信】19:30〜平川咲衣 [SHOWROOM]",
+    "date": "2026-09-03",
+    "time_start": "19:30",
+    "description": "【配信】19:30〜平川咲衣 [SHOWROOM]",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-09-05-live---744feee8",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "※桜井里咲、休演です🙇",
+    "date": "2026-09-05",
+    "description": "※桜井里咲、休演です🙇",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-09-08-live-showroom--1e1b9d21",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "【配信】山田莉愛 [SHOWROOM]",
+    "date": "2026-09-08",
+    "time_start": "19:30",
+    "description": "【配信】山田莉愛 [SHOWROOM]",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-09-12-live---4e496742",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "※雪本恋百、休演です🙇",
+    "date": "2026-09-12",
+    "description": "※雪本恋百、休演です🙇",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-09-13-live--jumpingkiss-karaoke-2d124103",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "🎤JumpingKiss Karaoke Meetup in Namba🎤",
+    "date": "2026-09-13",
+    "time_start": "12:00",
+    "description": "🎤JumpingKiss Karaoke Meetup in Namba🎤",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-09-13-live--jumping-kiss-vol-72-52042666",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "🌈Jumping Kiss東京定期公演 ジャンキスやねん！Vol.72🌈",
+    "date": "2026-09-13",
+    "time_start": "18:15",
+    "description": "🌈Jumping Kiss東京定期公演 ジャンキスやねん！Vol.72🌈",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-09-19-live-kansai-pool-fes-larg-5e6fe719",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "KANSAI POOL FES Large one",
+    "date": "2026-09-19",
+    "time_start": "11:00",
+    "description": "KANSAI POOL FES Large one",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-09-20-live--side-b-2026-6986cdfd",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "ストフェス SIDE-B 2026",
+    "date": "2026-09-20",
+    "time_start": "16:40",
+    "description": "ストフェス SIDE-B 2026",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-10-05-live-showroom--14066f48",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "【配信】19:30〜秋月柑七 [SHOWROOM]",
+    "date": "2026-10-05",
+    "time_start": "19:30",
+    "description": "【配信】19:30〜秋月柑七 [SHOWROOM]",
+    "created_at": "2026-06-04T01:08:14.485Z"
+  },
+  {
+    "id": "jumpingkiss-2026-10-06-live-showroom--64b04d49",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "【配信】19:00~桜井里咲 [SHOWROOM]",
+    "date": "2026-10-06",
+    "time_start": "19:00",
+    "description": "【配信】19:00~桜井里咲 [SHOWROOM]",
+    "created_at": "2026-06-04T01:08:14.485Z"
+  },
+  {
+    "id": "jumpingkiss-2026-10-07-live-showroom--4aa5d4b6",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "【配信】19:00〜雪本恋百 [SHOWROOM]",
+    "date": "2026-10-07",
+    "time_start": "19:00",
+    "description": "【配信】19:00〜雪本恋百 [SHOWROOM]",
+    "created_at": "2026-06-04T01:08:14.485Z"
+  },
+  {
+    "id": "jumpingkiss-2026-10-08-live-showroom--604094b",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "【配信】19:30〜平川咲衣 [SHOWROOM]",
+    "date": "2026-10-08",
+    "time_start": "19:30",
+    "description": "【配信】19:30〜平川咲衣 [SHOWROOM]",
+    "created_at": "2026-06-04T01:08:14.485Z"
+  },
+  {
+    "id": "jumpingkiss-2026-10-10-live--girls-music-theater-1ab9070b",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "♪ミュージックパーク Girls & Music Theater♪",
+    "date": "2026-10-10",
+    "description": "♪ミュージックパーク Girls & Music Theater♪",
+    "created_at": "2026-06-04T01:08:14.485Z"
+  },
+  {
+    "id": "jumpingkiss-2026-10-11-live--all-in-call-vol-7--1dfb23ce",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "🌈ALL-IN CALL vol.7🌈",
+    "date": "2026-10-11",
+    "description": "🌈ALL-IN CALL vol.7🌈",
+    "created_at": "2026-06-04T01:08:14.485Z"
+  },
+  {
+    "id": "jumpingkiss-2026-10-13-live-showroom--37449565",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "【配信】19:30~山田莉愛 [SHOWROOM]",
+    "date": "2026-10-13",
+    "time_start": "19:30",
+    "description": "【配信】19:30~山田莉愛 [SHOWROOM]",
+    "created_at": "2026-06-04T01:08:14.485Z"
+  },
+  {
+    "id": "jumpingkiss-2026-10-17-live--vol-82--12e910d2",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "🌈無銭ぷろじぇくと!! vol.82🌈",
+    "date": "2026-10-17",
+    "description": "🌈無銭ぷろじぇくと!! vol.82🌈",
+    "created_at": "2026-06-04T01:08:14.485Z"
+  },
+  {
+    "id": "jumpingkiss-2026-10-26-live-showroom--122bee79",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "【配信】19:30〜秋月柑七 [SHOWROOM]",
+    "date": "2026-10-26",
+    "time_start": "19:30",
+    "description": "【配信】19:30〜秋月柑七 [SHOWROOM]",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-10-27-live--showroom--3bb6b913",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "※配信お休みです。【配信】桜井里咲 [SHOWROOM]",
+    "date": "2026-10-27",
+    "time_start": "19:00",
+    "description": "※配信お休みです。【配信】桜井里咲 [SHOWROOM]",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-10-28-live-showroom--70d83277",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "【配信】19:00〜雪本恋百 [SHOWROOM]",
+    "date": "2026-10-28",
+    "time_start": "19:00",
+    "description": "【配信】19:00〜雪本恋百 [SHOWROOM]",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-10-29-live-showroom--202e5476",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "【配信】19:30〜平川咲衣 [SHOWROOM]",
+    "date": "2026-10-29",
+    "time_start": "19:30",
+    "description": "【配信】19:30〜平川咲衣 [SHOWROOM]",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-10-31-live--live-idolstage--1e5cd52f",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "🌈【みるせんっ！定期公演 】定期だよ全員集合！みるせんっ！現体制終了LIVE ＆ 新宿IDOLSTAGEラスト定期公演🌈",
+    "date": "2026-10-31",
+    "time_start": "13:15",
+    "description": "🌈【みるせんっ！定期公演 】定期だよ全員集合！みるせんっ！現体制終了LIVE ＆ 新宿IDOLSTAGEラスト定期公演🌈",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-11-01-live--idol-convention-vol-15171318",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "🌈IDOL CONVENTION vol.1🌈",
+    "date": "2026-11-01",
+    "time_start": "12:15",
+    "description": "🌈IDOL CONVENTION vol.1🌈",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-11-03-live-showroom--5a5489a5",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "【配信】19:30~山田莉愛 [SHOWROOM]",
+    "date": "2026-11-03",
+    "time_start": "19:30",
+    "description": "【配信】19:30~山田莉愛 [SHOWROOM]",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-11-07-live--bomber--76f916f2",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "💣ワンコインBOMBER!!💣※前物販です。",
+    "date": "2026-11-07",
+    "time_start": "16:00",
+    "description": "💣ワンコインBOMBER!!💣※前物販です。",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-11-08-live--bomber--7fbe13af",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "💣ワンコインBOMBER!!💣",
+    "date": "2026-11-08",
+    "time_start": "15:15",
+    "description": "💣ワンコインBOMBER!!💣",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-11-14-live--jumping-kiss-vol-70-433e4e36",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "アイ♥ゲキ 東京アイドル劇場　Jumping Kiss東京定期公演 ジャンキスやねん！Vol.70",
+    "date": "2026-11-14",
+    "time_start": "19:10",
+    "description": "アイ♥ゲキ 東京アイドル劇場　Jumping Kiss東京定期公演 ジャンキスやねん！Vol.70",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-11-15-live---6765434a",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "🎉アフタ〜パ〜ティ〜🎉",
+    "date": "2026-11-15",
+    "time_start": "17:30",
+    "description": "🎉アフタ〜パ〜ティ〜🎉",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-11-30-live-showroom--49f36a01",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "【配信】19:30〜秋月柑七 [SHOWROOM]",
+    "date": "2026-11-30",
+    "time_start": "19:30",
+    "description": "【配信】19:30〜秋月柑七 [SHOWROOM]",
+    "created_at": "2026-06-04T01:08:14.485Z"
+  },
+  {
+    "id": "jumpingkiss-2026-12-01-live-showroom--5f5d5bfe",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "【配信】19:00~桜井里咲 [SHOWROOM]",
+    "date": "2026-12-01",
+    "time_start": "19:00",
+    "description": "【配信】19:00~桜井里咲 [SHOWROOM]",
+    "created_at": "2026-06-04T01:08:14.485Z"
+  },
+  {
+    "id": "jumpingkiss-2026-12-02-live-showroom--eb37dfd",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "【配信】19:00〜雪本恋百 [SHOWROOM]",
+    "date": "2026-12-02",
+    "time_start": "19:00",
+    "description": "【配信】19:00〜雪本恋百 [SHOWROOM]",
+    "created_at": "2026-06-04T01:08:14.485Z"
+  },
+  {
+    "id": "jumpingkiss-2026-12-03-live-showroom--41f66004",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "【配信】19:30〜平川咲衣 [SHOWROOM]",
+    "date": "2026-12-03",
+    "time_start": "19:30",
+    "description": "【配信】19:30〜平川咲衣 [SHOWROOM]",
+    "created_at": "2026-06-04T01:08:14.485Z"
+  },
+  {
+    "id": "jumpingkiss-2026-12-06-live---3513a2dc",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "📸#シャッターチャンス～全曲撮可☆拡散希望～📸",
+    "date": "2026-12-06",
+    "time_start": "19:05",
+    "description": "📸#シャッターチャンス～全曲撮可☆拡散希望～📸",
+    "created_at": "2026-06-04T01:08:14.485Z"
+  },
+  {
+    "id": "jumpingkiss-2026-12-08-live-showroom--2ab849f7",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "【配信】19:30~山田莉愛 [SHOWROOM]",
+    "date": "2026-12-08",
+    "time_start": "19:30",
+    "description": "【配信】19:30~山田莉愛 [SHOWROOM]",
+    "created_at": "2026-06-04T01:08:14.485Z"
+  },
+  {
+    "id": "jumpingkiss-2026-12-21-live--showroom--5d39ee6f",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "※仕事の都合上、配信お休みです。【配信】秋月柑七 [SHOWROOM]",
+    "date": "2026-12-21",
+    "time_start": "19:30",
+    "description": "※仕事の都合上、配信お休みです。【配信】秋月柑七 [SHOWROOM]",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-12-22-live-showroom--7a704641",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "【配信】19:00~桜井里咲 [SHOWROOM]",
+    "date": "2026-12-22",
+    "time_start": "19:00",
+    "description": "【配信】19:00~桜井里咲 [SHOWROOM]",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-12-23-live-showroom--34e5dbbe",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "【配信】19:00〜雪本恋百 [SHOWROOM]",
+    "date": "2026-12-23",
+    "time_start": "19:00",
+    "description": "【配信】19:00〜雪本恋百 [SHOWROOM]",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-12-24-live--19-00-showroom--1b3ecc43",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "【振替配信】19:00〜秋月柑七 [SHOWROOM]",
+    "date": "2026-12-24",
+    "time_start": "19:00",
+    "description": "【振替配信】19:00〜秋月柑七 [SHOWROOM]",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-12-26-live--jumpingkiss--55947d8a",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "📷JumpingKiss 初夏の私服撮影会📷",
+    "date": "2026-12-26",
+    "time_start": "11:30",
+    "description": "📷JumpingKiss 初夏の私服撮影会📷",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-12-27-live--abc-idol-2nd-annive-3f2ea510",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "🌈ABC IDOL〜2nd Anniversary〜🌈",
+    "date": "2026-12-27",
+    "time_start": "11:00",
+    "description": "🌈ABC IDOL〜2nd Anniversary〜🌈",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-12-29-live-showroom--50eaa7b8",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "【配信】19:30~山田莉愛 [SHOWROOM]",
+    "date": "2026-12-29",
+    "time_start": "19:30",
+    "description": "【配信】19:30~山田莉愛 [SHOWROOM]",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2026-12-31-live-showroom--11a7b5a1",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "【配信】19:30〜平川咲衣 [SHOWROOM]",
+    "date": "2026-12-31",
+    "time_start": "19:30",
+    "description": "【配信】19:30〜平川咲衣 [SHOWROOM]",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2027-01-02-free--free-bomber-in--60c6c87f",
+    "group_id": "jumpingkiss",
+    "type": "free",
+    "title": "💣超FREE BOMBER!! in 上野水上音楽堂①💣",
+    "date": "2027-01-02",
+    "time_start": "13:55",
+    "description": "💣超FREE BOMBER!! in 上野水上音楽堂①💣",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2027-01-03-live--jumping-kiss--1f705939",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "🍑桃色革命✖︎Jumping Kiss 至高のノンストップツーマン🎤",
+    "date": "2027-01-03",
+    "time_start": "15:30",
+    "description": "🍑桃色革命✖︎Jumping Kiss 至高のノンストップツーマン🎤",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2027-01-09-free--free-bomber-in--15a26b39",
+    "group_id": "jumpingkiss",
+    "type": "free",
+    "title": "💣超FREE BOMBER!! in 上野水上音楽堂②💣",
+    "date": "2027-01-09",
+    "time_start": "16:50",
+    "description": "💣超FREE BOMBER!! in 上野水上音楽堂②💣",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2027-01-10-live--jumping-kiss-vol-71-534f9d1f",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "🌈Jumping Kiss東京定期公演 ジャンキスやねん！Vol.71🌈",
+    "date": "2027-01-10",
+    "time_start": "18:40",
+    "description": "🌈Jumping Kiss東京定期公演 ジャンキスやねん！Vol.71🌈",
+    "created_at": "2026-06-04T01:09:52.584Z"
+  },
+  {
+    "id": "jumpingkiss-2027-01-25-live-showroom--3d9b525b",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "【配信】19:30〜秋月柑七 [SHOWROOM]",
+    "date": "2027-01-25",
+    "time_start": "19:30",
+    "description": "【配信】19:30〜秋月柑七 [SHOWROOM]",
+    "created_at": "2026-06-04T01:08:14.485Z"
+  },
+  {
+    "id": "jumpingkiss-2027-01-26-live-showroom--130e8ba6",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "【配信】19:00~桜井里咲 [SHOWROOM]",
+    "date": "2027-01-26",
+    "time_start": "19:00",
+    "description": "【配信】19:00~桜井里咲 [SHOWROOM]",
+    "created_at": "2026-06-04T01:08:14.485Z"
+  },
+  {
+    "id": "jumpingkiss-2027-02-02-live-showroom--2ee525c3",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "【配信】19:30~山田莉愛 [SHOWROOM]",
+    "date": "2027-02-02",
+    "time_start": "19:30",
+    "description": "【配信】19:30~山田莉愛 [SHOWROOM]",
+    "created_at": "2026-06-04T01:08:14.485Z"
   }
 ]

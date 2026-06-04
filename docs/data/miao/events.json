@@ -25,6 +25,15 @@
     "created_at": "2026-05-31T14:08:29Z"
   },
   {
+    "id": "miao-2026-06-01-live---177ee8c5",
+    "group_id": "miao",
+    "type": "live",
+    "title": "渋谷音楽堂",
+    "date": "2026-06-01",
+    "description": "渋谷音楽堂",
+    "created_at": "2026-06-04T01:08:26.976Z"
+  },
+  {
     "id": "miao-2026-06-03-live-2026-d747cd03",
     "group_id": "miao",
     "type": "live",
@@ -38,6 +47,15 @@
     "created_at": "2026-06-01T12:00:01Z"
   },
   {
+    "id": "miao-2026-06-04-live-duo-music-exchange-4728e54c",
+    "group_id": "miao",
+    "type": "live",
+    "title": "duo MUSIC EXCHANGE",
+    "date": "2026-06-04",
+    "description": "duo MUSIC EXCHANGE",
+    "created_at": "2026-06-04T01:08:26.977Z"
+  },
+  {
     "id": "miao-2026-06-05-free-aquarium-5c2c8564",
     "group_id": "miao",
     "type": "free",
@@ -49,6 +67,15 @@
     "post_url": "https://nitter.net/miao__official/status/2061464419050430731#m",
     "image_url": "https://nitter.net/pic/media%2FHJvK9MUaQAAix1q.jpg",
     "created_at": "2026-06-01T15:06:32Z"
+  },
+  {
+    "id": "miao-2026-06-05-live--cyber-box-4d9d7408",
+    "group_id": "miao",
+    "type": "live",
+    "title": "沖縄遠征@Cyber Box",
+    "date": "2026-06-05",
+    "description": "沖縄遠征@Cyber Box",
+    "created_at": "2026-06-04T01:08:26.977Z"
   },
   {
     "id": "miao-2026-06-06-live-okinawa-girls-girls-81a9fa65",
@@ -78,6 +105,33 @@
     "created_at": "2026-06-01T15:06:32Z"
   },
   {
+    "id": "miao-2026-06-06-free---76d2a695",
+    "group_id": "miao",
+    "type": "free",
+    "title": "沖縄オフ会",
+    "date": "2026-06-06",
+    "description": "沖縄オフ会",
+    "created_at": "2026-06-04T01:08:26.977Z"
+  },
+  {
+    "id": "miao-2026-06-06-live---2172d620",
+    "group_id": "miao",
+    "type": "live",
+    "title": "沖縄遠征① 那覇文化芸術劇場",
+    "date": "2026-06-06",
+    "description": "沖縄遠征① 那覇文化芸術劇場",
+    "created_at": "2026-06-04T01:08:26.977Z"
+  },
+  {
+    "id": "miao-2026-06-06-live---6f52ecc8",
+    "group_id": "miao",
+    "type": "live",
+    "title": "沖縄遠征② 桜坂セントラル",
+    "date": "2026-06-06",
+    "description": "沖縄遠征② 桜坂セントラル",
+    "created_at": "2026-06-04T01:08:26.977Z"
+  },
+  {
     "id": "miao-2026-06-07-live-okinawa-girls-girls-790d0279",
     "group_id": "miao",
     "type": "live",
@@ -105,6 +159,24 @@
     "created_at": "2026-06-01T15:06:32Z"
   },
   {
+    "id": "miao-2026-06-07-live--cyber-box-3128dc3e",
+    "group_id": "miao",
+    "type": "live",
+    "title": "沖縄遠征① Cyber Box",
+    "date": "2026-06-07",
+    "description": "沖縄遠征① Cyber Box",
+    "created_at": "2026-06-04T01:08:26.977Z"
+  },
+  {
+    "id": "miao-2026-06-07-live---20906f80",
+    "group_id": "miao",
+    "type": "live",
+    "title": "沖縄遠征② 那覇文化芸術劇場",
+    "date": "2026-06-07",
+    "description": "沖縄遠征② 那覇文化芸術劇場",
+    "created_at": "2026-06-04T01:08:26.977Z"
+  },
+  {
     "id": "miao-2026-06-13-live-event-39bd5b5b",
     "group_id": "miao",
     "type": "live",
@@ -116,6 +188,15 @@
     "image_url": "https://nitter.net/pic/media%2FHJx7GlUbIAAx8G1.jpg",
     "created_at": "2026-06-02T03:56:08Z",
     "time_start": "11:45"
+  },
+  {
+    "id": "miao-2026-06-13-live--mistfes2026-7d10e43c",
+    "group_id": "miao",
+    "type": "live",
+    "title": "名古屋遠征 mistFES2026",
+    "date": "2026-06-13",
+    "description": "名古屋遠征 mistFES2026",
+    "created_at": "2026-06-04T01:08:26.977Z"
   },
   {
     "id": "miao-2026-06-14-live-event-b641281e",
@@ -131,6 +212,24 @@
     "time_start": "15:05"
   },
   {
+    "id": "miao-2026-06-16-live---11988a67",
+    "group_id": "miao",
+    "type": "live",
+    "title": "新宿サーキット",
+    "date": "2026-06-16",
+    "description": "新宿サーキット",
+    "created_at": "2026-06-04T01:08:26.977Z"
+  },
+  {
+    "id": "miao-2026-06-17-free---9361619",
+    "group_id": "miao",
+    "type": "free",
+    "title": "フリーライブ@汐留シオサイト",
+    "date": "2026-06-17",
+    "description": "フリーライブ@汐留シオサイト",
+    "created_at": "2026-06-04T01:08:26.977Z"
+  },
+  {
     "id": "miao-2026-06-18-live-idol-scene-efbab85b",
     "group_id": "miao",
     "type": "live",
@@ -144,6 +243,105 @@
     "created_at": "2026-06-02T11:39:27Z"
   },
   {
+    "id": "miao-2026-06-18-live--future-4c4a3613",
+    "group_id": "miao",
+    "type": "live",
+    "title": "大塚FUTURE",
+    "date": "2026-06-18",
+    "description": "大塚FUTURE",
+    "created_at": "2026-06-04T01:08:26.977Z"
+  },
+  {
+    "id": "miao-2026-06-20-live-ebis303-50e5adc1",
+    "group_id": "miao",
+    "type": "live",
+    "title": "EBiS303",
+    "date": "2026-06-20",
+    "description": "EBiS303",
+    "created_at": "2026-06-04T01:08:26.977Z"
+  },
+  {
+    "id": "miao-2026-06-20-live---3535b73f",
+    "group_id": "miao",
+    "type": "live",
+    "title": "ライブ予定",
+    "date": "2026-06-20",
+    "description": "ライブ予定",
+    "created_at": "2026-06-04T01:08:26.977Z"
+  },
+  {
+    "id": "miao-2026-06-21-live-ebis303-32c37760",
+    "group_id": "miao",
+    "type": "live",
+    "title": "EBiS303",
+    "date": "2026-06-21",
+    "description": "EBiS303",
+    "created_at": "2026-06-04T01:08:26.977Z"
+  },
+  {
+    "id": "miao-2026-06-22-free---1986cc72",
+    "group_id": "miao",
+    "type": "free",
+    "title": "フリーライブ@歌舞伎町タワー",
+    "date": "2026-06-22",
+    "description": "フリーライブ@歌舞伎町タワー",
+    "created_at": "2026-06-04T01:08:26.977Z"
+  },
+  {
+    "id": "miao-2026-06-22-live--space-odd-2f987f09",
+    "group_id": "miao",
+    "type": "live",
+    "title": "代官山SPACE ODD",
+    "date": "2026-06-22",
+    "description": "代官山SPACE ODD",
+    "created_at": "2026-06-04T01:08:26.977Z"
+  },
+  {
+    "id": "miao-2026-06-24-live-miao--245a63e4",
+    "group_id": "miao",
+    "type": "live",
+    "title": "miao定期公演@カルチャーズ劇場",
+    "date": "2026-06-24",
+    "description": "miao定期公演@カルチャーズ劇場",
+    "created_at": "2026-06-04T01:08:26.977Z"
+  },
+  {
+    "id": "miao-2026-06-25-live---7bc00d61",
+    "group_id": "miao",
+    "type": "live",
+    "title": "上野恩賜公園野外ステージ",
+    "date": "2026-06-25",
+    "description": "上野恩賜公園野外ステージ",
+    "created_at": "2026-06-04T01:08:26.977Z"
+  },
+  {
+    "id": "miao-2026-06-27-live-apexia-2f7e34ef",
+    "group_id": "miao",
+    "type": "live",
+    "title": "APEXIA",
+    "date": "2026-06-27",
+    "description": "APEXIA",
+    "created_at": "2026-06-04T01:08:26.977Z"
+  },
+  {
+    "id": "miao-2026-06-28-live-apexia-1e013b70",
+    "group_id": "miao",
+    "type": "live",
+    "title": "APEXIA",
+    "date": "2026-06-28",
+    "description": "APEXIA",
+    "created_at": "2026-06-04T01:08:26.977Z"
+  },
+  {
+    "id": "miao-2026-06-28-live---72c2e237",
+    "group_id": "miao",
+    "type": "live",
+    "title": "ライブ予定",
+    "date": "2026-06-28",
+    "description": "ライブ予定",
+    "created_at": "2026-06-04T01:08:26.977Z"
+  },
+  {
     "id": "miao-2026-07-01-live-2026-fb0f820c",
     "group_id": "miao",
     "type": "live",
@@ -155,6 +353,24 @@
     "post_url": "https://nitter.net/miao__official/status/2061417481269592370#m",
     "image_url": "https://nitter.net/pic/media%2FHJuZQD8bwAAie2Q.jpg",
     "created_at": "2026-06-01T12:00:01Z"
+  },
+  {
+    "id": "miao-2026-07-01-live--2026-67d5178",
+    "group_id": "miao",
+    "type": "live",
+    "title": "星川夏乃@近代麻雀水着撮影会2026",
+    "date": "2026-07-01",
+    "description": "星川夏乃@近代麻雀水着撮影会2026",
+    "created_at": "2026-06-04T01:08:26.977Z"
+  },
+  {
+    "id": "miao-2026-07-03-live--future-2a934518",
+    "group_id": "miao",
+    "type": "live",
+    "title": "大塚FUTURE",
+    "date": "2026-07-03",
+    "description": "大塚FUTURE",
+    "created_at": "2026-06-04T01:08:26.977Z"
   },
   {
     "id": "miao-2026-07-04-live-marquee-mini-vol-328-e68f84d2",
@@ -172,6 +388,96 @@
     "created_at": "2026-06-01T12:51:40Z"
   },
   {
+    "id": "miao-2026-07-04-live-spotify-o-crest-2475b4e0",
+    "group_id": "miao",
+    "type": "live",
+    "title": "Spotify O-Crest",
+    "date": "2026-07-04",
+    "description": "Spotify O-Crest",
+    "created_at": "2026-06-04T01:08:26.977Z"
+  },
+  {
+    "id": "miao-2026-07-04-live---2f2e5606",
+    "group_id": "miao",
+    "type": "live",
+    "title": "ライブ予定",
+    "date": "2026-07-04",
+    "description": "ライブ予定",
+    "created_at": "2026-06-04T01:08:26.977Z"
+  },
+  {
+    "id": "miao-2026-07-05-live---6b97f60d",
+    "group_id": "miao",
+    "type": "live",
+    "title": "グループ撮影会",
+    "date": "2026-07-05",
+    "description": "グループ撮影会",
+    "created_at": "2026-06-04T01:08:26.977Z"
+  },
+  {
+    "id": "miao-2026-07-11-live---57c03fa2",
+    "group_id": "miao",
+    "type": "live",
+    "title": "ライブ予定",
+    "date": "2026-07-11",
+    "description": "ライブ予定",
+    "created_at": "2026-06-04T01:08:26.977Z"
+  },
+  {
+    "id": "miao-2026-07-12-live---500e9a43",
+    "group_id": "miao",
+    "type": "live",
+    "title": "ライブ予定",
+    "date": "2026-07-12",
+    "description": "ライブ予定",
+    "created_at": "2026-06-04T01:08:26.977Z"
+  },
+  {
+    "id": "miao-2026-07-16-live---314804c7",
+    "group_id": "miao",
+    "type": "live",
+    "title": "ライブ予定",
+    "date": "2026-07-16",
+    "description": "ライブ予定",
+    "created_at": "2026-06-04T01:08:26.977Z"
+  },
+  {
+    "id": "miao-2026-07-18-live---21e4ba09",
+    "group_id": "miao",
+    "type": "live",
+    "title": "ライブ予定",
+    "date": "2026-07-18",
+    "description": "ライブ予定",
+    "created_at": "2026-06-04T01:08:26.977Z"
+  },
+  {
+    "id": "miao-2026-07-18-live---6b6f05e4",
+    "group_id": "miao",
+    "type": "live",
+    "title": "星川夏乃イベント予定",
+    "date": "2026-07-18",
+    "description": "星川夏乃イベント予定",
+    "created_at": "2026-06-04T01:08:26.977Z"
+  },
+  {
+    "id": "miao-2026-07-19-live---1a3314aa",
+    "group_id": "miao",
+    "type": "live",
+    "title": "ライブ予定",
+    "date": "2026-07-19",
+    "description": "ライブ予定",
+    "created_at": "2026-06-04T01:08:26.977Z"
+  },
+  {
+    "id": "miao-2026-07-20-live---70eede80",
+    "group_id": "miao",
+    "type": "live",
+    "title": "ライブ予定",
+    "date": "2026-07-20",
+    "description": "ライブ予定",
+    "created_at": "2026-06-04T01:08:26.977Z"
+  },
+  {
     "id": "miao-2026-07-22-live-utage-fes-vol-5-cb319f57",
     "group_id": "miao",
     "type": "live",
@@ -185,5 +491,41 @@
     "post_url": "https://nitter.net/miao__official/status/2061429338688643174#m",
     "image_url": "https://nitter.net/pic/media%2FHJurC-ubsAAPj2l.jpg",
     "created_at": "2026-06-01T12:47:08Z"
+  },
+  {
+    "id": "miao-2026-07-22-live---34a6ac2d",
+    "group_id": "miao",
+    "type": "live",
+    "title": "新宿サーキット",
+    "date": "2026-07-22",
+    "description": "新宿サーキット",
+    "created_at": "2026-06-04T01:08:26.977Z"
+  },
+  {
+    "id": "miao-2026-07-25-live---4a76a3a5",
+    "group_id": "miao",
+    "type": "live",
+    "title": "ライブ予定",
+    "date": "2026-07-25",
+    "description": "ライブ予定",
+    "created_at": "2026-06-04T01:08:26.977Z"
+  },
+  {
+    "id": "miao-2026-07-26-live---42c4fe46",
+    "group_id": "miao",
+    "type": "live",
+    "title": "ライブ予定",
+    "date": "2026-07-26",
+    "description": "ライブ予定",
+    "created_at": "2026-06-04T01:08:26.977Z"
+  },
+  {
+    "id": "miao-2026-07-29-live---2bb00e29",
+    "group_id": "miao",
+    "type": "live",
+    "title": "ライブ予定",
+    "date": "2026-07-29",
+    "description": "ライブ予定",
+    "created_at": "2026-06-04T01:08:26.977Z"
   }
 ]

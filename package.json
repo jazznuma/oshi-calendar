@@ -1,0 +1,12 @@
+{
+  "name": "oshi-calendar",
+  "version": "1.0.0",
+  "description": "Idol Oshi Calendar synchronization and visualization",
+  "main": "scripts/sync_all.js",
+  "scripts": {
+    "sync": "node scripts/sync_all.js"
+  },
+  "dependencies": {
+    "puppeteer-core": "^25.1.0"
+  }
+}

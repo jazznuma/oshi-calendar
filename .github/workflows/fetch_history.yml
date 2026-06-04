@@ -1,0 +1,53 @@
+name: Fetch history events
+
+on:
+  workflow_dispatch:
+    inputs:
+      group:
+        description: Group id in config/groups.json (or 'all')
+        required: false
+        default: all
+      pages:
+        description: Number of pages to crawl back (e.g. 5 or 10)
+        required: false
+        default: '5'
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-history:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch past timeline HTML and merge
+        run: |
+          TARGET_GROUP="${{ github.event.inputs.group }}"
+          PAGES="${{ github.event.inputs.pages }}"
+          
+          # HTMLスクレイピングに必要な依存関係があればインポートされる(今回は標準ライブラリのみ)
+          if [ -n "$TARGET_GROUP" ] && [ "$TARGET_GROUP" != "all" ]; then
+            echo "Fetching history for single group: $TARGET_GROUP (pages: $PAGES)"
+            python scripts/fetch_history.py --group "$TARGET_GROUP" --pages "$PAGES"
+          else
+            echo "Fetching history for all groups (pages: $PAGES)..."
+            python scripts/fetch_history.py --group stainy --pages "$PAGES"
+            python scripts/fetch_history.py --group anthurium --pages "$PAGES"
+            python scripts/fetch_history.py --group tohkei --pages "$PAGES"
+            python scripts/fetch_history.py --group hbn --pages "$PAGES"
+            python scripts/fetch_history.py --group miao --pages "$PAGES"
+            python scripts/fetch_history.py --group jumpingkiss --pages "$PAGES"
+          fi
+
+      - name: Commit updated history events
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data docs/data
+          git diff --cached --quiet || git commit -m "feat: 過去の歴史告知データをサルベージ（クローリング）"
+          git push
