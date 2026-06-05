@@ -249,6 +249,20 @@
     "created_at": "2026-06-03T08:30:15Z"
   },
   {
+    "id": "anthurium-2026-06-05-live-event-4ad39b41",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "伊藤詩乃ピアノリサイタル",
+    "date": "2026-06-05",
+    "time_open": "18:30",
+    "time_start": "18:45",
+    "venue": "松濤サロン",
+    "description": "\\\\\\✨️本日20:00チケット追加‼️✨️/// / 『伊藤詩乃ピアノリサイタル』 / 6/16(火) / 📍 松濤サロン",
+    "post_url": "https://nitter.net/anthurium0317/status/2062822545389400298#m",
+    "image_url": "https://nitter.net/pic/media%2FHKCeK3JbAAAwzxi.jpg",
+    "created_at": "2026-06-05T09:03:14Z"
+  },
+  {
     "id": "anthurium-2026-06-06-live---3b0a86f8",
     "group_id": "anthurium",
     "type": "live",
@@ -335,6 +349,20 @@
     "date": "2026-06-14",
     "description": "『LUNA PARADE』",
     "created_at": "2026-06-04T09:59:44.758Z"
+  },
+  {
+    "id": "anthurium-2026-06-16-live-event-3385a1ff",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "伊藤詩乃ピアノリサイタル",
+    "date": "2026-06-16",
+    "time_open": "18:30",
+    "time_start": "18:45",
+    "venue": "松濤サロン",
+    "description": "\\\\\\✨️本日20:00チケット追加‼️✨️/// / 『伊藤詩乃ピアノリサイタル』 / 6/16(火) / 📍 松濤サロン",
+    "post_url": "https://nitter.net/anthurium0317/status/2062822545389400298#m",
+    "image_url": "https://nitter.net/pic/media%2FHKCeK3JbAAAwzxi.jpg",
+    "created_at": "2026-06-05T09:03:14Z"
   },
   {
     "id": "anthurium-2026-06-16-live---29aeaedd",
