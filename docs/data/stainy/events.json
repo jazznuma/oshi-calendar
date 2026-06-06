@@ -393,6 +393,16 @@
     "created_at": "2026-06-04T23:31:32Z"
   },
   {
+    "id": "stainy-2026-06-05-live-event-1a4a57ab",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "チェキ券に関するご案内",
+    "date": "2026-06-05",
+    "description": "【チェキ券に関するご案内】 / 6/5〜6/7開催の沖縄遠征期間中にご使用いただくチェキ券につきまして、沖縄遠征3日間のみ有効期限を【6/7(日)まで】とさせていただきます。 / また、ご返金をご希望のお客様につきましても【6/7(日)まで】対応させていただきます。 / ※リリースイベントのレギュレーションは対象外とな",
+    "post_url": "https://nitter.net/STAiNY_official/status/2062829299514974556#m",
+    "created_at": "2026-06-05T09:30:05Z"
+  },
+  {
     "id": "stainy-2026-06-06-okinawa-girls-girls-day1",
     "group_id": "stainy",
     "type": "live",
@@ -509,6 +519,16 @@
     "post_url": "https://nitter.net/STAiNY_official/status/2062678671153115508#m",
     "image_url": "https://nitter.net/pic/media%2FHKAbRg1bMAAigF4.jpg",
     "created_at": "2026-06-04T23:31:32Z"
+  },
+  {
+    "id": "stainy-2026-06-07-live-event-3ba2b6a3",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "チェキ券に関するご案内",
+    "date": "2026-06-07",
+    "description": "【チェキ券に関するご案内】 / 6/5〜6/7開催の沖縄遠征期間中にご使用いただくチェキ券につきまして、沖縄遠征3日間のみ有効期限を【6/7(日)まで】とさせていただきます。 / また、ご返金をご希望のお客様につきましても【6/7(日)まで】対応させていただきます。 / ※リリースイベントのレギュレーションは対象外とな",
+    "post_url": "https://nitter.net/STAiNY_official/status/2062829299514974556#m",
+    "created_at": "2026-06-05T09:30:05Z"
   },
   {
     "id": "stainy-2026-06-09-live-yoru-fes-rock-fes-6cfaa12e",
@@ -808,6 +828,20 @@
     "group_id": "stainy",
     "type": "live",
     "title": "「SWEET PARTT」",
+    "date": "2026-06-26",
+    "time_open": "16:45",
+    "time_start": "17:15",
+    "venue": "白金高輪SELENE b2",
+    "description": "【6/26(金)対バン情報✨】 / 「SWEET PARTT」 / 🏟白金高輪SELENE b2 / 🚪開場16:45/🏁開演17:15",
+    "post_url": "https://nitter.net/STAiNY_official/status/2060323359335063633#m",
+    "image_url": "https://nitter.net/pic/media%2FHJe9K9kbMAA3TAn.jpg",
+    "created_at": "2026-05-29T11:32:22Z"
+  },
+  {
+    "id": "stainy-2026-06-26-live-sweet-partt-4972b688",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "SWEET PARTT",
     "date": "2026-06-26",
     "time_open": "16:45",
     "time_start": "17:15",
