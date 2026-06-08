@@ -210,6 +210,14 @@ const path = require('path');
           created_at: new Date().toISOString()
         };
       });
+
+      // 既存データからcreated_atを引き継ぐ
+      newEvents.forEach(newEv => {
+        const existing = existingEvents.find(ev => ev.id === newEv.id);
+        if (existing && existing.created_at) {
+          newEv.created_at = existing.created_at;
+        }
+      });
       
       // 今回スクレイピングして取得された全イベントから日付の最小値・最大値を求め、
       // 既存データから「TimeTree由来であり、かつ今回の最新データに存在しないイベント」のみを選別除外する

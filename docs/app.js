@@ -109,6 +109,7 @@
           <div class="filters" aria-label="種別フィルター">
             ${renderFilters()}
           </div>
+          ${renderNewEventsSection()}
           ${renderEventSections()}
         </aside>
       </main>
@@ -186,8 +187,9 @@
   }
 
   function renderEventChip(event) {
+    const isNew = isNewEvent(event.created_at);
     return `
-      <span class="event-chip ${escapeAttr(event.type)}">
+      <span class="event-chip ${escapeAttr(event.type)} ${isNew ? "is-new" : ""}">
         <time>${escapeHtml(chipTime(event))}</time>
         <span>${escapeHtml(chipTitle(event))}</span>
       </span>
@@ -246,10 +248,14 @@
   }
 
   function renderEventCard(event) {
+    const isNew = isNewEvent(event.created_at);
     return `
       <button class="event-card ${escapeAttr(event.type)}" type="button" data-event-id="${escapeAttr(event.id)}">
         <span class="event-card-header">
-          <h3>${escapeHtml(event.title)}</h3>
+          <span class="title-wrap">
+            <h3>${escapeHtml(event.title)}</h3>
+            ${isNew ? `<span class="new-badge-ui">NEW</span>` : ""}
+          </span>
           <span class="type-badge">${escapeHtml(typeLabels[event.type] || event.type)}</span>
         </span>
         <span class="event-card-meta">
@@ -347,6 +353,7 @@
         ${event.venue ? detail("会場", event.venue, true) : ""}
         ${event.benefit_time ? detail("特典会", event.benefit_time, true) : ""}
         ${event.price ? detail("料金", event.price, true) : ""}
+        ${event.created_at ? detail("追加日時", formatDateTime(event.created_at), true) : ""}
       </div>
       ${event.image_url ? `<div class="modal-image"><img src="${escapeAttr(event.image_url)}" alt="イベント画像" loading="lazy" onerror="this.parentNode.style.display='none';" /></div>` : ""}
       ${event.description ? `<p>${escapeHtml(event.description)}</p>` : ""}
@@ -439,5 +446,85 @@
 
   function escapeAttr(value) {
     return escapeHtml(value);
+  }
+
+  function isNewEvent(createdAtStr) {
+    if (!createdAtStr) return false;
+    const createdAt = new Date(createdAtStr);
+    if (createdAt.getFullYear() === 2020) return false;
+    const now = new Date();
+    const diffTime = now - createdAt;
+    const diffDays = diffTime / (1000 * 60 * 60 * 24);
+    return diffDays <= 3;
+  }
+
+  function formatDateTime(isoStr) {
+    if (!isoStr) return "";
+    const date = new Date(isoStr);
+    if (date.getFullYear() === 2020) return "（初期登録）";
+    const y = date.getFullYear();
+    const m = String(date.getMonth() + 1).padStart(2, "0");
+    const d = String(date.getDate()).padStart(2, "0");
+    const hh = String(date.getHours()).padStart(2, "0");
+    const mm = String(date.getMinutes()).padStart(2, "0");
+    return `${y}/${m}/${d} ${hh}:${mm}`;
+  }
+
+  function formatRelativeTime(isoStr) {
+    if (!isoStr) return "";
+    const date = new Date(isoStr);
+    const now = new Date();
+    const diffMs = now - date;
+    const diffMin = Math.floor(diffMs / (1000 * 60));
+    const diffHrs = Math.floor(diffMs / (1000 * 60 * 60));
+    const diffDays = Math.floor(diffMs / (1000 * 60 * 60 * 24));
+
+    if (diffMin < 60) {
+      return `${diffMin}分前`;
+    } else if (diffHrs < 24) {
+      return `${diffHrs}時間前`;
+    } else {
+      return `${diffDays}日前`;
+    }
+  }
+
+  function renderNewEventsSection() {
+    const validEvents = state.events.filter(ev => {
+      if (!ev.created_at) return false;
+      const d = new Date(ev.created_at);
+      return d.getFullYear() !== 2020;
+    });
+
+    const sorted = [...validEvents].sort((a, b) => new Date(b.created_at) - new Date(a.created_at));
+    const recent = sorted.slice(0, 5);
+
+    if (recent.length === 0) {
+      return "";
+    }
+
+    return `
+      <section class="new-events-section">
+        <h3 class="section-title"><span>最近追加された予定</span></h3>
+        <div class="new-event-list">
+          ${recent.map(renderNewEventRow).join("")}
+        </div>
+      </section>
+    `;
+  }
+
+  function renderNewEventRow(event) {
+    const isNew = isNewEvent(event.created_at);
+    return `
+      <button class="new-event-row ${escapeAttr(event.type)}" type="button" data-event-id="${escapeAttr(event.id)}">
+        <span class="new-event-row-header">
+          <span class="new-event-title">${escapeHtml(event.title)}</span>
+          ${isNew ? `<span class="new-indicator-badge">NEW</span>` : ""}
+        </span>
+        <span class="new-event-row-meta">
+          <span>${escapeHtml(formatDateLabel(event.date))}</span>
+          <span>追加: ${escapeHtml(formatRelativeTime(event.created_at))}</span>
+        </span>
+      </button>
+    `;
   }
 })();

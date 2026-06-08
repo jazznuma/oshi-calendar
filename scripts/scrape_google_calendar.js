@@ -86,6 +86,7 @@ const path = require('path');
         mergedMap.set(ev.id, {
           ...existing,
           ...ev,
+          created_at: existing.created_at || ev.created_at,
           image_url: existing.image_url || ev.image_url,
           post_url: existing.post_url || ev.post_url
         });

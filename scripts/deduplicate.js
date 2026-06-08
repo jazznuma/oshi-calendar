@@ -152,6 +152,19 @@ function deduplicateEvents(events, groupId) {
         }
       }
       
+      // 重複するすべてのイベントの中で最も古い created_at を割り当てる
+      let oldestCreatedAt = null;
+      bucketEvents.forEach(ev => {
+        if (ev.created_at) {
+          if (!oldestCreatedAt || new Date(ev.created_at) < new Date(oldestCreatedAt)) {
+            oldestCreatedAt = ev.created_at;
+          }
+        }
+      });
+      if (oldestCreatedAt) {
+        bestEvent.created_at = oldestCreatedAt;
+      }
+      
       console.log(`    => Kept: "${bestEvent.title}" (Score: ${maxScore})`);
       result.push(bestEvent);
     }

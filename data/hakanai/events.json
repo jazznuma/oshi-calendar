@@ -18,6 +18,15 @@
     "created_at": "2026-06-04T09:59:58.939Z"
   },
   {
+    "id": "hakanai-2026-04-29-live-leading-umikaze-32b59861",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "LEADING UMIKAZE",
+    "date": "2026-04-29",
+    "description": "LEADING UMIKAZE",
+    "created_at": "2026-06-04T09:39:39.879Z"
+  },
+  {
     "id": "hakanai-2026-04-30-live-oishii-inc-presents--4c36cf8f",
     "group_id": "hakanai",
     "type": "live",
@@ -34,6 +43,15 @@
     "date": "2026-04-30",
     "description": "OISHII.inc Presents 「美味しいイベント」 -裏ハロウィン",
     "created_at": "2026-06-04T09:59:58.939Z"
+  },
+  {
+    "id": "hakanai-2026-04-30-live-oishii-inc-presents--4c36cf8f",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "OISHII.inc Presents 「美味しいイベント」 -裏ハロウィン",
+    "date": "2026-04-30",
+    "description": "OISHII.inc Presents 「美味しいイベント」 -裏ハロウィン",
+    "created_at": "2026-06-04T09:39:39.879Z"
   },
   {
     "id": "hakanai-2026-05-02-live-idol-summer-jungle-g-6f1bf190",

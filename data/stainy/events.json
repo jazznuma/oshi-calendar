@@ -18,6 +18,15 @@
     "created_at": "2026-06-04T09:59:39.811Z"
   },
   {
+    "id": "stainy-2026-04-27-live-marquee--657c0c9e",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "MARQUEE祭",
+    "date": "2026-04-27",
+    "description": "MARQUEE祭",
+    "created_at": "2026-06-04T09:39:20.481Z"
+  },
+  {
     "id": "stainy-2026-04-29-live-leading-umikaze-32b59861",
     "group_id": "stainy",
     "type": "live",
@@ -34,6 +43,15 @@
     "date": "2026-04-29",
     "description": "LEADING UMIKAZE",
     "created_at": "2026-06-04T09:59:39.811Z"
+  },
+  {
+    "id": "stainy-2026-04-29-live-leading-umikaze-32b59861",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "LEADING UMIKAZE",
+    "date": "2026-04-29",
+    "description": "LEADING UMIKAZE",
+    "created_at": "2026-06-04T09:39:20.481Z"
   },
   {
     "id": "stainy-2026-05-02-live-summer-jungle-62057ea5",
@@ -743,6 +761,15 @@
     "created_at": "2026-06-04T09:59:39.811Z"
   },
   {
+    "id": "stainy-2026-07-01-live---18ebbfa3",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "対バン予定",
+    "date": "2026-07-01",
+    "description": "対バン予定",
+    "created_at": "2026-06-08T00:50:25.024Z"
+  },
+  {
     "id": "stainy-2026-07-04-live---6ec49ad2",
     "group_id": "stainy",
     "type": "live",
@@ -759,5 +786,59 @@
     "date": "2026-07-05",
     "description": "対バン",
     "created_at": "2026-06-04T09:59:39.811Z"
+  },
+  {
+    "id": "stainy-2026-07-07-live---6e17b88b",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "対バン",
+    "date": "2026-07-07",
+    "description": "対バン",
+    "created_at": "2026-06-08T00:50:25.024Z"
+  },
+  {
+    "id": "stainy-2026-07-11-live---76ec624",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "対バン予定",
+    "date": "2026-07-11",
+    "description": "対バン予定",
+    "created_at": "2026-06-08T00:50:25.024Z"
+  },
+  {
+    "id": "stainy-2026-07-12-live---f206b83",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "対バン予定",
+    "date": "2026-07-12",
+    "description": "対バン予定",
+    "created_at": "2026-06-08T00:50:25.024Z"
+  },
+  {
+    "id": "stainy-2026-07-25-live---14b86221",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "対バン予定",
+    "date": "2026-07-25",
+    "description": "対バン予定",
+    "created_at": "2026-06-08T00:50:25.024Z"
+  },
+  {
+    "id": "stainy-2026-07-26-live---1c6a0780",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "対バン予定",
+    "date": "2026-07-26",
+    "description": "対バン予定",
+    "created_at": "2026-06-08T00:50:25.024Z"
+  },
+  {
+    "id": "stainy-2026-07-31-live-tokyo-idol-festival--2e08e2b7",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "TOKYO IDOL FESTIVAL 2026",
+    "date": "2026-07-31",
+    "description": "TOKYO IDOL FESTIVAL 2026",
+    "created_at": "2026-06-08T00:50:25.024Z"
   }
 ]

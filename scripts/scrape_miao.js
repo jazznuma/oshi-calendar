@@ -129,7 +129,14 @@ const path = require('path');
     existingEvents.forEach(ev => mergedMap.set(ev.id, ev));
     newEvents.forEach(ev => {
       if (mergedMap.has(ev.id)) {
-        mergedMap.set(ev.id, { ...ev, ...mergedMap.get(ev.id) }); // 既存情報を優先
+        const existing = mergedMap.get(ev.id);
+        mergedMap.set(ev.id, {
+          ...existing,
+          ...ev,
+          created_at: existing.created_at || ev.created_at,
+          image_url: existing.image_url || ev.image_url,
+          post_url: existing.post_url || ev.post_url
+        });
       } else {
         mergedMap.set(ev.id, ev);
       }

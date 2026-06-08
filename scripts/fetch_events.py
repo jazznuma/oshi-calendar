@@ -304,7 +304,11 @@ def extract_ticket_event(group: dict, post: dict, title: str, ticket_url: str | 
 def merge_events(existing: list[dict], incoming: list[dict]) -> list[dict]:
     merged = {event.get("id"): event for event in existing if event.get("id")}
     for event in incoming:
-        merged[event["id"]] = {**merged.get(event["id"], {}), **event}
+        existing_event = merged.get(event["id"], {})
+        updated_event = {**existing_event, **event}
+        if "created_at" in existing_event and existing_event["created_at"]:
+            updated_event["created_at"] = existing_event["created_at"]
+        merged[event["id"]] = updated_event
     return list(merged.values())
 
 
