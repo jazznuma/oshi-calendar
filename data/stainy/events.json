@@ -9,24 +9,6 @@
     "created_at": "2026-06-04T09:59:39.811Z"
   },
   {
-    "id": "stainy-2026-04-27-live-marquee--657c0c9e",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "MARQUEE祭",
-    "date": "2026-04-27",
-    "description": "MARQUEE祭",
-    "created_at": "2026-06-04T09:59:39.811Z"
-  },
-  {
-    "id": "stainy-2026-04-29-live-leading-umikaze-32b59861",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "LEADING UMIKAZE",
-    "date": "2026-04-29",
-    "description": "LEADING UMIKAZE",
-    "created_at": "2026-06-04T09:59:39.811Z"
-  },
-  {
     "id": "stainy-2026-04-29-live-leading-umikaze-32b59861",
     "group_id": "stainy",
     "type": "live",
@@ -317,10 +299,33 @@
     "created_at": "2026-06-02T13:22:45Z"
   },
   {
+    "id": "stainy-2026-06-02-ticket-rt-by-stainy-official-6-12-bd3f2f60",
+    "group_id": "stainy",
+    "type": "ticket",
+    "title": "RT by @STAiNY_official: 【6/12(金)単独公演 チケ発",
+    "date": "2026-06-02",
+    "time_start": "22:00",
+    "ticket_url": "https://t-dv.com/STAiNY0612",
+    "post_url": "https://nitter.net/STAiNY_official/status/2061403523267575825#m",
+    "image_url": "https://nitter.net/pic/media%2FHJuTk6laoAA3iWk.jpg",
+    "created_at": "2026-06-01T11:04:33Z"
+  },
+  {
     "id": "stainy-2026-06-03-ticket-event-5d8bde45",
     "group_id": "stainy",
     "type": "ticket",
     "title": "「佐々木ひまり生誕祭」 チケ発",
+    "date": "2026-06-03",
+    "time_start": "22:00",
+    "post_url": "https://nitter.net/STAiNY_official/status/2061749699728863301#m",
+    "image_url": "https://nitter.net/pic/media%2FHJzOaMIbIAEHNa6.jpg",
+    "created_at": "2026-06-02T10:00:08Z"
+  },
+  {
+    "id": "stainy-2026-06-03-ticket-event-0eddbb71",
+    "group_id": "stainy",
+    "type": "ticket",
+    "title": "佐々木ひまり生誕祭 チケ発",
     "date": "2026-06-03",
     "time_start": "22:00",
     "post_url": "https://nitter.net/STAiNY_official/status/2061749699728863301#m",
@@ -538,6 +543,18 @@
     "created_at": "2026-06-04T09:59:39.811Z"
   },
   {
+    "id": "stainy-2026-06-08-live-rt-by-stainy-official-a31fe152",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "RT by @STAiNY_official: ◤ ◢◤ ◢◤ ◢◤◢◤ ◢",
+    "date": "2026-06-08",
+    "ticket_url": "https://official.idolfes.com/s/tif2026/page/lineup?ima=0000",
+    "description": "RT by @STAiNY_official: ◤ ◢◤ ◢◤ ◢◤◢◤ ◢ / 出演日 発表 / ◤ ◢◤ ◢◤ ◢◤◢◤ ◢ / 本日までにLINE UPされた",
+    "post_url": "https://nitter.net/TIP_TIF_staff/status/2063831956740346300#m",
+    "image_url": "https://nitter.net/pic/media%2FHKQU_kMbcAAdXLO.jpg",
+    "created_at": "2026-06-08T03:54:17Z"
+  },
+  {
     "id": "stainy-2026-06-09-live-yoru-fes-rock-fes-6cfaa12e",
     "group_id": "stainy",
     "type": "live",
@@ -545,6 +562,18 @@
     "date": "2026-06-09",
     "description": "YORU-FESよるあみなりのROCK FES",
     "created_at": "2026-06-04T09:59:39.811Z"
+  },
+  {
+    "id": "stainy-2026-06-09-live-yoru-fes-rock-fes-051ef7da",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "YORU-FESよるあみなりのROCK FES",
+    "date": "2026-06-09",
+    "venue": "Spotify O-EAST",
+    "description": "／ / 👾明日のSTAiNY✨ / ⭐️夜光性アミューズさんPre. / 🪩「YORU-FESよるあみなりのROCK FES」",
+    "post_url": "https://nitter.net/STAiNY_official/status/2063954965396394346#m",
+    "image_url": "https://nitter.net/pic/media%2FHKSj9M_akAABAK2.jpg",
+    "created_at": "2026-06-08T12:03:04Z"
   },
   {
     "id": "stainy-2026-06-10-premium-live-deadline",
@@ -593,6 +622,22 @@
     "venue": "新宿 WALLY",
     "price": "優先3000円（2s写メ券+1pt）/通常1000円(D代事前徴収)/当日+500円(各1D別)",
     "description": "【6/12(金)単独公演】 / ｢爽やかデート私服公演」 / 🏟新宿 WALLY / 🚪開場19:00/🏁開演19:20",
+    "post_url": "https://nitter.net/STAiNY_official/status/2061403523267575825#m",
+    "image_url": "https://nitter.net/pic/media%2FHJuTk6laoAA3iWk.jpg",
+    "created_at": "2026-06-01T11:04:33Z"
+  },
+  {
+    "id": "stainy-2026-06-12-live-rt-by-stainy-official-6-12-ab24031e",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "RT by @STAiNY_official: 【6/12(金)単独公演",
+    "date": "2026-06-12",
+    "time_open": "19:00",
+    "time_start": "19:20",
+    "venue": "新宿 WALLY",
+    "price": "優先3000円（2s写メ券+1pt）/通常1000円(D代事前徴収)/当日+500円(各1D別)",
+    "ticket_url": "https://t-dv.com/STAiNY0612",
+    "description": "RT by @STAiNY_official: 【6/12(金)単独公演】 / ｢爽やかデート私服公演」 / 🏟新宿 WALLY / 🚪開場19:00/🏁開演19:20",
     "post_url": "https://nitter.net/STAiNY_official/status/2061403523267575825#m",
     "image_url": "https://nitter.net/pic/media%2FHJuTk6laoAA3iWk.jpg",
     "created_at": "2026-06-01T11:04:33Z"
@@ -674,6 +719,21 @@
     "group_id": "stainy",
     "type": "live",
     "title": "「佐々木ひまり生誕祭」",
+    "date": "2026-06-21",
+    "time_open": "10:30",
+    "time_start": "11:00",
+    "venue": "下北沢シャングリラ",
+    "price": "優先3000円/通常2000円/当日2500円(各1D別)",
+    "description": "【6/21(日)生誕祭情報🎂🧡ྀི】 / 「佐々木ひまり生誕祭」 / 🏟下北沢シャングリラ / 🚪開場10:30🏁開演11:00",
+    "post_url": "https://nitter.net/STAiNY_official/status/2061749699728863301#m",
+    "image_url": "https://nitter.net/pic/media%2FHJzOaMIbIAEHNa6.jpg",
+    "created_at": "2026-06-02T10:00:08Z"
+  },
+  {
+    "id": "stainy-2026-06-21-live-event-cf1c0a4d",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "佐々木ひまり生誕祭",
     "date": "2026-06-21",
     "time_open": "10:30",
     "time_start": "11:00",
@@ -773,6 +833,17 @@
     "created_at": "2026-06-04T09:59:39.811Z"
   },
   {
+    "id": "stainy-2026-06-23-release-event-00dd7220",
+    "group_id": "stainy",
+    "type": "release",
+    "title": "ドンチューライアー",
+    "date": "2026-06-23",
+    "description": "／ / 💽STAiNY 1stアルバム / 「ドンチューライアー」 / リリースイベント追加日程&TT解禁✨",
+    "post_url": "https://nitter.net/STAiNY_official/status/2061428750626283537#m",
+    "image_url": "https://nitter.net/pic/media%2FHJuqg3saAAApWQj.jpg",
+    "created_at": "2026-06-01T12:44:48Z"
+  },
+  {
     "id": "stainy-2026-06-24-live-parad-i-se-vol-5-2-s-5d482df6",
     "group_id": "stainy",
     "type": "live",
@@ -866,6 +937,18 @@
     "date": "2026-07-11",
     "description": "対バン予定",
     "created_at": "2026-06-08T00:52:59.886Z"
+  },
+  {
+    "id": "stainy-2026-07-11-live-7-11-12-1ac1c246",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "🌴7/11.12(土.日)出演決定‼️🌊",
+    "date": "2026-07-11",
+    "venue": "ベルサール渋谷ガーデン/他",
+    "description": "／ / 🗻 #SPARK2026  渋谷納涼祭 / 🌴7/11.12(土.日)出演決定‼️🌊 / ＼",
+    "post_url": "https://nitter.net/STAiNY_official/status/2063925563761590384#m",
+    "image_url": "https://nitter.net/pic/media%2FHKSJXETaQAA1dnw.jpg",
+    "created_at": "2026-06-08T10:06:14Z"
   },
   {
     "id": "stainy-2026-07-12-live---f206b83",

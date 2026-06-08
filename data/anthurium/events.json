@@ -9,24 +9,6 @@
     "created_at": "2026-06-04T09:59:44.758Z"
   },
   {
-    "id": "anthurium-2026-04-29-live--devil-anthem-utage--4eecfa71",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "『Devil ANTHEM. × UtaGe! × アンスリューム』",
-    "date": "2026-04-29",
-    "description": "『Devil ANTHEM. × UtaGe! × アンスリューム』",
-    "created_at": "2026-06-04T09:39:25.534Z"
-  },
-  {
-    "id": "anthurium-2026-04-29-live--devil-anthem-utage--4eecfa71",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "『Devil ANTHEM. × UtaGe! × アンスリューム』",
-    "date": "2026-04-29",
-    "description": "『Devil ANTHEM. × UtaGe! × アンスリューム』",
-    "created_at": "2026-06-04T09:59:44.758Z"
-  },
-  {
     "id": "anthurium-2026-05-02-live---381dc27",
     "group_id": "anthurium",
     "type": "live",
@@ -230,6 +212,15 @@
     "created_at": "2026-06-03T09:00:05Z"
   },
   {
+    "id": "anthurium-2026-06-04-live--hype-idol-dx--4ea3441c",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "『HYPE IDOL！ DX』",
+    "date": "2026-06-04",
+    "description": "『HYPE IDOL！ DX』",
+    "created_at": "2026-06-04T09:59:44.758Z"
+  },
+  {
     "id": "anthurium-2026-06-04-live-festival-2026-c0f54892",
     "group_id": "anthurium",
     "type": "live",
@@ -242,15 +233,6 @@
     "post_url": "https://nitter.net/anthurium0317/status/2062089466198872452#m",
     "image_url": "https://nitter.net/pic/media%2FHJ4DcFxa0AArY-S.jpg",
     "created_at": "2026-06-03T08:30:15Z"
-  },
-  {
-    "id": "anthurium-2026-06-04-live--hype-idol-dx--4ea3441c",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "『HYPE IDOL！ DX』",
-    "date": "2026-06-04",
-    "description": "『HYPE IDOL！ DX』",
-    "created_at": "2026-06-04T09:59:44.758Z"
   },
   {
     "id": "anthurium-2026-06-05-live-event-4ad39b41",
@@ -290,6 +272,15 @@
     "created_at": "2026-06-03T10:00:22Z"
   },
   {
+    "id": "anthurium-2026-06-07-live--leading--4d595760",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "『LEADING』",
+    "date": "2026-06-07",
+    "description": "『LEADING』",
+    "created_at": "2026-06-04T09:59:44.758Z"
+  },
+  {
     "id": "anthurium-2026-06-07-live-leading-ee9879e8",
     "group_id": "anthurium",
     "type": "live",
@@ -304,13 +295,32 @@
     "created_at": "2026-06-04T14:00:06Z"
   },
   {
-    "id": "anthurium-2026-06-07-live--leading--4d595760",
+    "id": "anthurium-2026-06-07-live-leading-82616e57",
     "group_id": "anthurium",
     "type": "live",
-    "title": "『LEADING』",
+    "title": "LEADING",
     "date": "2026-06-07",
-    "description": "『LEADING』",
-    "created_at": "2026-06-04T09:59:44.758Z"
+    "time_open": "9:00",
+    "time_start": "9:30",
+    "venue": "品川インターシティホール",
+    "description": "\\\\\\✨️本日✨️/// / 『LEADING』 / 6/7(日) / 📍 品川インターシティホール",
+    "post_url": "https://nitter.net/anthurium0317/status/2063429679315636610#m",
+    "image_url": "https://nitter.net/pic/media%2FHKLGWzxbEAAKUSA.jpg",
+    "created_at": "2026-06-07T01:15:46Z"
+  },
+  {
+    "id": "anthurium-2026-06-12-live-d-butante-vol-9-b83f3ffa",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "Débutante vol.9",
+    "date": "2026-06-12",
+    "time_open": "12:00",
+    "time_start": "12:30",
+    "venue": "ZeppDiverCity",
+    "description": "\\\\\\✨️次回のアンスリュームはこちら✨️/// / AVAM presents『Débutante vol.9』 / 6/12(金) / 📍 ZeppDiverCity",
+    "post_url": "https://nitter.net/anthurium0317/status/2063933619501207552#m",
+    "image_url": "https://nitter.net/pic/media%2FHKSQd9gbQAAmiEq.jpg",
+    "created_at": "2026-06-08T10:38:15Z"
   },
   {
     "id": "anthurium-2026-06-12-live-avam-presents-d-buta-7ae17f0",
@@ -319,6 +329,15 @@
     "title": "AVAM presents『Débutante vol.9",
     "date": "2026-06-12",
     "description": "AVAM presents『Débutante vol.9",
+    "created_at": "2026-06-04T09:59:44.758Z"
+  },
+  {
+    "id": "anthurium-2026-06-13-live--in-kanda-square-hal-506b7260",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "「アイドル甲子園 in KANDA SQUARE HALL」supported by My-th -DAY1-",
+    "date": "2026-06-13",
+    "description": "「アイドル甲子園 in KANDA SQUARE HALL」supported by My-th -DAY1-",
     "created_at": "2026-06-04T09:59:44.758Z"
   },
   {
@@ -335,15 +354,6 @@
     "post_url": "https://nitter.net/anthurium0317/status/2062081966426800331#m",
     "image_url": "https://nitter.net/pic/media%2FHJ38nl4aAAAtB4N.jpg",
     "created_at": "2026-06-03T08:00:27Z"
-  },
-  {
-    "id": "anthurium-2026-06-13-live--in-kanda-square-hal-506b7260",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "「アイドル甲子園 in KANDA SQUARE HALL」supported by My-th -DAY1-",
-    "date": "2026-06-13",
-    "description": "「アイドル甲子園 in KANDA SQUARE HALL」supported by My-th -DAY1-",
-    "created_at": "2026-06-04T09:59:44.758Z"
   },
   {
     "id": "anthurium-2026-06-14-live--luna-parade--5d4ca9bb",
@@ -470,6 +480,15 @@
     "created_at": "2026-06-04T09:59:44.758Z"
   },
   {
+    "id": "anthurium-2026-06-28-live--festival-2026-suppo-783e90fd",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "「アイドル甲子園 FESTIVAL 2026」supported by My-th -DAY2-",
+    "date": "2026-06-28",
+    "description": "「アイドル甲子園 FESTIVAL 2026」supported by My-th -DAY2-",
+    "created_at": "2026-06-04T09:59:44.758Z"
+  },
+  {
     "id": "anthurium-2026-06-28-live-festival-2026-e1faf70b",
     "group_id": "anthurium",
     "type": "live",
@@ -482,15 +501,6 @@
     "post_url": "https://nitter.net/anthurium0317/status/2062089466198872452#m",
     "image_url": "https://nitter.net/pic/media%2FHJ4DcFxa0AArY-S.jpg",
     "created_at": "2026-06-03T08:30:15Z"
-  },
-  {
-    "id": "anthurium-2026-06-28-live--festival-2026-suppo-783e90fd",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "「アイドル甲子園 FESTIVAL 2026」supported by My-th -DAY2-",
-    "date": "2026-06-28",
-    "description": "「アイドル甲子園 FESTIVAL 2026」supported by My-th -DAY2-",
-    "created_at": "2026-06-04T09:59:44.758Z"
   },
   {
     "id": "anthurium-2026-07-04-live--natsuzome-2026--61aeffed",
