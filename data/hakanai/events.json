@@ -6,15 +6,6 @@
     "title": "LEADING UMIKAZE",
     "date": "2026-04-29",
     "description": "LEADING UMIKAZE",
-    "created_at": "2026-06-04T09:39:39.879Z"
-  },
-  {
-    "id": "hakanai-2026-04-29-live-leading-umikaze-32b59861",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "LEADING UMIKAZE",
-    "date": "2026-04-29",
-    "description": "LEADING UMIKAZE",
     "created_at": "2026-06-04T09:59:58.939Z"
   },
   {
@@ -24,15 +15,6 @@
     "title": "LEADING UMIKAZE",
     "date": "2026-04-29",
     "description": "LEADING UMIKAZE",
-    "created_at": "2026-06-04T09:39:39.879Z"
-  },
-  {
-    "id": "hakanai-2026-04-30-live-oishii-inc-presents--4c36cf8f",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "OISHII.inc Presents 「美味しいイベント」 -裏ハロウィン",
-    "date": "2026-04-30",
-    "description": "OISHII.inc Presents 「美味しいイベント」 -裏ハロウィン",
     "created_at": "2026-06-04T09:39:39.879Z"
   },
   {
@@ -249,6 +231,30 @@
     "created_at": "2026-06-03T01:00:01Z"
   },
   {
+    "id": "hakanai-2026-06-03-live-mix-box-vol-10-0c9fa08f",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "MIX BOX vol.10",
+    "date": "2026-06-03",
+    "time_start": "19:00",
+    "description": "-------- 次回のライブ -------- / 6/3（水）渋谷音楽堂 / FULIT BOX presents / 『MIX BOX vol.10』",
+    "post_url": "https://nitter.net/hakanai_info/status/2060938066983080237#m",
+    "image_url": "https://nitter.net/pic/media%2FHJk5SDcbYAA3GWA.jpg",
+    "created_at": "2026-05-31T04:15:00Z"
+  },
+  {
+    "id": "hakanai-2026-06-03-live-mix-box-vol-10-4cc5e2fd",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "MIX BOX vol.10",
+    "date": "2026-06-03",
+    "time_start": "19:00",
+    "description": "-------- TT 解禁 -------- / 6/3（水）渋谷音楽堂 / FULIT BOX presents / 『MIX BOX vol.10』",
+    "post_url": "https://nitter.net/hakanai_info/status/2059590444997099566#m",
+    "image_url": "https://nitter.net/pic/media%2FHJRyQpBbsAEUapv.jpg",
+    "created_at": "2026-05-27T11:00:02Z"
+  },
+  {
     "id": "hakanai-2026-06-03-live-fulit-box-presents-m-64b71f0a",
     "group_id": "hakanai",
     "type": "live",
@@ -311,6 +317,18 @@
     "date": "2026-06-07",
     "description": "TIF2026メインステージ争奪LIVE 前哨戦",
     "created_at": "2026-06-04T09:59:58.939Z"
+  },
+  {
+    "id": "hakanai-2026-06-09-live-astrotronic-f888c41f",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "ASTROTRONIC",
+    "date": "2026-06-09",
+    "time_start": "18:00",
+    "description": "-------- 次回のライブ -------- / 6/9（火）渋谷音楽堂 / INFINITY LIVE presents / 『ASTROTRONIC』",
+    "post_url": "https://nitter.net/hakanai_info/status/2063618285967720913#m",
+    "image_url": "https://nitter.net/pic/media%2FHKNx5AraIAAWZc9.jpg",
+    "created_at": "2026-06-07T13:45:14Z"
   },
   {
     "id": "hakanai-2026-06-09-live-infinity-live-presen-2321fa34",
@@ -484,6 +502,15 @@
     "created_at": "2026-06-04T09:59:58.939Z"
   },
   {
+    "id": "hakanai-2026-06-28-live--festival-2026-suppo-5e3a3555",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "「アイドル甲子園 FESTIVAL 2026」 supported by My-th -DAY2-",
+    "date": "2026-06-28",
+    "description": "「アイドル甲子園 FESTIVAL 2026」 supported by My-th -DAY2-",
+    "created_at": "2026-06-04T09:59:58.939Z"
+  },
+  {
     "id": "hakanai-2026-06-28-live-festival-2026-b340a924",
     "group_id": "hakanai",
     "type": "live",
@@ -494,15 +521,6 @@
     "post_url": "https://nitter.net/hakanai_info/status/2061779871597228305#m",
     "image_url": "https://nitter.net/pic/media%2FHJyBBNnbYAAjdo3.jpg",
     "created_at": "2026-06-02T12:00:02Z"
-  },
-  {
-    "id": "hakanai-2026-06-28-live--festival-2026-suppo-5e3a3555",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "「アイドル甲子園 FESTIVAL 2026」 supported by My-th -DAY2-",
-    "date": "2026-06-28",
-    "description": "「アイドル甲子園 FESTIVAL 2026」 supported by My-th -DAY2-",
-    "created_at": "2026-06-04T09:59:58.939Z"
   },
   {
     "id": "hakanai-2026-07-04-live-hakanai-release-tour-20cf2e08",

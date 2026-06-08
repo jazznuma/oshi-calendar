@@ -6,42 +6,6 @@
     "title": "MARQUEE祭",
     "date": "2026-04-27",
     "description": "MARQUEE祭",
-    "created_at": "2026-06-04T09:39:20.481Z"
-  },
-  {
-    "id": "stainy-2026-04-27-live-marquee--657c0c9e",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "MARQUEE祭",
-    "date": "2026-04-27",
-    "description": "MARQUEE祭",
-    "created_at": "2026-06-04T09:59:39.811Z"
-  },
-  {
-    "id": "stainy-2026-04-27-live-marquee--657c0c9e",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "MARQUEE祭",
-    "date": "2026-04-27",
-    "description": "MARQUEE祭",
-    "created_at": "2026-06-04T09:39:20.481Z"
-  },
-  {
-    "id": "stainy-2026-04-29-live-leading-umikaze-32b59861",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "LEADING UMIKAZE",
-    "date": "2026-04-29",
-    "description": "LEADING UMIKAZE",
-    "created_at": "2026-06-04T09:39:20.481Z"
-  },
-  {
-    "id": "stainy-2026-04-29-live-leading-umikaze-32b59861",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "LEADING UMIKAZE",
-    "date": "2026-04-29",
-    "description": "LEADING UMIKAZE",
     "created_at": "2026-06-04T09:59:39.811Z"
   },
   {
@@ -51,7 +15,7 @@
     "title": "LEADING UMIKAZE",
     "date": "2026-04-29",
     "description": "LEADING UMIKAZE",
-    "created_at": "2026-06-04T09:39:20.481Z"
+    "created_at": "2026-06-04T09:59:39.811Z"
   },
   {
     "id": "stainy-2026-05-02-live-summer-jungle-62057ea5",
@@ -346,6 +310,17 @@
     "created_at": "2026-06-02T10:00:08Z"
   },
   {
+    "id": "stainy-2026-06-03-ticket-event-0eddbb71",
+    "group_id": "stainy",
+    "type": "ticket",
+    "title": "佐々木ひまり生誕祭 チケ発",
+    "date": "2026-06-03",
+    "time_start": "22:00",
+    "post_url": "https://nitter.net/STAiNY_official/status/2061749699728863301#m",
+    "image_url": "https://nitter.net/pic/media%2FHJzOaMIbIAEHNa6.jpg",
+    "created_at": "2026-06-02T10:00:08Z"
+  },
+  {
     "id": "stainy-2026-06-03-live---bda40a8",
     "group_id": "stainy",
     "type": "live",
@@ -392,6 +367,40 @@
     "date": "2026-06-05",
     "description": "StarGazer-SG-",
     "created_at": "2026-06-04T09:59:39.811Z"
+  },
+  {
+    "id": "stainy-2026-06-05-free-event-a6e16681",
+    "group_id": "stainy",
+    "type": "free",
+    "title": "チェキ券に関するご案内",
+    "date": "2026-06-05",
+    "ticket_url": "https://nitter.net/STAiNY_official/status/2062678671153115508#m",
+    "description": "【チェキ券に関するご案内】 / 6/5〜6/7開催の沖縄遠征期間中にご使用いただくチェキ券につきまして、沖縄遠征3日間のみ有効期限を【6/7(日)まで】とさせていただきます。 / また、ご返金をご希望のお客様につきましても【6/7(日)まで】対応させていただきます。 / ※リリースイベントのレギュレーションは対象外とな",
+    "post_url": "https://nitter.net/STAiNY_official/status/2062829299514974556#m",
+    "image_url": "https://nitter.net/pic/media%2FHKAbRg1bMAAigF4.jpg",
+    "created_at": "2026-06-05T09:30:05Z"
+  },
+  {
+    "id": "stainy-2026-06-05-free-stainy-3days-582e516e",
+    "group_id": "stainy",
+    "type": "free",
+    "title": "🌺👾STAiNY 沖縄遠征3DAYS✈️✨",
+    "date": "2026-06-05",
+    "ticket_url": "https://docs.google.com/forms/d/e/1FAIpQLSdvCi6zm71woGne_7usv0KR9Ujb4qtZI6FSS8RntxiEDFgN0w/viewform",
+    "description": "／ / 🌺👾STAiNY 沖縄遠征3DAYS✈️✨ / スケジュール公開‼️ / ＼",
+    "post_url": "https://nitter.net/STAiNY_official/status/2062678671153115508#m",
+    "image_url": "https://nitter.net/pic/media%2FHKAbRg1bMAAigF4.jpg",
+    "created_at": "2026-06-04T23:31:32Z"
+  },
+  {
+    "id": "stainy-2026-06-05-live-event-1a4a57ab",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "チェキ券に関するご案内",
+    "date": "2026-06-05",
+    "description": "【チェキ券に関するご案内】 / 6/5〜6/7開催の沖縄遠征期間中にご使用いただくチェキ券につきまして、沖縄遠征3日間のみ有効期限を【6/7(日)まで】とさせていただきます。 / また、ご返金をご希望のお客様につきましても【6/7(日)まで】対応させていただきます。 / ※リリースイベントのレギュレーションは対象外とな",
+    "post_url": "https://nitter.net/STAiNY_official/status/2062829299514974556#m",
+    "created_at": "2026-06-05T09:30:05Z"
   },
   {
     "id": "stainy-2026-06-06-okinawa-girls-girls-day1",
@@ -486,6 +495,40 @@
     "date": "2026-06-07",
     "description": "GIRLS GIRLS",
     "created_at": "2026-06-04T09:59:39.811Z"
+  },
+  {
+    "id": "stainy-2026-06-07-free-event-38f11519",
+    "group_id": "stainy",
+    "type": "free",
+    "title": "チェキ券に関するご案内",
+    "date": "2026-06-07",
+    "ticket_url": "https://nitter.net/STAiNY_official/status/2062678671153115508#m",
+    "description": "【チェキ券に関するご案内】 / 6/5〜6/7開催の沖縄遠征期間中にご使用いただくチェキ券につきまして、沖縄遠征3日間のみ有効期限を【6/7(日)まで】とさせていただきます。 / また、ご返金をご希望のお客様につきましても【6/7(日)まで】対応させていただきます。 / ※リリースイベントのレギュレーションは対象外とな",
+    "post_url": "https://nitter.net/STAiNY_official/status/2062829299514974556#m",
+    "image_url": "https://nitter.net/pic/media%2FHKAbRg1bMAAigF4.jpg",
+    "created_at": "2026-06-05T09:30:05Z"
+  },
+  {
+    "id": "stainy-2026-06-07-free-stainy-3days-f7fb2254",
+    "group_id": "stainy",
+    "type": "free",
+    "title": "🌺👾STAiNY 沖縄遠征3DAYS✈️✨",
+    "date": "2026-06-07",
+    "ticket_url": "https://docs.google.com/forms/d/e/1FAIpQLSdvCi6zm71woGne_7usv0KR9Ujb4qtZI6FSS8RntxiEDFgN0w/viewform",
+    "description": "／ / 🌺👾STAiNY 沖縄遠征3DAYS✈️✨ / スケジュール公開‼️ / ＼",
+    "post_url": "https://nitter.net/STAiNY_official/status/2062678671153115508#m",
+    "image_url": "https://nitter.net/pic/media%2FHKAbRg1bMAAigF4.jpg",
+    "created_at": "2026-06-04T23:31:32Z"
+  },
+  {
+    "id": "stainy-2026-06-07-live-event-3ba2b6a3",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "チェキ券に関するご案内",
+    "date": "2026-06-07",
+    "description": "【チェキ券に関するご案内】 / 6/5〜6/7開催の沖縄遠征期間中にご使用いただくチェキ券につきまして、沖縄遠征3日間のみ有効期限を【6/7(日)まで】とさせていただきます。 / また、ご返金をご希望のお客様につきましても【6/7(日)まで】対応させていただきます。 / ※リリースイベントのレギュレーションは対象外とな",
+    "post_url": "https://nitter.net/STAiNY_official/status/2062829299514974556#m",
+    "created_at": "2026-06-05T09:30:05Z"
   },
   {
     "id": "stainy-2026-06-09-live-yoru-fes-rock-fes-6cfaa12e",
@@ -635,6 +678,21 @@
     "created_at": "2026-06-02T10:00:08Z"
   },
   {
+    "id": "stainy-2026-06-21-live-event-cf1c0a4d",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "佐々木ひまり生誕祭",
+    "date": "2026-06-21",
+    "time_open": "10:30",
+    "time_start": "11:00",
+    "venue": "下北沢シャングリラ",
+    "price": "優先3000円/通常2000円/当日2500円(各1D別)",
+    "description": "【6/21(日)生誕祭情報🎂🧡ྀི】 / 「佐々木ひまり生誕祭」 / 🏟下北沢シャングリラ / 🚪開場10:30🏁開演11:00",
+    "post_url": "https://nitter.net/STAiNY_official/status/2061749699728863301#m",
+    "image_url": "https://nitter.net/pic/media%2FHJzOaMIbIAEHNa6.jpg",
+    "created_at": "2026-06-02T10:00:08Z"
+  },
+  {
     "id": "stainy-2026-06-22-live---60a01f6d",
     "group_id": "stainy",
     "type": "live",
@@ -711,6 +769,52 @@
     "created_at": "2026-06-04T09:59:39.811Z"
   },
   {
+    "id": "stainy-2026-06-23-release-stargazer-sg-522c4ec0",
+    "group_id": "stainy",
+    "type": "release",
+    "title": "StarGazer-SG-",
+    "date": "2026-06-23",
+    "description": "／ / 👾明日のSTAiNY✨ / 💽リリースイベント沖縄編🤖 / 🌺「StarGazer-SG-」",
+    "ticket_url": "https://entabaonline.stores.jp/?category_id=69cf44b98474878675f5b41c",
+    "post_url": "https://nitter.net/STAiNY_official/status/2062543755094429977#m",
+    "image_url": "https://nitter.net/pic/media%2FHJ-gmambsAAuiyY.jpg",
+    "created_at": "2026-06-04T14:35:26Z"
+  },
+  {
+    "id": "stainy-2026-06-23-release-event-952a3fdb",
+    "group_id": "stainy",
+    "type": "release",
+    "title": "ドンチューライアー",
+    "date": "2026-06-23",
+    "description": "／ / 👾明日のSTAiNY✨ / 💽1stアルバム「ドンチューライアー」 / 🚀リリースイベント東京編🤖",
+    "ticket_url": "https://entabaonline.stores.jp/?category_id=69cf44b98474878675f5b41c",
+    "post_url": "https://nitter.net/STAiNY_official/status/2061791566658957332#m",
+    "image_url": "https://nitter.net/pic/media%2FHJz0fNFbAAAq4QO.jpg",
+    "created_at": "2026-06-02T12:46:30Z"
+  },
+  {
+    "id": "stainy-2026-06-23-release-event-00dd7220",
+    "group_id": "stainy",
+    "type": "release",
+    "title": "ドンチューライアー",
+    "date": "2026-06-23",
+    "description": "／ / 💽STAiNY 1stアルバム / 「ドンチューライアー」 / リリースイベント追加日程&TT解禁✨",
+    "post_url": "https://nitter.net/STAiNY_official/status/2061428750626283537#m",
+    "image_url": "https://nitter.net/pic/media%2FHJuqg3saAAApWQj.jpg",
+    "created_at": "2026-06-01T12:44:48Z"
+  },
+  {
+    "id": "stainy-2026-06-23-release-event-3877e8a3",
+    "group_id": "stainy",
+    "type": "release",
+    "title": "ドンチューライアー",
+    "date": "2026-06-23",
+    "description": "／ / 👾STAiNY「ドンチューライアー」 / 📺MBS「かまいたちの知らんけど」 / 🗓6月度エンディングテーマに決定‼️",
+    "post_url": "https://nitter.net/STAiNY_official/status/2060760752068481048#m",
+    "image_url": "https://nitter.net/pic/media%2FHJlK-7MaEAA2HjW.jpg",
+    "created_at": "2026-05-30T16:30:25Z"
+  },
+  {
     "id": "stainy-2026-06-24-live-parad-i-se-vol-5-2-s-5d482df6",
     "group_id": "stainy",
     "type": "live",
@@ -724,6 +828,20 @@
     "group_id": "stainy",
     "type": "live",
     "title": "「SWEET PARTT」",
+    "date": "2026-06-26",
+    "time_open": "16:45",
+    "time_start": "17:15",
+    "venue": "白金高輪SELENE b2",
+    "description": "【6/26(金)対バン情報✨】 / 「SWEET PARTT」 / 🏟白金高輪SELENE b2 / 🚪開場16:45/🏁開演17:15",
+    "post_url": "https://nitter.net/STAiNY_official/status/2060323359335063633#m",
+    "image_url": "https://nitter.net/pic/media%2FHJe9K9kbMAA3TAn.jpg",
+    "created_at": "2026-05-29T11:32:22Z"
+  },
+  {
+    "id": "stainy-2026-06-26-live-sweet-partt-4972b688",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "SWEET PARTT",
     "date": "2026-06-26",
     "time_open": "16:45",
     "time_start": "17:15",
@@ -761,15 +879,6 @@
     "created_at": "2026-06-04T09:59:39.811Z"
   },
   {
-    "id": "stainy-2026-07-01-live---18ebbfa3",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "対バン予定",
-    "date": "2026-07-01",
-    "description": "対バン予定",
-    "created_at": "2026-06-08T00:50:25.024Z"
-  },
-  {
     "id": "stainy-2026-07-04-live---6ec49ad2",
     "group_id": "stainy",
     "type": "live",
@@ -788,57 +897,17 @@
     "created_at": "2026-06-04T09:59:39.811Z"
   },
   {
-    "id": "stainy-2026-07-07-live---6e17b88b",
+    "id": "stainy-2026-09-21-live-9-21-22-23-99797bfd",
     "group_id": "stainy",
     "type": "live",
-    "title": "対バン",
-    "date": "2026-07-07",
-    "description": "対バン",
-    "created_at": "2026-06-08T00:50:25.024Z"
-  },
-  {
-    "id": "stainy-2026-07-11-live---76ec624",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "対バン予定",
-    "date": "2026-07-11",
-    "description": "対バン予定",
-    "created_at": "2026-06-08T00:50:25.024Z"
-  },
-  {
-    "id": "stainy-2026-07-12-live---f206b83",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "対バン予定",
-    "date": "2026-07-12",
-    "description": "対バン予定",
-    "created_at": "2026-06-08T00:50:25.024Z"
-  },
-  {
-    "id": "stainy-2026-07-25-live---14b86221",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "対バン予定",
-    "date": "2026-07-25",
-    "description": "対バン予定",
-    "created_at": "2026-06-08T00:50:25.024Z"
-  },
-  {
-    "id": "stainy-2026-07-26-live---1c6a0780",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "対バン予定",
-    "date": "2026-07-26",
-    "description": "対バン予定",
-    "created_at": "2026-06-08T00:50:25.024Z"
-  },
-  {
-    "id": "stainy-2026-07-31-live-tokyo-idol-festival--2e08e2b7",
-    "group_id": "stainy",
-    "type": "live",
-    "title": "TOKYO IDOL FESTIVAL 2026",
-    "date": "2026-07-31",
-    "description": "TOKYO IDOL FESTIVAL 2026",
-    "created_at": "2026-06-08T00:50:25.024Z"
+    "title": "🗻9/21.22.23 出演決定🌺✨",
+    "date": "2026-09-21",
+    "time_open": "9:00",
+    "time_start": "10:00",
+    "venue": "山中湖交流プラザ",
+    "description": "／ / 🗻9/21.22.23 出演決定🌺✨ / 🌴SPARK 2026 in YAMANAKAKO🌊 / ＼",
+    "post_url": "https://nitter.net/STAiNY_official/status/2063531461731627496#m",
+    "image_url": "https://nitter.net/pic/media%2FHKMi6d5bIAA8D8a.jpg",
+    "created_at": "2026-06-07T08:00:13Z"
   }
 ]

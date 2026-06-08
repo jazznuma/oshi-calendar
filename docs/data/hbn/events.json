@@ -6,15 +6,6 @@
     "title": "東京｜DRAMATIC POP！vol.16",
     "date": "2026-04-27",
     "description": "東京｜DRAMATIC POP！vol.16",
-    "created_at": "2026-06-04T09:39:30.544Z"
-  },
-  {
-    "id": "hbn-2026-04-27-live--dramatic-pop-vol-16-768e8c81",
-    "group_id": "hbn",
-    "type": "live",
-    "title": "東京｜DRAMATIC POP！vol.16",
-    "date": "2026-04-27",
-    "description": "東京｜DRAMATIC POP！vol.16",
     "created_at": "2026-06-04T09:59:49.439Z"
   },
   {
@@ -33,15 +24,6 @@
     "title": "🌈大阪｜火花放電 supported by FaveZone",
     "date": "2026-04-29",
     "description": "🌈大阪｜火花放電 supported by FaveZone",
-    "created_at": "2026-06-04T09:39:30.544Z"
-  },
-  {
-    "id": "hbn-2026-04-29-live--supported-by-favezo-36672f84",
-    "group_id": "hbn",
-    "type": "live",
-    "title": "🌈大阪｜火花放電 supported by FaveZone",
-    "date": "2026-04-29",
-    "description": "🌈大阪｜火花放電 supported by FaveZone",
     "created_at": "2026-06-04T09:59:49.439Z"
   },
   {
@@ -51,15 +33,6 @@
     "title": "🌈大阪｜火花放電 supported by FaveZone",
     "date": "2026-04-29",
     "description": "🌈大阪｜火花放電 supported by FaveZone",
-    "created_at": "2026-06-04T09:39:30.544Z"
-  },
-  {
-    "id": "hbn-2026-04-30-live--11v--3f8403c3",
-    "group_id": "hbn",
-    "type": "live",
-    "title": "🌈大阪｜火花放電-11V-",
-    "date": "2026-04-30",
-    "description": "🌈大阪｜火花放電-11V-",
     "created_at": "2026-06-04T09:39:30.544Z"
   },
   {
@@ -338,6 +311,31 @@
     "created_at": "2026-06-04T09:59:49.439Z"
   },
   {
+    "id": "hbn-2026-06-02-live-tif-live-free-live-c75871b4",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "TIFメインステージ争奪LIVE 決起集会FREE LIVE -第三幕-",
+    "date": "2026-06-02",
+    "ticket_url": "https://youtu.be/2dbBTa2rIvc",
+    "description": "RT by @HBN_187: 2026.6.2開催🎉 / 「TIFメインステージ争奪LIVE 決起集会FREE LIVE -第三幕-」 / 今回は争奪をかけた戦いに挑む⚔️ / HIBANA(@HBN_187 )の皆さんよりコメント動画が届きました✉️",
+    "post_url": "https://nitter.net/shibuya_duo/status/2062489544847495580#m",
+    "image_url": "https://nitter.net/pic/media%2FHJ9d7v2bwAAKXo8.jpg",
+    "created_at": "2026-06-04T11:00:01Z"
+  },
+  {
+    "id": "hbn-2026-06-05-live-event-0084c305",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "導火閃",
+    "date": "2026-06-05",
+    "time_start": "18:00",
+    "ticket_url": "https://nitter.net/HBN_187/status/2044022867441152068#m",
+    "description": "💥明日はこちら💥 / HIBANA SUMMER IGNITION / 『導火閃』 / ▶︎2026.6.5(金)",
+    "post_url": "https://nitter.net/HBN_187/status/2062493640321273906#m",
+    "image_url": "https://nitter.net/pic/media%2FHJ9zCHabcAAOXcD.jpg",
+    "created_at": "2026-06-04T11:16:17Z"
+  },
+  {
     "id": "hbn-2026-06-05-live---2a0d4a72",
     "group_id": "hbn",
     "type": "live",
@@ -347,6 +345,58 @@
     "created_at": "2026-06-04T09:59:49.439Z"
   },
   {
+    "id": "hbn-2026-06-06-live-event-2606923e",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "瞬間ディストーション",
+    "date": "2026-06-06",
+    "time_start": "0:00",
+    "ticket_url": "https://nitter.net/HBN_187/status/2062882133207613568#m",
+    "description": "サブスク配信スタート⚡️ / 夏、駆け抜けていきましょう！！ / HIBANA_Official (@HBN_187) / ◤￣￣￣￣￣￣￣￣￣￣",
+    "post_url": "https://nitter.net/HBN_187/status/2062915660544688328#m",
+    "image_url": "https://nitter.net/pic/amplify_video_thumb%2F2062608175187279873%2Fimg%2FoJugoq-0iaTvBnro.jpg",
+    "created_at": "2026-06-05T15:13:15Z"
+  },
+  {
+    "id": "hbn-2026-06-06-live-event-a3acda21",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "瞬間ディストーション",
+    "date": "2026-06-06",
+    "time_start": "0:00",
+    "description": "◤￣￣￣￣￣￣￣￣￣￣ / ＿＿＿＿＿＿＿＿＿＿◢ / 『瞬間ディストーション』 / ▶️ piped.video/ZLy-u5aVsFM",
+    "post_url": "https://nitter.net/HBN_187/status/2062882133207613568#m",
+    "image_url": "https://nitter.net/pic/amplify_video_thumb%2F2062608175187279873%2Fimg%2FoJugoq-0iaTvBnro.jpg",
+    "created_at": "2026-06-05T13:00:01Z"
+  },
+  {
+    "id": "hbn-2026-06-06-live-event-39907827",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "導火閃",
+    "date": "2026-06-06",
+    "time_start": "16:00",
+    "ticket_url": "https://nitter.net/HBN_187/status/2044022867441152068#m",
+    "description": "💥明日はこちら💥 / HIBANA SUMMER IGNITION / 『導火閃』 / ▶︎2026.6.5(金)",
+    "post_url": "https://nitter.net/HBN_187/status/2062493640321273906#m",
+    "image_url": "https://nitter.net/pic/media%2FHJ9zCHabcAAOXcD.jpg",
+    "created_at": "2026-06-04T11:16:17Z"
+  },
+  {
+    "id": "hbn-2026-06-06-live-event-d39deb03",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "導花閃",
+    "date": "2026-06-06",
+    "time_start": "19:05",
+    "time_end": "19:35",
+    "ticket_url": "https://nitter.net/HBN_187/status/2060707802478448932#m",
+    "description": "💥本日はこちら💥 / HIBANA Presents / 『導花閃』 / ▶︎SHIBUYA WWW",
+    "post_url": "https://nitter.net/HBN_187/status/2063092434561818770#m",
+    "image_url": "https://nitter.net/pic/media%2FHJjgPj6agAAlBmN.jpg",
+    "created_at": "2026-06-06T02:55:41Z"
+  },
+  {
     "id": "hbn-2026-06-06-live---5d84b23f",
     "group_id": "hbn",
     "type": "live",
@@ -354,6 +404,19 @@
     "date": "2026-06-06",
     "description": "🌈東京｜導花閃",
     "created_at": "2026-06-04T09:59:49.439Z"
+  },
+  {
+    "id": "hbn-2026-06-07-live-tif2026-live-443a7eaf",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "TIF2026メインステージ争奪LIVE 前哨戦",
+    "date": "2026-06-07",
+    "time_start": "11:00",
+    "ticket_url": "https://nitter.net/HBN_187/status/2048960897360486858#m",
+    "description": "💥本日はこちら💥 / ㅤ / 『TIF2026メインステージ争奪LIVE 前哨戦』 / ▶︎GARDEN 新木場FACTORY",
+    "post_url": "https://nitter.net/HBN_187/status/2063429442303820145#m",
+    "image_url": "https://nitter.net/pic/media%2FHKLGIxbbQAAyCP0.jpg",
+    "created_at": "2026-06-07T01:14:50Z"
   },
   {
     "id": "hbn-2026-06-07-live--tif2026-live--41c24114",
@@ -669,5 +732,17 @@
     "post_url": "https://nitter.net/HBN_187/status/2062112055771931116#m",
     "image_url": "https://nitter.net/pic/media%2FHJ00_i5aEAAqPlC.jpg",
     "created_at": "2026-06-03T10:00:00Z"
+  },
+  {
+    "id": "hbn-2026-09-20-live-2026-c2d88558",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "でびぱっぱ夏祭2026〜西の陣〜",
+    "date": "2026-09-20",
+    "time_start": "10:30",
+    "description": "💥大阪🆕💥 / ㅤ / Devil ANTHEM. presents / 『でびぱっぱ夏祭2026〜西の陣〜』",
+    "post_url": "https://nitter.net/HBN_187/status/2059952828127584735#m",
+    "image_url": "https://nitter.net/pic/media%2FHJYy2_FaYAAh075.jpg",
+    "created_at": "2026-05-28T11:00:00Z"
   }
 ]
