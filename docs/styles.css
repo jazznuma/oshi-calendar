@@ -747,6 +747,15 @@ a {
   .day-cell {
     min-height: 116px;
   }
+
+  .side-panel {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .new-events-section {
+    order: 10;
+  }
 }
 
 @media (max-width: 680px) {

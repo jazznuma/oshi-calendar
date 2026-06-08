@@ -489,6 +489,9 @@
   }
 
   function renderNewEventsSection() {
+    if (state.selectedDate) {
+      return "";
+    }
     const validEvents = state.events.filter(ev => {
       if (!ev.created_at) return false;
       const d = new Date(ev.created_at);
