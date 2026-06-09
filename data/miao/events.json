@@ -313,6 +313,32 @@
     "created_at": "2026-04-22T11:00:00Z"
   },
   {
+    "id": "miao-2026-06-09-free-event-0351e702",
+    "group_id": "miao",
+    "type": "free",
+    "title": "🏯名古屋オフ会詳細🐦",
+    "date": "2026-06-09",
+    "time_start": "22:00",
+    "venue": "参加者様に直接ご連絡いたします。",
+    "description": "🏯名古屋オフ会詳細🐦 / 日時 : 6/13(土) 19:30頃～（1時間半程度） / 場所: 参加者様に直接ご連絡いたします。 / 会費 : 13.000円（2Sチェキ付き）",
+    "post_url": "https://nitter.net/miao__official/status/2064272244881424706#m",
+    "image_url": "https://nitter.net/pic/media%2FHKXEqZQbkAA-N0B.jpg",
+    "created_at": "2026-06-09T09:03:50Z"
+  },
+  {
+    "id": "miao-2026-06-11-free-event-cedc3332",
+    "group_id": "miao",
+    "type": "free",
+    "title": "🏯名古屋オフ会詳細🐦",
+    "date": "2026-06-11",
+    "time_start": "22:00",
+    "venue": "参加者様に直接ご連絡いたします。",
+    "description": "🏯名古屋オフ会詳細🐦 / 日時 : 6/13(土) 19:30頃～（1時間半程度） / 場所: 参加者様に直接ご連絡いたします。 / 会費 : 13.000円（2Sチェキ付き）",
+    "post_url": "https://nitter.net/miao__official/status/2064272244881424706#m",
+    "image_url": "https://nitter.net/pic/media%2FHKXEqZQbkAA-N0B.jpg",
+    "created_at": "2026-06-09T09:03:50Z"
+  },
+  {
     "id": "miao-2026-06-13-live-event-39bd5b5b",
     "group_id": "miao",
     "type": "live",
@@ -352,6 +378,33 @@
     "time_start": "11:45"
   },
   {
+    "id": "miao-2026-06-13-live-event-6f810e7b",
+    "group_id": "miao",
+    "type": "live",
+    "title": "📣名古屋遠征情報🍤🐦🏯",
+    "date": "2026-06-13",
+    "venue": "新榮シャングリラ",
+    "ticket_url": "https://nitter.net/miao__official/status/2062108656565735556#m",
+    "description": "／ / 📣名古屋遠征情報🍤🐦🏯 / ※特典会時間解禁⏰ / ＼",
+    "post_url": "https://nitter.net/miao__official/status/2064306921767944574#m",
+    "image_url": "https://nitter.net/pic/media%2FHKXkLkzacAAdF9y.jpg",
+    "created_at": "2026-06-09T11:21:37Z",
+    "time_start": "11:45"
+  },
+  {
+    "id": "miao-2026-06-13-free-event-eb49053b",
+    "group_id": "miao",
+    "type": "free",
+    "title": "🏯名古屋オフ会詳細🐦",
+    "date": "2026-06-13",
+    "time_start": "19:30",
+    "venue": "参加者様に直接ご連絡いたします。",
+    "description": "🏯名古屋オフ会詳細🐦 / 日時 : 6/13(土) 19:30頃～（1時間半程度） / 場所: 参加者様に直接ご連絡いたします。 / 会費 : 13.000円（2Sチェキ付き）",
+    "post_url": "https://nitter.net/miao__official/status/2064272244881424706#m",
+    "image_url": "https://nitter.net/pic/media%2FHKXEqZQbkAA-N0B.jpg",
+    "created_at": "2026-06-09T09:03:50Z"
+  },
+  {
     "id": "miao-2026-06-13-live--mistfes2026-7d10e43c",
     "group_id": "miao",
     "type": "live",
@@ -359,6 +412,18 @@
     "date": "2026-06-13",
     "description": "名古屋遠征 mistFES2026",
     "created_at": "2026-06-04T01:08:26.977Z"
+  },
+  {
+    "id": "miao-2026-06-13-live-miao-676c3faf",
+    "group_id": "miao",
+    "type": "live",
+    "title": "📣miao 最新スケジュール🐈‍⬛",
+    "date": "2026-06-13",
+    "venue": "汐留シオサイト",
+    "description": "📣miao 最新スケジュール🐈‍⬛ / 6月、7月もmiaoちゃんもよろしくお願い致します🐈🐾 / 🏯6/13(土)-6/14(日) 名古屋遠征 mistFES / 🐈‍⬛6/17(水) フリーライブ@汐留シオサイト",
+    "post_url": "https://nitter.net/miao__official/status/2064316963770507636#m",
+    "image_url": "https://nitter.net/pic/media%2FHKXtVYubIAAfhGz.jpg",
+    "created_at": "2026-06-09T12:01:31Z"
   },
   {
     "id": "miao-2026-06-14-live-event-b641281e",
@@ -400,6 +465,46 @@
     "time_start": "15:05"
   },
   {
+    "id": "miao-2026-06-14-live-event-ba673a77",
+    "group_id": "miao",
+    "type": "live",
+    "title": "📣名古屋遠征情報🍤🐦🏯",
+    "date": "2026-06-14",
+    "venue": "新榮シャングリラ",
+    "ticket_url": "https://nitter.net/miao__official/status/2062108656565735556#m",
+    "description": "／ / 📣名古屋遠征情報🍤🐦🏯 / ※特典会時間解禁⏰ / ＼",
+    "post_url": "https://nitter.net/miao__official/status/2064306921767944574#m",
+    "image_url": "https://nitter.net/pic/media%2FHKXkLkzacAAdF9y.jpg",
+    "created_at": "2026-06-09T11:21:37Z",
+    "time_start": "15:05"
+  },
+  {
+    "id": "miao-2026-06-14-live-miao-26083b7a",
+    "group_id": "miao",
+    "type": "live",
+    "title": "📣miao 最新スケジュール🐈‍⬛",
+    "date": "2026-06-14",
+    "venue": "汐留シオサイト",
+    "description": "📣miao 最新スケジュール🐈‍⬛ / 6月、7月もmiaoちゃんもよろしくお願い致します🐈🐾 / 🏯6/13(土)-6/14(日) 名古屋遠征 mistFES / 🐈‍⬛6/17(水) フリーライブ@汐留シオサイト",
+    "post_url": "https://nitter.net/miao__official/status/2064316963770507636#m",
+    "image_url": "https://nitter.net/pic/media%2FHKXtVYubIAAfhGz.jpg",
+    "created_at": "2026-06-09T12:01:31Z"
+  },
+  {
+    "id": "miao-2026-06-16-live-tokyo-girls-girls-f3ac2574",
+    "group_id": "miao",
+    "type": "live",
+    "title": "TOKYO GIRLS GIRLS",
+    "date": "2026-06-16",
+    "time_start": "13:00",
+    "venue": "KABUKICHO TOWER STAGE",
+    "ticket_url": "https://nitter.net/Girls_Girlsinfo/status/2064301487631827163#m",
+    "description": "／ / ⏰タイテ情報⏰ / ＼ / 『TOKYO GIRLS GIRLS』",
+    "post_url": "https://nitter.net/miao__official/status/2064304605484466633#m",
+    "image_url": "https://nitter.net/pic/media%2FHKXhqOVbwAAsD3o.jpg",
+    "created_at": "2026-06-09T11:12:25Z"
+  },
+  {
     "id": "miao-2026-06-16-live---11988a67",
     "group_id": "miao",
     "type": "live",
@@ -418,6 +523,18 @@
     "created_at": "2026-06-04T01:08:26.977Z"
   },
   {
+    "id": "miao-2026-06-17-live-miao-c03418ad",
+    "group_id": "miao",
+    "type": "live",
+    "title": "📣miao 最新スケジュール🐈‍⬛",
+    "date": "2026-06-17",
+    "venue": "汐留シオサイト",
+    "description": "📣miao 最新スケジュール🐈‍⬛ / 6月、7月もmiaoちゃんもよろしくお願い致します🐈🐾 / 🏯6/13(土)-6/14(日) 名古屋遠征 mistFES / 🐈‍⬛6/17(水) フリーライブ@汐留シオサイト",
+    "post_url": "https://nitter.net/miao__official/status/2064316963770507636#m",
+    "image_url": "https://nitter.net/pic/media%2FHKXtVYubIAAfhGz.jpg",
+    "created_at": "2026-06-09T12:01:31Z"
+  },
+  {
     "id": "miao-2026-06-18-live-idol-scene-efbab85b",
     "group_id": "miao",
     "type": "live",
@@ -429,6 +546,19 @@
     "post_url": "https://nitter.net/miao__official/status/2061774691476586741#m",
     "image_url": "https://nitter.net/pic/media%2FHJzlJ0TawAAmk0D.jpg",
     "created_at": "2026-06-02T11:39:27Z"
+  },
+  {
+    "id": "miao-2026-06-18-live-idol-scene-2bc901ce",
+    "group_id": "miao",
+    "type": "live",
+    "title": "IDOL SCENE",
+    "date": "2026-06-18",
+    "time_start": "15:00",
+    "venue": "大塚FUTURE",
+    "description": "／ / ⏰タイテ情報⏰ / ＼ / 『IDOL SCENE』",
+    "post_url": "https://nitter.net/miao__official/status/2064301147926786488#m",
+    "image_url": "https://nitter.net/pic/media%2FHKXeTQYasAIYV5H.jpg",
+    "created_at": "2026-06-09T10:58:41Z"
   },
   {
     "id": "miao-2026-06-18-live--future-4c4a3613",
@@ -495,6 +625,20 @@
     "created_at": "2026-06-03T11:34:01Z"
   },
   {
+    "id": "miao-2026-06-21-live-tokyo-girls-girls-extra-dd321964",
+    "group_id": "miao",
+    "type": "live",
+    "title": "TOKYO GIRLS GIRLS extra!!",
+    "date": "2026-06-21",
+    "time_start": "8:00",
+    "venue": "EBiS303",
+    "ticket_url": "https://nitter.net/Girls_Girlsinfo/status/2064301491322831074#m",
+    "description": "／ / ⏰タイテ情報⏰ / ＼ / 『TOKYO GIRLS GIRLS extra!!』",
+    "post_url": "https://nitter.net/miao__official/status/2064303078493544560#m",
+    "image_url": "https://nitter.net/pic/media%2FHKXgs7VbgAA7DGl.jpg",
+    "created_at": "2026-06-09T11:06:21Z"
+  },
+  {
     "id": "miao-2026-06-21-live-ebis303-32c37760",
     "group_id": "miao",
     "type": "live",
@@ -536,6 +680,18 @@
     "created_at": "2026-06-04T01:08:26.977Z"
   },
   {
+    "id": "miao-2026-06-22-live-miao-704f4016",
+    "group_id": "miao",
+    "type": "live",
+    "title": "📣miao 最新スケジュール🐈‍⬛",
+    "date": "2026-06-22",
+    "venue": "汐留シオサイト",
+    "description": "📣miao 最新スケジュール🐈‍⬛ / 6月、7月もmiaoちゃんもよろしくお願い致します🐈🐾 / 🏯6/13(土)-6/14(日) 名古屋遠征 mistFES / 🐈‍⬛6/17(水) フリーライブ@汐留シオサイト",
+    "post_url": "https://nitter.net/miao__official/status/2064316963770507636#m",
+    "image_url": "https://nitter.net/pic/media%2FHKXtVYubIAAfhGz.jpg",
+    "created_at": "2026-06-09T12:01:31Z"
+  },
+  {
     "id": "miao-2026-06-24-live-miao--245a63e4",
     "group_id": "miao",
     "type": "live",
@@ -555,6 +711,18 @@
     "post_url": "https://nitter.net/miao__official/status/2055649520697090167#m",
     "image_url": "https://nitter.net/pic/media%2FHIciVuyawAAvGB0.jpg",
     "created_at": "2026-05-16T14:00:12Z"
+  },
+  {
+    "id": "miao-2026-06-24-live-miao-45db832b",
+    "group_id": "miao",
+    "type": "live",
+    "title": "📣miao 最新スケジュール🐈‍⬛",
+    "date": "2026-06-24",
+    "venue": "汐留シオサイト",
+    "description": "📣miao 最新スケジュール🐈‍⬛ / 6月、7月もmiaoちゃんもよろしくお願い致します🐈🐾 / 🏯6/13(土)-6/14(日) 名古屋遠征 mistFES / 🐈‍⬛6/17(水) フリーライブ@汐留シオサイト",
+    "post_url": "https://nitter.net/miao__official/status/2064316963770507636#m",
+    "image_url": "https://nitter.net/pic/media%2FHKXtVYubIAAfhGz.jpg",
+    "created_at": "2026-06-09T12:01:31Z"
   },
   {
     "id": "miao-2026-06-25-live-girls-delight-406-9192cab2",
@@ -908,5 +1076,49 @@
     "post_url": "https://nitter.net/miao__official/status/2046906862369390916#m",
     "image_url": "https://nitter.net/pic/media%2FHGgEONUboAAetEE.jpg",
     "created_at": "2026-04-22T11:00:00Z"
+  },
+  {
+    "id": "miao-2027-05-02-free-event-9947e051",
+    "group_id": "miao",
+    "type": "free",
+    "title": "押印したポイントカード写真",
+    "date": "2027-05-02",
+    "description": "【期間限定入場特典スタンプキャンペーンにつきまして】 / 5/2(土)-6/7(日)の対バンライブにて実施しましたこちらのキャンペーンですが / 「押印したポイントカード写真」、「受けたい特典」、「推しメンバー」の3項目をDMにてお送りください。 / 申請期限 6/15(月) 23:59まで。",
+    "post_url": "https://nitter.net/miao__official/status/2064328003581010372#m",
+    "image_url": "https://nitter.net/pic/media%2FHKX3YE1aoAEkWJW.jpg",
+    "created_at": "2026-06-09T12:45:24Z"
+  },
+  {
+    "id": "miao-2027-06-01-free-event-c20db4b7",
+    "group_id": "miao",
+    "type": "free",
+    "title": "押印したポイントカード写真",
+    "date": "2027-06-01",
+    "description": "【期間限定入場特典スタンプキャンペーンにつきまして】 / 5/2(土)-6/7(日)の対バンライブにて実施しましたこちらのキャンペーンですが / 「押印したポイントカード写真」、「受けたい特典」、「推しメンバー」の3項目をDMにてお送りください。 / 申請期限 6/15(月) 23:59まで。",
+    "post_url": "https://nitter.net/miao__official/status/2064328003581010372#m",
+    "image_url": "https://nitter.net/pic/media%2FHKX3YE1aoAEkWJW.jpg",
+    "created_at": "2026-06-09T12:45:24Z"
+  },
+  {
+    "id": "miao-2027-06-04-free-event-c6f4a80f",
+    "group_id": "miao",
+    "type": "free",
+    "title": "押印したポイントカード写真",
+    "date": "2027-06-04",
+    "description": "【期間限定入場特典スタンプキャンペーンにつきまして】 / 5/2(土)-6/7(日)の対バンライブにて実施しましたこちらのキャンペーンですが / 「押印したポイントカード写真」、「受けたい特典」、「推しメンバー」の3項目をDMにてお送りください。 / 申請期限 6/15(月) 23:59まで。",
+    "post_url": "https://nitter.net/miao__official/status/2064328003581010372#m",
+    "image_url": "https://nitter.net/pic/media%2FHKX3YE1aoAEkWJW.jpg",
+    "created_at": "2026-06-09T12:45:24Z"
+  },
+  {
+    "id": "miao-2027-06-07-free-event-f56dace6",
+    "group_id": "miao",
+    "type": "free",
+    "title": "押印したポイントカード写真",
+    "date": "2027-06-07",
+    "description": "【期間限定入場特典スタンプキャンペーンにつきまして】 / 5/2(土)-6/7(日)の対バンライブにて実施しましたこちらのキャンペーンですが / 「押印したポイントカード写真」、「受けたい特典」、「推しメンバー」の3項目をDMにてお送りください。 / 申請期限 6/15(月) 23:59まで。",
+    "post_url": "https://nitter.net/miao__official/status/2064328003581010372#m",
+    "image_url": "https://nitter.net/pic/media%2FHKX3YE1aoAEkWJW.jpg",
+    "created_at": "2026-06-09T12:45:24Z"
   }
 ]

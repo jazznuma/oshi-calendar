@@ -313,6 +313,18 @@
     "created_at": "2026-06-07T13:45:14Z"
   },
   {
+    "id": "hakanai-2026-06-09-live-astrotronic-bf27d80f",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "ASTROTRONIC",
+    "date": "2026-06-09",
+    "time_start": "18:00",
+    "description": "-------- 本日のライブ -------- / 6/9（火）渋谷音楽堂 / INFINITY LIVE presents / 『ASTROTRONIC』",
+    "post_url": "https://nitter.net/hakanai_info/status/2064150486513590780#m",
+    "image_url": "https://nitter.net/pic/media%2FHKTAeEBa8AAYj9W.jpg",
+    "created_at": "2026-06-09T01:00:00Z"
+  },
+  {
     "id": "hakanai-2026-06-09-live-infinity-live-presen-2321fa34",
     "group_id": "hakanai",
     "type": "live",
@@ -320,6 +332,18 @@
     "date": "2026-06-09",
     "description": "INFINITY LIVE presents 『ASTROTRONIC』",
     "created_at": "2026-06-04T09:59:58.939Z"
+  },
+  {
+    "id": "hakanai-2026-06-10-live-event-8c5c7e23",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "カンシャサイ。-夏-",
+    "date": "2026-06-10",
+    "time_start": "16:30",
+    "description": "-------- 次回のライブ -------- / 6/10（水）渋谷Milkyway / 『カンシャサイ。-夏-』 / 16:30 / 17:00",
+    "post_url": "https://nitter.net/hakanai_info/status/2064321612288299108#m",
+    "image_url": "https://nitter.net/pic/media%2FHKTA3RYbAAAxHE9.jpg",
+    "created_at": "2026-06-09T12:20:00Z"
   },
   {
     "id": "hakanai-2026-06-10-live---16209d2d",
@@ -359,6 +383,18 @@
     "date": "2026-06-14",
     "description": "mistFES2026 10th anniversary Supported by My-th",
     "created_at": "2026-06-04T09:59:58.939Z"
+  },
+  {
+    "id": "hakanai-2026-06-14-live-tt-e34776e4",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "------- 特典会TT 解禁 -------",
+    "date": "2026-06-14",
+    "time_start": "9:30",
+    "description": "------- 特典会TT 解禁 ------- / 6/14（日）名古屋サーキット / mistFES2026 10th anniversary / Supported by My-th",
+    "post_url": "https://nitter.net/hakanai_info/status/2064301484746105068#m",
+    "image_url": "https://nitter.net/pic/media%2FHKWyCknbsAAaVC6.jpg",
+    "created_at": "2026-06-09T11:00:01Z"
   },
   {
     "id": "hakanai-2026-06-15-live-event-e7eee692",
