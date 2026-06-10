@@ -326,6 +326,19 @@
     "created_at": "2026-06-09T09:03:50Z"
   },
   {
+    "id": "miao-2026-06-10-live-up-t-talk-445ef03d",
+    "group_id": "miao",
+    "type": "live",
+    "title": "UP-T talk",
+    "date": "2026-06-10",
+    "time_start": "20:00",
+    "ticket_url": "https://talk.up-t.jp/universal-link?type=event&id=12107",
+    "description": "RT by @miao__official: 本日6/10（水）20:00〜『UP-T talk』です.ᐟ.ᐟ / 遠征と遠征の間のUP-Tトーク♡お話ししてくれますか? / 東京の人も全然会えてなくて寂しいから参加待ってる🥲 / 今回のメッセージ付き画像は未公開ランダム沖縄オフショットだよ🎀レアだから受け取ってね💭",
+    "post_url": "https://nitter.net/miao_haruko/status/2064533514805235852#m",
+    "image_url": "https://nitter.net/pic/media%2FHKaySbxawAAYcc_.jpg",
+    "created_at": "2026-06-10T02:22:01Z"
+  },
+  {
     "id": "miao-2026-06-11-free-event-cedc3332",
     "group_id": "miao",
     "type": "free",
@@ -690,6 +703,31 @@
     "post_url": "https://nitter.net/miao__official/status/2064316963770507636#m",
     "image_url": "https://nitter.net/pic/media%2FHKXtVYubIAAfhGz.jpg",
     "created_at": "2026-06-09T12:01:31Z"
+  },
+  {
+    "id": "miao-2026-06-23-deadline-event-912b6132",
+    "group_id": "miao",
+    "type": "deadline",
+    "title": "ミスティア！ 締切",
+    "date": "2026-06-23",
+    "time_start": "21:30",
+    "description": "なんとなんと！！お友達が所属している、 / 「ミスティア！」さんと「しろくまいんど」さん / に出演していただきます^_  ̫ _ ̥ ^ / もう当日が楽しみすぎて眠れないです！！",
+    "ticket_url": "https://nitter.net/miao__official/status/2064678979454570709#m",
+    "post_url": "https://nitter.net/miao_kano/status/2064680490632933565#m",
+    "image_url": "https://nitter.net/pic/media%2FHKcr1yXbcAA8qP0.jpg",
+    "created_at": "2026-06-10T12:06:03Z"
+  },
+  {
+    "id": "miao-2026-06-23-deadline-miao-fancy-theater-93ff8b8f",
+    "group_id": "miao",
+    "type": "deadline",
+    "title": "miao定期公演「Fancy Theater 締切",
+    "date": "2026-06-23",
+    "time_start": "21:30",
+    "description": "📣主催イベント情報🐈‍⬛ / 『miao定期公演「Fancy Theater」Vol.2 〜早瀬かのプロデュース公演〜』 / 日時 6月24日(水) / 会場 秋葉カルチャーズ劇場",
+    "post_url": "https://nitter.net/miao__official/status/2064678979454570709#m",
+    "image_url": "https://nitter.net/pic/media%2FHKcr1yXbcAA8qP0.jpg",
+    "created_at": "2026-06-10T12:00:03Z"
   },
   {
     "id": "miao-2026-06-24-live-miao--245a63e4",
@@ -1064,6 +1102,20 @@
     "date": "2026-07-29",
     "description": "ライブ予定",
     "created_at": "2026-06-04T01:08:26.977Z"
+  },
+  {
+    "id": "miao-2026-08-08-live-2026-3-0253c1b8",
+    "group_id": "miao",
+    "type": "live",
+    "title": "白鳥華子生誕祭2026〜3年越しの夢、この日私を選んでくれますか？〜",
+    "date": "2026-08-08",
+    "time_open": "11:00",
+    "time_start": "11:00",
+    "venue": "表参道GROUND",
+    "description": "【 #白鳥華子生誕祭2026  情報解禁🐈‍⬛🩵 】 / 『白鳥華子生誕祭2026〜3年越しの夢、この日私を選んでくれますか？〜』 / 日時 : 8月8日(土) / OPEN 11:00",
+    "post_url": "https://nitter.net/miao__official/status/2064694076818223608#m",
+    "image_url": "https://nitter.net/pic/media%2FHKbPY9VawAAaqDK.jpg",
+    "created_at": "2026-06-10T13:00:02Z"
   },
   {
     "id": "miao-2027-03-04-free-miao-06594080",

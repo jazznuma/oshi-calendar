@@ -346,6 +346,18 @@
     "created_at": "2026-06-09T12:20:00Z"
   },
   {
+    "id": "hakanai-2026-06-10-live-event-fb196f1b",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "カンシャサイ。-夏-",
+    "date": "2026-06-10",
+    "time_start": "16:30",
+    "description": "-------- 本日のライブ -------- / 6/10（水）渋谷Milkyway / 『カンシャサイ。-夏-』 / 16:30 / 17:00",
+    "post_url": "https://nitter.net/hakanai_info/status/2064512878183375189#m",
+    "image_url": "https://nitter.net/pic/media%2FHKX7-m6aQAAHMXu.jpg",
+    "created_at": "2026-06-10T01:00:01Z"
+  },
+  {
     "id": "hakanai-2026-06-10-live---16209d2d",
     "group_id": "hakanai",
     "type": "live",
@@ -353,6 +365,19 @@
     "date": "2026-06-10",
     "description": "#ﾆｷﾌﾟﾚ 『カンシャサイ。-夏-』",
     "created_at": "2026-06-04T09:59:58.939Z"
+  },
+  {
+    "id": "hakanai-2026-06-12-live-event-086e0b3e",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "-------- 次回のライブ --------",
+    "date": "2026-06-12",
+    "time_start": "16:30",
+    "ticket_url": "http://nanimono-official.com/news/public/_/f4yszd2989sm1a9h.html",
+    "description": "-------- 次回のライブ -------- / 6/12（金）Kanadevia Hall / NANIMONO TOUR 2026 / ｢コンティニューしますか？｣",
+    "post_url": "https://nitter.net/hakanai_info/status/2064657576034222567#m",
+    "image_url": "https://nitter.net/pic/media%2FHKX7V7RbAAArp2z.jpg",
+    "created_at": "2026-06-10T10:35:00Z"
   },
   {
     "id": "hakanai-2026-06-12-live---1365524",

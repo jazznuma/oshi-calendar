@@ -588,6 +588,17 @@
     "created_at": "2026-06-02T13:22:45Z"
   },
   {
+    "id": "stainy-2026-06-11-ticket-vol-20-a95b32e9",
+    "group_id": "stainy",
+    "type": "ticket",
+    "title": "ふぃくふぇす！vol.20 チケ発",
+    "date": "2026-06-11",
+    "time_start": "21:30",
+    "post_url": "https://nitter.net/STAiNY_official/status/2064657498989293991#m",
+    "image_url": "https://nitter.net/pic/media%2FHKci_AdbQAAyJOw.jpg",
+    "created_at": "2026-06-10T10:34:41Z"
+  },
+  {
     "id": "stainy-2026-06-11-live---163d7f7b",
     "group_id": "stainy",
     "type": "live",
@@ -652,6 +663,21 @@
     "created_at": "2026-06-04T09:59:39.811Z"
   },
   {
+    "id": "stainy-2026-06-13-free-event-f4a59b93",
+    "group_id": "stainy",
+    "type": "free",
+    "title": "北海道お食事オフ会開催のお知らせ",
+    "date": "2026-06-13",
+    "time_open": "19:00",
+    "time_start": "19:10",
+    "venue": "開催場所",
+    "ticket_url": "https://docs.google.com/forms/d/e/1FAIpQLSdEUgYXqyI9AlTYPEaoOavqSoQyvXFEGP1MM4MS9r8_XycZMQ/viewform?usp=publish-editor",
+    "description": "【北海道お食事オフ会開催のお知らせ】 / メンバーと一緒にゆっくりお食事を楽しめる特別な時間となっております🍽️🌺 / 📅6/13(土) / ⏰OPEN 19:00 / START 19:10 / END 21:00頃",
+    "post_url": "https://nitter.net/STAiNY_official/status/2064680503543005669#m",
+    "image_url": "https://nitter.net/pic/media%2FHKc3-JEbAAA6ENA.jpg",
+    "created_at": "2026-06-10T12:06:06Z"
+  },
+  {
     "id": "stainy-2026-06-13-live--vv--3f3dfa",
     "group_id": "stainy",
     "type": "live",
@@ -686,6 +712,21 @@
     "date": "2026-06-17",
     "description": "対バン",
     "created_at": "2026-06-04T09:59:39.811Z"
+  },
+  {
+    "id": "stainy-2026-06-19-live-vol-20-520c65b0",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "ふぃくふぇす！vol.20",
+    "date": "2026-06-19",
+    "time_open": "11:30",
+    "time_start": "12:00",
+    "venue": "Zepp Haneda",
+    "price": "前方8,000円/一般3,000円/女性2,000円",
+    "description": "／ / 💗6/19(金)のんふぃく！Pre. / 💘「ふぃくふぇす！vol.20」新体制ver / ＼",
+    "post_url": "https://nitter.net/STAiNY_official/status/2064657498989293991#m",
+    "image_url": "https://nitter.net/pic/media%2FHKci_AdbQAAyJOw.jpg",
+    "created_at": "2026-06-10T10:34:41Z"
   },
   {
     "id": "stainy-2026-06-19-live---2f3b8f7",
@@ -844,6 +885,18 @@
     "created_at": "2026-06-01T12:44:48Z"
   },
   {
+    "id": "stainy-2026-06-23-release-event-25d2da3d",
+    "group_id": "stainy",
+    "type": "release",
+    "title": "ドンチューライアー",
+    "date": "2026-06-23",
+    "description": "／ / 👾明日のSTAiNY✨ / 💽リリースイベント東京編🤖 / ＼",
+    "ticket_url": "https://entabaonline.stores.jp/?category_id=69cf44b98474878675f5b41c",
+    "post_url": "https://nitter.net/STAiNY_official/status/2064702148278120863#m",
+    "image_url": "https://nitter.net/pic/media%2FHKdLndYaoAAthPN.jpg",
+    "created_at": "2026-06-10T13:32:07Z"
+  },
+  {
     "id": "stainy-2026-06-24-live-parad-i-se-vol-5-2-s-5d482df6",
     "group_id": "stainy",
     "type": "live",
@@ -928,6 +981,21 @@
     "date": "2026-07-07",
     "description": "対バン",
     "created_at": "2026-06-08T00:52:59.886Z"
+  },
+  {
+    "id": "stainy-2026-07-08-live-vol-7-2d3b0a3e",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "ブルーセッションvol.7",
+    "date": "2026-07-08",
+    "time_open": "17:30",
+    "time_start": "18:00",
+    "venue": "Veats SHIBUYA",
+    "price": "優先5,000円/通常2,500円/女性1,000円",
+    "description": "／ / 💠7/8(水)AOAO Pre. / 💙「ブルーセッションvol.7」 / ＼",
+    "post_url": "https://nitter.net/STAiNY_official/status/2064694661705617604#m",
+    "image_url": "https://nitter.net/pic/media%2FHKdE19CboAA9pSt.jpg",
+    "created_at": "2026-06-10T13:02:22Z"
   },
   {
     "id": "stainy-2026-07-11-live---76ec624",
