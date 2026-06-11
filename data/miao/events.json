@@ -405,6 +405,20 @@
     "time_start": "11:45"
   },
   {
+    "id": "miao-2026-06-13-free-event-9f47897b",
+    "group_id": "miao",
+    "type": "free",
+    "title": "名古屋オフ会",
+    "date": "2026-06-13",
+    "venue": "新榮シャングリラ",
+    "ticket_url": "https://user.my-th.jp/login?redirect=/tickets/event/mistfes2026-0613",
+    "description": "／ / 📣名古屋遠征情報まとめ🍤🐦🏯 / ＼ / 今週末は名古屋遠征🏯🐦 オフ会受付本日22:00まで✍️",
+    "post_url": "https://nitter.net/miao__official/status/2064936381697364386#m",
+    "image_url": "https://nitter.net/pic/media%2FHKggsAHa4AA9W_i.jpg",
+    "created_at": "2026-06-11T05:02:52Z",
+    "time_start": "11:45"
+  },
+  {
     "id": "miao-2026-06-13-free-event-eb49053b",
     "group_id": "miao",
     "type": "free",
@@ -489,6 +503,20 @@
     "post_url": "https://nitter.net/miao__official/status/2064306921767944574#m",
     "image_url": "https://nitter.net/pic/media%2FHKXkLkzacAAdF9y.jpg",
     "created_at": "2026-06-09T11:21:37Z",
+    "time_start": "15:05"
+  },
+  {
+    "id": "miao-2026-06-14-free-event-ef81a719",
+    "group_id": "miao",
+    "type": "free",
+    "title": "名古屋オフ会",
+    "date": "2026-06-14",
+    "venue": "新榮シャングリラ",
+    "ticket_url": "https://user.my-th.jp/login?redirect=/tickets/event/mistfes2026-0613",
+    "description": "／ / 📣名古屋遠征情報まとめ🍤🐦🏯 / ＼ / 今週末は名古屋遠征🏯🐦 オフ会受付本日22:00まで✍️",
+    "post_url": "https://nitter.net/miao__official/status/2064936381697364386#m",
+    "image_url": "https://nitter.net/pic/media%2FHKggsAHa4AA9W_i.jpg",
+    "created_at": "2026-06-11T05:02:52Z",
     "time_start": "15:05"
   },
   {
@@ -999,6 +1027,18 @@
     "created_at": "2026-06-04T01:08:26.977Z"
   },
   {
+    "id": "miao-2026-07-11-live-spark2026-c44302d6",
+    "group_id": "miao",
+    "type": "live",
+    "title": "#SPARK2026  渋谷納涼祭",
+    "date": "2026-07-11",
+    "venue": "ベルサール渋谷ガーデン 他複数会場",
+    "description": "／ / 🎶対バン情報🎶 / ＼ / 『 #SPARK2026  渋谷納涼祭』",
+    "post_url": "https://nitter.net/miao__official/status/2065063421221937463#m",
+    "image_url": "https://nitter.net/pic/media%2FHKiUOuoaYAEvN8f.jpg",
+    "created_at": "2026-06-11T13:27:41Z"
+  },
+  {
     "id": "miao-2026-07-12-live---500e9a43",
     "group_id": "miao",
     "type": "live",
@@ -1006,6 +1046,18 @@
     "date": "2026-07-12",
     "description": "ライブ予定",
     "created_at": "2026-06-04T01:08:26.977Z"
+  },
+  {
+    "id": "miao-2026-07-12-live-spark2026-aac67eca",
+    "group_id": "miao",
+    "type": "live",
+    "title": "#SPARK2026  渋谷納涼祭",
+    "date": "2026-07-12",
+    "venue": "ベルサール渋谷ガーデン 他複数会場",
+    "description": "／ / 🎶対バン情報🎶 / ＼ / 『 #SPARK2026  渋谷納涼祭』",
+    "post_url": "https://nitter.net/miao__official/status/2065063421221937463#m",
+    "image_url": "https://nitter.net/pic/media%2FHKiUOuoaYAEvN8f.jpg",
+    "created_at": "2026-06-11T13:27:41Z"
   },
   {
     "id": "miao-2026-07-16-live---314804c7",

@@ -588,6 +588,18 @@
     "created_at": "2026-06-02T13:22:45Z"
   },
   {
+    "id": "stainy-2026-06-11-live-event-fba8d426",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "佐々木ひまり生誕パック🎁】開催直前㊗️🎉",
+    "date": "2026-06-11",
+    "time_start": "21:00",
+    "description": "【佐々木ひまり生誕パック🎁】開催直前㊗️🎉 / ▶︎料金 : 20,000円 / ▼内容 / 【当日お渡し】",
+    "post_url": "https://nitter.net/STAiNY_official/status/2065041459355791831#m",
+    "image_url": "https://nitter.net/pic/media%2FHKiAQWBakAAdon1.jpg",
+    "created_at": "2026-06-11T12:00:25Z"
+  },
+  {
     "id": "stainy-2026-06-11-ticket-vol-20-a95b32e9",
     "group_id": "stainy",
     "type": "ticket",
@@ -652,6 +664,21 @@
     "post_url": "https://nitter.net/STAiNY_official/status/2061403523267575825#m",
     "image_url": "https://nitter.net/pic/media%2FHJuTk6laoAA3iWk.jpg",
     "created_at": "2026-06-01T11:04:33Z"
+  },
+  {
+    "id": "stainy-2026-06-12-live-event-5aa217b3",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "爽やかデート私服編",
+    "date": "2026-06-12",
+    "time_open": "19:00",
+    "time_start": "19:20",
+    "venue": "新宿 WALLY",
+    "price": "優先3000円（2s写メ券+1pt）/通常1000円/当日+500円(各1D別)",
+    "description": "／ / 👾明日のSTAiNY✨ / 👗単独公演「爽やかデート私服編」💘 / ＼",
+    "post_url": "https://nitter.net/STAiNY_official/status/2065063384022990937#m",
+    "image_url": "https://nitter.net/pic/media%2FHKiUM49aoAAp8LU.jpg",
+    "created_at": "2026-06-11T13:27:32Z"
   },
   {
     "id": "stainy-2026-06-12-live---70b62df3",
@@ -745,6 +772,18 @@
     "date": "2026-06-19",
     "description": "リリイベ",
     "created_at": "2026-06-04T09:59:39.811Z"
+  },
+  {
+    "id": "stainy-2026-06-20-live-event-15cedbe9",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "佐々木ひまり生誕パック🎁】開催直前㊗️🎉",
+    "date": "2026-06-20",
+    "time_start": "23:59",
+    "description": "【佐々木ひまり生誕パック🎁】開催直前㊗️🎉 / ▶︎料金 : 20,000円 / ▼内容 / 【当日お渡し】",
+    "post_url": "https://nitter.net/STAiNY_official/status/2065041459355791831#m",
+    "image_url": "https://nitter.net/pic/media%2FHKiAQWBakAAdon1.jpg",
+    "created_at": "2026-06-11T12:00:25Z"
   },
   {
     "id": "stainy-2026-06-20-live---768c0bbe",
