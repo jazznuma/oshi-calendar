@@ -380,6 +380,19 @@
     "created_at": "2026-06-10T10:35:00Z"
   },
   {
+    "id": "hakanai-2026-06-12-live-event-2f3bb1f9",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "-------- 本日のライブ --------",
+    "date": "2026-06-12",
+    "time_open": "16:30",
+    "time_start": "17:30",
+    "description": "-------- 本日のライブ -------- / 6/12（金）Kanadevia Hall / ◥◣ 𝗡𝗔𝗡𝗜𝗠𝗢𝗡𝗢 𝗧𝗢𝗨𝗥 𝟮𝟬𝟮𝟲 ◢◤ / ｢コンティニューしますか？｣",
+    "post_url": "https://nitter.net/hakanai_info/status/2065207457358782813#m",
+    "image_url": "https://nitter.net/pic/media%2FHKjamx-b0AAfJMW.jpg",
+    "created_at": "2026-06-11T23:00:02Z"
+  },
+  {
     "id": "hakanai-2026-06-12-live---1365524",
     "group_id": "hakanai",
     "type": "live",
@@ -420,6 +433,18 @@
     "post_url": "https://nitter.net/hakanai_info/status/2064301484746105068#m",
     "image_url": "https://nitter.net/pic/media%2FHKWyCknbsAAaVC6.jpg",
     "created_at": "2026-06-09T11:00:01Z"
+  },
+  {
+    "id": "hakanai-2026-06-14-live-event-a585808e",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "-------- 次回のライブは名古屋遠征 --------",
+    "date": "2026-06-14",
+    "time_start": "9:30",
+    "description": "-------- 次回のライブは名古屋遠征 -------- / 6/14（日）名古屋サーキット / mistFES2026 10th anniversary / Supported by My-th",
+    "post_url": "https://nitter.net/hakanai_info/status/2065388646803406861#m",
+    "image_url": "https://nitter.net/pic/media%2FHKjbPKNbcAA6MdW.jpg",
+    "created_at": "2026-06-12T11:00:01Z"
   },
   {
     "id": "hakanai-2026-06-15-live-event-e7eee692",

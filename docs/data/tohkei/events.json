@@ -4489,6 +4489,20 @@
     "created_at": "2026-06-05T11:00:39Z"
   },
   {
+    "id": "tohkei-2025-06-21-live-event-42f845d7",
+    "group_id": "tohkei",
+    "type": "live",
+    "title": "夏はじめるぞ！",
+    "date": "2025-06-21",
+    "time_open": "15:30",
+    "time_start": "16:00",
+    "ticket_url": "https://ticketdive.com/event/SummerTour_NAGOYA",
+    "description": "先行抽選申込：本日6/12(金)23:59まで！ / Tohkei Early Summer Tour 2026 / 『 夏はじめるぞ！』名古屋編 / ✴︎ 2025/6/21(日) RAD HALL",
+    "post_url": "https://nitter.net/Tohkei_info/status/2065435463637487864#m",
+    "image_url": "https://nitter.net/pic/media%2FHKnmmzcbcAAj_j5.jpg",
+    "created_at": "2026-06-12T14:06:03Z"
+  },
+  {
     "id": "tohkei-2025-06-21-live--tohkei--5680897c",
     "group_id": "tohkei",
     "type": "live",
@@ -6631,6 +6645,19 @@
     "image_url": "https://nitter.net/pic/media%2FHJzsiObboAAO9Zm.jpg",
     "created_at": "2026-06-02T12:11:43Z",
     "time_start": "14:25"
+  },
+  {
+    "id": "tohkei-2026-06-13-live-in-kanda-square-hall-c58fdf3a",
+    "group_id": "tohkei",
+    "type": "live",
+    "title": "アイドル甲子園 in KANDA SQUARE HALL",
+    "date": "2026-06-13",
+    "time_start": "14:25",
+    "ticket_url": "https://user.my-th.jp/login?redirect=/tickets/event/aikou_0613",
+    "description": "【 🐯#明日の倒景 】 / 『アイドル甲子園 in KANDA SQUARE HALL』supported by My-th / 📸静止画・動画撮影可能◎ / 6/13(土) -DAY1-",
+    "post_url": "https://nitter.net/Tohkei_info/status/2065427646822183369#m",
+    "image_url": "https://nitter.net/pic/media%2FHKnffm2awAAG6l1.jpg",
+    "created_at": "2026-06-12T13:34:59Z"
   },
   {
     "id": "tohkei-2026-06-13-live---5bcefe9d",

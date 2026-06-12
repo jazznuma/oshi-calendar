@@ -337,6 +337,20 @@
     "created_at": "2026-06-11T10:30:12Z"
   },
   {
+    "id": "anthurium-2026-06-12-live-d-butante-vol-9-4868fae2",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "Débutante vol.9",
+    "date": "2026-06-12",
+    "time_open": "12:00",
+    "time_start": "12:30",
+    "venue": "ZeppDiverCity",
+    "description": "\\\\\\✨️本日✨️/// / AVAM presents『Débutante vol.9』 / 6/12(金) / 📍 ZeppDiverCity",
+    "post_url": "https://nitter.net/anthurium0317/status/2065247456548540603#m",
+    "image_url": "https://nitter.net/pic/media%2FHKk7m61bcAA-6G3.jpg",
+    "created_at": "2026-06-12T01:38:58Z"
+  },
+  {
     "id": "anthurium-2026-06-12-live-avam-presents-d-buta-7ae17f0",
     "group_id": "anthurium",
     "type": "live",
@@ -368,6 +382,21 @@
     "post_url": "https://nitter.net/anthurium0317/status/2062081966426800331#m",
     "image_url": "https://nitter.net/pic/media%2FHJ38nl4aAAAtB4N.jpg",
     "created_at": "2026-06-03T08:00:27Z"
+  },
+  {
+    "id": "anthurium-2026-06-13-live-in-kanda-square-hall-08a3fd95",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "アイドル甲子園 in KANDA SQUARE HALL",
+    "date": "2026-06-13",
+    "time_open": "9:15",
+    "time_start": "9:30",
+    "venue": "KANDA SQUARE HALL",
+    "ticket_url": "https://user.my-th.jp/login?redirect=/tickets/event/aikou_0613",
+    "description": "\\\\\\✨️ 明日✨️/// / 「アイドル甲子園 in KANDA SQUARE HALL」supported by My-th -DAY1- / 6/13(土) / 📍 KANDA SQUARE HALL",
+    "post_url": "https://nitter.net/anthurium0317/status/2065403858139177462#m",
+    "image_url": "https://nitter.net/pic/media%2FHKnJ3HFbMAAMope.jpg",
+    "created_at": "2026-06-12T12:00:27Z"
   },
   {
     "id": "anthurium-2026-06-14-live--luna-parade--5d4ca9bb",
@@ -414,6 +443,20 @@
     "date": "2026-06-16",
     "description": "『伊藤詩乃ピアノリサイタル』",
     "created_at": "2026-06-04T09:59:44.758Z"
+  },
+  {
+    "id": "anthurium-2026-06-18-live-blooming-night-vol-3-early-s-c72ae152",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "Blooming Night vol.3 - EARLY SUMMER -",
+    "date": "2026-06-18",
+    "time_open": "18:00",
+    "time_start": "18:30",
+    "venue": "WOMBLIVE",
+    "description": "\\\\\\✨️TT公開✨️/// / 6/18(木) / 『Blooming Night vol.3 - EARLY SUMMER -』 / 📍 WOMBLIVE",
+    "post_url": "https://nitter.net/anthurium0317/status/2065418886670078457#m",
+    "image_url": "https://nitter.net/pic/media%2FHKnXhlSaEAA1C9M.jpg",
+    "created_at": "2026-06-12T13:00:10Z"
   },
   {
     "id": "anthurium-2026-06-18-live--blooming-night-vol--29e9b3a9",
@@ -485,6 +528,20 @@
     "created_at": "2026-06-07T09:00:13Z"
   },
   {
+    "id": "anthurium-2026-06-26-live-up-t-presents-hero-sonic-202-fa78d07f",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "UP-T presents HERO SONIC 2026",
+    "date": "2026-06-26",
+    "time_open": "10:00",
+    "time_start": "11:00",
+    "venue": "横浜 赤レンガパーク",
+    "description": "\\\\\\✨️TT公開✨️/// / 『UP-T presents HERO SONIC 2026』 / 6/27(土) / 📍 横浜 赤レンガパーク",
+    "post_url": "https://nitter.net/anthurium0317/status/2065388683231162455#m",
+    "image_url": "https://nitter.net/pic/media%2FHKm8DggbYAAMwVm.jpg",
+    "created_at": "2026-06-12T11:00:09Z"
+  },
+  {
     "id": "anthurium-2026-06-27-live-up-t-presents-hero-sonic-202-0fd859c0",
     "group_id": "anthurium",
     "type": "live",
@@ -497,6 +554,20 @@
     "post_url": "https://nitter.net/anthurium0317/status/2063546560626172296#m",
     "image_url": "https://nitter.net/pic/media%2FHKMwp86aIAAe4w6.jpg",
     "created_at": "2026-06-07T09:00:13Z"
+  },
+  {
+    "id": "anthurium-2026-06-27-live-up-t-presents-hero-sonic-202-9b5d0f26",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "UP-T presents HERO SONIC 2026",
+    "date": "2026-06-27",
+    "time_open": "10:00",
+    "time_start": "11:00",
+    "venue": "横浜 赤レンガパーク",
+    "description": "\\\\\\✨️TT公開✨️/// / 『UP-T presents HERO SONIC 2026』 / 6/27(土) / 📍 横浜 赤レンガパーク",
+    "post_url": "https://nitter.net/anthurium0317/status/2065388683231162455#m",
+    "image_url": "https://nitter.net/pic/media%2FHKm8DggbYAAMwVm.jpg",
+    "created_at": "2026-06-12T11:00:09Z"
   },
   {
     "id": "anthurium-2026-06-27-live--herosonic2026--9023bcc",
