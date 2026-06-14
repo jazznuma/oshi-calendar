@@ -447,6 +447,18 @@
     "created_at": "2026-06-12T11:00:01Z"
   },
   {
+    "id": "hakanai-2026-06-14-live-event-a7bb10bf",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "-------- 本日のライブ --------",
+    "date": "2026-06-14",
+    "time_start": "9:30",
+    "description": "-------- 本日のライブ -------- / 6/14（日）名古屋サーキット / mistFES2026 10th anniversary / Supported by My-th",
+    "post_url": "https://nitter.net/hakanai_info/status/2065917126121025702#m",
+    "image_url": "https://nitter.net/pic/media%2FHKtMiP8b0AA6EEX.jpg",
+    "created_at": "2026-06-13T22:00:00Z"
+  },
+  {
     "id": "hakanai-2026-06-15-live-event-e7eee692",
     "group_id": "hakanai",
     "type": "live",
@@ -465,6 +477,17 @@
     "date": "2026-06-15",
     "description": "椎名うた生誕祭2026 Ultimate Talent's Anniversary あるてぃめっつ たれんつ あにば~さり~",
     "created_at": "2026-06-04T09:59:58.939Z"
+  },
+  {
+    "id": "hakanai-2026-06-15-live-event-680f8c24",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "----------- 次回のライブ -----------",
+    "date": "2026-06-15",
+    "description": "----------- 次回のライブ ----------- / 6/15（月）新宿MARZ / 椎名うた生誕祭2026 / Ultimate Talent's Anniversary",
+    "post_url": "https://nitter.net/hakanai_info/status/2066065603719311794#m",
+    "image_url": "https://nitter.net/pic/media%2FHKtNko9bsAAj0DK.jpg",
+    "created_at": "2026-06-14T07:50:00Z"
   },
   {
     "id": "hakanai-2026-06-16-live-otona-child-presents-4ffeea9a",
@@ -772,6 +795,19 @@
     "created_at": "2026-06-08T03:00:03Z"
   },
   {
+    "id": "hakanai-2026-07-31-live-event-b6be8289",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "先行販売価格のお得なチケットは本日まで📢",
+    "date": "2026-07-31",
+    "venue": "で一緒に楽しみましょう🔥",
+    "ticket_url": "https://nitter.net/hakanai_info/status/2063818308093370827#m",
+    "description": "先行販売価格のお得なチケットは本日まで📢 / hakanaiにとって初めてのTIF。 / 会場で一緒に楽しみましょう🔥 / hakanai【スケジュール】 (@hakanai_info)",
+    "post_url": "https://nitter.net/hakanai_info/status/2066109274103890148#m",
+    "image_url": "https://nitter.net/pic/media%2FHKQJjuubAAAvEiK.jpg",
+    "created_at": "2026-06-14T10:43:32Z"
+  },
+  {
     "id": "hakanai-2026-08-02-live-tokyo-idol-festival-2026-6c6a99d4",
     "group_id": "hakanai",
     "type": "live",
@@ -781,5 +817,18 @@
     "post_url": "https://nitter.net/hakanai_info/status/2063818308093370827#m",
     "image_url": "https://nitter.net/pic/media%2FHKQJjuubAAAvEiK.jpg",
     "created_at": "2026-06-08T03:00:03Z"
+  },
+  {
+    "id": "hakanai-2026-08-02-live-event-281f5559",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "先行販売価格のお得なチケットは本日まで📢",
+    "date": "2026-08-02",
+    "venue": "で一緒に楽しみましょう🔥",
+    "ticket_url": "https://nitter.net/hakanai_info/status/2063818308093370827#m",
+    "description": "先行販売価格のお得なチケットは本日まで📢 / hakanaiにとって初めてのTIF。 / 会場で一緒に楽しみましょう🔥 / hakanai【スケジュール】 (@hakanai_info)",
+    "post_url": "https://nitter.net/hakanai_info/status/2066109274103890148#m",
+    "image_url": "https://nitter.net/pic/media%2FHKQJjuubAAAvEiK.jpg",
+    "created_at": "2026-06-14T10:43:32Z"
   }
 ]
