@@ -490,6 +490,17 @@
     "created_at": "2026-06-14T07:50:00Z"
   },
   {
+    "id": "hakanai-2026-06-15-live-event-3c22792e",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "----------- 本日のライブ -----------",
+    "date": "2026-06-15",
+    "description": "----------- 本日のライブ ----------- / 6/15（月）新宿MARZ / 椎名うた生誕祭2026 / Ultimate Talent's Anniversary",
+    "post_url": "https://nitter.net/hakanai_info/status/2066324815599038763#m",
+    "image_url": "https://nitter.net/pic/media%2FHKzJ2wibUAASn7f.jpg",
+    "created_at": "2026-06-15T01:00:01Z"
+  },
+  {
     "id": "hakanai-2026-06-16-live-otona-child-presents-4ffeea9a",
     "group_id": "hakanai",
     "type": "live",
@@ -497,6 +508,17 @@
     "date": "2026-06-16",
     "description": "OTONA CHILD.presents 『HAKONIWA vol.11』",
     "created_at": "2026-06-04T09:59:58.939Z"
+  },
+  {
+    "id": "hakanai-2026-06-16-live-hakoniwa-vol-11-48a4adcd",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "HAKONIWA vol.11",
+    "date": "2026-06-16",
+    "description": "-------- 🍏次回のライブ🍏 -------- / 6/16（火）渋谷WWW X / OTONA CHILD.presents / 『HAKONIWA vol.11』",
+    "post_url": "https://nitter.net/hakanai_info/status/2066474548510249327#m",
+    "image_url": "https://nitter.net/pic/media%2FHKzKFKrbwAAOlHc.jpg",
+    "created_at": "2026-06-15T10:55:00Z"
   },
   {
     "id": "hakanai-2026-06-21-live-event-c50a09d3",
@@ -510,6 +532,18 @@
     "post_url": "https://nitter.net/hakanai_info/status/2059228063020560594#m",
     "image_url": "https://nitter.net/pic/media%2FHJOekCtasAAXRPI.jpg",
     "created_at": "2026-05-26T11:00:03Z"
+  },
+  {
+    "id": "hakanai-2026-06-21-live-event-bc44354e",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "ひなたとまゆた",
+    "date": "2026-06-21",
+    "time_start": "18:30",
+    "description": "-------- 次回のまゆたソロ -------- / 6/21（日）渋谷REX / OTONA CHILD.presents / 『ひなたとまゆた』",
+    "post_url": "https://nitter.net/hakanai_info/status/2066475818646225220#m",
+    "image_url": "https://nitter.net/pic/media%2FHK13JiUbMAA8VYa.jpg",
+    "created_at": "2026-06-15T11:00:03Z"
   },
   {
     "id": "hakanai-2026-06-21-live-otona-child-presents-614fb02b",
@@ -630,6 +664,19 @@
     "date": "2026-07-05",
     "description": "超NATSUZOME 2026",
     "created_at": "2026-06-04T09:59:58.939Z"
+  },
+  {
+    "id": "hakanai-2026-07-05-live-natsuzome-2026-tt-abf57062",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "🔥超NATSUZOME 2026 TT解禁🔥",
+    "date": "2026-07-05",
+    "time_start": "9:00",
+    "venue": "suzome2026",
+    "description": "🔥超NATSUZOME 2026 TT解禁🔥 / 7/5（日）幕張海浜公園Gブロック特設会場 / 超NATSUZOME 2026 / 9:00 / 10:00",
+    "post_url": "https://nitter.net/hakanai_info/status/2066400309442990089#m",
+    "image_url": "https://nitter.net/pic/media%2FHKzLmn6bUAAu4_z.jpg",
+    "created_at": "2026-06-15T06:00:00Z"
   },
   {
     "id": "hakanai-2026-07-07-live--yoru-fes-sp--1814a83",

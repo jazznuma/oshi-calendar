@@ -648,6 +648,31 @@
     "created_at": "2026-06-04T01:08:26.977Z"
   },
   {
+    "id": "miao-2026-06-16-live-event-c2eecd62",
+    "group_id": "miao",
+    "type": "live",
+    "title": "✨本日開催✨",
+    "date": "2026-06-16",
+    "venue": "Zepp Shinjuku / KABUKICHO TOWER STAGE / WALLY / ACE / ARASHI",
+    "description": "＼✨本日開催✨／ / 6/16(火) / TOKYO GIRLS GIRLS / @ Zepp Shinjuku / KABUKICHO TOWER STAGE / WALLY / ACE / ARASHI",
+    "post_url": "https://nitter.net/Girls_Girlsinfo/status/2066536207941574860#m",
+    "image_url": "https://nitter.net/pic/media%2FHK2frSCasAAS048.jpg",
+    "created_at": "2026-06-15T15:00:01Z"
+  },
+  {
+    "id": "miao-2026-06-16-live-tokyo-girls-girls-7383e110",
+    "group_id": "miao",
+    "type": "live",
+    "title": "TOKYO GIRLS GIRLS",
+    "date": "2026-06-16",
+    "venue": "KABUKICHO TOWER STAGE",
+    "ticket_url": "https://nitter.net/Girls_Girlsinfo/status/2066475816515518661#m",
+    "description": "／ / - ̗̀ 📢明日6/16(火)はこちら🐈‍⬛🎀 / ＼ / タイムテーブル変更⚠️",
+    "post_url": "https://nitter.net/miao__official/status/2066477268973842495#m",
+    "image_url": "https://nitter.net/pic/media%2FHK2aGtubAAAPMqt.jpg",
+    "created_at": "2026-06-15T11:05:48Z"
+  },
+  {
     "id": "miao-2026-06-17-free---9361619",
     "group_id": "miao",
     "type": "free",
@@ -689,10 +714,11 @@
     "date": "2026-06-18",
     "time_start": "15:00",
     "venue": "大塚FUTURE",
-    "description": "／ / ⏰タイテ情報⏰ / ＼ / 『IDOL SCENE』",
+    "description": "RT by @miao__official: ／ / ⏰タイテ情報⏰ / ＼ / 『IDOL SCENE』",
     "post_url": "https://nitter.net/miao__official/status/2064301147926786488#m",
     "image_url": "https://nitter.net/pic/media%2FHKXeTQYasAIYV5H.jpg",
-    "created_at": "2026-06-09T10:58:41Z"
+    "created_at": "2026-06-09T10:58:41Z",
+    "ticket_url": "http://t-dv.com/IDOLSCENE_0618"
   },
   {
     "id": "miao-2026-06-18-live--future-4c4a3613",
@@ -759,6 +785,34 @@
     "created_at": "2026-06-08T00:53:29.608Z"
   },
   {
+    "id": "miao-2026-06-20-live-tokyo-girls-girls-extra-b9088fc9",
+    "group_id": "miao",
+    "type": "live",
+    "title": "TOKYO GIRLS GIRLS extra!!",
+    "date": "2026-06-20",
+    "time_start": "9:00",
+    "venue": "EBiS303",
+    "ticket_url": "https://nitter.net/Girls_Girlsinfo/status/2066475809112547343#m",
+    "description": "／ / ⚠️タイテ変更⚠️ / ＼ / 『TOKYO GIRLS GIRLS extra!!』",
+    "post_url": "https://nitter.net/miao__official/status/2066498503145406824#m",
+    "image_url": "https://nitter.net/pic/media%2FHK2tbchagAAepI5.jpg",
+    "created_at": "2026-06-15T12:30:11Z"
+  },
+  {
+    "id": "miao-2026-06-20-live-tokyo-girls-girls-extra-a2f7d7ce",
+    "group_id": "miao",
+    "type": "live",
+    "title": "TOKYO GIRLS GIRLS extra!!",
+    "date": "2026-06-20",
+    "time_start": "9:00",
+    "venue": "EBiS303",
+    "ticket_url": "https://nitter.net/Girls_Girlsinfo/status/2066475809112547343#m",
+    "description": "／ / ⚠️タイテ変更⚠️ / ＼ / 『TOKYO GIRLS GIRLS extra!!』",
+    "post_url": "https://nitter.net/miao__official/status/2066498234441404763#m",
+    "image_url": "https://nitter.net/pic/media%2FHK2tL0hbsAAyNkL.jpg",
+    "created_at": "2026-06-15T12:29:07Z"
+  },
+  {
     "id": "miao-2026-06-20-live-tokyo-girls-girls-extra-e9041978",
     "group_id": "miao",
     "type": "live",
@@ -785,6 +839,20 @@
     "post_url": "https://nitter.net/miao__official/status/2064303078493544560#m",
     "image_url": "https://nitter.net/pic/media%2FHKXgs7VbgAA7DGl.jpg",
     "created_at": "2026-06-09T11:06:21Z"
+  },
+  {
+    "id": "miao-2026-06-21-live-tokyo-girls-girls-extra-dd887486",
+    "group_id": "miao",
+    "type": "live",
+    "title": "TOKYO GIRLS GIRLS extra!!",
+    "date": "2026-06-21",
+    "time_start": "8:00",
+    "venue": "EBiS303",
+    "ticket_url": "https://nitter.net/Girls_Girlsinfo/status/2066475809112547343#m",
+    "description": "／ / ⚠️タイテ変更⚠️ / ＼ / 『TOKYO GIRLS GIRLS extra!!』",
+    "post_url": "https://nitter.net/miao__official/status/2066498503145406824#m",
+    "image_url": "https://nitter.net/pic/media%2FHK2tbchagAAepI5.jpg",
+    "created_at": "2026-06-15T12:30:11Z"
   },
   {
     "id": "miao-2026-06-21-live-ebis303-32c37760",
@@ -1242,6 +1310,19 @@
     "date": "2026-07-18",
     "description": "星川夏乃イベント予定",
     "created_at": "2026-06-04T01:08:26.977Z"
+  },
+  {
+    "id": "miao-2026-07-18-live-summer-party-day1-dbc2552d",
+    "group_id": "miao",
+    "type": "live",
+    "title": "スペシャル大撮影会 ~城山SUMMER PARTY~ Day1",
+    "date": "2026-07-18",
+    "venue": "城山スタジオ",
+    "ticket_url": "https://nitter.net/fresh_akiba/status/2066502918199755227#m",
+    "description": "📣星川夏乃ソロ出演イベント🐈‍⬛💜 / 『スペシャル大撮影会 ~城山SUMMER PARTY~ Day1』に星川夏乃  @miao_natsuno  が参加します🐈💜 / 🗓️7/18(土) / 📍城山スタジオ",
+    "post_url": "https://nitter.net/miao__official/status/2066523746039734440#m",
+    "image_url": "https://nitter.net/pic/media%2FHK3EY9ZbAAAaL1M.jpg",
+    "created_at": "2026-06-15T14:10:29Z"
   },
   {
     "id": "miao-2026-07-19-live---1a3314aa",

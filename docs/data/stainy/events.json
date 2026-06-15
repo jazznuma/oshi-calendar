@@ -608,7 +608,8 @@
     "time_start": "21:30",
     "post_url": "https://nitter.net/STAiNY_official/status/2064657498989293991#m",
     "image_url": "https://nitter.net/pic/media%2FHKci_AdbQAAyJOw.jpg",
-    "created_at": "2026-06-10T10:34:41Z"
+    "created_at": "2026-06-10T10:34:41Z",
+    "ticket_url": "https://ticketdive.com/event/ficfes_0619"
   },
   {
     "id": "stainy-2026-06-11-live---163d7f7b",
@@ -763,10 +764,11 @@
     "time_start": "12:00",
     "venue": "Zepp Haneda",
     "price": "前方8,000円/一般3,000円/女性2,000円",
-    "description": "／ / 💗6/19(金)のんふぃく！Pre. / 💘「ふぃくふぇす！vol.20」新体制ver / ＼",
+    "description": "RT by @STAiNY_official: ／ / 💗6/19(金)のんふぃく！Pre. / 💘「ふぃくふぇす！vol.20」新体制ver / ＼",
     "post_url": "https://nitter.net/STAiNY_official/status/2064657498989293991#m",
     "image_url": "https://nitter.net/pic/media%2FHKci_AdbQAAyJOw.jpg",
-    "created_at": "2026-06-10T10:34:41Z"
+    "created_at": "2026-06-10T10:34:41Z",
+    "ticket_url": "https://ticketdive.com/event/ficfes_0619"
   },
   {
     "id": "stainy-2026-06-19-live---2f3b8f7",
@@ -836,6 +838,20 @@
     "post_url": "https://nitter.net/STAiNY_official/status/2061749699728863301#m",
     "image_url": "https://nitter.net/pic/media%2FHJzOaMIbIAEHNa6.jpg",
     "created_at": "2026-06-02T10:00:08Z"
+  },
+  {
+    "id": "stainy-2026-06-22-live-event-dc90b2da",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "ドンチューライアー",
+    "date": "2026-06-22",
+    "time_open": "18:15",
+    "time_start": "19:00",
+    "venue": "WWW X",
+    "description": "／ / 👗新衣装お披露目決定👗 / 😈リリース記念ツアー全国お届け大作戦⚔️ / ＼",
+    "post_url": "https://nitter.net/STAiNY_official/status/2066477282664092092#m",
+    "image_url": "https://nitter.net/pic/media%2FHK2aHxXaEAAKhKd.jpg",
+    "created_at": "2026-06-15T11:05:52Z"
   },
   {
     "id": "stainy-2026-06-22-live---60a01f6d",
@@ -947,6 +963,17 @@
     "post_url": "https://nitter.net/STAiNY_official/status/2064702148278120863#m",
     "image_url": "https://nitter.net/pic/media%2FHKdLndYaoAAthPN.jpg",
     "created_at": "2026-06-10T13:32:07Z"
+  },
+  {
+    "id": "stainy-2026-06-23-release-event-96e2ecc8",
+    "group_id": "stainy",
+    "type": "release",
+    "title": "ドンチューライアー",
+    "date": "2026-06-23",
+    "description": "／ / 💽STAiNY 1stアルバム / 😈「ドンチューライアー」 / ✨リリースイベント追加日程&TT解禁✨",
+    "post_url": "https://nitter.net/STAiNY_official/status/2066448599387664560#m",
+    "image_url": "https://nitter.net/pic/media%2FHK2ACsda8AAQF3x.jpg",
+    "created_at": "2026-06-15T09:11:53Z"
   },
   {
     "id": "stainy-2026-06-24-live-parad-i-se-vol-5-2-s-5d482df6",
