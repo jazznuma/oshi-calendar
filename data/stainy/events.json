@@ -976,6 +976,17 @@
     "created_at": "2026-06-15T09:11:53Z"
   },
   {
+    "id": "stainy-2026-06-23-release-event-b9fcc5e0",
+    "group_id": "stainy",
+    "type": "release",
+    "title": "ドンチューライアー",
+    "date": "2026-06-23",
+    "description": "／ / 💽STAiNY 1stアルバム / 😈「ドンチューライアー」 / ✨リリースイベント追加日程&TT解禁✨",
+    "post_url": "https://nitter.net/STAiNY_official/status/2066878814358315453#m",
+    "image_url": "https://nitter.net/pic/media%2FHK8HUtKbEAAYrjv.jpg",
+    "created_at": "2026-06-16T13:41:24Z"
+  },
+  {
     "id": "stainy-2026-06-24-live-parad-i-se-vol-5-2-s-5d482df6",
     "group_id": "stainy",
     "type": "live",
@@ -1144,6 +1155,18 @@
     "date": "2026-07-31",
     "description": "TOKYO IDOL FESTIVAL 2026",
     "created_at": "2026-06-08T00:52:59.886Z"
+  },
+  {
+    "id": "stainy-2026-08-13-live-the-stars-we-found-09790694",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "明星現象 -The Stars We Found-",
+    "date": "2026-08-13",
+    "venue": "品川インターシティホール",
+    "description": "【8/13(木)対バン情報】 / 衛星とカラテアPresents / 「明星現象 -The Stars We Found-」 / 🏟品川インターシティホール",
+    "post_url": "https://nitter.net/STAiNY_official/status/2066815095041351720#m",
+    "image_url": "https://nitter.net/pic/media%2FHK7NV3zbAAAwO9X.jpg",
+    "created_at": "2026-06-16T09:28:12Z"
   },
   {
     "id": "stainy-2026-09-21-live-9-21-22-23-99797bfd",
