@@ -456,6 +456,19 @@
     "created_at": "2026-06-04T09:59:49.439Z"
   },
   {
+    "id": "hbn-2026-06-17-live-12v-9459b989",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "火花放電 -12V-",
+    "date": "2026-06-17",
+    "time_start": "19:00",
+    "ticket_url": "https://nitter.net/HBN_187/status/2063576712399708377#m",
+    "description": "💥本日はこちら💥 / 約半年ぶりの東京火花放電です⚡️ / バチバチに火花散らしていきましょう🤟💥 / HIBANA_Official (@HBN_187)",
+    "post_url": "https://nitter.net/HBN_187/status/2067092155731161356#m",
+    "image_url": "https://nitter.net/pic/media%2FHKNDy8Xa8AAD9XC.jpg",
+    "created_at": "2026-06-17T03:49:09Z"
+  },
+  {
     "id": "hbn-2026-06-17-live--12v--35d7b819",
     "group_id": "hbn",
     "type": "live",
@@ -463,6 +476,17 @@
     "date": "2026-06-17",
     "description": "🌈東京｜火花放電 -12V-",
     "created_at": "2026-06-08T00:50:33.963Z"
+  },
+  {
+    "id": "hbn-2026-06-17-live-12v-0d4664d5",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "火花放電 -12V-",
+    "date": "2026-06-17",
+    "description": "／ / TIFメインステージ争奪前哨戦突破記念✨ / ＼ / 6/17(水) 『火花放電 -12V-』",
+    "post_url": "https://nitter.net/HBN_187/status/2067146128945238471#m",
+    "image_url": "https://nitter.net/pic/media%2FHK_6cm2aIAAYkuQ.jpg",
+    "created_at": "2026-06-17T07:23:37Z"
   },
   {
     "id": "hbn-2026-06-18-live--soul-69093a63",
@@ -490,6 +514,17 @@
     "date": "2026-06-23",
     "description": "🌈大阪",
     "created_at": "2026-06-08T00:50:33.963Z"
+  },
+  {
+    "id": "hbn-2026-06-23-live-12v-039e39a1",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "火花放電 -12V-",
+    "date": "2026-06-23",
+    "description": "／ / TIFメインステージ争奪前哨戦突破記念✨ / ＼ / 6/17(水) 『火花放電 -12V-』",
+    "post_url": "https://nitter.net/HBN_187/status/2067146128945238471#m",
+    "image_url": "https://nitter.net/pic/media%2FHK_6cm2aIAAYkuQ.jpg",
+    "created_at": "2026-06-17T07:23:37Z"
   },
   {
     "id": "hbn-2026-06-24-live--neo-spark-77c98972",
@@ -780,5 +815,16 @@
     "post_url": "https://nitter.net/HBN_187/status/2062112055771931116#m",
     "image_url": "https://nitter.net/pic/media%2FHJ00_i5aEAAqPlC.jpg",
     "created_at": "2026-05-28T11:00:00Z"
+  },
+  {
+    "id": "hbn-2027-06-07-live-12v-ff9cf3b2",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "火花放電 -12V-",
+    "date": "2027-06-07",
+    "description": "／ / TIFメインステージ争奪前哨戦突破記念✨ / ＼ / 6/17(水) 『火花放電 -12V-』",
+    "post_url": "https://nitter.net/HBN_187/status/2067146128945238471#m",
+    "image_url": "https://nitter.net/pic/media%2FHK_6cm2aIAAYkuQ.jpg",
+    "created_at": "2026-06-17T07:23:37Z"
   }
 ]
