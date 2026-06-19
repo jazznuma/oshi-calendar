@@ -783,6 +783,19 @@
     "created_at": "2026-06-13T14:14:05Z"
   },
   {
+    "id": "miao-2026-06-20-live-tokyo-girls-girls-extra-779921fb",
+    "group_id": "miao",
+    "type": "live",
+    "title": "TOKYO GIRLS GIRLS extra!!",
+    "date": "2026-06-20",
+    "time_start": "14:25",
+    "venue": "EBiS303",
+    "description": "／ / - ̗̀ 📢明日6/20(土)はこちら🐈‍⬛🎀 / ＼ / 1本目",
+    "post_url": "https://nitter.net/miao__official/status/2067934330576343490#m",
+    "image_url": "https://nitter.net/pic/media%2FHLLHTSFboAALV2s.jpg",
+    "created_at": "2026-06-19T11:35:39Z"
+  },
+  {
     "id": "miao-2026-06-20-live-ebis303-50e5adc1",
     "group_id": "miao",
     "type": "live",
@@ -836,6 +849,19 @@
     "post_url": "https://nitter.net/miao__official/status/2066498234441404763#m",
     "image_url": "https://nitter.net/pic/media%2FHK2tL0hbsAAyNkL.jpg",
     "created_at": "2026-06-15T12:29:07Z"
+  },
+  {
+    "id": "miao-2026-06-20-live-event-c23ea1ca",
+    "group_id": "miao",
+    "type": "live",
+    "title": "✨本日開催✨",
+    "date": "2026-06-20",
+    "time_start": "9:00",
+    "venue": "EBiS303",
+    "description": "＼✨本日開催✨／ / 6/20(土) / TOKYO GIRLS GIRLS extra!! / @ EBiS303",
+    "post_url": "https://nitter.net/Girls_Girlsinfo/status/2067991142302724408#m",
+    "image_url": "https://nitter.net/pic/media%2FHLL6-xMaMAErWmM.jpg",
+    "created_at": "2026-06-19T15:21:24Z"
   },
   {
     "id": "miao-2026-06-20-live-tokyo-girls-girls-extra-e9041978",
@@ -1383,6 +1409,20 @@
     "date": "2026-07-19",
     "description": "ライブ予定",
     "created_at": "2026-06-04T01:08:26.977Z"
+  },
+  {
+    "id": "miao-2026-07-20-live-oshi-cutlet-sandwich-vol-5-c2b9b3ba",
+    "group_id": "miao",
+    "type": "live",
+    "title": "OSHI CUTLET SANDWICH vol.5",
+    "date": "2026-07-20",
+    "time_open": "10:00",
+    "time_start": "10:15",
+    "venue": "シティホール五反田",
+    "description": "／ / 🎶対バン情報🎶 / ＼ / 『OSHI CUTLET SANDWICH vol.5』",
+    "post_url": "https://nitter.net/miao__official/status/2067857474309489034#m",
+    "image_url": "https://nitter.net/pic/media%2FHLKBZ5MbcAAOsjF.jpg",
+    "created_at": "2026-06-19T06:30:15Z"
   },
   {
     "id": "miao-2026-07-20-live---70eede80",
