@@ -851,6 +851,34 @@
     "created_at": "2026-06-02T10:00:08Z"
   },
   {
+    "id": "stainy-2026-06-21-live-event-b0510ed0",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "佐々木ひまり生誕祭",
+    "date": "2026-06-21",
+    "time_open": "10:30",
+    "time_start": "11:00",
+    "venue": "下北沢シャングリラ",
+    "price": "優先3000円/通常2000円/当日2500円(各1D別)",
+    "ticket_url": "https://nitter.net/STAiNY_official/status/2061749699728863301#m",
+    "description": "【終演後物販会場のご案内📢】 / 終演後特典会は下記会場にて実施いたします。 / 🏢東京都渋谷区道玄坂1-19-2 SPLINEビル 8F / (オンタイムデリバリージャパン株式会社内)",
+    "post_url": "https://nitter.net/STAiNY_official/status/2068284337649578012#m",
+    "image_url": "https://nitter.net/pic/media%2FHJzOaMIbIAEHNa6.jpg",
+    "created_at": "2026-06-20T10:46:27Z"
+  },
+  {
+    "id": "stainy-2026-06-21-live-stainy-d44591de",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "👾明日のSTAiNY✨",
+    "date": "2026-06-21",
+    "venue": "下北沢シャングリラ",
+    "description": "／ / 👾明日のSTAiNY✨ / 🧡ྀི佐々木ひまり生誕祭🎂 / ＼",
+    "post_url": "https://nitter.net/STAiNY_official/status/2068328286846144740#m",
+    "image_url": "https://nitter.net/pic/media%2FHLQtm_3aoAAL4SJ.jpg",
+    "created_at": "2026-06-20T13:41:05Z"
+  },
+  {
     "id": "stainy-2026-06-22-live-event-dc90b2da",
     "group_id": "stainy",
     "type": "live",
@@ -1126,6 +1154,20 @@
     "created_at": "2026-06-10T13:02:22Z"
   },
   {
+    "id": "stainy-2026-07-10-live-event-f92bf9ea",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "｢熱夏到来｣",
+    "date": "2026-07-10",
+    "time_open": "16:00",
+    "time_start": "16:30",
+    "venue": "Veats SHIBUA",
+    "description": "【7/10(金)対バン情報⛰️】 / ｢熱夏到来｣ / 🏟Veats SHIBUA / 🚪開場16:00/開演16:30",
+    "post_url": "https://nitter.net/STAiNY_official/status/2068322261652918520#m",
+    "image_url": "https://nitter.net/pic/media%2FHLQoIR5a8AA8dLx.jpg",
+    "created_at": "2026-06-20T13:17:09Z"
+  },
+  {
     "id": "stainy-2026-07-11-live---76ec624",
     "group_id": "stainy",
     "type": "live",
@@ -1231,5 +1273,17 @@
     "post_url": "https://nitter.net/STAiNY_official/status/2063531461731627496#m",
     "image_url": "https://nitter.net/pic/media%2FHKMi6d5bIAA8D8a.jpg",
     "created_at": "2026-06-07T08:00:13Z"
+  },
+  {
+    "id": "stainy-2027-06-03-ticket-event-6a924957",
+    "group_id": "stainy",
+    "type": "ticket",
+    "title": "佐々木ひまり生誕祭 チケ発",
+    "date": "2027-06-03",
+    "time_start": "22:00",
+    "ticket_url": "https://nitter.net/STAiNY_official/status/2061749699728863301#m",
+    "post_url": "https://nitter.net/STAiNY_official/status/2068284337649578012#m",
+    "image_url": "https://nitter.net/pic/media%2FHJzOaMIbIAEHNa6.jpg",
+    "created_at": "2026-06-20T10:46:27Z"
   }
 ]
