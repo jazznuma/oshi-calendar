@@ -755,6 +755,18 @@
     "created_at": "2026-06-17T22:15:00Z"
   },
   {
+    "id": "miao-2026-06-19-live-miao-d98dd12d",
+    "group_id": "miao",
+    "type": "live",
+    "title": "miao イベント",
+    "date": "2026-06-19",
+    "ticket_url": "https://talk.up-t.jp/universal-link?type=event&id=13583",
+    "description": "RT by @miao__official: 明日6/19（金）　UP-T Talkやります💖 時間帯的にも厳しいかなって思って、 お昼と夜（2分枠と5分枠）の2回❗️ 枠たくさん作って待ってるので、この時間空いてる！って時に来てくれたら嬉しいな😊🫧 たくさんお話ししよっ待ってます🫶🏻 この後8:00〜受付開始するよ💁",
+    "post_url": "https://nitter.net/miao_setsuna/status/2067370451601432883#m",
+    "image_url": "https://nitter.net/pic/media%2FHLCm4ATbgAAPujX.jpg",
+    "created_at": "2026-06-17T22:15:00Z"
+  },
+  {
     "id": "miao-2026-06-20-live-idol-treasure-bottle-live-4acf3af5",
     "group_id": "miao",
     "type": "live",
@@ -885,10 +897,11 @@
     "date": "2026-06-21",
     "time_start": "18:20",
     "venue": "EBiS303",
-    "description": "／ / - ̗̀ 📢明日6/21(日)はこちら🐈‍⬛🎀 / ＼ / 『TOKYO GIRLS GIRLS extra!!』",
+    "description": "RT by @miao__official: ／ - ̗̀ 📢明日6/21(日)はこちら🐈‍⬛🎀 ＼ 『TOKYO GIRLS GIRLS extra!!』 📍EBiS303 🎤ライブ STAGE2 18:20-18:40 📸特典会 18:50-20:00 🉐指名入特🉐 写メ30秒トーク or 30秒動画 🎫 http",
     "post_url": "https://nitter.net/miao__official/status/2068328328667513289#m",
     "image_url": "https://nitter.net/pic/media%2FHLQtpgeagAAH8vH.jpg",
-    "created_at": "2026-06-20T13:41:15Z"
+    "created_at": "2026-06-20T13:41:15Z",
+    "ticket_url": "http://t-dv.com/tgg__0621"
   },
   {
     "id": "miao-2026-06-21-live-tokyo-girls-girls-extra-dd321964",
@@ -917,6 +930,19 @@
     "post_url": "https://nitter.net/miao__official/status/2066498503145406824#m",
     "image_url": "https://nitter.net/pic/media%2FHK2tbchagAAepI5.jpg",
     "created_at": "2026-06-15T12:30:11Z"
+  },
+  {
+    "id": "miao-2026-06-21-live-event-ba01a7ba",
+    "group_id": "miao",
+    "type": "live",
+    "title": "✨本日開催✨",
+    "date": "2026-06-21",
+    "time_start": "8:00",
+    "venue": "EBiS303",
+    "description": "＼✨本日開催✨／ / 6/21(日) / TOKYO GIRLS GIRLS extra!! / @ EBiS303",
+    "post_url": "https://nitter.net/Girls_Girlsinfo/status/2068348156363100630#m",
+    "image_url": "https://nitter.net/pic/media%2FHLPxaUmaEAEUJCf.jpg",
+    "created_at": "2026-06-20T15:00:03Z"
   },
   {
     "id": "miao-2026-06-21-live-ebis303-32c37760",
@@ -985,6 +1011,18 @@
     "created_at": "2026-06-09T12:01:31Z"
   },
   {
+    "id": "miao-2026-06-22-live-presents-with-you-3ad6ac9e",
+    "group_id": "miao",
+    "type": "live",
+    "title": "君と青 Presents「with YOU",
+    "date": "2026-06-22",
+    "venue": "代官山SPACE ODD",
+    "description": "／ / - ̗̀ 📢明日6/22(月)はこちら🐈‍⬛🎀 / ＼ / 明日は平日となりますが2本回しとなります🙇‍♀️！",
+    "post_url": "https://nitter.net/miao__official/status/2068669061006032935#m",
+    "image_url": "https://nitter.net/pic/media%2FHLVjiurasAASfFI.jpg",
+    "created_at": "2026-06-21T12:15:12Z"
+  },
+  {
     "id": "miao-2026-06-23-deadline-event-912b6132",
     "group_id": "miao",
     "type": "deadline",
@@ -1021,6 +1059,19 @@
     "post_url": "https://nitter.net/miao__official/status/2066718392351064288#m",
     "image_url": "https://nitter.net/pic/media%2FHKcr1yXbcAA8qP0.jpg",
     "created_at": "2026-06-16T03:03:57Z"
+  },
+  {
+    "id": "miao-2026-06-23-deadline-miao-fancy-theater-b6a83b3a",
+    "group_id": "miao",
+    "type": "deadline",
+    "title": "miao定期公演「Fancy Theater 締切",
+    "date": "2026-06-23",
+    "time_start": "21:30",
+    "description": "📣主催イベント情報🐈‍⬛ / 6/24(水) 開催！ 『miao定期公演「Fancy Theater」Vol.2 〜早瀬かのプロデュース公演〜』🐈‍⬛🧡 / カバー曲発表✨️ / ／",
+    "ticket_url": "https://nitter.net/miao__official/status/2064678979454570709#m",
+    "post_url": "https://nitter.net/miao__official/status/2068672807404515679#m",
+    "image_url": "https://nitter.net/pic/media%2FHLVm8ytboAAMuBl.jpg",
+    "created_at": "2026-06-21T12:30:06Z"
   },
   {
     "id": "miao-2026-06-24-live-miao--245a63e4",
@@ -1093,6 +1144,30 @@
     "created_at": "2026-06-19T09:00:00Z"
   },
   {
+    "id": "miao-2026-06-24-live-miao-90789a7b",
+    "group_id": "miao",
+    "type": "live",
+    "title": "miao イベント",
+    "date": "2026-06-24",
+    "ticket_url": "https://youtube.com/shorts/sSUvzbGxerI",
+    "description": "RT by @miao__official: ＼🐈来週6月24日(水)は miao定期公演🐈／ 📢YouTube更新 5月公演より 西宮百音（@miao_mone）の 推しカメラ映像を公開‼️ https://youtube.com/shorts/sSUvzbGxerI 🎫チケット予約は6月22日(月)21時まで！ h",
+    "post_url": "https://nitter.net/AkibaCultures/status/2068257550785724687#m",
+    "image_url": "https://nitter.net/pic/amplify_video_thumb%2F2067510457318129665%2Fimg%2F532iGjv4lveI8rax.jpg",
+    "created_at": "2026-06-20T09:00:01Z"
+  },
+  {
+    "id": "miao-2026-06-24-live-miao-c4da75ca",
+    "group_id": "miao",
+    "type": "live",
+    "title": "miao イベント",
+    "date": "2026-06-24",
+    "ticket_url": "https://youtube.com/shorts/Pj0Bas7rYls",
+    "description": "RT by @miao__official: ＼🐈来週6月24日(水)は miao定期公演🐈／ 📢YouTube更新 5月公演より 花咲くるみ（@miao_kurumi）の 推しカメラ映像を公開‼️ https://youtube.com/shorts/Pj0Bas7rYls 🎫チケット予約は6月22日(月)21時まで",
+    "post_url": "https://nitter.net/AkibaCultures/status/2067895160000663638#m",
+    "image_url": "https://nitter.net/pic/amplify_video_thumb%2F2066906620177920000%2Fimg%2Fyz4-jAFdQUQfqOWT.jpg",
+    "created_at": "2026-06-19T09:00:00Z"
+  },
+  {
     "id": "miao-2026-06-25-live-girls-delight-406-9192cab2",
     "group_id": "miao",
     "type": "live",
@@ -1138,6 +1213,20 @@
     "created_at": "2026-06-04T12:11:39Z"
   },
   {
+    "id": "miao-2026-06-28-live-event-61aee3d5",
+    "group_id": "miao",
+    "type": "live",
+    "title": "あいらんど×逆転ねこぱんちっ！",
+    "date": "2026-06-28",
+    "time_open": "10:00",
+    "time_start": "10:15",
+    "venue": "Spotify O-Crest",
+    "description": "／ / 🎶対バン情報🎶 / ＼ / 『あいらんど×逆転ねこぱんちっ！』",
+    "post_url": "https://nitter.net/miao__official/status/2068551967102902496#m",
+    "image_url": "https://nitter.net/pic/media%2FHLT5C7EasAAdxLO.jpg",
+    "created_at": "2026-06-21T04:29:55Z"
+  },
+  {
     "id": "miao-2026-06-28-live-rt-by-miao-official-50355043",
     "group_id": "miao",
     "type": "live",
@@ -1146,6 +1235,19 @@
     "time_start": "23:59",
     "ticket_url": "https://ticketdive.com/event/spark2026_summer",
     "description": "RT by @miao__official: 【チケット先行抽選受付延長のお知らせ】 / 7/11(土)7/12(日)開催 / SPARK 2026 渋谷納涼祭に関しまして、 / VIPチケットの先行抽選受付期間を下記にて変更させていただきます。",
+    "post_url": "https://nitter.net/SPARK_Fes/status/2068347550864961782#m",
+    "image_url": "https://nitter.net/pic/media%2FHLQ_IMpaUAEC6AY.jpg",
+    "created_at": "2026-06-20T14:57:38Z"
+  },
+  {
+    "id": "miao-2026-06-28-live-miao-685c06dd",
+    "group_id": "miao",
+    "type": "live",
+    "title": "miao イベント",
+    "date": "2026-06-28",
+    "time_start": "23:59",
+    "ticket_url": "https://ticketdive.com/event/spark2026_summer",
+    "description": "RT by @miao__official: 【チケット先行抽選受付延長のお知らせ】 7/11(土)7/12(日)開催 SPARK 2026 渋谷納涼祭に関しまして、 VIPチケットの先行抽選受付期間を下記にて変更させていただきます。 変更前：〜6/21(日)23:59 変更後：〜6/28(日)23:59 チケットはこ",
     "post_url": "https://nitter.net/SPARK_Fes/status/2068347550864961782#m",
     "image_url": "https://nitter.net/pic/media%2FHLQ_IMpaUAEC6AY.jpg",
     "created_at": "2026-06-20T14:57:38Z"

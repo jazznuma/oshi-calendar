@@ -380,6 +380,19 @@
     "created_at": "2026-06-10T10:35:00Z"
   },
   {
+    "id": "hakanai-2026-06-12-live-hakanai-4791c18b",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "hakanai イベント",
+    "date": "2026-06-12",
+    "time_start": "16:30",
+    "ticket_url": "http://nanimono-official.com/news/public/_/f4yszd2989sm1a9h.html",
+    "description": "-------- 次回のライブ -------- 6/12（金）Kanadevia Hall NANIMONO TOUR 2026 ｢コンティニューしますか？｣ 🚨GUEST ACTとして出演 16:30 /17:30 🎟️ http://nanimono-official.com/news/public/_/f4ys",
+    "post_url": "https://nitter.net/hakanai_info/status/2064657576034222567#m",
+    "image_url": "https://nitter.net/pic/media%2FHKX7V7RbAAArp2z.jpg",
+    "created_at": "2026-06-10T10:35:00Z"
+  },
+  {
     "id": "hakanai-2026-06-12-live-event-2f3bb1f9",
     "group_id": "hakanai",
     "type": "live",
@@ -586,6 +599,17 @@
     "created_at": "2026-06-16T11:00:02Z"
   },
   {
+    "id": "hakanai-2026-06-21-live-no-future-girl-ff0ef4cc",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "NO FUTURE GIRL",
+    "date": "2026-06-21",
+    "description": "----------- 本日のライブ ----------- / 6/21（日）渋谷REX / 【DAY☀️】 / OTONA CHILD.presents",
+    "post_url": "https://nitter.net/hakanai_info/status/2068468945796079739#m",
+    "image_url": "https://nitter.net/pic/media%2FHLQzSU_aMAAUvsX.jpg",
+    "created_at": "2026-06-20T23:00:01Z"
+  },
+  {
     "id": "hakanai-2026-06-23-live-event-044af23b",
     "group_id": "hakanai",
     "type": "live",
@@ -596,6 +620,18 @@
     "post_url": "https://nitter.net/hakanai_info/status/2059605547406786756#m",
     "image_url": "https://nitter.net/pic/media%2FHJSeNqla8AAkp42.jpg",
     "created_at": "2026-05-27T12:00:02Z"
+  },
+  {
+    "id": "hakanai-2026-06-23-live-event-8d129428",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "ぜんぶ夏のせいだ。",
+    "date": "2026-06-23",
+    "time_start": "18:30",
+    "description": "----------- 次回のライブ ----------- / 6/23（火）渋谷REX / 『ぜんぶ夏のせいだ。』 / ＼＼ ☀️新曲初披露☀️ ／／",
+    "post_url": "https://nitter.net/hakanai_info/status/2068551987508207871#m",
+    "image_url": "https://nitter.net/pic/media%2FHLQzozxbUAARjWt.jpg",
+    "created_at": "2026-06-21T04:30:00Z"
   },
   {
     "id": "hakanai-2026-06-23-live---142d4d9d",
@@ -711,6 +747,19 @@
     "post_url": "https://nitter.net/hakanai_info/status/2066400309442990089#m",
     "image_url": "https://nitter.net/pic/media%2FHKzLmn6bUAAu4_z.jpg",
     "created_at": "2026-06-15T06:00:00Z"
+  },
+  {
+    "id": "hakanai-2026-07-05-live-natsuzome-tt-fdba361a",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "🔥超NATSUZOME 特典会TT解禁🔥",
+    "date": "2026-07-05",
+    "time_start": "9:00",
+    "venue": "suzome2026",
+    "description": "🔥超NATSUZOME 特典会TT解禁🔥 / 7/5（日）幕張海浜公園Gブロック特設会場 / 超NATSUZOME 2026 / 9:00 / 10:00",
+    "post_url": "https://nitter.net/hakanai_info/status/2068650138143441305#m",
+    "image_url": "https://nitter.net/pic/media%2FHLUZQh4acAAWSQB.jpg",
+    "created_at": "2026-06-21T11:00:01Z"
   },
   {
     "id": "hakanai-2026-07-07-live--yoru-fes-sp--1814a83",
