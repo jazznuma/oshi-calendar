@@ -7,7 +7,7 @@
     "date": "2025-11-23",
     "description": "📢配信時間変更のお知らせ📢 / 🙇本日6月17日（水）19時〜の雪本恋百の配信は19時30分からに変更とさせて頂きます。 / 🎥SHOWROOM配信は➡️ showroom-live.com/jumpingkis… / Link",
     "post_url": "https://nitter.net/jumpingkiss/status/2067180793403949131#m",
-    "image_url": "https://nitter.net/pic/card_img%2F2066484251307261952%2FvDzjMow6%3Fformat%3Djpg%26name%3D800x419",
+    "image_url": "https://nitter.net/pic/card_img%2F2069032950143037440%2FSkTqbHBq%3Fformat%3Djpg%26name%3D800x419",
     "created_at": "2026-06-17T09:41:22Z"
   },
   {
@@ -1456,7 +1456,7 @@
     "date": "2026-06-17",
     "description": "📢配信時間変更のお知らせ📢 / 🙇本日6月17日（水）19時〜の雪本恋百の配信は19時30分からに変更とさせて頂きます。 / 🎥SHOWROOM配信は➡️ showroom-live.com/jumpingkis… / Link",
     "post_url": "https://nitter.net/jumpingkiss/status/2067180793403949131#m",
-    "image_url": "https://nitter.net/pic/card_img%2F2066484251307261952%2FvDzjMow6%3Fformat%3Djpg%26name%3D800x419",
+    "image_url": "https://nitter.net/pic/card_img%2F2069032950143037440%2FSkTqbHBq%3Fformat%3Djpg%26name%3D800x419",
     "created_at": "2026-06-17T09:41:22Z"
   },
   {
@@ -1717,6 +1717,19 @@
     "created_at": "2026-06-21T13:00:01Z"
   },
   {
+    "id": "jumpingkiss-2026-06-22-live-event-c3f217f3",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "📢出演します！📢",
+    "date": "2026-06-22",
+    "time_start": "22:00",
+    "venue": "er",
+    "description": "📢出演します！📢 / 💣ワンコインBOMBER!!💣 / 📅7月5日（日） / 🎪原宿GE Theater",
+    "post_url": "https://nitter.net/jumpingkiss/status/2068888415886840203#m",
+    "image_url": "https://nitter.net/pic/media%2FHLYqpmHb0AAs2FJ.jpg",
+    "created_at": "2026-06-22T02:46:51Z"
+  },
+  {
     "id": "jumpingkiss-2026-06-23-live-showroom--5d08883d",
     "group_id": "jumpingkiss",
     "type": "live",
@@ -1893,6 +1906,19 @@
     "post_url": "https://nitter.net/jumpingkiss/status/2068680338356732309#m",
     "image_url": "https://nitter.net/pic/media%2FHLVkMzWagAAUQ8P.jpg",
     "created_at": "2026-06-21T13:00:01Z"
+  },
+  {
+    "id": "jumpingkiss-2026-07-05-live-event-61eab107",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "📢出演します！📢",
+    "date": "2026-07-05",
+    "time_start": "12:45",
+    "venue": "er",
+    "description": "📢出演します！📢 / 💣ワンコインBOMBER!!💣 / 📅7月5日（日） / 🎪原宿GE Theater",
+    "post_url": "https://nitter.net/jumpingkiss/status/2068888415886840203#m",
+    "image_url": "https://nitter.net/pic/media%2FHLYqpmHb0AAs2FJ.jpg",
+    "created_at": "2026-06-22T02:46:51Z"
   },
   {
     "id": "jumpingkiss-2026-07-12-live-event-0ad69990",
