@@ -566,6 +566,19 @@
     "created_at": "2026-06-17T07:23:37Z"
   },
   {
+    "id": "hbn-2026-06-24-live-neo-spark-3f300e44",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "NEO SPARK",
+    "date": "2026-06-24",
+    "time_start": "19:00",
+    "ticket_url": "https://nitter.net/HBN_187/status/2055921260450783718#m",
+    "description": "💥本日はこちら💥 / 大先輩feelNEOさんとガチンコ2マンです🔥🔥🔥 / HIBANAらしく、45分ステージで出し切ります👊 / 最高の夜にしましょう！！！！",
+    "post_url": "https://nitter.net/HBN_187/status/2069683941842567342#m",
+    "image_url": "https://nitter.net/pic/media%2FHIWLRbjaoAAtOt2.jpg",
+    "created_at": "2026-06-24T07:27:59Z"
+  },
+  {
     "id": "hbn-2026-06-24-live--neo-spark-77c98972",
     "group_id": "hbn",
     "type": "live",
@@ -621,6 +634,19 @@
     "date": "2026-07-05",
     "description": "神奈川｜MAVERICK",
     "created_at": "2026-06-04T09:59:49.439Z"
+  },
+  {
+    "id": "hbn-2026-07-06-free-event-d0dbf57e",
+    "group_id": "hbn",
+    "type": "free",
+    "title": "蒼夏序章",
+    "date": "2026-07-06",
+    "time_start": "18:20",
+    "ticket_url": "https://nitter.net/HBN_187/status/2063976840512094676#m",
+    "description": "💥TT解禁💥 / ㅤ / 『蒼夏序章』 / ㅤ",
+    "post_url": "https://nitter.net/HBN_187/status/2069759950717644902#m",
+    "image_url": "https://nitter.net/pic/media%2FHLj4b6haoAAbr34.jpg",
+    "created_at": "2026-06-24T12:30:01Z"
   },
   {
     "id": "hbn-2026-07-06-live---6f4a3730",
