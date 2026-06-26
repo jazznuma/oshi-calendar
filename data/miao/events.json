@@ -1277,6 +1277,19 @@
     "created_at": "2026-06-25T06:34:41Z"
   },
   {
+    "id": "miao-2026-06-26-live-miao-30331142",
+    "group_id": "miao",
+    "type": "live",
+    "title": "miao イベント",
+    "date": "2026-06-26",
+    "time_start": "21:00",
+    "ticket_url": "https://tiget.net/events/499771",
+    "description": "RT by @miao__official: VIPチケット抽選受付本日21:00まで‼️ 迷っててまだな人は今すぐチェックしてね♡みんなが後悔ないような選択と運を祈っとく💗 ⇩ https://tiget.net/events/499771",
+    "post_url": "https://nitter.net/miao_haruko/status/2070439694941479051#m",
+    "image_url": "https://nitter.net/pic/media%2FHLut7BHbMAAy76m.jpg",
+    "created_at": "2026-06-26T09:31:04Z"
+  },
+  {
     "id": "miao-2026-06-27-live-apexia-2f7e34ef",
     "group_id": "miao",
     "type": "live",
@@ -1297,6 +1310,19 @@
     "post_url": "https://nitter.net/miao__official/status/2062507570905149622#m",
     "image_url": "https://nitter.net/pic/media%2FHJ9_pg9acAA3Ruv.jpg",
     "created_at": "2026-06-04T12:11:39Z"
+  },
+  {
+    "id": "miao-2026-06-27-live-tokyo-girls-girls-extra-f04eae14",
+    "group_id": "miao",
+    "type": "live",
+    "title": "TOKYO GIRLS GIRLS extra!!",
+    "date": "2026-06-27",
+    "time_start": "9:00",
+    "venue": "APEXIA",
+    "description": "／ / - ̗̀ 📢明日6/27(土)はこちら🐈‍⬛🎀 / ＼ / 『TOKYO GIRLS GIRLS extra!!』",
+    "post_url": "https://nitter.net/miao__official/status/2070478038257590750#m",
+    "image_url": "https://nitter.net/pic/media%2FHLvQqTHaYAM8pR8.jpg",
+    "created_at": "2026-06-26T12:03:26Z"
   },
   {
     "id": "miao-2026-06-28-live-event-61aee3d5",
@@ -1621,6 +1647,19 @@
     "date": "2026-07-16",
     "description": "ライブ予定",
     "created_at": "2026-06-04T01:08:26.977Z"
+  },
+  {
+    "id": "miao-2026-07-18-live-pixx-mini-b8a7f0b0",
+    "group_id": "miao",
+    "type": "live",
+    "title": "ネコプラpixx.主催公演〜にゃんフェス！mini〜",
+    "date": "2026-07-18",
+    "time_start": "17:40",
+    "venue": "渋谷音楽堂",
+    "description": "／ / ⏰対バンタイテ情報⏰ / ＼ / 『ネコプラpixx.主催公演〜にゃんフェス！mini〜』",
+    "post_url": "https://nitter.net/miao__official/status/2070476453674631548#m",
+    "image_url": "https://nitter.net/pic/media%2FHLvPVEwakAAUYMI.jpg",
+    "created_at": "2026-06-26T11:57:08Z"
   },
   {
     "id": "miao-2026-07-18-live---21e4ba09",

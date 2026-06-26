@@ -1173,6 +1173,21 @@
     "created_at": "2026-06-25T05:39:07Z"
   },
   {
+    "id": "stainy-2026-07-04-live-kawaii-party-76113953",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "｢KAWAII PARTY」",
+    "date": "2026-07-04",
+    "time_start": "19:20",
+    "time_end": "19:45",
+    "venue": "品川インターシティーホール",
+    "benefit_time": "19:55-21:15(A)",
+    "description": "【7/4(土)タイムテーブル公開💘】 / ｢KAWAII PARTY」 / 🏟品川インターシティーホール / 🎤19:20-19:45🗣️19:55-21:15(A)",
+    "post_url": "https://nitter.net/STAiNY_official/status/2070517696018731318#m",
+    "image_url": "https://nitter.net/pic/media%2FHLv03rlasAAtNbg.jpg",
+    "created_at": "2026-06-26T14:41:01Z"
+  },
+  {
     "id": "stainy-2026-07-04-live---6ec49ad2",
     "group_id": "stainy",
     "type": "live",
@@ -1370,5 +1385,17 @@
     "post_url": "https://nitter.net/STAiNY_official/status/2068284337649578012#m",
     "image_url": "https://nitter.net/pic/media%2FHJzOaMIbIAEHNa6.jpg",
     "created_at": "2026-06-20T10:46:27Z"
+  },
+  {
+    "id": "stainy-2027-06-23-release-event-c719b333",
+    "group_id": "stainy",
+    "type": "release",
+    "title": "ドンチューライアー",
+    "date": "2027-06-23",
+    "description": "明日開催予定の横浜ワールドポーターズでのリリースイベントは、雨天のため中止とさせていただきます。 / ご来場を予定されていた皆様には申し訳ございません。 / ご理解のほどよろしくお願いいたします。 / STAiNY (@STAiNY_official)",
+    "ticket_url": "https://nitter.net/STAiNY_official/status/2066878814358315453#m",
+    "post_url": "https://nitter.net/STAiNY_official/status/2070428104112390212#m",
+    "image_url": "https://nitter.net/pic/media%2FHK8HUtKbEAAYrjv.jpg",
+    "created_at": "2026-06-26T08:45:01Z"
   }
 ]
