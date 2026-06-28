@@ -1379,6 +1379,20 @@
     "created_at": "2026-06-27T11:26:03Z"
   },
   {
+    "id": "miao-2026-06-28-live-event-65092e60",
+    "group_id": "miao",
+    "type": "live",
+    "title": "あいらんど×逆転ねこぱんちっ！",
+    "date": "2026-06-28",
+    "venue": "Spotify O-Crest",
+    "ticket_url": "https://nitter.net/miao__official/status/2070831017980838300#m",
+    "description": "【お知らせ】 / 本日6/28(日)に出演するイベント『あいらんど×逆転ねこぱんちっ！』・『TOKYO GIRLS GIRLS extra!!』ですが、早瀬かのは喉の不調のため特典会は筆談で行わせていただきます。 / 直前のお知らせとなり、大変申し訳ございません。 / 何卒ご理解のほどよろしくお願い申し上げます。",
+    "post_url": "https://nitter.net/miao__official/status/2071025653072453944#m",
+    "image_url": "https://nitter.net/pic/media%2FHL0R1HebMAIxIrb.jpg",
+    "created_at": "2026-06-28T00:19:28Z",
+    "time_start": "10:55"
+  },
+  {
     "id": "miao-2026-06-28-live-rt-by-miao-official-50355043",
     "group_id": "miao",
     "type": "live",
@@ -1570,6 +1584,21 @@
     "created_at": "2026-06-01T12:51:40Z"
   },
   {
+    "id": "miao-2026-07-04-live-marquee-mini-vol-328-1fe0ad92",
+    "group_id": "miao",
+    "type": "live",
+    "title": "MARQUEE祭mini Vol.328",
+    "date": "2026-07-04",
+    "time_open": "10:30",
+    "time_start": "11:00",
+    "venue": "Spotify O-Crest",
+    "ticket_url": "https://nitter.net/MARQUEE_matsuri/status/2062761582942417228#m",
+    "description": "／ / ⏰対バン情報⏰ / ＼ / ※再告知となります。変更点はございません。",
+    "post_url": "https://nitter.net/miao__official/status/2071086025875812492#m",
+    "image_url": "https://nitter.net/pic/media%2FHL35wqybkAA4XXc.jpg",
+    "created_at": "2026-06-28T04:19:22Z"
+  },
+  {
     "id": "miao-2026-07-04-live-tokyo-girls-girls-extra-68dc4ae2",
     "group_id": "miao",
     "type": "live",
@@ -1645,6 +1674,19 @@
     "created_at": "2026-06-11T13:27:41Z"
   },
   {
+    "id": "miao-2026-07-11-live-spark2026-6706e041",
+    "group_id": "miao",
+    "type": "live",
+    "title": "#SPARK2026  渋谷納涼祭",
+    "date": "2026-07-11",
+    "venue": "ベルサール渋谷ガーデン 他複数会場",
+    "ticket_url": "https://nitter.net/miao__official/status/2065063421221937463#m",
+    "description": "🉐7/11(土)・7/12(日) 超豪華入場特典🉐 / 【SPARKチケット】 / 30秒動画or2s写メ券＋10秒動画＋特典券4枚＋ポイントカード 3p / 【一般チケット】",
+    "post_url": "https://nitter.net/miao__official/status/2071114201981124707#m",
+    "image_url": "https://nitter.net/pic/media%2FHKiUOuoaYAEvN8f.jpg",
+    "created_at": "2026-06-28T06:11:19Z"
+  },
+  {
     "id": "miao-2026-07-12-live---500e9a43",
     "group_id": "miao",
     "type": "live",
@@ -1664,6 +1706,31 @@
     "post_url": "https://nitter.net/miao__official/status/2065063421221937463#m",
     "image_url": "https://nitter.net/pic/media%2FHKiUOuoaYAEvN8f.jpg",
     "created_at": "2026-06-11T13:27:41Z"
+  },
+  {
+    "id": "miao-2026-07-12-deadline-miao-2c8942a8",
+    "group_id": "miao",
+    "type": "deadline",
+    "title": "miao イベント 締切",
+    "date": "2026-07-12",
+    "description": "RT by @miao__official: ✨🎆#SPARK2026 渋谷納涼祭🎆 ⚠️本日先行抽選締切です⚠️ 今年も開催🔥渋谷納涼祭🎇🎆 7/11(土)7/12(日)2Days開催です☀️ 今年も渋谷で最高の夏を🎐 チケットはこちらから↓ 🎫：https://ticketdive.com/event/spark2",
+    "ticket_url": "https://ticketdive.com/event/spark2026_summer",
+    "post_url": "https://nitter.net/SPARK_Fes/status/2071182722895405180#m",
+    "image_url": "https://nitter.net/pic/media%2FHL5RtVEboAEjbhx.jpg",
+    "created_at": "2026-06-28T10:43:36Z"
+  },
+  {
+    "id": "miao-2026-07-12-live-spark2026-206c8a5d",
+    "group_id": "miao",
+    "type": "live",
+    "title": "#SPARK2026  渋谷納涼祭",
+    "date": "2026-07-12",
+    "venue": "ベルサール渋谷ガーデン 他複数会場",
+    "ticket_url": "https://nitter.net/miao__official/status/2065063421221937463#m",
+    "description": "🉐7/11(土)・7/12(日) 超豪華入場特典🉐 / 【SPARKチケット】 / 30秒動画or2s写メ券＋10秒動画＋特典券4枚＋ポイントカード 3p / 【一般チケット】",
+    "post_url": "https://nitter.net/miao__official/status/2071114201981124707#m",
+    "image_url": "https://nitter.net/pic/media%2FHKiUOuoaYAEvN8f.jpg",
+    "created_at": "2026-06-28T06:11:19Z"
   },
   {
     "id": "miao-2026-07-16-live-japan-idol-super-live-2026-4147849e",
@@ -1744,6 +1811,20 @@
     "post_url": "https://nitter.net/miao__official/status/2070813004049121522#m",
     "image_url": "https://nitter.net/pic/media%2FHL0BceabwAAIAmV.jpg",
     "created_at": "2026-06-27T10:14:28Z"
+  },
+  {
+    "id": "miao-2026-07-19-live-idol-scene-d0691ac1",
+    "group_id": "miao",
+    "type": "live",
+    "title": "IDOL SCENE",
+    "date": "2026-07-19",
+    "venue": "渋谷RING",
+    "ticket_url": "https://nitter.net/miao__official/status/2070813004049121522#m",
+    "description": "🉐豪華入場特典🉐 / 【前方チケット】 / 写メ30秒トークor30秒動画＋特典券2枚 / 【一般チケット】",
+    "post_url": "https://nitter.net/miao__official/status/2071213530188308739#m",
+    "image_url": "https://nitter.net/pic/media%2FHL0BceabwAAIAmV.jpg",
+    "created_at": "2026-06-28T12:46:01Z",
+    "time_start": "10:00"
   },
   {
     "id": "miao-2026-07-19-live---1a3314aa",

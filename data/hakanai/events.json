@@ -802,6 +802,18 @@
     "created_at": "2026-06-27T03:45:00Z"
   },
   {
+    "id": "hakanai-2026-06-28-live-festival-2026-fd764927",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "アイドル甲子園 FESTIVAL 2026",
+    "date": "2026-06-28",
+    "time_start": "9:00",
+    "description": "----------- 本日のライブ ----------- / 🚨現衣装ラストライブ🚨 / 6/28（日）TFTホール500 / 「アイドル甲子園 FESTIVAL 2026」",
+    "post_url": "https://nitter.net/hakanai_info/status/2071035856748438015#m",
+    "image_url": "https://nitter.net/pic/media%2FHL0iyZBbsAAO7zY.jpg",
+    "created_at": "2026-06-28T01:00:00Z"
+  },
+  {
     "id": "hakanai-2026-07-02-live-hakanai-x-aice-9fab3130",
     "group_id": "hakanai",
     "type": "live",
@@ -812,6 +824,31 @@
     "post_url": "https://nitter.net/hakanai_story/status/2069012532073992528#m",
     "image_url": "https://nitter.net/pic/media%2FHLaOaQja0AEO4GN.jpg",
     "created_at": "2026-06-22T11:00:02Z"
+  },
+  {
+    "id": "hakanai-2026-07-04-live-event-5cf0aab7",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "無彩色の青",
+    "date": "2026-07-04",
+    "time_start": "11:10",
+    "ticket_url": "https://hakanai-official.com/news/public/_/t7gfnjwl5suuz2ii.html",
+    "description": "⋆┈┈┈┈ 名古屋リリイベ詳細 ┈┈┈┈⋆ 7/4（土）ヴィレッジヴァンガード名古屋パルコ店 『 無彩色の青 』リリースイベント 限定Mカードの販売イベント＆ミニライブ 11:10 11:30 ※10:00より販売開始で整理券ランダム配布 詳細はこちら https://hakanai-official.com/news",
+    "post_url": "https://nitter.net/hakanai_info/status/2071066056249180199#m",
+    "image_url": "https://nitter.net/pic/media%2FHL3fQllasAA9sMe.jpg",
+    "created_at": "2026-06-28T03:00:01Z"
+  },
+  {
+    "id": "hakanai-2026-07-04-live-event-1ea3e106",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "無彩色の青",
+    "date": "2026-07-04",
+    "time_start": "16:30",
+    "description": "----------- 次回はツアー初日 ----------- / ✨新衣装＆新曲お披露目あり✨ / 7/4（土）名古屋E.L.L / hakanai Release tour",
+    "post_url": "https://nitter.net/hakanai_info/status/2071203207028859167#m",
+    "image_url": "https://nitter.net/pic/media%2FHL0kMrBaQAAnUc0.jpg",
+    "created_at": "2026-06-28T12:05:00Z"
   },
   {
     "id": "hakanai-2026-07-04-live-hakanai-release-tour-20cf2e08",
