@@ -839,6 +839,18 @@
     "created_at": "2026-06-28T03:00:01Z"
   },
   {
+    "id": "hakanai-2026-07-04-live-event-8f24f93e",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "無彩色の青",
+    "date": "2026-07-04",
+    "time_start": "11:10",
+    "description": "⋆┈┈┈┈ 名古屋リリイベ ┈┈┈┈⋆ / 7/4（土）ヴィレッジヴァンガード名古屋パルコ店 / 『 無彩色の青 』リリースイベント / 限定Mカードの販売イベント＆ミニライブ",
+    "post_url": "https://nitter.net/hakanai_info/status/2072296664950587674#m",
+    "image_url": "https://nitter.net/pic/media%2FHMIvFg6agAApJUH.jpg",
+    "created_at": "2026-07-01T12:30:00Z"
+  },
+  {
     "id": "hakanai-2026-07-04-live-event-1ea3e106",
     "group_id": "hakanai",
     "type": "live",
@@ -914,6 +926,18 @@
     "post_url": "https://nitter.net/hakanai_info/status/2065751037638766614#m",
     "image_url": "https://nitter.net/pic/media%2FHKnyg-6aoAAYoNy.jpg",
     "created_at": "2026-06-13T11:00:01Z"
+  },
+  {
+    "id": "hakanai-2026-07-07-live-yoru-fes-sp-f8272ad1",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "YORU-FES ~夜を駆けるサーキットSP~",
+    "date": "2026-07-07",
+    "venue": "s SHIBUYA\n夜光性アミューズ主催ライブ",
+    "description": "----------- 特典会TT 解禁 ----------- / 7/7（火）Veats SHIBUYA / 夜光性アミューズ主催ライブ / 『YORU-FES ~夜を駆けるサーキットSP~』",
+    "post_url": "https://nitter.net/hakanai_info/status/2072258917158265239#m",
+    "image_url": "https://nitter.net/pic/media%2FHMHXfSbakAAidht.jpg",
+    "created_at": "2026-07-01T10:00:01Z"
   },
   {
     "id": "hakanai-2026-07-11-live-event-c16e5ca3",
