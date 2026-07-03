@@ -7194,6 +7194,29 @@
     "created_at": "2026-07-02T13:10:02Z"
   },
   {
+    "id": "tohkei-2026-07-01-live-event-c1460863",
+    "group_id": "tohkei",
+    "type": "live",
+    "title": "ハヤテ",
+    "date": "2026-07-01",
+    "venue": "Spotofy O-WEST",
+    "ticket_url": "https://nitter.net/Tohkei_info/status/2073029199091397094#m",
+    "description": "本日公開予定でしたハヤテですが、 / アップロード完了後も公開画面ではエラーが表示されてしまうため、公開一時的に取りやめさせていただきます。 / 原因を確認しまして、改めて明日9:00に公開とさせていただきます。 / 公開をお待ちいただいた皆様には、ご迷惑をおかけしますが何卒よろしくお願いいたします。",
+    "post_url": "https://nitter.net/Tohkei_info/status/2073032666073710632#m",
+    "created_at": "2026-07-03T13:14:37Z"
+  },
+  {
+    "id": "tohkei-2026-07-01-live-event-a06d829f",
+    "group_id": "tohkei",
+    "type": "live",
+    "title": "ハヤテ",
+    "date": "2026-07-01",
+    "venue": "Spotofy O-WEST",
+    "description": "\\\\ 🌼LIVE VIDEO公開 // / 「 ハヤテ 」 / ▶︎  piped.video/pJ8uagEpKt8 / この瞬間だけはどうか永遠に",
+    "post_url": "https://nitter.net/Tohkei_info/status/2073029199091397094#m",
+    "created_at": "2026-07-03T13:00:50Z"
+  },
+  {
     "id": "tohkei-2026-07-04-live-natsuzome2026-d11d4dfd",
     "group_id": "tohkei",
     "type": "live",
@@ -7216,6 +7239,18 @@
     "post_url": "https://nitter.net/Tohkei_info/status/2072680302883774742#m",
     "image_url": "https://nitter.net/pic/media%2FHMOjv5TbYAAA045.jpg",
     "created_at": "2026-07-02T13:54:27Z"
+  },
+  {
+    "id": "tohkei-2026-07-04-live-natsuzome2026-d50328e0",
+    "group_id": "tohkei",
+    "type": "live",
+    "title": "超NATSUZOME2026",
+    "date": "2026-07-04",
+    "time_start": "12:35",
+    "description": "【 🌊 #明日の倒景  】 / 新夏衣装で迎える初めての野外対バン！🎐 / 最高の  #夏はじめるぞ ！🔥🔥 / 『 超NATSUZOME2026 』",
+    "post_url": "https://nitter.net/Tohkei_info/status/2072989881090093163#m",
+    "image_url": "https://nitter.net/pic/media%2FHMS9S_RbAAAFte2.jpg",
+    "created_at": "2026-07-03T10:24:36Z"
   },
   {
     "id": "tohkei-2026-07-04-live--natsuzome2026-b20247b",
@@ -7311,6 +7346,20 @@
     "created_at": "2026-06-26T10:43:57Z"
   },
   {
+    "id": "tohkei-2026-07-10-live-event-93a7a3a1",
+    "group_id": "tohkei",
+    "type": "live",
+    "title": "熱夏到来",
+    "date": "2026-07-10",
+    "time_open": "16:00",
+    "time_start": "16:30",
+    "venue": "s Shibuya",
+    "description": "【 ❤️‍🔥 #Tohkei出演情報  】 / \\\\ 🕗Time Table公開 // / Tohkei pre. 『 熱夏到来 』 / ✴︎2026/7/10(金) Veats Shibuya",
+    "post_url": "https://nitter.net/Tohkei_info/status/2072983861223719339#m",
+    "image_url": "https://nitter.net/pic/media%2FHMS30i4aQAA3SIa.jpg",
+    "created_at": "2026-07-03T10:00:41Z"
+  },
+  {
     "id": "tohkei-2026-07-10-live---a2141f",
     "group_id": "tohkei",
     "type": "live",
@@ -7320,6 +7369,19 @@
     "created_at": "2026-06-04T09:59:59.821Z"
   },
   {
+    "id": "tohkei-2026-07-11-live-in-kanda-square-hall-8a573c92",
+    "group_id": "tohkei",
+    "type": "live",
+    "title": "アイドル甲子園 in KANDA SQUARE HALL",
+    "date": "2026-07-11",
+    "ticket_url": "https://user.my-th.jp/tickets/event/aikou_0711",
+    "description": "【 🐯#Tohkei出演情報 】 『アイドル甲子園 in KANDA SQUARE HALL』supported by My-th ✴︎ 2026/7/11(土),7/12(日) ✴︎ 前方¥8,500-/一般¥3,500-(各+1Drink) 📸両日静止画・動画撮影可能◎ ⌛️お目当て特典：トーク付き写メ券 7/11",
+    "post_url": "https://nitter.net/Tohkei_info/status/2073027797866463302#m",
+    "image_url": "https://nitter.net/pic/media%2FHMTfyMQbYAAwa4W.jpg",
+    "created_at": "2026-07-03T12:55:16Z",
+    "time_start": "15:30"
+  },
+  {
     "id": "tohkei-2026-07-11-live---27448ca3",
     "group_id": "tohkei",
     "type": "live",
@@ -7327,6 +7389,19 @@
     "date": "2026-07-11",
     "description": "📸ライブ予定",
     "created_at": "2026-06-04T09:59:59.820Z"
+  },
+  {
+    "id": "tohkei-2026-07-12-live-in-kanda-square-hall-495b8470",
+    "group_id": "tohkei",
+    "type": "live",
+    "title": "アイドル甲子園 in KANDA SQUARE HALL",
+    "date": "2026-07-12",
+    "ticket_url": "https://user.my-th.jp/tickets/event/aikou_0711",
+    "description": "【 🐯#Tohkei出演情報 】 『アイドル甲子園 in KANDA SQUARE HALL』supported by My-th ✴︎ 2026/7/11(土),7/12(日) ✴︎ 前方¥8,500-/一般¥3,500-(各+1Drink) 📸両日静止画・動画撮影可能◎ ⌛️お目当て特典：トーク付き写メ券 7/11",
+    "post_url": "https://nitter.net/Tohkei_info/status/2073027797866463302#m",
+    "image_url": "https://nitter.net/pic/media%2FHMTfyMQbYAAwa4W.jpg",
+    "created_at": "2026-07-03T12:55:16Z",
+    "time_start": "16:25"
   },
   {
     "id": "tohkei-2026-07-12-live---9225642",
@@ -7381,6 +7456,18 @@
     "ticket_url": "https://ticketdive.com/event/enaseitan",
     "description": "『 松田えな生誕祭 2026 』\n✴︎ 2026/7/20(月祝) WOMBLIVE\n✴︎ 開場18:30/ 開演  19:00 \n📸撮影可能公演! ※一部不可\n▼Ticket詳細： https://ticketdive.com/event/enaseitan \n優先：¥3,000-(ステッカー付)/一般：¥1,500-/(各+1Drink)",
     "created_at": "2026-06-04T09:59:59.818Z"
+  },
+  {
+    "id": "tohkei-2026-07-22-live-utage-fes-vol-5-a7d397d8",
+    "group_id": "tohkei",
+    "type": "live",
+    "title": "UTAGE FES Vol.5",
+    "date": "2026-07-22",
+    "time_start": "11:50",
+    "description": "【 🎉 #Tohkei出演情報  】 / 『UTAGE FES Vol.5』 / ✴︎ 2026/7/22(水) / LIVE①Zepp Shinjuku",
+    "post_url": "https://nitter.net/Tohkei_info/status/2073015509453504871#m",
+    "image_url": "https://nitter.net/pic/media%2FHMTUg5ba0AEa2w1.jpg",
+    "created_at": "2026-07-03T12:06:26Z"
   },
   {
     "id": "tohkei-2026-07-22-live--utage-fes-vol-5-4245c224",

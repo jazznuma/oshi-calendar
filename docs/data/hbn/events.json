@@ -661,6 +661,18 @@
     "created_at": "2026-06-04T09:59:49.439Z"
   },
   {
+    "id": "hbn-2026-07-04-live-event-07d0b8e0",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "💥明日はこちら💥",
+    "date": "2026-07-04",
+    "time_start": "11:35",
+    "description": "💥明日はこちら💥 / HIBANA初の超NATSUZOME🏝️✨ / 太陽サンサンの中メラメラでチリチリな火花散らしましょう🔥🔥🔥 / ▶︎爆ステージ 11:35-11:50",
+    "post_url": "https://nitter.net/HBN_187/status/2072934452339359988#m",
+    "image_url": "https://nitter.net/pic/media%2FHMSK5PeboAAwcS2.jpg",
+    "created_at": "2026-07-03T06:44:21Z"
+  },
+  {
     "id": "hbn-2026-07-04-live--natsuzome-2026-254840ec",
     "group_id": "hbn",
     "type": "live",
@@ -728,6 +740,19 @@
     "date": "2026-07-12",
     "description": "東京",
     "created_at": "2026-06-04T09:59:49.439Z"
+  },
+  {
+    "id": "hbn-2026-07-13-live-needle-point-1-0c7f7ca4",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "Needle Point #1",
+    "date": "2026-07-13",
+    "time_open": "18:00",
+    "time_start": "18:30",
+    "description": "💥ワンマンへ向けた前哨戦💥 / 松葉-MATSUBA- Prelude Live / 『Needle Point #1 』 / ▶︎2026.7.13(月)",
+    "post_url": "https://nitter.net/HBN_187/status/2073028988013015471#m",
+    "image_url": "https://nitter.net/pic/media%2FHMTGoQuaMAAhkmm.jpg",
+    "created_at": "2026-07-03T13:00:00Z"
   },
   {
     "id": "hbn-2026-07-13-live---440d4e58",
@@ -810,6 +835,19 @@
     "date": "2026-07-20",
     "description": "東京",
     "created_at": "2026-06-04T09:59:49.439Z"
+  },
+  {
+    "id": "hbn-2026-07-22-live-utage-fes-vol-5-32de59e6",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "UTAGE FES Vol.5",
+    "date": "2026-07-22",
+    "time_start": "10:00",
+    "ticket_url": "https://nitter.net/HBN_187/status/2049821072795816304#m",
+    "description": "💥TT解禁💥 / 『UTAGE FES Vol.5』 / ㅤ / ▶︎2026.7.22(水)",
+    "post_url": "https://nitter.net/HBN_187/status/2073013892352299258#m",
+    "image_url": "https://nitter.net/pic/media%2FHMSPedQacAAOG4w.jpg",
+    "created_at": "2026-07-03T12:00:01Z"
   },
   {
     "id": "hbn-2026-07-22-live--utage-fes-vol-5-3b37e1a4",
@@ -984,6 +1022,19 @@
     "post_url": "https://nitter.net/HBN_187/status/2062112055771931116#m",
     "image_url": "https://nitter.net/pic/media%2FHJ00_i5aEAAqPlC.jpg",
     "created_at": "2026-05-28T11:00:00Z"
+  },
+  {
+    "id": "hbn-2027-05-23-live-utage-fes-vol-5-c9d038fe",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "UTAGE FES Vol.5",
+    "date": "2027-05-23",
+    "time_start": "21:00",
+    "ticket_url": "https://nitter.net/HBN_187/status/2049821072795816304#m",
+    "description": "💥TT解禁💥 / 『UTAGE FES Vol.5』 / ㅤ / ▶︎2026.7.22(水)",
+    "post_url": "https://nitter.net/HBN_187/status/2073013892352299258#m",
+    "image_url": "https://nitter.net/pic/media%2FHMSPedQacAAOG4w.jpg",
+    "created_at": "2026-07-03T12:00:01Z"
   },
   {
     "id": "hbn-2027-06-07-live-12v-ff9cf3b2",
