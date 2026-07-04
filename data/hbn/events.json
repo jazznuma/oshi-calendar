@@ -691,6 +691,18 @@
     "created_at": "2026-06-04T09:59:49.439Z"
   },
   {
+    "id": "hbn-2026-07-05-live-event-21a73458",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "💥本日はこちら💥",
+    "date": "2026-07-05",
+    "ticket_url": "https://nitter.net/HBN_187/status/2072934452339359988#m",
+    "description": "💥本日はこちら💥 / なつぞめ‼️なつぞめ‼️ / 夏フェスです‼️ / 火花散らしていきましょう🔥🔥🔥",
+    "post_url": "https://nitter.net/HBN_187/status/2073205303370531088#m",
+    "image_url": "https://nitter.net/pic/media%2FHMSK5PeboAAwcS2.jpg",
+    "created_at": "2026-07-04T00:40:37Z"
+  },
+  {
     "id": "hbn-2026-07-06-free-event-d0dbf57e",
     "group_id": "hbn",
     "type": "free",
@@ -959,6 +971,19 @@
     "post_url": "https://nitter.net/HBN_187/status/2067532785833689286#m",
     "image_url": "https://nitter.net/pic/media%2FHLFHY4HbMAASTY1.jpg",
     "created_at": "2026-06-18T09:00:03Z"
+  },
+  {
+    "id": "hbn-2026-08-07-live-idol-summer-jungle-2026-c86c7e71",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "IDOL SUMMER JUNGLE 2026",
+    "date": "2026-08-07",
+    "time_start": "9:00",
+    "ticket_url": "https://nitter.net/HBN_187/status/2067532785833689286#m",
+    "description": "💥出演日程解禁💥 / 『IDOL SUMMER JUNGLE 2026』 / ▶︎2026.8.7(金),8(土) / ▶︎お台場R地区",
+    "post_url": "https://nitter.net/HBN_187/status/2073367149805183091#m",
+    "image_url": "https://nitter.net/pic/card_img%2F2070771007720206336%2Fi4MP3uD4%3Fformat%3Djpg%26name%3D800x419",
+    "created_at": "2026-07-04T11:23:44Z"
   },
   {
     "id": "hbn-2026-08-22-live-2026-a93f3e9d",
