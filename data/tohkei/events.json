@@ -7287,6 +7287,16 @@
     "created_at": "2026-06-04T09:59:59.819Z"
   },
   {
+    "id": "tohkei-2026-07-04-live-event-a8e1029c",
+    "group_id": "tohkei",
+    "type": "live",
+    "title": "本日はこちら！",
+    "date": "2026-07-04",
+    "description": "本日はこちら！",
+    "post_url": "https://nitter.net/Tohkei_info/status/2073201724463198538#m",
+    "created_at": "2026-07-04T00:26:23Z"
+  },
+  {
     "id": "tohkei-2026-07-05-live-sugarland-1c713df3",
     "group_id": "tohkei",
     "type": "live",
@@ -7332,6 +7342,18 @@
     "created_at": "2026-06-24T13:04:25Z"
   },
   {
+    "id": "tohkei-2026-07-06-free-event-770fea20",
+    "group_id": "tohkei",
+    "type": "free",
+    "title": "蒼夏序章",
+    "date": "2026-07-06",
+    "time_start": "19:00",
+    "description": "【 🌻 #明日の倒景  】 / 『蒼夏序章』 / ✴︎ 2026/7/6(月) / ✴︎ 池袋西口公園野外劇場 グローバルリング シアター",
+    "post_url": "https://nitter.net/Tohkei_info/status/2073736796769595710#m",
+    "image_url": "https://nitter.net/pic/media%2FHMdkmNUbcAAVGQ6.jpg",
+    "created_at": "2026-07-05T11:52:35Z"
+  },
+  {
     "id": "tohkei-2026-07-06-live---36be127d",
     "group_id": "tohkei",
     "type": "live",
@@ -7339,6 +7361,16 @@
     "date": "2026-07-06",
     "description": "📸ライブ予定",
     "created_at": "2026-06-04T09:59:59.820Z"
+  },
+  {
+    "id": "tohkei-2026-07-06-live-r-to-tohkei-info-e93134da",
+    "group_id": "tohkei",
+    "type": "live",
+    "title": "R to @Tohkei_info: 【ご来場予定の皆さまへ】 明日は雨予報となっております。 会場内での観覧時は、傘の",
+    "date": "2026-07-06",
+    "description": "R to @Tohkei_info: 【ご来場予定の皆さまへ】 明日は雨予報となっております。 会場内での観覧時は、傘の使用が禁止となっておりますので、必ずレインコート・カッパなどの雨具をご持参ください。 皆様のご理解・ご協力をお願いいたします。",
+    "post_url": "https://nitter.net/Tohkei_info/status/2073752443742232655#m",
+    "created_at": "2026-07-05T12:54:45Z"
   },
   {
     "id": "tohkei-2026-07-07-live-2026-e131d0bb",

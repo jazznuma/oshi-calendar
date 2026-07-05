@@ -1167,6 +1167,32 @@
     "created_at": "2026-07-04T00:05:16Z"
   },
   {
+    "id": "anthurium-2026-07-05-live-natsuzome-2026-4327d8a9",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "超NATSUZOME 2026",
+    "date": "2026-07-05",
+    "time_start": "11:50",
+    "description": "\\\\\\🌺✨本日✨️🌺/// / 『超NATSUZOME 2026』 / 7/5(日) 👗Tシャツリメイク衣装着用 / 出演① 11:50~13:00(１曲入魂ステージ)",
+    "post_url": "https://nitter.net/anthurium0317/status/2073561525114339331#m",
+    "image_url": "https://nitter.net/pic/media%2FHMbFNTWa8AAkeO5.jpg",
+    "created_at": "2026-07-05T00:16:07Z"
+  },
+  {
+    "id": "anthurium-2026-07-07-live-event-e2480ca1",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "バリ！リーディング フクオカ!!",
+    "date": "2026-07-07",
+    "time_open": "11:00",
+    "time_start": "11:45",
+    "venue": "福岡トヨタホールスカラエスパシオ",
+    "description": "\\\\\\✨️福岡遠征2日目詳細解禁！✨️/// / 『バリ！リーディング フクオカ!!』 / 7/12(日) / 📍 福岡トヨタホールスカラエスパシオ",
+    "post_url": "https://nitter.net/anthurium0317/status/2073755603860865091#m",
+    "image_url": "https://nitter.net/pic/media%2FHMd1ui9akAAM6ij.jpg",
+    "created_at": "2026-07-05T13:07:19Z"
+  },
+  {
     "id": "anthurium-2026-07-07-live-yoru-fes-sp-a3353829",
     "group_id": "anthurium",
     "type": "live",
@@ -1209,6 +1235,20 @@
     "date": "2026-07-11",
     "description": "『バリ！リーディング フクオカ!!』",
     "created_at": "2026-06-04T09:59:44.758Z"
+  },
+  {
+    "id": "anthurium-2026-07-12-live-event-0d5f4a69",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "バリ！リーディング フクオカ!!",
+    "date": "2026-07-12",
+    "time_open": "11:00",
+    "time_start": "11:45",
+    "venue": "福岡トヨタホールスカラエスパシオ",
+    "description": "\\\\\\✨️福岡遠征2日目詳細解禁！✨️/// / 『バリ！リーディング フクオカ!!』 / 7/12(日) / 📍 福岡トヨタホールスカラエスパシオ",
+    "post_url": "https://nitter.net/anthurium0317/status/2073755603860865091#m",
+    "image_url": "https://nitter.net/pic/media%2FHMd1ui9akAAM6ij.jpg",
+    "created_at": "2026-07-05T13:07:19Z"
   },
   {
     "id": "anthurium-2026-07-15-live-event-c56a51ad",

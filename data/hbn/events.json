@@ -716,6 +716,19 @@
     "created_at": "2026-06-24T12:30:01Z"
   },
   {
+    "id": "hbn-2026-07-06-free-event-186a559d",
+    "group_id": "hbn",
+    "type": "free",
+    "title": "蒼夏序章",
+    "date": "2026-07-06",
+    "time_start": "18:20",
+    "venue": "TIME SHARING池袋 吉大ビル3F",
+    "description": "💥明日はこちら💥 / 『蒼夏序章』 / ▶︎2026.7.6(月) / ▶︎池袋グローバルリングシアター",
+    "post_url": "https://nitter.net/HBN_187/status/2073745473085768091#m",
+    "image_url": "https://nitter.net/pic/media%2FHMdsgYYbUAAQlG8.jpg",
+    "created_at": "2026-07-05T12:27:03Z"
+  },
+  {
     "id": "hbn-2026-07-06-live---6f4a3730",
     "group_id": "hbn",
     "type": "live",
@@ -765,6 +778,20 @@
     "post_url": "https://nitter.net/HBN_187/status/2073028988013015471#m",
     "image_url": "https://nitter.net/pic/media%2FHMTGoQuaMAAhkmm.jpg",
     "created_at": "2026-07-03T13:00:00Z"
+  },
+  {
+    "id": "hbn-2026-07-13-live-needle-point-1-33c322fb",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "Needle Point #1",
+    "date": "2026-07-13",
+    "time_open": "18:00",
+    "time_start": "18:30",
+    "ticket_url": "https://nitter.net/HBN_187/status/2073028988013015471#m",
+    "description": "こちらチケット販売開始しております💥 / 楽しい時間を共有しましょう✊ / HIBANA_Official (@HBN_187) / 💥ワンマンへ向けた前哨戦💥",
+    "post_url": "https://nitter.net/HBN_187/status/2073760107226395085#m",
+    "image_url": "https://nitter.net/pic/media%2FHMTGoQuaMAAhkmm.jpg",
+    "created_at": "2026-07-05T13:25:12Z"
   },
   {
     "id": "hbn-2026-07-13-live---440d4e58",

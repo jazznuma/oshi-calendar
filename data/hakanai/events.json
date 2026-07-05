@@ -908,6 +908,17 @@
     "created_at": "2026-06-04T09:59:58.939Z"
   },
   {
+    "id": "hakanai-2026-07-05-live-baku-15-20-15-35-14-50-f0662483",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "本日の特典会はライブ出演時間(BAKUステージ 15:20-15:35)の都合上、14:50に終了とさせていただきます。",
+    "date": "2026-07-05",
+    "time_start": "15:20",
+    "description": "【7/5特典会についてのご案内】 / 本日の特典会はライブ出演時間(BAKUステージ 15:20-15:35)の都合上、14:50に終了とさせていただきます。 / ご了承のほどよろしくお願いいたします。",
+    "post_url": "https://nitter.net/hakanai_info/status/2073640997934993640#m",
+    "created_at": "2026-07-05T05:31:54Z"
+  },
+  {
     "id": "hakanai-2026-07-05-live--natsuzome-2026-3221639d",
     "group_id": "hakanai",
     "type": "live",
@@ -983,6 +994,19 @@
     "created_at": "2026-07-04T09:15:00Z"
   },
   {
+    "id": "hakanai-2026-07-05-live-event-74c74c53",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "----------- 本日のライブ -----------",
+    "date": "2026-07-05",
+    "time_start": "9:00",
+    "venue": "suzome2026",
+    "description": "----------- 本日のライブ ----------- / 7/5（日）幕張海浜公園Gブロック特設会場 / 🔥超NATSUZOME 2026🔥 / 9:00 / 10:00",
+    "post_url": "https://nitter.net/hakanai_info/status/2073527273618362874#m",
+    "image_url": "https://nitter.net/pic/media%2FHMUqgwKawAAdwmw.jpg",
+    "created_at": "2026-07-04T22:00:00Z"
+  },
+  {
     "id": "hakanai-2026-07-07-live--yoru-fes-sp--1814a83",
     "group_id": "hakanai",
     "type": "live",
@@ -1014,6 +1038,18 @@
     "post_url": "https://nitter.net/hakanai_info/status/2072258917158265239#m",
     "image_url": "https://nitter.net/pic/media%2FHMHXfSbakAAidht.jpg",
     "created_at": "2026-07-01T10:00:01Z"
+  },
+  {
+    "id": "hakanai-2026-07-07-live-yoru-fes-sp-9a2397e6",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "YORU-FES ~夜を駆けるサーキットSP~",
+    "date": "2026-07-07",
+    "venue": "s SHIBUYA\n夜光性アミューズ主催ライブ",
+    "description": "----------- 次回のライブ ----------- / 7/7（火）Veats SHIBUYA / 夜光性アミューズ主催ライブ / 『YORU-FES ~夜を駆けるサーキットSP~』",
+    "post_url": "https://nitter.net/hakanai_info/status/2073656874520764592#m",
+    "image_url": "https://nitter.net/pic/media%2FHMaHlR8bQAAGbX4.jpg",
+    "created_at": "2026-07-05T06:35:00Z"
   },
   {
     "id": "hakanai-2026-07-11-live-event-c16e5ca3",
