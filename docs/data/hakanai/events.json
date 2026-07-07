@@ -1064,6 +1064,31 @@
     "created_at": "2026-07-06T09:00:00Z"
   },
   {
+    "id": "hakanai-2026-07-07-live-yoru-fes-sp-5ccd94e0",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "YORU-FES ~夜を駆けるサーキットSP~",
+    "date": "2026-07-07",
+    "venue": "s SHIBUYA\n夜光性アミューズ主催ライブ",
+    "description": "----------- 本日のライブ ----------- / 7/7（火）Veats SHIBUYA / 夜光性アミューズ主催ライブ / 『YORU-FES ~夜を駆けるサーキットSP~』",
+    "post_url": "https://nitter.net/hakanai_info/status/2074267148080357872#m",
+    "image_url": "https://nitter.net/pic/media%2FHMktd7maQAA2-E9.jpg",
+    "created_at": "2026-07-06T23:00:00Z"
+  },
+  {
+    "id": "hakanai-2026-07-08-live-event-e09b4c4e",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "白昼夢倶楽部",
+    "date": "2026-07-08",
+    "time_open": "11:00",
+    "time_start": "11:30",
+    "description": "----------- 次回のライブ ----------- / 7/11（土）赤羽ReNY alpha / FC限定ワンマン / 『白昼夢倶楽部』",
+    "post_url": "https://nitter.net/hakanai_info/status/2074352709608825182#m",
+    "image_url": "https://nitter.net/pic/media%2FHMkzYyrbMAAUH06.jpg",
+    "created_at": "2026-07-07T04:40:00Z"
+  },
+  {
     "id": "hakanai-2026-07-11-live-event-c16e5ca3",
     "group_id": "hakanai",
     "type": "live",
@@ -1105,6 +1130,19 @@
     "created_at": "2026-07-02T08:30:01Z"
   },
   {
+    "id": "hakanai-2026-07-11-live-event-81e418ee",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "白昼夢倶楽部",
+    "date": "2026-07-11",
+    "time_open": "11:00",
+    "time_start": "11:30",
+    "description": "----------- 次回のライブ ----------- / 7/11（土）赤羽ReNY alpha / FC限定ワンマン / 『白昼夢倶楽部』",
+    "post_url": "https://nitter.net/hakanai_info/status/2074352709608825182#m",
+    "image_url": "https://nitter.net/pic/media%2FHMkzYyrbMAAUH06.jpg",
+    "created_at": "2026-07-07T04:40:00Z"
+  },
+  {
     "id": "hakanai-2026-07-11-live-spark-2026-83f4c1fa",
     "group_id": "hakanai",
     "type": "live",
@@ -1123,6 +1161,17 @@
     "date": "2026-07-11",
     "description": "ライブ予定",
     "created_at": "2026-06-04T09:59:58.940Z"
+  },
+  {
+    "id": "hakanai-2026-07-12-live-spark-2026-961bd8ec",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "SPARK 2026 渋谷納涼祭",
+    "date": "2026-07-12",
+    "description": "----------- TT・特典会TT解禁 ----------- / 7/12（日）渋谷音楽堂 / 『SPARK 2026 渋谷納涼祭』 / 🎫  t-dv.com/spark2026_summer",
+    "post_url": "https://nitter.net/hakanai_info/status/2074484362658386335#m",
+    "image_url": "https://nitter.net/pic/media%2FHMoMVcGaYAAl6EY.jpg",
+    "created_at": "2026-07-07T13:23:08Z"
   },
   {
     "id": "hakanai-2026-07-13-live-event-2737a8b5",
@@ -1343,6 +1392,33 @@
     "post_url": "https://nitter.net/hakanai_info/status/2066109274103890148#m",
     "image_url": "https://nitter.net/pic/media%2FHKQJjuubAAAvEiK.jpg",
     "created_at": "2026-06-14T10:43:32Z"
+  },
+  {
+    "id": "hakanai-2026-08-07-live-fc-ss-d5f2eff0",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "FC特典付き最前SSチケット",
+    "date": "2026-08-07",
+    "time_open": "17:15",
+    "time_start": "18:00",
+    "ticket_url": "https://nitter.net/hakanai_info/status/2074463440723157458#m",
+    "description": "【チケット販売価格の誤りに関するお詫び】 / 本日より受付を開始いたしました下記公演の抽選販売におきまして、『FC特典付き最前SSチケット』の販売価格に誤りがございました。 / ご利用の皆様に多大なるご迷惑をおかけしましたことを、深くお詫び申し上げます。 / 現在は正しい価格への修正が完了し、チケットの抽選販売を再開し",
+    "post_url": "https://nitter.net/hakanai_info/status/2074481992826270179#m",
+    "image_url": "https://nitter.net/pic/media%2FHMnNpxobYAAUAnH.jpg",
+    "created_at": "2026-07-07T13:13:43Z"
+  },
+  {
+    "id": "hakanai-2026-08-07-live-event-48204b86",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "透明なキミが見上げた空に",
+    "date": "2026-08-07",
+    "time_open": "17:15",
+    "time_start": "18:00",
+    "description": "⁺˚⋆｡°✩ 🪼アコースティックワンマン決定 🪼 ✩°｡⋆˚⁺ / 8/7（金）浅草花劇場 / hakanai アコースティックワンマン / 「透明なキミが見上げた空に」",
+    "post_url": "https://nitter.net/hakanai_info/status/2074463440723157458#m",
+    "image_url": "https://nitter.net/pic/media%2FHMnNpxobYAAUAnH.jpg",
+    "created_at": "2026-07-07T12:00:00Z"
   },
   {
     "id": "hakanai-2026-08-07-live-2026-ba04d0e8",

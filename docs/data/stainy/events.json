@@ -1315,6 +1315,18 @@
     "created_at": "2026-06-10T13:02:22Z"
   },
   {
+    "id": "stainy-2026-07-08-live-stainy-24c38dbf",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "👾明日のSTAiNY✨",
+    "date": "2026-07-08",
+    "venue": "Veats SHIBUYA",
+    "description": "／ / 👾明日のSTAiNY✨ / 💠ブルーセッションvol.7 / ＼",
+    "post_url": "https://nitter.net/STAiNY_official/status/2074495691074981965#m",
+    "image_url": "https://nitter.net/pic/media%2FHMoWwjFbkAAaqyb.jpg",
+    "created_at": "2026-07-07T14:08:09Z"
+  },
+  {
     "id": "stainy-2026-07-10-live-event-f92bf9ea",
     "group_id": "stainy",
     "type": "live",
@@ -1369,6 +1381,21 @@
     "post_url": "https://nitter.net/STAiNY_official/status/2067940529116238299#m",
     "image_url": "https://nitter.net/pic/media%2FHLLM8pca0AAJx8e.jpg",
     "created_at": "2026-06-19T12:00:17Z"
+  },
+  {
+    "id": "stainy-2026-07-19-live-tokyo-girls-girls-extra-8ee57141",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "｢TOKYO GIRLS GIRLS extra!!｣",
+    "date": "2026-07-19",
+    "time_start": "16:30",
+    "time_end": "17:00",
+    "venue": "APEXIA",
+    "benefit_time": "17:10-18:30(B)",
+    "description": "【7/19(日)対バン情報】 / ｢TOKYO GIRLS GIRLS extra!!｣ / 🏟APEXIA / 🎤16:30-17:00🗣️17:10-18:30(B)",
+    "post_url": "https://nitter.net/STAiNY_official/status/2074449690427531412#m",
+    "image_url": "https://nitter.net/pic/media%2FHMnsmguagAAS1gZ.jpg",
+    "created_at": "2026-07-07T11:05:22Z"
   },
   {
     "id": "stainy-2026-07-20-free-7-20-17659fc8",
@@ -1446,6 +1473,21 @@
     "post_url": "https://nitter.net/STAiNY_official/status/2066815095041351720#m",
     "image_url": "https://nitter.net/pic/media%2FHK7NV3zbAAAwO9X.jpg",
     "created_at": "2026-06-16T09:28:12Z"
+  },
+  {
+    "id": "stainy-2026-08-16-live-event-486bb4d5",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "超宴祭",
+    "date": "2026-08-16",
+    "time_open": "10:00",
+    "time_start": "11:00",
+    "venue": "渋谷4会場",
+    "price": "一般 ¥3,500",
+    "description": "／ / 🎉8/16(日)出演決定✨ / 🎊UtaGe!×FES☆TIVE共催サーキット / 🍻『超宴祭』",
+    "post_url": "https://nitter.net/STAiNY_official/status/2074463576698568867#m",
+    "image_url": "https://nitter.net/pic/media%2FHMn5nn-aAAA3gzE.jpg",
+    "created_at": "2026-07-07T12:00:33Z"
   },
   {
     "id": "stainy-2026-09-21-live-9-21-22-23-99797bfd",
