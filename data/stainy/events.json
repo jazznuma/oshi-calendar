@@ -1341,6 +1341,17 @@
     "created_at": "2026-06-20T13:17:09Z"
   },
   {
+    "id": "stainy-2026-07-11-ticket-free-6b534cfc",
+    "group_id": "stainy",
+    "type": "ticket",
+    "title": "｢FREE｣ チケ発",
+    "date": "2026-07-11",
+    "time_start": "22:30",
+    "post_url": "https://nitter.net/STAiNY_official/status/2075558944286912686#m",
+    "image_url": "https://nitter.net/pic/media%2FHM3d27mbwAEMWq6.jpg",
+    "created_at": "2026-07-10T12:33:08Z"
+  },
+  {
     "id": "stainy-2026-07-11-live---76ec624",
     "group_id": "stainy",
     "type": "live",
@@ -1449,6 +1460,20 @@
     "date": "2026-07-31",
     "description": "TOKYO IDOL FESTIVAL 2026",
     "created_at": "2026-06-08T00:52:59.886Z"
+  },
+  {
+    "id": "stainy-2026-08-01-live-free-1b8b2eb1",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "｢FREE｣",
+    "date": "2026-08-01",
+    "time_open": "16:45",
+    "time_start": "17:15",
+    "venue": "神田明神ホール",
+    "description": "【8/1(土)無銭対バン情報🉐】 / ｢FREE｣ / 🏟神田明神ホール / 🚪開場16:45/🏁開演17:15",
+    "post_url": "https://nitter.net/STAiNY_official/status/2075558944286912686#m",
+    "image_url": "https://nitter.net/pic/media%2FHM3d27mbwAEMWq6.jpg",
+    "created_at": "2026-07-10T12:33:08Z"
   },
   {
     "id": "stainy-2026-08-11-live-event-c66d326b",
