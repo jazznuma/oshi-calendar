@@ -1156,6 +1156,19 @@
     "created_at": "2026-07-10T08:00:01Z"
   },
   {
+    "id": "hakanai-2026-07-11-live-event-5ad89ff7",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "白昼夢倶楽部",
+    "date": "2026-07-11",
+    "time_open": "11:00",
+    "time_start": "11:30",
+    "description": "----------- 本日のライブ ----------- / 7/11（土）赤羽ReNY alpha / FC限定ワンマン / 『白昼夢倶楽部』",
+    "post_url": "https://nitter.net/hakanai_info/status/2075716702084686256#m",
+    "image_url": "https://nitter.net/pic/media%2FHM1Gz5bbgAAqHVR.jpg",
+    "created_at": "2026-07-10T23:00:01Z"
+  },
+  {
     "id": "hakanai-2026-07-11-live-spark-2026-83f4c1fa",
     "group_id": "hakanai",
     "type": "live",
@@ -1174,6 +1187,16 @@
     "date": "2026-07-11",
     "description": "ライブ予定",
     "created_at": "2026-06-04T09:59:58.940Z"
+  },
+  {
+    "id": "hakanai-2026-07-11-live-t-8746ed47",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "----------- Tシャツ購入特典の引換について -----------",
+    "date": "2026-07-11",
+    "description": "----------- Tシャツ購入特典の引換について ----------- / 7/11（土）赤羽ReNY alphaのTシャツ着用（購入証明）特典の / 【サインありチェキ券】の引換は以下の場所で行ないます。 / ■開演前",
+    "post_url": "https://nitter.net/hakanai_info/status/2075716949150191661#m",
+    "created_at": "2026-07-10T23:01:00Z"
   },
   {
     "id": "hakanai-2026-07-12-live-spark-2026-961bd8ec",
@@ -1196,6 +1219,17 @@
     "post_url": "https://nitter.net/hakanai_info/status/2075506566237970665#m",
     "image_url": "https://nitter.net/pic/media%2FHM2uJbjbkAEtShF.jpg",
     "created_at": "2026-07-10T09:05:01Z"
+  },
+  {
+    "id": "hakanai-2026-07-12-live-spark-2026-bed745be",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "SPARK 2026 渋谷納涼祭",
+    "date": "2026-07-12",
+    "description": "----------- 明日のライブ ----------- / 7/12（日）渋谷音楽堂 / 『SPARK 2026 渋谷納涼祭』 / 🎫  t-dv.com/spark2026_summer",
+    "post_url": "https://nitter.net/hakanai_info/status/2075779612894724370#m",
+    "image_url": "https://nitter.net/pic/media%2FHM5IB6GaIAAw1cc.jpg",
+    "created_at": "2026-07-11T03:10:00Z"
   },
   {
     "id": "hakanai-2026-07-13-live-event-2737a8b5",
