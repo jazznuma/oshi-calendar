@@ -1279,6 +1279,31 @@
     "created_at": "2026-07-12T06:20:00Z"
   },
   {
+    "id": "hakanai-2026-07-13-live-event-58015abe",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "ミツドモエ。",
+    "date": "2026-07-13",
+    "time_start": "18:40",
+    "ticket_url": "https://nitter.net/hakanai_info/status/2076471677647553017#m",
+    "description": "【物販場所のご案内】 / - #ﾆｷﾌﾟﾚ  2th Anniversary!!- / 物販場所はB(フロア前方上手側)の予定です。 / お待ちしています。",
+    "post_url": "https://nitter.net/hakanai_info/status/2076612829432701364#m",
+    "image_url": "https://nitter.net/pic/media%2FHNGcWh0aMAAe7mz.jpg",
+    "created_at": "2026-07-13T10:20:54Z"
+  },
+  {
+    "id": "hakanai-2026-07-13-live-event-fa52b5f5",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "ミツドモエ。",
+    "date": "2026-07-13",
+    "time_start": "18:40",
+    "description": "------ 本日のライブ ------ / 7/13（月）渋谷音楽堂 / - #ﾆｷﾌﾟﾚ  2th Anniversary!!- / 18:40 / 19:00",
+    "post_url": "https://nitter.net/hakanai_info/status/2076471677647553017#m",
+    "image_url": "https://nitter.net/pic/media%2FHND0zYWbIAAswCZ.jpg",
+    "created_at": "2026-07-13T01:00:01Z"
+  },
+  {
     "id": "hakanai-2026-07-13-deadline-fc-s-a22bb335",
     "group_id": "hakanai",
     "type": "deadline",
@@ -1305,6 +1330,18 @@
     "created_at": "2026-07-09T14:45:55Z"
   },
   {
+    "id": "hakanai-2026-07-13-live-event-5b4f4231",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "無彩色の青",
+    "date": "2026-07-13",
+    "time_start": "23:59",
+    "description": "----------- 明日のイベント ----------- / 7/14(火)『無彩色の青』オンラインサイン会 / 20:00～（予定） / ※開始時間は前後する可能性がございます。",
+    "post_url": "https://nitter.net/hakanai_info/status/2076637778587390160#m",
+    "image_url": "https://nitter.net/pic/media%2FHND2PQKaMAAoQND.jpg",
+    "created_at": "2026-07-13T12:00:03Z"
+  },
+  {
     "id": "hakanai-2026-07-13-live--2th-anniversary--34d3aa36",
     "group_id": "hakanai",
     "type": "live",
@@ -1325,6 +1362,18 @@
     "post_url": "https://nitter.net/hakanai_info/status/2075229971648500055#m",
     "image_url": "https://nitter.net/pic/media%2FHMya6MwaUAAaaqM.jpg",
     "created_at": "2026-07-09T14:45:55Z"
+  },
+  {
+    "id": "hakanai-2026-07-14-live-event-030d0b8f",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "無彩色の青",
+    "date": "2026-07-14",
+    "time_start": "20:00",
+    "description": "----------- 明日のイベント ----------- / 7/14(火)『無彩色の青』オンラインサイン会 / 20:00～（予定） / ※開始時間は前後する可能性がございます。",
+    "post_url": "https://nitter.net/hakanai_info/status/2076637778587390160#m",
+    "image_url": "https://nitter.net/pic/media%2FHND2PQKaMAAoQND.jpg",
+    "created_at": "2026-07-13T12:00:03Z"
   },
   {
     "id": "hakanai-2026-07-14-live---47f5ded2",
@@ -1587,6 +1636,18 @@
     "post_url": "https://nitter.net/hakanai_info/status/2069344715556720660#m",
     "image_url": "https://nitter.net/pic/media%2FHLei8tKbgAANY5s.jpg",
     "created_at": "2026-06-23T09:00:01Z"
+  },
+  {
+    "id": "hakanai-2026-08-08-live-free-for-morning-cb9d0daa",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "FREE FOR MORNING",
+    "date": "2026-08-08",
+    "time_start": "9:30",
+    "description": "----------- スケジュール・TT解禁 ----------- / 8/8（土）下北沢シャングリラ / RAY presents FREE EVENT / 「FREE FOR MORNING」",
+    "post_url": "https://nitter.net/hakanai_info/status/2076652871106400483#m",
+    "image_url": "https://nitter.net/pic/media%2FHND-oALaEAABZ52.jpg",
+    "created_at": "2026-07-13T13:00:01Z"
   },
   {
     "id": "hakanai-2026-08-09-live-2026-a638fcb7",

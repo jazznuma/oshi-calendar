@@ -7576,6 +7576,31 @@
     "created_at": "2026-07-12T14:01:26Z"
   },
   {
+    "id": "tohkei-2026-07-13-live-needle-point-1-c592e711",
+    "group_id": "tohkei",
+    "type": "live",
+    "title": "Needle Point #1",
+    "date": "2026-07-13",
+    "time_start": "19:00",
+    "ticket_url": "https://nitter.net/Tohkei_info/status/2076305940907962493#m",
+    "description": "本日！ / 当日券¥2,500-で販売とのことです！ / Tohkei (@Tohkei_info) / 【 💥 #明日の倒景  】",
+    "post_url": "https://nitter.net/Tohkei_info/status/2076540069071217026#m",
+    "image_url": "https://nitter.net/pic/media%2FHNFaL93aMAASdSM.jpg",
+    "created_at": "2026-07-13T05:31:47Z"
+  },
+  {
+    "id": "tohkei-2026-07-18-live-event-4554d21a",
+    "group_id": "tohkei",
+    "type": "live",
+    "title": "ッスッゴイライブ",
+    "date": "2026-07-18",
+    "time_start": "14:50",
+    "description": "【 ● #Tohkei出演情報  】 / \\\\ 🕗Time Table公開 // / 『ッスッゴイライブ』 / ✴︎ 2026/7/18(土) 品川インターシティホール",
+    "post_url": "https://nitter.net/Tohkei_info/status/2076664702181204466#m",
+    "image_url": "https://nitter.net/pic/media%2FHNHLiaobYAAOj7e.jpg",
+    "created_at": "2026-07-13T13:47:02Z"
+  },
+  {
     "id": "tohkei-2026-07-18-live---54550ffc",
     "group_id": "tohkei",
     "type": "live",
@@ -8060,6 +8085,19 @@
     "date": "2026-10-07",
     "description": "📸ライブ予定",
     "created_at": "2026-06-04T09:59:59.818Z"
+  },
+  {
+    "id": "tohkei-2026-10-17-live-sugarland-7c7e6bb5",
+    "group_id": "tohkei",
+    "type": "live",
+    "title": "sugarland",
+    "date": "2026-10-17",
+    "time_open": "12:00",
+    "time_start": "12:30",
+    "description": "【 ⚫︎名古屋🍨 #Tohkei出演情報  】 / 『 sugarland 』 / ✴︎ 2026/10/17(土) DIAMOND HALL / ✴︎ OPEN 12:00/START 12:30",
+    "post_url": "https://nitter.net/Tohkei_info/status/2076617489761628426#m",
+    "image_url": "https://nitter.net/pic/media%2FHNGgmW7bkAAG5xr.jpg",
+    "created_at": "2026-07-13T10:39:25Z"
   },
   {
     "id": "tohkei-2026-11-28-live---1fb1ca70",
