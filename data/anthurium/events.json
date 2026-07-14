@@ -1389,6 +1389,20 @@
     "created_at": "2026-06-17T10:01:07Z"
   },
   {
+    "id": "anthurium-2026-07-15-live-event-233a9de5",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "ちゅらまちゅり",
+    "date": "2026-07-15",
+    "time_open": "17:00",
+    "time_start": "17:45",
+    "venue": "duo MUSIC EXCANGE",
+    "description": "\\\\\\✨️明日✨️/// / 『ちゅらまちゅり』 / 7/15(水) / 📍 duo MUSIC EXCANGE",
+    "post_url": "https://nitter.net/anthurium0317/status/2076960783557378111#m",
+    "image_url": "https://nitter.net/pic/media%2FHNLY0d4aEAA1F0X.jpg",
+    "created_at": "2026-07-14T09:23:33Z"
+  },
+  {
     "id": "anthurium-2026-07-16-live-event-d6d5d7da",
     "group_id": "anthurium",
     "type": "live",
@@ -1745,6 +1759,20 @@
     "created_at": "2026-06-07T08:30:13Z"
   },
   {
+    "id": "anthurium-2026-09-26-free-event-31095d66",
+    "group_id": "anthurium",
+    "type": "free",
+    "title": "あだち食と音楽の祭典",
+    "date": "2026-09-26",
+    "time_open": "10:00",
+    "time_start": "10:00",
+    "venue": "虹の広場(荒川河川敷)",
+    "description": "\\\\\\✨️出演決定✨️/// / 『あだち食と音楽の祭典』 / 9/26(土) / 📍 虹の広場(荒川河川敷)",
+    "post_url": "https://nitter.net/anthurium0317/status/2076970723231539682#m",
+    "image_url": "https://nitter.net/pic/amplify_video_thumb%2F2076970183680475136%2Fimg%2FST7msdZmIiKsd8ef.jpg",
+    "created_at": "2026-07-14T10:03:03Z"
+  },
+  {
     "id": "anthurium-2026-12-12-live-stellarium-dee6d64e",
     "group_id": "anthurium",
     "type": "live",
@@ -1768,5 +1796,17 @@
     "post_url": "https://nitter.net/anthurium0317/status/2061401971836469354#m",
     "image_url": "https://nitter.net/pic/amplify_video_thumb%2F2061401839082561536%2Fimg%2F0Z8BwdiO6azHf7vm.jpg",
     "created_at": "2026-06-01T10:58:23Z"
+  },
+  {
+    "id": "anthurium-2027-02-06-live-event-cf74ad8d",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "足立区イベント、グルメ情報局",
+    "date": "2027-02-06",
+    "ticket_url": "https://line.me/ti/g2/6UxgAwK0flJyHspQuY8vxu62znkvxNSbKNXymA?utm_source=invitation&utm_medium=link_copy&utm_campaign=default",
+    "description": "RT by @anthurium0317: 第3弾発表！ 未来炭酸のTシャツおしゃれ！ @chaider_info メモリープリズム良く聴きます！ @comiqon OVER DRIVEかっこよい！！ @anthurium0317 9人体制迫力あります🔥 @Moooveworld パンパースとテキーラ準備してお待ちして",
+    "post_url": "https://nitter.net/purplepurple86/status/2076970030223458783#m",
+    "image_url": "https://nitter.net/pic/ext_tw_video_thumb%2F2076920217549312000%2Fpu%2Fimg%2FVpEHi6A6WMqHXkVO.jpg",
+    "created_at": "2026-07-14T10:00:18Z"
   }
 ]

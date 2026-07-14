@@ -1408,6 +1408,20 @@
     "created_at": "2026-06-19T12:00:17Z"
   },
   {
+    "id": "stainy-2026-07-15-live-event-eb828e3b",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "リリースイベント",
+    "date": "2026-07-15",
+    "time_start": "19:00",
+    "time_end": "19:20",
+    "ticket_url": "https://entabaonline.stores.jp/?category_id=69cf44b98474878675f5b41c",
+    "description": "／ 👾明日のSTAiNY✨ 😈リリースイベント東京 ＼ 「リリースイベント」 🏟カメイドロック カメクロコート 🎤19:00-19:20🗣️19:50-20:50 💥18:50〜公開リハーサル 🛍https://entabaonline.stores.jp/?category_id=69cf44b98474878675",
+    "post_url": "https://nitter.net/STAiNY_official/status/2077017569639424181#m",
+    "image_url": "https://nitter.net/pic/media%2FHNMMdfVaUAEs3s9.jpg",
+    "created_at": "2026-07-14T13:09:12Z"
+  },
+  {
     "id": "stainy-2026-07-18-live-7-18-97cb7fca",
     "group_id": "stainy",
     "type": "live",
@@ -1556,6 +1570,48 @@
     "post_url": "https://nitter.net/STAiNY_official/status/2074463576698568867#m",
     "image_url": "https://nitter.net/pic/media%2FHMn5nn-aAAA3gzE.jpg",
     "created_at": "2026-07-07T12:00:33Z"
+  },
+  {
+    "id": "stainy-2026-09-05-live-nagoya-girls-girls-095f7c3b",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "NAGOYA GIRLS GIRLS",
+    "date": "2026-09-05",
+    "time_open": "9:45",
+    "time_start": "10:00",
+    "venue": "Zephyr Hall",
+    "price": "前方6,000円 / 一般3,000円 / 当日各+1,000円（1D別）",
+    "description": "／ / 🏯9/5(土)・9/6(日) 名古屋遠征決定✨ / 🚄「NAGOYA GIRLS GIRLS」 / ＼",
+    "post_url": "https://nitter.net/STAiNY_official/status/2076991116029858129#m",
+    "image_url": "https://nitter.net/pic/media%2FHNLykKcbEAAIqJW.jpg",
+    "created_at": "2026-07-14T11:24:05Z"
+  },
+  {
+    "id": "stainy-2026-09-06-live-nagoya-girls-girls-49443e06",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "NAGOYA GIRLS GIRLS",
+    "date": "2026-09-06",
+    "time_open": "9:45",
+    "time_start": "10:00",
+    "venue": "Zephyr Hall",
+    "price": "前方6,000円 / 一般3,000円 / 当日各+1,000円（1D別）",
+    "description": "／ / 🏯9/5(土)・9/6(日) 名古屋遠征決定✨ / 🚄「NAGOYA GIRLS GIRLS」 / ＼",
+    "post_url": "https://nitter.net/STAiNY_official/status/2076991116029858129#m",
+    "image_url": "https://nitter.net/pic/media%2FHNLykKcbEAAIqJW.jpg",
+    "created_at": "2026-07-14T11:24:05Z"
+  },
+  {
+    "id": "stainy-2026-09-12-live-event-a9228297",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "花瀬さな 生誕祭",
+    "date": "2026-09-12",
+    "venue": "SHIBUYA DIVE",
+    "description": "【9/12(土)生誕祭開催決定🩷ྀི】 / 「花瀬さな 生誕祭」 / 🏟SHIBUYA DIVE / ※TT等詳細後日",
+    "post_url": "https://nitter.net/STAiNY_official/status/2077012039210602716#m",
+    "image_url": "https://nitter.net/pic/media%2FHNMHbTQagAEKvqr.jpg",
+    "created_at": "2026-07-14T12:47:13Z"
   },
   {
     "id": "stainy-2026-09-21-live-9-21-22-23-99797bfd",
