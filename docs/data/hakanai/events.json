@@ -1428,6 +1428,29 @@
     "created_at": "2026-07-14T10:00:03Z"
   },
   {
+    "id": "hakanai-2026-07-15-live-hakoniwa-vol-12-5bd76e1c",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "HAKONIWA vol.12",
+    "date": "2026-07-15",
+    "description": "----------- 本日のライブ ----------- / 7/15（水）渋谷WWW X / OTONA CHILD.presents / 『HAKONIWA vol.12』",
+    "post_url": "https://nitter.net/hakanai_info/status/2077135048156094891#m",
+    "image_url": "https://nitter.net/pic/media%2FHNN3UG-bcAEK-U5.jpg",
+    "created_at": "2026-07-14T20:56:01Z"
+  },
+  {
+    "id": "hakanai-2026-07-18-live-event-8d48d5e5",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "無彩色の青",
+    "date": "2026-07-18",
+    "time_start": "16:30",
+    "description": "----------- 次回はツアー2公演目 ----------- / 7/18（土）［兵庫］太陽と虎 / hakanai Release tour / 『 無彩色の青 』- HYOGO -",
+    "post_url": "https://nitter.net/hakanai_info/status/2077349959364424040#m",
+    "image_url": "https://nitter.net/pic/media%2FHNPg7B8bEAAumBx.jpg",
+    "created_at": "2026-07-15T11:10:00Z"
+  },
+  {
     "id": "hakanai-2026-07-18-live-hakanai-release-tour-2f3ee755",
     "group_id": "hakanai",
     "type": "live",
@@ -1706,6 +1729,17 @@
     "post_url": "https://nitter.net/hakanai_info/status/2076985059371016491#m",
     "image_url": "https://nitter.net/pic/media%2FHNK8h3HbwAEuQIB.jpg",
     "created_at": "2026-07-14T11:00:01Z"
+  },
+  {
+    "id": "hakanai-2026-08-19-live-hakoniwa-vol-13-d2557126",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "HAKONIWA vol.13",
+    "date": "2026-08-19",
+    "description": "----------- スケジュール解禁 ----------- / 8/19(水) 渋谷WWW X / OTONA CHILD.presents / 『HAKONIWA vol.13』",
+    "post_url": "https://nitter.net/hakanai_info/status/2077362550803718509#m",
+    "image_url": "https://nitter.net/pic/media%2FHNQNYxIaIAA-TQj.jpg",
+    "created_at": "2026-07-15T12:00:02Z"
   },
   {
     "id": "hakanai-2026-08-25-live-appare-presents-2026-ded7bf02",

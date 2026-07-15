@@ -2201,6 +2201,20 @@
     "created_at": "2026-07-14T10:49:58Z"
   },
   {
+    "id": "miao-2026-07-16-live-japan-idol-super-live-2026-10420678",
+    "group_id": "miao",
+    "type": "live",
+    "title": "JAPAN IDOL SUPER LIVE 2026",
+    "date": "2026-07-16",
+    "venue": "新宿ReNY",
+    "ticket_url": "https://nitter.net/miao__official/status/2076982531879305350#m",
+    "description": "／ / - ̗̀ 📢明日7/16(木)はこちら🐈‍⬛🎀 / ＼ / 平日少し早めのお時間となりますが皆さまのご来場、何卒お待ちしております🙇‍♀️！",
+    "post_url": "https://nitter.net/miao__official/status/2077401552470540579#m",
+    "image_url": "https://nitter.net/pic/media%2FHNLsmWcbUAALSiG.jpg",
+    "created_at": "2026-07-15T14:35:01Z",
+    "time_start": "10:30"
+  },
+  {
     "id": "miao-2026-07-16-live-japan-idol-super-live-2026-4147849e",
     "group_id": "miao",
     "type": "live",
@@ -2365,6 +2379,19 @@
     "created_at": "2026-06-30T13:02:47Z"
   },
   {
+    "id": "miao-2026-07-19-live-idol-scene-5f43a089",
+    "group_id": "miao",
+    "type": "live",
+    "title": "IDOL SCENE",
+    "date": "2026-07-19",
+    "time_start": "9:30",
+    "venue": "渋谷RING",
+    "description": "／ / ⏰タイテ情報⏰ / ＼ / 『IDOL SCENE』",
+    "post_url": "https://nitter.net/miao__official/status/2077361828427178190#m",
+    "image_url": "https://nitter.net/pic/media%2FHNRFkgobEAE8ify.jpg",
+    "created_at": "2026-07-15T11:57:10Z"
+  },
+  {
     "id": "miao-2026-07-20-live-oshi-cutlet-sandwich-vol-5-c2b9b3ba",
     "group_id": "miao",
     "type": "live",
@@ -2430,6 +2457,21 @@
     "post_url": "https://nitter.net/miao__official/status/2073017356180451836#m",
     "image_url": "https://nitter.net/pic/media%2FHMTWS2sbUAAEwOp.jpg",
     "created_at": "2026-07-03T12:13:47Z"
+  },
+  {
+    "id": "miao-2026-07-22-live-utage-fes-vol-5-7c525818",
+    "group_id": "miao",
+    "type": "live",
+    "title": "UTAGE FES Vol.5",
+    "date": "2026-07-22",
+    "time_open": "10:30",
+    "time_start": "10:45",
+    "venue": "新宿Marble",
+    "ticket_url": "https://nitter.net/info_UtaGe/status/2077362566792368311#m",
+    "description": "／ / ⏰タイテ情報⏰ / ※特典会時間追加 / ＼",
+    "post_url": "https://nitter.net/miao__official/status/2077365139360436722#m",
+    "image_url": "https://nitter.net/pic/media%2FHNRIlEua4AAzcY3.jpg",
+    "created_at": "2026-07-15T12:10:19Z"
   },
   {
     "id": "miao-2026-07-22-live---34a6ac2d",
