@@ -7601,6 +7601,18 @@
     "created_at": "2026-07-13T13:47:02Z"
   },
   {
+    "id": "tohkei-2026-07-18-live-event-af0ef6e1",
+    "group_id": "tohkei",
+    "type": "live",
+    "title": "ッスッゴイライブ",
+    "date": "2026-07-18",
+    "time_start": "14:50",
+    "description": "【 ● #明日の倒景  】 / 『ッスッゴイライブ』 / ✴︎ 2026/7/18(土) 品川インターシティホール / 出演：14:50-15:10 撮影可能📸",
+    "post_url": "https://nitter.net/Tohkei_info/status/2078118830434628070#m",
+    "image_url": "https://nitter.net/pic/media%2FHNb2DpOa8AAOwP5.jpg",
+    "created_at": "2026-07-17T14:05:13Z"
+  },
+  {
     "id": "tohkei-2026-07-18-live---54550ffc",
     "group_id": "tohkei",
     "type": "live",
@@ -7715,6 +7727,17 @@
     "created_at": "2026-06-04T09:59:59.819Z"
   },
   {
+    "id": "tohkei-2026-07-22-live-utage-fes-vol-5-657d6ecb",
+    "group_id": "tohkei",
+    "type": "live",
+    "title": "UTAGE FES Vol.5",
+    "date": "2026-07-22",
+    "description": "【 🎉お知らせ 】 / 7/22(水)  「UTAGE FES Vol.5』にて / // ／ / UtaGe!さんの",
+    "post_url": "https://nitter.net/Tohkei_info/status/2078096586798989810#m",
+    "image_url": "https://nitter.net/pic/media%2FHNbhJOkaEAAJI1l.jpg",
+    "created_at": "2026-07-17T12:36:50Z"
+  },
+  {
     "id": "tohkei-2026-07-23-free-tohkei-0958bb57",
     "group_id": "tohkei",
     "type": "free",
@@ -7726,6 +7749,20 @@
     "post_url": "https://nitter.net/Tohkei_info/status/2074086877586715044#m",
     "image_url": "https://nitter.net/pic/media%2FHMijBSDb0AAC4Rw.jpg",
     "created_at": "2026-07-06T11:03:40Z"
+  },
+  {
+    "id": "tohkei-2026-07-23-free-tohkei-b27dafd6",
+    "group_id": "tohkei",
+    "type": "free",
+    "title": "🌼Tohkei 定期公演 \"透景\"",
+    "date": "2026-07-23",
+    "time_open": "19:00",
+    "time_start": "19:30",
+    "ticket_url": "https://ticketdive.com/event/Toukei_teiki0723",
+    "description": "【 🎐次回定期公演はこちら! 】 『 🌼Tohkei 定期公演 \"透景\" 』 2026/7/23(木) Spotify O-Crest 開場19:00 / 開演19:30 📸撮影&女性エリアあり Ticket：https://ticketdive.com/event/Toukei_teiki0723 優先4,000円(",
+    "post_url": "https://nitter.net/Tohkei_info/status/2078078783459090514#m",
+    "image_url": "https://nitter.net/pic/media%2FHNbRlEKbUAAgmUz.jpg",
+    "created_at": "2026-07-17T11:26:05Z"
   },
   {
     "id": "tohkei-2026-07-23-live---40de6a2f",
