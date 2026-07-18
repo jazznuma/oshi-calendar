@@ -1476,6 +1476,21 @@
     "created_at": "2026-07-07T11:05:22Z"
   },
   {
+    "id": "stainy-2026-07-19-live-stainy-240ac5cf",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "👾明日のSTAiNY✨",
+    "date": "2026-07-19",
+    "time_start": "16:30",
+    "time_end": "17:00",
+    "venue": "APEXIA",
+    "benefit_time": "17:10-18:30(B)",
+    "description": "／ / 👾明日のSTAiNY✨ / ＼ / 「TOKYO GIRLS GIRLS extra!!｣",
+    "post_url": "https://nitter.net/STAiNY_official/status/2078428053383106975#m",
+    "image_url": "https://nitter.net/pic/media%2FHNgPSqoagAAbunr.jpg",
+    "created_at": "2026-07-18T10:33:57Z"
+  },
+  {
     "id": "stainy-2026-07-20-free-7-20-17659fc8",
     "group_id": "stainy",
     "type": "free",
@@ -1510,6 +1525,17 @@
     "date": "2026-07-25",
     "description": "対バン予定",
     "created_at": "2026-06-08T00:52:59.886Z"
+  },
+  {
+    "id": "stainy-2026-07-25-live-tt-88d53af0",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "リリースイベント一部TT変更のお知らせ",
+    "date": "2026-07-25",
+    "description": "【リリースイベント一部TT変更のお知らせ】 / 7/25(土)につきまして、イベント進行の都合により、リリースイベントの会場および開始時間を変更させていただきます。 / ご来場を予定されている皆様にはご迷惑をお掛けいたしますが、何卒ご理解・ご協力のほどよろしくお願いいたします。",
+    "post_url": "https://nitter.net/STAiNY_official/status/2078459817723867393#m",
+    "image_url": "https://nitter.net/pic/media%2FHNgsHN5aAAA0SYB.jpg",
+    "created_at": "2026-07-18T12:40:11Z"
   },
   {
     "id": "stainy-2026-07-26-live-tokyo-girls-girls-c27cc4cd",

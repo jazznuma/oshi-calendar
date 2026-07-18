@@ -954,6 +954,20 @@
     "created_at": "2026-07-16T15:00:03Z"
   },
   {
+    "id": "hbn-2026-07-18-live-eden-summer-cb9aa10b",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "超Eden SUMMER",
+    "date": "2026-07-18",
+    "time_start": "15:05",
+    "ticket_url": "https://nitter.net/HBN_187/status/2073743446591090927#m",
+    "description": "💥本日はこちら💥 / ㅤ / Kolokol PRESENTS / 『超Eden SUMMER』",
+    "post_url": "https://nitter.net/HBN_187/status/2078306465736241217#m",
+    "image_url": "https://nitter.net/pic/media%2FHMdqmCxbEAA6QDK.jpg",
+    "created_at": "2026-07-18T02:30:49Z",
+    "time_end": "15:30"
+  },
+  {
     "id": "hbn-2026-07-18-live--eden-summer-363435a5",
     "group_id": "hbn",
     "type": "live",
@@ -1044,6 +1058,18 @@
     "date": "2026-07-26",
     "description": "東京",
     "created_at": "2026-06-04T09:59:49.439Z"
+  },
+  {
+    "id": "hbn-2026-07-28-live-free-sp-09663e99",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "火花放電 -決起集会FREE SP-",
+    "date": "2026-07-28",
+    "time_start": "19:00",
+    "description": "⚡️大阪🆕⚡️ / 『火花放電 -決起集会FREE SP-』 / ▶︎2026.7.28(火) / ▶︎FANJ twice",
+    "post_url": "https://nitter.net/HBN_187/status/2078449713628827650#m",
+    "image_url": "https://nitter.net/pic/media%2FHNgXK4VbsAAVXKj.jpg",
+    "created_at": "2026-07-18T12:00:02Z"
   },
   {
     "id": "hbn-2026-07-28-live---3434fe04",
