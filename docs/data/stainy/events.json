@@ -1491,6 +1491,17 @@
     "created_at": "2026-07-18T10:33:57Z"
   },
   {
+    "id": "stainy-2026-07-20-ticket-event-0612cccd",
+    "group_id": "stainy",
+    "type": "ticket",
+    "title": "｢夏私服編｣ チケ発",
+    "date": "2026-07-20",
+    "time_start": "21:00",
+    "post_url": "https://nitter.net/STAiNY_official/status/2078797710602486217#m",
+    "image_url": "https://nitter.net/pic/media%2FHNlffrDboAAUSgG.jpg",
+    "created_at": "2026-07-19T11:02:51Z"
+  },
+  {
     "id": "stainy-2026-07-20-free-7-20-17659fc8",
     "group_id": "stainy",
     "type": "free",
@@ -1501,6 +1512,18 @@
     "post_url": "https://nitter.net/STAiNY_official/status/2067578145507811482#m",
     "image_url": "https://nitter.net/pic/media%2FHLGDWDObgAA57E-.jpg",
     "created_at": "2026-06-18T12:00:18Z"
+  },
+  {
+    "id": "stainy-2026-07-20-free-2026-ead48d81",
+    "group_id": "stainy",
+    "type": "free",
+    "title": "夏の食楽祭2026",
+    "date": "2026-07-20",
+    "venue": "立川 すずらん通り",
+    "description": "／ / 👾明日のSTAiNY✨ / 🏮「夏の食楽祭2026」🍡 / ＼",
+    "post_url": "https://nitter.net/STAiNY_official/status/2078815160043811290#m",
+    "image_url": "https://nitter.net/pic/media%2FHNlvXpxbgAAFVsk.jpg",
+    "created_at": "2026-07-19T12:12:11Z"
   },
   {
     "id": "stainy-2026-07-25-live-13-6efec425",
@@ -1559,6 +1582,18 @@
     "date": "2026-07-26",
     "description": "対バン予定",
     "created_at": "2026-06-08T00:52:59.886Z"
+  },
+  {
+    "id": "stainy-2026-07-26-live-tokyo-girls-girls-859a7253",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "TOKYO GIRLS GIRLS",
+    "date": "2026-07-26",
+    "venue": "品川インターシティホール",
+    "description": "／ / 👧7/26(日)タイムテーブル公開✨ / 🪩「TOKYO GIRLS GIRLS」 / ㊗️~ 6th Anniversary day3 ~",
+    "post_url": "https://nitter.net/STAiNY_official/status/2078818683062005834#m",
+    "image_url": "https://nitter.net/pic/media%2FHNlykLNbkAAFbEv.jpg",
+    "created_at": "2026-07-19T12:26:11Z"
   },
   {
     "id": "stainy-2026-07-31-live-tokyo-idol-festival--2e08e2b7",
@@ -1633,6 +1668,21 @@
     "post_url": "https://nitter.net/STAiNY_official/status/2077352300524568612#m",
     "image_url": "https://nitter.net/pic/media%2FHNQ85hwagAAXbCM.jpg",
     "created_at": "2026-07-15T11:19:18Z"
+  },
+  {
+    "id": "stainy-2026-08-15-live-event-3072e47c",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "｢夏私服編｣",
+    "date": "2026-08-15",
+    "time_open": "12:00",
+    "time_start": "12:20",
+    "venue": "新宿WALLY",
+    "price": "前売優先3000円/前売通常1000円/当日+500円(各1D別)",
+    "description": "【8/15(土)単独公演🌺✨】 / ｢夏私服編｣ / 🏟新宿WALLY / 🚪開場12:00/🏁開演12:20",
+    "post_url": "https://nitter.net/STAiNY_official/status/2078797710602486217#m",
+    "image_url": "https://nitter.net/pic/media%2FHNlffrDboAAUSgG.jpg",
+    "created_at": "2026-07-19T11:02:51Z"
   },
   {
     "id": "stainy-2026-08-16-live-event-486bb4d5",
