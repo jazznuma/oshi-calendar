@@ -1553,6 +1553,18 @@
     "created_at": "2026-07-19T09:00:01Z"
   },
   {
+    "id": "hakanai-2026-07-20-live-event-0c4d75f2",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "無彩色の青",
+    "date": "2026-07-20",
+    "time_start": "12:40",
+    "description": "----------- 本日のライブ ----------- / 7/20（月祝）ヨドバシカメラマルチメディア梅田 B2Fイベントスペース / 『 無彩色の青 』リリースイベント / 限定Mカードの販売イベント＆ミニライブ",
+    "post_url": "https://nitter.net/hakanai_info/status/2078978193868968368#m",
+    "image_url": "https://nitter.net/pic/media%2FHNn-fIga0AAYvxF.jpg",
+    "created_at": "2026-07-19T23:00:01Z"
+  },
+  {
     "id": "hakanai-2026-07-20-live---20242f37",
     "group_id": "hakanai",
     "type": "live",
@@ -1584,6 +1596,18 @@
     "post_url": "https://nitter.net/hakanai_info/status/2077604138217624002#m",
     "image_url": "https://nitter.net/pic/media%2FHNUdOs-boAAU3jB.jpg",
     "created_at": "2026-07-16T04:00:01Z"
+  },
+  {
+    "id": "hakanai-2026-07-22-live-utage-fes-vol-5-3d5fc61e",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "UTAGE FES Vol.5",
+    "date": "2026-07-22",
+    "time_start": "10:00",
+    "description": "----------- 次回のライブ ----------- / 7/22（水）Music Restaurant APEXIA / 『UTAGE FES Vol.5』 / 10:00 / 10:30",
+    "post_url": "https://nitter.net/hakanai_info/status/2079061236604657687#m",
+    "image_url": "https://nitter.net/pic/media%2FHNn-5dKa8AELKG8.jpg",
+    "created_at": "2026-07-20T04:30:00Z"
   },
   {
     "id": "hakanai-2026-07-22-live--utage-fes-vol-5--14c1fe20",
@@ -1671,6 +1695,18 @@
     "time_start": "15:15"
   },
   {
+    "id": "hakanai-2026-07-31-live-tokyo-idol-festival-2026-ce8f9aac",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "TOKYO IDOL FESTIVAL 2026",
+    "date": "2026-07-31",
+    "description": "--------  #TIF2026  8/2ラジオ体操出演決定 -------- / 7/31＆8/2　お台場・青海周辺エリア / TOKYO IDOL FESTIVAL 2026 / supported by にしたんクリニック",
+    "post_url": "https://nitter.net/hakanai_info/status/2079159387168321812#m",
+    "image_url": "https://nitter.net/pic/media%2FHNoL2_vawAAJbBc.jpg",
+    "created_at": "2026-07-20T11:00:01Z",
+    "time_start": "15:15"
+  },
+  {
     "id": "hakanai-2026-07-31-live-tokyo-idol-festival--388c565c",
     "group_id": "hakanai",
     "type": "live",
@@ -1738,6 +1774,18 @@
     "post_url": "https://nitter.net/hakanai_info/status/2066109274103890148#m",
     "image_url": "https://nitter.net/pic/media%2FHKQJjuubAAAvEiK.jpg",
     "created_at": "2026-06-14T10:43:32Z"
+  },
+  {
+    "id": "hakanai-2026-08-02-live-tokyo-idol-festival-2026-5afaf969",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "TOKYO IDOL FESTIVAL 2026",
+    "date": "2026-08-02",
+    "description": "--------  #TIF2026  8/2ラジオ体操出演決定 -------- / 7/31＆8/2　お台場・青海周辺エリア / TOKYO IDOL FESTIVAL 2026 / supported by にしたんクリニック",
+    "post_url": "https://nitter.net/hakanai_info/status/2079159387168321812#m",
+    "image_url": "https://nitter.net/pic/media%2FHNoL2_vawAAJbBc.jpg",
+    "created_at": "2026-07-20T11:00:01Z",
+    "time_start": "9:45"
   },
   {
     "id": "hakanai-2026-08-07-live-fc-ss-d5f2eff0",
