@@ -1702,6 +1702,28 @@
     "created_at": "2026-07-30T10:16:55Z"
   },
   {
+    "id": "stainy-2026-08-02-live-stainy-doll-factory-65cb2ce8",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "STAiNYは【DOLL FACTORY】に出演します🎀",
+    "date": "2026-08-02",
+    "description": "🌻✨明日は#TIF2026 最終日✨🌻 / STAiNYは【DOLL FACTORY】に出演します🎀 / 残り1ステージ‼️ / このDOLLFACTORYに全力注ぎます🍧",
+    "post_url": "https://nitter.net/STAiNY_official/status/2083563296192663756#m",
+    "image_url": "https://nitter.net/pic/media%2FHOpNxa4aoAAQsq3.jpg",
+    "created_at": "2026-08-01T14:39:35Z"
+  },
+  {
+    "id": "stainy-2026-08-03-ticket-9-12-342e0ca0",
+    "group_id": "stainy",
+    "type": "ticket",
+    "title": "🎂9/12(土) 花瀬さな生誕祭🩷ྀི チケ発",
+    "date": "2026-08-03",
+    "time_start": "21:00",
+    "post_url": "https://nitter.net/STAiNY_official/status/2083523186529058936#m",
+    "image_url": "https://nitter.net/pic/media%2FHOopSggaEAEz8Y_.jpg",
+    "created_at": "2026-08-01T12:00:12Z"
+  },
+  {
     "id": "stainy-2026-08-11-live-8-11-2b94cf0c",
     "group_id": "stainy",
     "type": "live",
@@ -1901,6 +1923,21 @@
     "post_url": "https://nitter.net/STAiNY_official/status/2076991116029858129#m",
     "image_url": "https://nitter.net/pic/media%2FHNLykKcbEAAIqJW.jpg",
     "created_at": "2026-07-14T11:24:05Z"
+  },
+  {
+    "id": "stainy-2026-09-12-live-9-12-946f5564",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "🎂9/12(土) 花瀬さな生誕祭🩷ྀི",
+    "date": "2026-09-12",
+    "time_open": "14:50",
+    "time_start": "15:20",
+    "venue": "SHIBUYA DIVE",
+    "price": "優先3,000円 / 通常2,000円 / 当日2,500円（各1D別）",
+    "description": "／ / 🎂9/12(土) 花瀬さな生誕祭🩷ྀི / 3度目の生誕祭。今年も最高の景色を一緒に。✨ / ＼",
+    "post_url": "https://nitter.net/STAiNY_official/status/2083523186529058936#m",
+    "image_url": "https://nitter.net/pic/media%2FHOopSggaEAEz8Y_.jpg",
+    "created_at": "2026-08-01T12:00:12Z"
   },
   {
     "id": "stainy-2026-09-12-live-event-a9228297",

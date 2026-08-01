@@ -1923,6 +1923,18 @@
     "time_start": "15:15"
   },
   {
+    "id": "hakanai-2026-07-31-live-tokyo-idol-festival-2026-c4b7cd0b",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "TOKYO IDOL FESTIVAL 2026",
+    "date": "2026-07-31",
+    "description": "------ 🔥本日  #TIF2026  初日🔥 ----- / 7/31（金）お台場・青海周辺エリア / TOKYO IDOL FESTIVAL 2026 / supported by にしたんクリニック",
+    "post_url": "https://nitter.net/hakanai_info/status/2082979559620956414#m",
+    "image_url": "https://nitter.net/pic/media%2FHOgxVnubYAASULN.jpg",
+    "created_at": "2026-07-31T00:00:01Z",
+    "time_start": "15:15"
+  },
+  {
     "id": "hakanai-2026-07-31-live-event-f58abf43",
     "group_id": "hakanai",
     "type": "live",
@@ -1933,6 +1945,18 @@
     "post_url": "https://nitter.net/hakanai_info/status/2082768244608536764#m",
     "image_url": "https://nitter.net/pic/media%2FHOd6qlWa0AA7J5H.jpg",
     "created_at": "2026-07-30T10:00:20Z"
+  },
+  {
+    "id": "hakanai-2026-07-31-live-event-e638d3f4",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "本日のラストは…",
+    "date": "2026-07-31",
+    "time_start": "19:45",
+    "description": "------ 🔥  #TIF2026  初日🔥 ----- / 本日のラストは… / 出演（DOLL FACTORY）19:45-20:05 / 次は屋内ステージ",
+    "post_url": "https://nitter.net/hakanai_info/status/2083124086037942727#m",
+    "image_url": "https://nitter.net/pic/media%2FHOi-SxfbUAAA1Ie.jpg",
+    "created_at": "2026-07-31T09:34:19Z"
   },
   {
     "id": "hakanai-2026-07-31-live-tokyo-idol-festival--388c565c",
@@ -2049,6 +2073,30 @@
     "post_url": "https://nitter.net/hakanai_info/status/2082420878646583761#m",
     "image_url": "https://nitter.net/pic/media%2FHOY9ibka4AAYe-t.jpg",
     "created_at": "2026-07-29T11:00:01Z",
+    "time_start": "9:45"
+  },
+  {
+    "id": "hakanai-2026-08-02-live-event-2f2e379e",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "------ 明日のライブ ------",
+    "date": "2026-08-02",
+    "description": "------ 明日のライブ ------ / 8/2　お台場・青海周辺エリア / TOKYO IDOL FESTIVAL 2026 / supported by にしたんクリニック",
+    "post_url": "https://nitter.net/hakanai_info/status/2083492943097381120#m",
+    "image_url": "https://nitter.net/pic/media%2FHOntqaibgAAeXka.jpg",
+    "created_at": "2026-08-01T10:00:01Z",
+    "time_start": "9:45"
+  },
+  {
+    "id": "hakanai-2026-08-02-live-tokyo-idol-festival-2026-4bf26c68",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "TOKYO IDOL FESTIVAL 2026",
+    "date": "2026-08-02",
+    "description": "------ 次回は  #TIF2026  最終日 ------ / 8/2　お台場・青海周辺エリア / TOKYO IDOL FESTIVAL 2026 / supported by にしたんクリニック",
+    "post_url": "https://nitter.net/hakanai_info/status/2083146907874906442#m",
+    "image_url": "https://nitter.net/pic/media%2FHOjB--DawAAGvDP.jpg",
+    "created_at": "2026-07-31T11:05:00Z",
     "time_start": "9:45"
   },
   {
