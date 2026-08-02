@@ -1866,6 +1866,20 @@
     "time_start": "11:35"
   },
   {
+    "id": "anthurium-2026-08-02-free-event-3c429fdb",
+    "group_id": "anthurium",
+    "type": "free",
+    "title": "風宮ゆめ",
+    "date": "2026-08-02",
+    "venue": "お台場・青海周辺エリア",
+    "ticket_url": "https://nitter.net/anthurium0317/status/2083105903516274756#m",
+    "description": "この後12:55~INFO CENTRE にてTIFゲーム部に『風宮ゆめ』が出演します💚 / 皆さん是非応援しに来てください✨‼️ / アンスリューム (@anthurium0317) / \\\\\\✨️明日から！  #TIF2026  ✨️///",
+    "post_url": "https://nitter.net/anthurium0317/status/2083761310026875322#m",
+    "image_url": "https://nitter.net/pic/media%2FHOsB3QCa0AAyLLy.jpg",
+    "created_at": "2026-08-02T03:46:25Z",
+    "time_start": "11:35"
+  },
+  {
     "id": "anthurium-2026-08-02-free-11-30-268e5ead",
     "group_id": "anthurium",
     "type": "free",
@@ -2521,5 +2535,19 @@
     "post_url": "https://nitter.net/purplepurple86/status/2076970030223458783#m",
     "image_url": "https://nitter.net/pic/ext_tw_video_thumb%2F2076920217549312000%2Fpu%2Fimg%2FVpEHi6A6WMqHXkVO.jpg",
     "created_at": "2026-07-14T10:00:18Z"
+  },
+  {
+    "id": "anthurium-2027-08-01-free-event-0ef8bfc4",
+    "group_id": "anthurium",
+    "type": "free",
+    "title": "風宮ゆめ",
+    "date": "2027-08-01",
+    "venue": "お台場・青海周辺エリア",
+    "ticket_url": "https://nitter.net/anthurium0317/status/2083105903516274756#m",
+    "description": "この後12:55~INFO CENTRE にてTIFゲーム部に『風宮ゆめ』が出演します💚 / 皆さん是非応援しに来てください✨‼️ / アンスリューム (@anthurium0317) / \\\\\\✨️明日から！  #TIF2026  ✨️///",
+    "post_url": "https://nitter.net/anthurium0317/status/2083761310026875322#m",
+    "image_url": "https://nitter.net/pic/media%2FHOsB3QCa0AAyLLy.jpg",
+    "created_at": "2026-08-02T03:46:25Z",
+    "time_start": "11:30"
   }
 ]

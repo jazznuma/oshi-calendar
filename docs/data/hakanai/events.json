@@ -2100,6 +2100,18 @@
     "time_start": "9:45"
   },
   {
+    "id": "hakanai-2026-08-02-live-event-c84f6062",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "------ 本日のライブ ------",
+    "date": "2026-08-02",
+    "description": "------ 本日のライブ ------ / 8/2　お台場・青海周辺エリア / TOKYO IDOL FESTIVAL 2026 / supported by にしたんクリニック",
+    "post_url": "https://nitter.net/hakanai_info/status/2083689233638670377#m",
+    "image_url": "https://nitter.net/pic/media%2FHOqjCf-aMAA-vP8.jpg",
+    "created_at": "2026-08-01T23:00:01Z",
+    "time_start": "9:45"
+  },
+  {
     "id": "hakanai-2026-08-07-live-fc-ss-d5f2eff0",
     "group_id": "hakanai",
     "type": "live",
@@ -2125,6 +2137,19 @@
     "post_url": "https://nitter.net/hakanai_info/status/2074463440723157458#m",
     "image_url": "https://nitter.net/pic/media%2FHMnNpxobYAAUAnH.jpg",
     "created_at": "2026-07-07T12:00:00Z"
+  },
+  {
+    "id": "hakanai-2026-08-07-live-event-37728bf8",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "透明なキミが見上げた空に",
+    "date": "2026-08-07",
+    "time_open": "17:15",
+    "time_start": "18:00",
+    "description": "—————— 次回のライブ —————— / 8/7（金）浅草花劇場 / hakanai アコースティックワンマン / 「透明なキミが見上げた空に」",
+    "post_url": "https://nitter.net/hakanai_info/status/2083842916968271904#m",
+    "image_url": "https://nitter.net/pic/media%2FHOtMFR6bMAEFBp-.jpg",
+    "created_at": "2026-08-02T09:10:41Z"
   },
   {
     "id": "hakanai-2026-08-07-live-2026-ba04d0e8",
