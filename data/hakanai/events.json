@@ -2165,6 +2165,19 @@
     "created_at": "2026-08-04T02:48:30Z"
   },
   {
+    "id": "hakanai-2026-08-07-live-event-9c6befad",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "透明なキミが見上げた空に",
+    "date": "2026-08-07",
+    "time_open": "17:15",
+    "time_start": "18:00",
+    "description": "—————— 本日のライブ —————— / 8/7（金）浅草花劇場 / hakanai アコースティックワンマン / 「透明なキミが見上げた空に」",
+    "post_url": "https://nitter.net/hakanai_info/status/2085546689528832046#m",
+    "image_url": "https://nitter.net/pic/media%2FHPFZpzdbMAAQjKr.jpg",
+    "created_at": "2026-08-07T02:00:53Z"
+  },
+  {
     "id": "hakanai-2026-08-07-live-2026-ba04d0e8",
     "group_id": "hakanai",
     "type": "live",
@@ -2187,6 +2200,18 @@
     "post_url": "https://nitter.net/hakanai_info/status/2076652871106400483#m",
     "image_url": "https://nitter.net/pic/media%2FHND-oALaEAABZ52.jpg",
     "created_at": "2026-07-13T13:00:01Z"
+  },
+  {
+    "id": "hakanai-2026-08-08-live-free-for-morning-1a7169f9",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "FREE FOR MORNING",
+    "date": "2026-08-08",
+    "time_start": "9:30",
+    "description": "----------- 明日のライブ ----------- / 8/8（土）下北沢シャングリラ / RAY presents FREE EVENT / 「FREE FOR MORNING」",
+    "post_url": "https://nitter.net/hakanai_info/status/2085669781143683390#m",
+    "image_url": "https://nitter.net/pic/media%2FHPEovSPbIAAxzKS.jpg",
+    "created_at": "2026-08-07T10:10:00Z"
   },
   {
     "id": "hakanai-2026-08-09-live-2026-a638fcb7",
@@ -2235,6 +2260,18 @@
     "post_url": "https://nitter.net/hakanai_info/status/2082832965231661132#m",
     "image_url": "https://nitter.net/pic/media%2FHOe1StTbYAA2PYQ.jpg",
     "created_at": "2026-07-30T14:17:30Z"
+  },
+  {
+    "id": "hakanai-2026-08-09-live-2026-tt-147980ce",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "🔥サマジャン2026 縁日TT解禁🔥",
+    "date": "2026-08-09",
+    "time_start": "9:00",
+    "description": "🔥サマジャン2026 縁日TT解禁🔥 / 8/9（日）お台場R地区 / IDOL SUMMER JUNGLE 2026 / 9:00 / 10:00",
+    "post_url": "https://nitter.net/hakanai_info/status/2085561577575514401#m",
+    "image_url": "https://nitter.net/pic/media%2FHPEsss6awAA_jIO.jpg",
+    "created_at": "2026-08-07T03:00:02Z"
   },
   {
     "id": "hakanai-2026-08-10-live-neo-kassen2026-771a03ee",
@@ -2388,5 +2425,16 @@
     "post_url": "https://nitter.net/hakanai_info/status/2067955563947040780#m",
     "image_url": "https://nitter.net/pic/media%2FHLKUW6uaMAAaBPd.jpg",
     "created_at": "2026-06-19T13:00:01Z"
+  },
+  {
+    "id": "hakanai-2026-10-07-live-2026-e0fa8818",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "超 明星現象 2026",
+    "date": "2026-10-07",
+    "description": "----------- 出演決定 ----------- / 10/7（水）渋谷サーキット / 衛星とカラテアPresents / 「超 明星現象 2026」",
+    "post_url": "https://nitter.net/hakanai_info/status/2085546471076577622#m",
+    "image_url": "https://nitter.net/pic/media%2FHPEaxihaoAE1m3b.jpg",
+    "created_at": "2026-08-07T02:00:00Z"
   }
 ]

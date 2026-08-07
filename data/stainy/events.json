@@ -1760,6 +1760,17 @@
     "created_at": "2026-08-06T10:22:48Z"
   },
   {
+    "id": "stainy-2026-08-08-ticket-yoru-fes-vol-11-0915tourfina-a868e5f7",
+    "group_id": "stainy",
+    "type": "ticket",
+    "title": "YORU-FES vol.11 0915TourFinal決起会SP チケ発",
+    "date": "2026-08-08",
+    "time_start": "22:00",
+    "post_url": "https://nitter.net/STAiNY_official/status/2085684222480773529#m",
+    "image_url": "https://nitter.net/pic/media%2FHPHWpBPbAAAD71V.jpg",
+    "created_at": "2026-08-07T11:07:23Z"
+  },
+  {
     "id": "stainy-2026-08-10-live-event-35475335",
     "group_id": "stainy",
     "type": "live",
@@ -2047,6 +2058,21 @@
     "post_url": "https://nitter.net/STAiNY_official/status/2076991116029858129#m",
     "image_url": "https://nitter.net/pic/media%2FHNLykKcbEAAIqJW.jpg",
     "created_at": "2026-07-14T11:24:05Z"
+  },
+  {
+    "id": "stainy-2026-09-11-live-yoru-fes-vol-11-0915tourfina-f81412d9",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "YORU-FES vol.11 0915TourFinal決起会SP",
+    "date": "2026-09-11",
+    "time_open": "12:00",
+    "time_start": "13:00",
+    "venue": "Spotify O-EAST",
+    "price": "前方8,000円/一般3,000円/女性2,000円",
+    "description": "／ / ⭐️9/11(金)夜光性アミューズPre. / 🪩「YORU-FES vol.11 0915TourFinal決起会SP」 / ＼",
+    "post_url": "https://nitter.net/STAiNY_official/status/2085684222480773529#m",
+    "image_url": "https://nitter.net/pic/media%2FHPHWpBPbAAAD71V.jpg",
+    "created_at": "2026-08-07T11:07:23Z"
   },
   {
     "id": "stainy-2026-09-12-live-9-12-946f5564",
