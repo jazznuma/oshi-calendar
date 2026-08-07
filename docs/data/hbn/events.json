@@ -120,6 +120,19 @@
     "created_at": "2026-07-29T12:00:01Z"
   },
   {
+    "id": "hbn-2026-05-14-live-event-b063a6e4",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "劇情",
+    "date": "2026-05-14",
+    "venue": "OSAKAMUSE",
+    "ticket_url": "https://nitter.net/gekijo_official/status/2085335078914392066#m",
+    "description": "🎬LIVE MV🎬 / ▶︎火花 / HIBANA / 2026.5.14 at OSAKAMUSE / 『劇情』",
+    "post_url": "https://nitter.net/HBN_187/status/2085338689555824755#m",
+    "image_url": "https://nitter.net/pic/card_img%2F2085345770480537600%2FQGbldu6Y%3Fformat%3Djpg%26name%3D800x419",
+    "created_at": "2026-08-06T12:14:21Z"
+  },
+  {
     "id": "hbn-2026-05-16-live--in--6813997e",
     "group_id": "hbn",
     "type": "live",
@@ -1585,6 +1598,21 @@
     "created_at": "2026-07-29T09:00:06Z"
   },
   {
+    "id": "hbn-2026-08-07-live-idol-summer-jungle-2026-1221121d",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "IDOL SUMMER JUNGLE 2026",
+    "date": "2026-08-07",
+    "time_start": "19:00",
+    "venue": "SNAKE STAGE",
+    "ticket_url": "https://nitter.net/HBN_187/status/2082797439774609715#m",
+    "description": "💥明日&明後日はこちら💥 / 『IDOL SUMMER JUNGLE 2026』 / ▶︎2026.8.7(金),8(土) / ▶︎お台場R地区",
+    "post_url": "https://nitter.net/HBN_187/status/2085341825624400190#m",
+    "image_url": "https://nitter.net/pic/media%2FHPCfVcPaIAAlSIH.jpg",
+    "created_at": "2026-08-06T12:26:49Z",
+    "time_end": "19:15"
+  },
+  {
     "id": "hbn-2026-08-07-live-idol-summer-jungle-2026-e89754f3",
     "group_id": "hbn",
     "type": "live",
@@ -1608,6 +1636,21 @@
     "post_url": "https://nitter.net/HBN_187/status/2073367149805183091#m",
     "image_url": "https://nitter.net/pic/card_img%2F2075948789316431872%2FnQ8Xajrp%3Fformat%3Djpg%26name%3D800x419",
     "created_at": "2026-07-04T11:23:44Z"
+  },
+  {
+    "id": "hbn-2026-08-08-live-idol-summer-jungle-2026-492f9c11",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "IDOL SUMMER JUNGLE 2026",
+    "date": "2026-08-08",
+    "time_start": "14:35",
+    "time_end": "14:55",
+    "venue": "SNAKE STAGE",
+    "ticket_url": "https://nitter.net/HBN_187/status/2082797439774609715#m",
+    "description": "💥明日&明後日はこちら💥 / 『IDOL SUMMER JUNGLE 2026』 / ▶︎2026.8.7(金),8(土) / ▶︎お台場R地区",
+    "post_url": "https://nitter.net/HBN_187/status/2085341825624400190#m",
+    "image_url": "https://nitter.net/pic/media%2FHPCfVcPaIAAlSIH.jpg",
+    "created_at": "2026-08-06T12:26:49Z"
   },
   {
     "id": "hbn-2026-08-16-live-event-5f9f9980",
@@ -1823,6 +1866,19 @@
     "post_url": "https://nitter.net/HBN_187/status/2062112055771931116#m",
     "image_url": "https://nitter.net/pic/media%2FHJ00_i5aEAAqPlC.jpg",
     "created_at": "2026-05-28T11:00:00Z"
+  },
+  {
+    "id": "hbn-2027-05-14-live-event-9ff16a70",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "劇情",
+    "date": "2027-05-14",
+    "venue": "OSAKAMUSE",
+    "ticket_url": "https://nitter.net/gekijo_official/status/2085335078914392066#m",
+    "description": "🎬LIVE MV🎬 / ▶︎火花 / HIBANA / 2026.5.14 at OSAKAMUSE / 『劇情』",
+    "post_url": "https://nitter.net/HBN_187/status/2085338689555824755#m",
+    "image_url": "https://nitter.net/pic/card_img%2F2085345770480537600%2FQGbldu6Y%3Fformat%3Djpg%26name%3D800x419",
+    "created_at": "2026-08-06T12:14:21Z"
   },
   {
     "id": "hbn-2027-05-23-live-utage-fes-vol-5-c9d038fe",
