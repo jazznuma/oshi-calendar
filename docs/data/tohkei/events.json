@@ -8070,6 +8070,17 @@
     "created_at": "2026-06-04T09:59:59.819Z"
   },
   {
+    "id": "tohkei-2026-08-08-live-video-f39675ff",
+    "group_id": "tohkei",
+    "type": "live",
+    "title": "Video",
+    "date": "2026-08-08",
+    "description": "Video",
+    "post_url": "https://nitter.net/Tohkei_info/status/2086027416712134868#m",
+    "image_url": "https://nitter.net/pic/amplify_video_thumb%2F2086026813776760832%2Fimg%2FSxbwq63uwdJqOBeY.jpg",
+    "created_at": "2026-08-08T09:51:07Z"
+  },
+  {
     "id": "tohkei-2026-08-09-live-event-74fec5a7",
     "group_id": "tohkei",
     "type": "live",
@@ -8108,6 +8119,19 @@
     "post_url": "https://nitter.net/Tohkei_info/status/2083907147587559727#m",
     "image_url": "https://nitter.net/pic/media%2FHOuGf5FaQAAfePO.jpg",
     "created_at": "2026-08-02T13:25:55Z"
+  },
+  {
+    "id": "tohkei-2026-08-09-live-event-871128bc",
+    "group_id": "tohkei",
+    "type": "live",
+    "title": "トウケイはじめるぞ！",
+    "date": "2026-08-09",
+    "time_open": "12:00",
+    "time_start": "12:30",
+    "description": "【 ⛱️明日の倒景 は  #フリーライブ !! 】 / Tohkei 無銭単独公演『トウケイはじめるぞ！』 / ✴︎ 2026/8/9(日) clubasia(渋谷) / ✴︎ OPEN 12:00/START 12:30",
+    "post_url": "https://nitter.net/Tohkei_info/status/2085972858933817437#m",
+    "image_url": "https://nitter.net/pic/media%2FHPLcUvDaMAAVCl2.jpg",
+    "created_at": "2026-08-08T06:14:19Z"
   },
   {
     "id": "tohkei-2026-08-09-live---2d014d5b",

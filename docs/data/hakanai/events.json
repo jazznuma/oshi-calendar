@@ -2214,6 +2214,18 @@
     "created_at": "2026-08-07T10:10:00Z"
   },
   {
+    "id": "hakanai-2026-08-08-live-free-for-morning-c070b2aa",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "FREE FOR MORNING",
+    "date": "2026-08-08",
+    "time_start": "9:30",
+    "description": "----------- 本日のライブ ----------- / 8/8（土）下北沢シャングリラ / RAY presents FREE EVENT / 「FREE FOR MORNING」",
+    "post_url": "https://nitter.net/hakanai_info/status/2085849991629988084#m",
+    "image_url": "https://nitter.net/pic/media%2FHPJtgqQagAAICNa.jpg",
+    "created_at": "2026-08-07T22:06:05Z"
+  },
+  {
     "id": "hakanai-2026-08-09-live-2026-a638fcb7",
     "group_id": "hakanai",
     "type": "live",
@@ -2274,6 +2286,30 @@
     "created_at": "2026-08-07T03:00:02Z"
   },
   {
+    "id": "hakanai-2026-08-09-live-event-a85c439a",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "----------- 明日の衣装決定 -----------",
+    "date": "2026-08-09",
+    "time_start": "9:00",
+    "description": "----------- 明日の衣装決定 ----------- / 8/9（日）お台場R地区 / IDOL SUMMER JUNGLE 2026 / 9:00 / 10:00",
+    "post_url": "https://nitter.net/hakanai_info/status/2085957260455641280#m",
+    "image_url": "https://nitter.net/pic/media%2FHPLO9bwboAACRj3.jpg",
+    "created_at": "2026-08-08T05:12:20Z"
+  },
+  {
+    "id": "hakanai-2026-08-09-live-event-102350a4",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "----------- 明日のライブ -----------",
+    "date": "2026-08-09",
+    "time_start": "9:00",
+    "description": "----------- 明日のライブ ----------- / 8/9（日）お台場R地区 / IDOL SUMMER JUNGLE 2026 / 9:00 / 10:00",
+    "post_url": "https://nitter.net/hakanai_info/status/2085913858737312122#m",
+    "image_url": "https://nitter.net/pic/media%2FHPKnloea4AAt7zp.jpg",
+    "created_at": "2026-08-08T02:19:52Z"
+  },
+  {
     "id": "hakanai-2026-08-10-live-neo-kassen2026-771a03ee",
     "group_id": "hakanai",
     "type": "live",
@@ -2308,6 +2344,18 @@
     "post_url": "https://nitter.net/hakanai_info/status/2072636654792393101#m",
     "image_url": "https://nitter.net/pic/media%2FHMN73_XboAAKSCo.jpg",
     "created_at": "2026-07-02T11:01:00Z"
+  },
+  {
+    "id": "hakanai-2026-08-11-live-summer-edition-dee09d7e",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "あつまれ！ミームパーク~SUMMER EDITION~",
+    "date": "2026-08-11",
+    "time_start": "16:00",
+    "description": "----------- TT解禁 ----------- / 8/11（火）浅草花劇場 / ミームトーキョー主催ライブ / 「あつまれ！ミームパーク~SUMMER EDITION~」",
+    "post_url": "https://nitter.net/hakanai_info/status/2086059859750060371#m",
+    "image_url": "https://nitter.net/pic/media%2FHPMMHVRakAAl0D2.jpg",
+    "created_at": "2026-08-08T12:00:02Z"
   },
   {
     "id": "hakanai-2026-08-11-live-event-64699750",

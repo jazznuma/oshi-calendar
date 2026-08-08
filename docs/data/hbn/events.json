@@ -1638,6 +1638,20 @@
     "created_at": "2026-07-04T11:23:44Z"
   },
   {
+    "id": "hbn-2026-08-07-live-idol-summer-jungle-2026-cd5cad43",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "IDOL SUMMER JUNGLE 2026",
+    "date": "2026-08-07",
+    "time_start": "9:00",
+    "venue": "SNAKE STAGE",
+    "ticket_url": "https://nitter.net/HBN_187/status/2085341825624400190#m",
+    "description": "💥本日はこちら💥 / このあとMONKEY STAGEにて熱いライブを届けます👊🐵 / 🎤14:35-14:55 / 📸15:15-16:15［6］",
+    "post_url": "https://nitter.net/HBN_187/status/2085947170600202452#m",
+    "image_url": "https://nitter.net/pic/media%2FHPCfVcPaIAAlSIH.jpg",
+    "created_at": "2026-08-08T04:32:15Z"
+  },
+  {
     "id": "hbn-2026-08-08-live-idol-summer-jungle-2026-492f9c11",
     "group_id": "hbn",
     "type": "live",
@@ -1651,6 +1665,36 @@
     "post_url": "https://nitter.net/HBN_187/status/2085341825624400190#m",
     "image_url": "https://nitter.net/pic/media%2FHPCfVcPaIAAlSIH.jpg",
     "created_at": "2026-08-06T12:26:49Z"
+  },
+  {
+    "id": "hbn-2026-08-08-live-idol-summer-jungle-2026-c2384632",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "IDOL SUMMER JUNGLE 2026",
+    "date": "2026-08-08",
+    "time_start": "14:35",
+    "time_end": "14:55",
+    "venue": "SNAKE STAGE",
+    "ticket_url": "https://nitter.net/HBN_187/status/2085341825624400190#m",
+    "description": "💥本日はこちら💥 / このあとMONKEY STAGEにて熱いライブを届けます👊🐵 / 🎤14:35-14:55 / 📸15:15-16:15［6］",
+    "post_url": "https://nitter.net/HBN_187/status/2085947170600202452#m",
+    "image_url": "https://nitter.net/pic/media%2FHPCfVcPaIAAlSIH.jpg",
+    "created_at": "2026-08-08T04:32:15Z"
+  },
+  {
+    "id": "hbn-2026-08-09-live-nagoya-circus-2man-day2-470b404a",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "NAGOYA CIRCUS 2MAN DAY2",
+    "date": "2026-08-09",
+    "time_open": "13:00",
+    "time_start": "13:40",
+    "venue": "OrchestraTokyo)",
+    "ticket_url": "https://nitter.net/OrchestraTokyo/status/2084260313466110450#m",
+    "description": "／ / そして明日は！！ / 敬愛するオケトーさんと2MAN🥁 / ＼",
+    "post_url": "https://nitter.net/HBN_187/status/2085949621571084679#m",
+    "image_url": "https://nitter.net/pic/media%2FHPLIHFza8AADhhc.jpg",
+    "created_at": "2026-08-08T04:41:59Z"
   },
   {
     "id": "hbn-2026-08-16-live-event-5f9f9980",
@@ -1916,5 +1960,20 @@
     "post_url": "https://nitter.net/HBN_187/status/2081711206243709247#m",
     "image_url": "https://nitter.net/pic/media%2FHOOddDmbkAEqXE-.jpg",
     "created_at": "2026-07-27T12:00:02Z"
+  },
+  {
+    "id": "hbn-2027-08-07-live-idol-summer-jungle-2026-286c7fc9",
+    "group_id": "hbn",
+    "type": "live",
+    "title": "IDOL SUMMER JUNGLE 2026",
+    "date": "2027-08-07",
+    "time_start": "19:00",
+    "time_end": "19:15",
+    "venue": "SNAKE STAGE",
+    "ticket_url": "https://nitter.net/HBN_187/status/2085341825624400190#m",
+    "description": "💥本日はこちら💥 / このあとMONKEY STAGEにて熱いライブを届けます👊🐵 / 🎤14:35-14:55 / 📸15:15-16:15［6］",
+    "post_url": "https://nitter.net/HBN_187/status/2085947170600202452#m",
+    "image_url": "https://nitter.net/pic/media%2FHPCfVcPaIAAlSIH.jpg",
+    "created_at": "2026-08-08T04:32:15Z"
   }
 ]
