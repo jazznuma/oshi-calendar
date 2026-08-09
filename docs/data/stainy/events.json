@@ -1783,6 +1783,18 @@
     "created_at": "2026-08-04T11:14:49Z"
   },
   {
+    "id": "stainy-2026-08-10-live-neo-japonism-e630e487",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "NEO JAPONISM 大好きさんステージ",
+    "date": "2026-08-10",
+    "venue": "duo MUSIC EXCHANGE",
+    "description": "／ / 👾明日のSTAiNY✨ / ⚔️NEO KASSEN2026💥 / ＼",
+    "post_url": "https://nitter.net/STAiNY_official/status/2086399921956196455#m",
+    "image_url": "https://nitter.net/pic/media%2FHPRhqT8bMAAbF5_.jpg",
+    "created_at": "2026-08-09T10:31:19Z"
+  },
+  {
     "id": "stainy-2026-08-11-live-8-11-2b94cf0c",
     "group_id": "stainy",
     "type": "live",
@@ -1888,6 +1900,17 @@
     "created_at": "2026-07-27T13:16:59Z"
   },
   {
+    "id": "stainy-2026-08-15-release-tokyo-girls-girls-f011d844",
+    "group_id": "stainy",
+    "type": "release",
+    "title": "TOKYO GIRLS GIRLS",
+    "date": "2026-08-15",
+    "description": "【8/15(土)タイムテーブル公開🗼】 / 「TOKYO GIRLS GIRLS」 / 🏟品川ステラボール / 🎤17:40-18:05🗣️18:15-19:35(C)",
+    "post_url": "https://nitter.net/STAiNY_official/status/2086430445823279553#m",
+    "image_url": "https://nitter.net/pic/media%2FHPR9Y6cbMAA1G9s.jpg",
+    "created_at": "2026-08-09T12:32:36Z"
+  },
+  {
     "id": "stainy-2026-08-16-live-event-486bb4d5",
     "group_id": "stainy",
     "type": "live",
@@ -1901,6 +1924,21 @@
     "post_url": "https://nitter.net/STAiNY_official/status/2074463576698568867#m",
     "image_url": "https://nitter.net/pic/media%2FHMn5nn-aAAA3gzE.jpg",
     "created_at": "2026-07-07T12:00:33Z"
+  },
+  {
+    "id": "stainy-2026-08-17-live-rincent-stainy-2man-live-ech-5d6ff337",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "RiNCENT♯ × STAiNY 2MAN LIVE - ECHOES -",
+    "date": "2026-08-17",
+    "time_open": "12:00",
+    "time_start": "12:30",
+    "venue": "X-HALL ZEN",
+    "price": "前方4,000円/一般1,500円/当日+500円(各1D別)",
+    "description": "🏯9/6(日)名古屋2MAN情報✨ / 「RiNCENT♯ × STAiNY 2MAN LIVE - ECHOES -」 / RiNCENT♯さんと名古屋で2MAN💘 / お昼からたっぷり楽しみましょう〜〜👊💥",
+    "post_url": "https://nitter.net/STAiNY_official/status/2086423014703526354#m",
+    "image_url": "https://nitter.net/pic/media%2FHPR2rASbMAAHRZx.jpg",
+    "created_at": "2026-08-09T12:03:05Z"
   },
   {
     "id": "stainy-2026-08-20-live-reimei-vol-1-862f9e40",
@@ -2058,6 +2096,21 @@
     "post_url": "https://nitter.net/STAiNY_official/status/2076991116029858129#m",
     "image_url": "https://nitter.net/pic/media%2FHNLykKcbEAAIqJW.jpg",
     "created_at": "2026-07-14T11:24:05Z"
+  },
+  {
+    "id": "stainy-2026-09-06-live-rincent-stainy-2man-live-ech-1dc4f5d6",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "RiNCENT♯ × STAiNY 2MAN LIVE - ECHOES -",
+    "date": "2026-09-06",
+    "time_open": "12:00",
+    "time_start": "12:30",
+    "venue": "X-HALL ZEN",
+    "price": "前方4,000円/一般1,500円/当日+500円(各1D別)",
+    "description": "🏯9/6(日)名古屋2MAN情報✨ / 「RiNCENT♯ × STAiNY 2MAN LIVE - ECHOES -」 / RiNCENT♯さんと名古屋で2MAN💘 / お昼からたっぷり楽しみましょう〜〜👊💥",
+    "post_url": "https://nitter.net/STAiNY_official/status/2086423014703526354#m",
+    "image_url": "https://nitter.net/pic/media%2FHPR2rASbMAAHRZx.jpg",
+    "created_at": "2026-08-09T12:03:05Z"
   },
   {
     "id": "stainy-2026-09-11-live-yoru-fes-vol-11-0915tourfina-f81412d9",
