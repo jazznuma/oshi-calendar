@@ -404,22 +404,23 @@ a {
   display: grid;
   grid-template-columns: auto minmax(0, 1fr);
   align-items: center;
-  gap: 6px;
+  gap: 5px;
   min-height: 22px;
-  padding: 3px 8px;
+  padding: 2px 8px;
   border-radius: 99px;
-  background: var(--primary);
-  color: #fff;
+  background: #ffeef5;
+  color: #b81255;
   font-size: 0.72rem;
   font-weight: 800;
   line-height: 1.2;
-  box-shadow: 0 2px 4px rgba(255, 79, 154, 0.15);
-  border: 1px solid rgba(255, 255, 255, 0.25);
-  transition: transform 0.15s ease;
+  box-shadow: 0 1px 3px rgba(184, 18, 85, 0.08);
+  border: 1px solid #ffccd9;
+  transition: transform 0.15s ease, background-color 0.15s ease;
 }
 
 .event-chip:hover {
   transform: scale(1.03);
+  background: #ffdceb;
 }
 
 .event-chip time,
@@ -431,29 +432,45 @@ a {
 
 .event-chip time {
   font-weight: 900;
-  opacity: 0.95;
+  color: #a00046;
+}
+
+.event-chip.live {
+  background: #ffeef5;
+  color: #b81255;
+  border-color: #ffccd9;
 }
 
 .event-chip.ticket,
 .event-chip.deadline {
-  background: #f1ecf1;
-  color: #6a5c6d;
-  box-shadow: none;
-  border: 1px solid #e2d7e3;
+  background: #f4ecf5;
+  color: #7b4382;
+  border-color: #e2d2e4;
+}
+
+.event-chip.ticket time,
+.event-chip.deadline time {
+  color: #612d67;
 }
 
 .event-chip.release {
-  background: #e1f9f0;
-  color: #14806a;
-  box-shadow: none;
-  border: 1px solid #c8f3e2;
+  background: #e6f9f2;
+  color: #0d7a5f;
+  border-color: #c0f2e0;
+}
+
+.event-chip.release time {
+  color: #065944;
 }
 
 .event-chip.free {
-  background: #fff6e0;
-  color: #8c601b;
-  box-shadow: none;
-  border: 1px solid #ffe9b9;
+  background: #fff8e6;
+  color: #8c5b08;
+  border-color: #fee5b1;
+}
+
+.event-chip.free time {
+  color: #6b4300;
 }
 
 .event-chip.more {
@@ -539,19 +556,77 @@ a {
 
 .event-card {
   display: grid;
-  gap: 8px;
+  grid-template-columns: auto minmax(0, 1fr);
+  align-items: center;
+  gap: 14px;
   width: 100%;
-  padding: 16px;
+  padding: 14px 16px;
   border: 2px solid var(--line);
-  border-left: 8px solid var(--primary);
-  border-radius: 16px;
+  border-left: 6px solid var(--primary);
+  border-radius: 18px;
   background: #fff;
   color: inherit;
   cursor: pointer;
   text-align: left;
-  box-shadow: 0 6px 0 var(--line);
+  box-shadow: 0 5px 0 var(--line);
   transform: translateY(0);
   transition: transform 0.25s cubic-bezier(0.175, 0.885, 0.32, 1.275), box-shadow 0.25s ease, background-color 0.25s ease;
+}
+
+.event-date-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-width: 62px;
+  height: 58px;
+  padding: 4px;
+  border-radius: 14px;
+  background: #ffeef5;
+  border: 1px solid #ffd6e5;
+  color: #b81255;
+  text-align: center;
+  line-height: 1.15;
+  flex-shrink: 0;
+  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.6);
+}
+
+.event-card.ticket .event-date-box,
+.event-card.deadline .event-date-box {
+  background: #f4ecf5;
+  border-color: #e2d2e4;
+  color: #7b4382;
+}
+
+.event-card.release .event-date-box {
+  background: #e6f9f2;
+  border-color: #c0f2e0;
+  color: #0d7a5f;
+}
+
+.event-card.free .event-date-box {
+  background: #fff8e6;
+  border-color: #fee5b1;
+  color: #8c5b08;
+}
+
+.event-date-box .date-num {
+  font-size: 1.05rem;
+  font-weight: 900;
+  letter-spacing: -0.5px;
+}
+
+.event-date-box .date-dow {
+  font-size: 0.78rem;
+  font-weight: 800;
+  margin-top: 2px;
+  opacity: 0.9;
+}
+
+.event-card-body {
+  display: grid;
+  gap: 6px;
+  min-width: 0;
 }
 
 .event-card:hover {
@@ -749,8 +824,46 @@ a {
 .modal-actions {
   display: flex;
   flex-wrap: wrap;
-  gap: 10px;
-  margin-top: 8px;
+  gap: 12px;
+  margin-top: 14px;
+}
+
+.large-action-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex: 1 1 200px;
+  min-height: 52px;
+  padding: 12px 20px;
+  border-radius: 18px;
+  font-size: 1.02rem;
+  font-weight: 900;
+  text-decoration: none;
+  cursor: pointer;
+  box-shadow: 0 4px 12px rgba(98, 37, 70, 0.12);
+  transition: transform 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275), box-shadow 0.2s ease, filter 0.2s ease;
+}
+
+.large-action-button:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 20px rgba(98, 37, 70, 0.2);
+}
+
+.large-action-button:active {
+  transform: translateY(1px);
+  box-shadow: 0 2px 6px rgba(98, 37, 70, 0.1);
+}
+
+.large-action-button.primary {
+  background: linear-gradient(135deg, var(--primary), #ff7bb0);
+  color: #fff;
+  border: none;
+}
+
+.large-action-button.secondary {
+  background: #fff5f9;
+  color: var(--primary-dark);
+  border: 2px solid var(--primary);
 }
 
 .loading {

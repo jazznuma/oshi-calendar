@@ -249,22 +249,28 @@
 
   function renderEventCard(event) {
     const isNew = isNewEvent(event.created_at);
+    const badge = formatDateBadge(event.date);
     return `
       <button class="event-card ${escapeAttr(event.type)}" type="button" data-event-id="${escapeAttr(event.id)}">
-        <span class="event-card-header">
-          <span class="title-wrap">
-            <h3>${escapeHtml(event.title)}</h3>
-            ${isNew ? `<span class="new-badge-ui">NEW</span>` : ""}
+        <div class="event-date-box">
+          <span class="date-num">${escapeHtml(badge.num)}</span>
+          <span class="date-dow">${escapeHtml(badge.dow)}</span>
+        </div>
+        <div class="event-card-body">
+          <span class="event-card-header">
+            <span class="title-wrap">
+              <h3>${escapeHtml(event.title)}</h3>
+              ${isNew ? `<span class="new-badge-ui">NEW</span>` : ""}
+            </span>
+            <span class="type-badge">${escapeHtml(typeLabels[event.type] || event.type)}</span>
           </span>
-          <span class="type-badge">${escapeHtml(typeLabels[event.type] || event.type)}</span>
-        </span>
-        <span class="event-card-meta">
-          <span>${escapeHtml(formatDateLabel(event.date))}</span>
-          ${event.time_open ? `<span>OPEN ${escapeHtml(event.time_open)}</span>` : ""}
-          ${event.time_start ? `<span>START ${escapeHtml(event.time_start)}</span>` : ""}
-          ${event.time_end ? `<span>END ${escapeHtml(event.time_end)}</span>` : ""}
-          ${event.venue ? `<span>${escapeHtml(event.venue)}</span>` : ""}
-        </span>
+          <span class="event-card-meta">
+            ${event.time_open ? `<span>OPEN ${escapeHtml(event.time_open)}</span>` : ""}
+            ${event.time_start ? `<span>START ${escapeHtml(event.time_start)}</span>` : ""}
+            ${event.time_end ? `<span>END ${escapeHtml(event.time_end)}</span>` : ""}
+            ${event.venue ? `<span>${escapeHtml(event.venue)}</span>` : ""}
+          </span>
+        </div>
       </button>
     `;
   }
@@ -358,8 +364,8 @@
       ${event.image_url ? `<div class="modal-image"><img src="${escapeAttr(event.image_url)}" alt="イベント画像" loading="lazy" onerror="this.parentNode.style.display='none';" /></div>` : ""}
       ${event.description ? `<p>${escapeHtml(event.description)}</p>` : ""}
       <div class="modal-actions">
-        ${event.ticket_url ? `<a class="primary-button" href="${escapeAttr(event.ticket_url)}" target="_blank" rel="noreferrer">チケット/詳細</a>` : ""}
-        ${event.post_url ? `<a class="pill-link" href="${escapeAttr(event.post_url)}" target="_blank" rel="noreferrer">元ポスト</a>` : ""}
+        ${event.ticket_url ? `<a class="large-action-button primary" href="${escapeAttr(event.ticket_url)}" target="_blank" rel="noreferrer">🎫 チケット詳細・購入</a>` : ""}
+        ${event.post_url ? `<a class="large-action-button secondary" href="${escapeAttr(event.post_url)}" target="_blank" rel="noreferrer">🔗 元ポストを見る</a>` : ""}
       </div>
     `;
     backdrop.classList.add("open");
@@ -433,6 +439,15 @@
   function formatDateLabel(dateKey) {
     const date = parseDateKey(dateKey);
     return `${date.getMonth() + 1}/${date.getDate()}(${fmtWeekday.format(date)})`;
+  }
+
+  function formatDateBadge(dateKey) {
+    if (!dateKey) return { num: "--/--", dow: "" };
+    const date = parseDateKey(dateKey);
+    return {
+      num: `${date.getMonth() + 1}/${date.getDate()}`,
+      dow: `(${fmtWeekday.format(date)})`
+    };
   }
 
   function escapeHtml(value) {
