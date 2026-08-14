@@ -1710,7 +1710,7 @@
     "time_start": "18:30",
     "venue": "品川インターシティホール",
     "description": "2026.8.13 @品川インターシティホール / 「明星現象 -The Stars We Found-」 / 本日はご来場いただきありがとうございました✨ / そして、衛星とカラテアさん、お呼びいただき誠にありがとうございました💫",
-    "post_url": "https://nitter.net/STAiNY_official/status/2087807938685767871#m",
+    "post_url": "2087807938685767871",
     "image_url": "https://nitter.net/pic/amplify_video_thumb%2F2087807631490772992%2Fimg%2F0rOVANPYH3Dzt9TO.jpg",
     "created_at": "2026-08-13T07:46:16Z"
   },
@@ -1759,7 +1759,7 @@
     "time_start": "18:30",
     "venue": "品川インターシティホール",
     "description": "2026.8.13 @品川インターシティホール / 「明星現象 -The Stars We Found-」 / 本日はご来場いただきありがとうございました✨ / そして、衛星とカラテアさん、お呼びいただき誠にありがとうございました💫",
-    "post_url": "https://nitter.net/STAiNY_official/status/2087807938685767871#m",
+    "post_url": "2087807938685767871",
     "image_url": "https://nitter.net/pic/amplify_video_thumb%2F2087807631490772992%2Fimg%2F0rOVANPYH3Dzt9TO.jpg",
     "created_at": "2026-08-13T07:46:16Z"
   },
@@ -1770,8 +1770,8 @@
     "title": "Buzz Buzz Premium!! チケ発",
     "date": "2026-08-14",
     "time_start": "21:00",
-    "post_url": "https://nitter.net/STAiNY_official/status/2087885711093715225#m",
-    "image_url": "https://nitter.net/pic/media%2FHPmo9FwagAA30OE.jpg",
+    "post_url": "2087885711093715225",
+    "image_url": "https://pbs.twimg.com/media/HPmo9FwagAA30OE.jpg",
     "created_at": "2026-08-13T12:55:19Z"
   },
   {
@@ -1804,6 +1804,48 @@
     "created_at": "2026-07-19T11:02:51Z"
   },
   {
+    "id": "stainy-2026-08-15-live-1-2-13-93778987",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "東京都新宿区歌舞伎町1丁目2-13",
+    "date": "2026-08-15",
+    "time_open": "12:00",
+    "time_start": "12:20",
+    "venue": "新宿WALLY",
+    "price": "前売優先3000円/前売通常1000円/当日+500円(各1D別)",
+    "ticket_url": "https://nitter.net/STAiNY_official/status/2088260497489744067#m",
+    "description": "単独公演のフライヤーに記載している住所に誤りがございました。 / 正しくは「東京都新宿区歌舞伎町1丁目2-13」です。 / お間違えのないようお気をつけてお越しください。 / STAiNY (@STAiNY_official)",
+    "post_url": "2088268374547812557",
+    "image_url": "https://pbs.twimg.com/media/HPr92qOaUAAZ_RI.jpg",
+    "created_at": "2026-08-14T14:15:53Z"
+  },
+  {
+    "id": "stainy-2026-08-15-live-event-9a282039",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "単独公演-夏私服-",
+    "date": "2026-08-15",
+    "time_open": "12:00",
+    "time_start": "12:20",
+    "venue": "新宿WALLY",
+    "price": "前売優先3000円/前売通常1000円/当日+500円(各1D別)",
+    "description": "／ / 👾明日のSTAiNY✨ / ＼ / 「単独公演-夏私服-」",
+    "post_url": "2088260497489744067",
+    "image_url": "https://pbs.twimg.com/media/HPr92qOaUAAZ_RI.jpg",
+    "created_at": "2026-08-14T13:44:35Z"
+  },
+  {
+    "id": "stainy-2026-08-15-ticket-age-fes-1a312f39",
+    "group_id": "stainy",
+    "type": "ticket",
+    "title": "AGE FES チケ発",
+    "date": "2026-08-15",
+    "time_start": "21:00",
+    "post_url": "2088234325829619995",
+    "image_url": "https://pbs.twimg.com/media/HPrmCmka0AAapdF.jpg",
+    "created_at": "2026-08-14T12:00:35Z"
+  },
+  {
     "id": "stainy-2026-08-15-live-tokyo-girls-girls-04317829",
     "group_id": "stainy",
     "type": "live",
@@ -1824,8 +1866,8 @@
     "title": "TOKYO GIRLS GIRLS",
     "date": "2026-08-15",
     "description": "【8/15(土)タイムテーブル公開🗼】 / 「TOKYO GIRLS GIRLS」 / 🏟品川ステラボール / 🎤17:40-18:05🗣️18:15-19:35(C)",
-    "post_url": "https://nitter.net/STAiNY_official/status/2086430445823279553#m",
-    "image_url": "https://nitter.net/pic/media%2FHPR9Y6cbMAA1G9s.jpg",
+    "post_url": "2086430445823279553",
+    "image_url": "https://pbs.twimg.com/media/HPR9Y6cbMAA1G9s.jpg",
     "created_at": "2026-08-09T12:32:36Z"
   },
   {
@@ -1844,6 +1886,17 @@
     "created_at": "2026-07-07T12:00:33Z"
   },
   {
+    "id": "stainy-2026-08-16-ticket-event-f59eda01",
+    "group_id": "stainy",
+    "type": "ticket",
+    "title": "｢名古屋の皆さんいらっしゃい編｣ チケ発",
+    "date": "2026-08-16",
+    "time_start": "21:00",
+    "post_url": "2088219688044233160",
+    "image_url": "https://pbs.twimg.com/media/HPrYun9boAI8Tjy.jpg",
+    "created_at": "2026-08-14T11:02:25Z"
+  },
+  {
     "id": "stainy-2026-08-17-live-rincent-stainy-2man-live-ech-5d6ff337",
     "group_id": "stainy",
     "type": "live",
@@ -1854,8 +1907,8 @@
     "venue": "X-HALL ZEN",
     "price": "前方4,000円/一般1,500円/当日+500円(各1D別)",
     "description": "🏯9/6(日)名古屋2MAN情報✨ / 「RiNCENT♯ × STAiNY 2MAN LIVE - ECHOES -」 / RiNCENT♯さんと名古屋で2MAN💘 / お昼からたっぷり楽しみましょう〜〜👊💥",
-    "post_url": "https://nitter.net/STAiNY_official/status/2086423014703526354#m",
-    "image_url": "https://nitter.net/pic/media%2FHPR2rASbMAAHRZx.jpg",
+    "post_url": "2086423014703526354",
+    "image_url": "https://pbs.twimg.com/media/HPR2rASbMAAHRZx.jpg",
     "created_at": "2026-08-09T12:03:05Z"
   },
   {
@@ -1868,8 +1921,8 @@
     "time_start": "11:45",
     "venue": "下北沢シャングリラ",
     "description": "【9/19(土)対バン情報🌪】 / 「IDOL STORM」 / 🏟下北沢シャングリラ / 🚪開場11:15/開演11:45",
-    "post_url": "https://nitter.net/STAiNY_official/status/2087127203670798375#m",
-    "image_url": "https://nitter.net/pic/media%2FHPb3ICjbEAAh4lM.jpg",
+    "post_url": "2087127203670798375",
+    "image_url": "https://pbs.twimg.com/media/HPb3ICjbEAAh4lM.jpg",
     "created_at": "2026-08-11T10:41:16Z"
   },
   {
@@ -2009,8 +2062,8 @@
     "time_start": "11:00",
     "venue": "duo MUSIC EXCHANGE",
     "description": "【8/30(日)LIVE情報💥】 / 「AGE FES」 / 🏟duo MUSIC EXCHANGE / 🚪開場10:40/開演11:00",
-    "post_url": "https://nitter.net/STAiNY_official/status/2086761173886861692#m",
-    "image_url": "https://nitter.net/pic/media%2FHPWqMePbkAA78cG.jpg",
+    "post_url": "2086761173886861692",
+    "image_url": "https://pbs.twimg.com/media/HPWqMePbkAA78cG.jpg",
     "created_at": "2026-08-10T10:26:48Z"
   },
   {
@@ -2024,8 +2077,8 @@
     "venue": "Spotify O-EAST",
     "price": "前方8,000円/一般3,500円/当日+500円(各1D別)",
     "description": "【9/3(木)対バン情報ꉂꉂ📣】 / 「Buzz Buzz Premium!!」 / 🏟Spotify O-EAST / 🚪開場13:30/🏁開演13:40",
-    "post_url": "https://nitter.net/STAiNY_official/status/2087885711093715225#m",
-    "image_url": "https://nitter.net/pic/media%2FHPmo9FwagAA30OE.jpg",
+    "post_url": "2087885711093715225",
+    "image_url": "https://pbs.twimg.com/media/HPmo9FwagAA30OE.jpg",
     "created_at": "2026-08-13T12:55:19Z"
   },
   {
@@ -2042,6 +2095,21 @@
     "post_url": "https://nitter.net/STAiNY_official/status/2076991116029858129#m",
     "image_url": "https://nitter.net/pic/media%2FHNLykKcbEAAIqJW.jpg",
     "created_at": "2026-07-14T11:24:05Z"
+  },
+  {
+    "id": "stainy-2026-09-05-live-event-0785b95a",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "｢名古屋の皆さんいらっしゃい編｣",
+    "date": "2026-09-05",
+    "time_open": "19:00",
+    "time_start": "19:20",
+    "venue": "X-HALL ZEN",
+    "price": "前売優先3000円/前売通常0円(D代事前徴収)/当日+500円(優先1D別)",
+    "description": "【9/5(土)単独公演🏯✨】 / ｢名古屋の皆さんいらっしゃい編｣ / 🏟X-HALL ZEN / 🚪開場19:00/🏁開演19:20",
+    "post_url": "2088219688044233160",
+    "image_url": "https://pbs.twimg.com/media/HPrYun9boAI8Tjy.jpg",
+    "created_at": "2026-08-14T11:02:25Z"
   },
   {
     "id": "stainy-2026-09-06-live-nagoya-girls-girls-49443e06",
@@ -2069,9 +2137,23 @@
     "venue": "X-HALL ZEN",
     "price": "前方4,000円/一般1,500円/当日+500円(各1D別)",
     "description": "🏯9/6(日)名古屋2MAN情報✨ / 「RiNCENT♯ × STAiNY 2MAN LIVE - ECHOES -」 / RiNCENT♯さんと名古屋で2MAN💘 / お昼からたっぷり楽しみましょう〜〜👊💥",
-    "post_url": "https://nitter.net/STAiNY_official/status/2086423014703526354#m",
-    "image_url": "https://nitter.net/pic/media%2FHPR2rASbMAAHRZx.jpg",
+    "post_url": "2086423014703526354",
+    "image_url": "https://pbs.twimg.com/media/HPR2rASbMAAHRZx.jpg",
     "created_at": "2026-08-09T12:03:05Z"
+  },
+  {
+    "id": "stainy-2026-09-09-live-age-fes-faf9de13",
+    "group_id": "stainy",
+    "type": "live",
+    "title": "AGE FES",
+    "date": "2026-09-09",
+    "time_open": "14:20",
+    "time_start": "14:40",
+    "venue": "WOMB LIVE",
+    "description": "【9/9(水)LIVE情報💥】 / 「AGE FES」 / 🏟WOMB LIVE / 🚪開場14:20/開演14:40",
+    "post_url": "2088234325829619995",
+    "image_url": "https://pbs.twimg.com/media/HPrmCmka0AAapdF.jpg",
+    "created_at": "2026-08-14T12:00:35Z"
   },
   {
     "id": "stainy-2026-09-11-live-yoru-fes-vol-11-0915tourfina-f81412d9",
@@ -2152,8 +2234,8 @@
     "time_start": "11:45",
     "venue": "下北沢シャングリラ",
     "description": "【9/19(土)対バン情報🌪】 / 「IDOL STORM」 / 🏟下北沢シャングリラ / 🚪開場11:15/開演11:45",
-    "post_url": "https://nitter.net/STAiNY_official/status/2087127203670798375#m",
-    "image_url": "https://nitter.net/pic/media%2FHPb3ICjbEAAh4lM.jpg",
+    "post_url": "2087127203670798375",
+    "image_url": "https://pbs.twimg.com/media/HPb3ICjbEAAh4lM.jpg",
     "created_at": "2026-08-11T10:41:16Z"
   },
   {
