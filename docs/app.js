@@ -159,6 +159,7 @@
   function renderDayCell(date) {
     const dateKey = toDateKey(date);
     const dayEvents = state.events.filter((event) => event.date === dateKey);
+    dayEvents.sort(compareEvents);
     const inMonth = date.getMonth() === state.month.getMonth();
     const isToday = dateKey === toDateKey(new Date());
     const isSelected = dateKey === state.selectedDate;
@@ -412,8 +413,22 @@
     });
   }
 
+  function getTimeSortKey(event) {
+    const rawTime = event.time_open || event.time_start;
+    if (!rawTime) return "99:99";
+    const match = String(rawTime).match(/(\d{1,2}):(\d{2})/);
+    if (match) {
+      const h = match[1].padStart(2, "0");
+      const m = match[2];
+      return `${h}:${m}`;
+    }
+    return "99:99";
+  }
+
   function compareEvents(a, b) {
-    return `${a.date} ${a.time_start || "99:99"}`.localeCompare(`${b.date} ${b.time_start || "99:99"}`);
+    const keyA = `${a.date} ${getTimeSortKey(a)}`;
+    const keyB = `${b.date} ${getTimeSortKey(b)}`;
+    return keyA.localeCompare(keyB);
   }
 
   function addMonths(date, amount) {
