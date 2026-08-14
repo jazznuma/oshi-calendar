@@ -652,12 +652,35 @@ a {
 .modal {
   width: min(620px, 100%);
   max-height: min(760px, calc(100vh - 36px));
-  overflow: auto;
+  overflow-y: auto;
+  overflow-x: hidden;
   border-radius: 28px;
   background: #fff;
   box-shadow: 0 20px 50px rgba(98, 37, 70, 0.2);
   border: 3px solid var(--line);
-  padding: 12px;
+  padding: 8px 6px 12px 12px;
+  scrollbar-width: thin;
+  scrollbar-color: #f0c2d4 transparent;
+}
+
+.modal::-webkit-scrollbar {
+  width: 8px;
+}
+
+.modal::-webkit-scrollbar-track {
+  background: transparent;
+  margin: 20px 0;
+}
+
+.modal::-webkit-scrollbar-thumb {
+  background: #f0c2d4;
+  border-radius: 99px;
+  border: 2px solid transparent;
+  background-clip: padding-box;
+}
+
+.modal::-webkit-scrollbar-thumb:hover {
+  background: var(--primary);
 }
 
 .modal-header {
