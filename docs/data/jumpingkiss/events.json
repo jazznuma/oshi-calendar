@@ -82,15 +82,6 @@
     "created_at": "2026-06-04T09:59:54.382Z"
   },
   {
-    "id": "jumpingkiss-2026-04-29-live---679b89b7",
-    "group_id": "jumpingkiss",
-    "type": "live",
-    "title": "※雪本恋百、休演です🙇",
-    "date": "2026-04-29",
-    "description": "※雪本恋百、休演です🙇",
-    "created_at": "2026-06-04T09:59:54.382Z"
-  },
-  {
     "id": "jumpingkiss-2026-04-29-live--showroom--1d7c578",
     "group_id": "jumpingkiss",
     "type": "live",
@@ -98,6 +89,15 @@
     "date": "2026-04-29",
     "time_start": "9:30",
     "description": "※振替配信【さくらだ配信】山田莉愛&桜井里咲 [SHOWROOM]",
+    "created_at": "2026-06-04T09:59:54.382Z"
+  },
+  {
+    "id": "jumpingkiss-2026-04-29-live---679b89b7",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "※雪本恋百、休演です🙇",
+    "date": "2026-04-29",
+    "description": "※雪本恋百、休演です🙇",
     "created_at": "2026-06-04T09:59:54.382Z"
   },
   {
@@ -902,18 +902,6 @@
     "created_at": "2026-06-04T13:59:20Z"
   },
   {
-    "id": "jumpingkiss-2026-06-05-live-event-aa471980",
-    "group_id": "jumpingkiss",
-    "type": "live",
-    "title": "📢出演します！📢",
-    "date": "2026-06-05",
-    "time_start": "10:00",
-    "description": "📢出演します！📢 / 💣ワンコインBOMBER!!💣 / 📅6月20日（土） / 🎪GOTANDA G2",
-    "post_url": "https://nitter.net/jumpingkiss/status/2062534671158870094#m",
-    "image_url": "https://nitter.net/pic/media%2FHJ-XsHVawAAsyI_.jpg",
-    "created_at": "2026-06-04T13:59:20Z"
-  },
-  {
     "id": "jumpingkiss-2026-06-06-live-event-bc69ca19",
     "group_id": "jumpingkiss",
     "type": "live",
@@ -1009,6 +997,18 @@
     "created_at": "2026-06-04T09:59:54.381Z"
   },
   {
+    "id": "jumpingkiss-2026-06-06-free-3-94247061",
+    "group_id": "jumpingkiss",
+    "type": "free",
+    "title": "📢今日の3本目は！📢",
+    "date": "2026-06-06",
+    "time_start": "9:40",
+    "description": "📢今日の3本目は！📢 / 🌈無銭ぷろじぇくと!! vol.78🌈 / 📅6月6日(土) / 🎪GOTANDA G6",
+    "post_url": "https://nitter.net/jumpingkiss/status/2063063824597422300#m",
+    "image_url": "https://nitter.net/pic/media%2FHKDcktpasAAUUQ_.jpg",
+    "created_at": "2026-06-06T01:02:00Z"
+  },
+  {
     "id": "jumpingkiss-2026-06-06-live-pinned-jumpingkiss-live-info-dad1e6d2",
     "group_id": "jumpingkiss",
     "type": "live",
@@ -1028,18 +1028,6 @@
     "date": "2026-06-06",
     "description": "※桜井里咲、休演です🙇",
     "created_at": "2026-06-04T09:59:54.381Z"
-  },
-  {
-    "id": "jumpingkiss-2026-06-06-free-3-94247061",
-    "group_id": "jumpingkiss",
-    "type": "free",
-    "title": "📢今日の3本目は！📢",
-    "date": "2026-06-06",
-    "time_start": "9:40",
-    "description": "📢今日の3本目は！📢 / 🌈無銭ぷろじぇくと!! vol.78🌈 / 📅6月6日(土) / 🎪GOTANDA G6",
-    "post_url": "https://nitter.net/jumpingkiss/status/2063063824597422300#m",
-    "image_url": "https://nitter.net/pic/media%2FHKDcktpasAAUUQ_.jpg",
-    "created_at": "2026-06-06T01:02:00Z"
   },
   {
     "id": "jumpingkiss-2026-06-07-live--jk-3--137cf77f",
@@ -1213,17 +1201,6 @@
     "created_at": "2026-06-07T11:45:37Z"
   },
   {
-    "id": "jumpingkiss-2026-06-09-live-event-cc2ebc7a",
-    "group_id": "jumpingkiss",
-    "type": "live",
-    "title": "📢速報！📢",
-    "date": "2026-06-09",
-    "description": "📢速報！📢 / ☕️JumpingKiss Lunch Meeting in Nagoya☕️ / 📅6月13日（土） / ⏰12時30分〜",
-    "post_url": "https://nitter.net/jumpingkiss/status/2063933889828274475#m",
-    "image_url": "https://nitter.net/pic/media%2FHKSQ1uwbIAAMqgg.jpg",
-    "created_at": "2026-06-08T10:39:20Z"
-  },
-  {
     "id": "jumpingkiss-2026-06-10-live-showroom--5986f3e5",
     "group_id": "jumpingkiss",
     "type": "live",
@@ -1262,17 +1239,6 @@
     "description": "📢速報！📢 / 📸Nagoya Rainy Season Photo Shoot📸 / 📅6月14日（日） / ⛲️場所：名古屋市内（詳しくはお申し込みされた方にメールでお知らせします）",
     "post_url": "https://nitter.net/jumpingkiss/status/2063588183862911316#m",
     "image_url": "https://nitter.net/pic/media%2FHKNWaDvbgAA0i6O.jpg",
-    "created_at": "2026-06-07T11:44:13Z"
-  },
-  {
-    "id": "jumpingkiss-2026-06-12-live-event-e7ea8cc8",
-    "group_id": "jumpingkiss",
-    "type": "live",
-    "title": "📢速報！📢",
-    "date": "2026-06-12",
-    "description": "📢速報！📢 / 📸Nagoya Rainy Season Photo Shoot📸 / 📅6月13日（土） / ⛲️場所：名古屋市内（詳しくはお申し込みされた方にメールでお知らせします）",
-    "post_url": "https://nitter.net/jumpingkiss/status/2063587833055703239#m",
-    "image_url": "https://nitter.net/pic/media%2FHKNWAeiakAAWk6O.jpg",
     "created_at": "2026-06-07T11:44:13Z"
   },
   {
@@ -1351,17 +1317,6 @@
     "post_url": "https://nitter.net/jumpingkiss/status/2063587833055703239#m",
     "image_url": "https://nitter.net/pic/media%2FHKNWAeiakAAWk6O.jpg",
     "created_at": "2026-06-07T11:44:13Z"
-  },
-  {
-    "id": "jumpingkiss-2026-06-13-live-event-9aed199f",
-    "group_id": "jumpingkiss",
-    "type": "live",
-    "title": "📢速報！📢",
-    "date": "2026-06-13",
-    "description": "📢速報！📢 / ☕️JumpingKiss Lunch Meeting in Nagoya☕️ / 📅6月13日（土） / ⏰12時30分〜",
-    "post_url": "https://nitter.net/jumpingkiss/status/2063933889828274475#m",
-    "image_url": "https://nitter.net/pic/media%2FHKSQ1uwbIAAMqgg.jpg",
-    "created_at": "2026-06-08T10:39:20Z"
   },
   {
     "id": "jumpingkiss-2026-06-14-free-event-8f5f31a5",
@@ -1528,6 +1483,30 @@
     "created_at": "2026-06-08T00:53:14.459Z"
   },
   {
+    "id": "jumpingkiss-2026-06-20-free-event-d8f123af",
+    "group_id": "jumpingkiss",
+    "type": "free",
+    "title": "📢出演します！📢",
+    "date": "2026-06-20",
+    "time_start": "9:40",
+    "description": "📢出演します！📢 / 🌈無銭ぷろじぇくと!! vol.82🌈 / 📅6月20日(土) / 🎪GOTANDA G6",
+    "post_url": "https://nitter.net/jumpingkiss/status/2062152645322969137#m",
+    "image_url": "https://nitter.net/pic/media%2FHJ48ko4bgAAIHJ8.jpg",
+    "created_at": "2026-06-03T12:41:18Z"
+  },
+  {
+    "id": "jumpingkiss-2026-06-20-free-3-e0623931",
+    "group_id": "jumpingkiss",
+    "type": "free",
+    "title": "📣明日の3本目は！📣",
+    "date": "2026-06-20",
+    "time_start": "9:40",
+    "description": "📣明日の3本目は！📣 / 🌈無銭ぷろじぇくと!! vol.82🌈 / 📅6月20日(土) / 🎪GOTANDA G6",
+    "post_url": "https://nitter.net/jumpingkiss/status/2067970719796080777#m",
+    "image_url": "https://nitter.net/pic/media%2FHLLoaObbkAAYPQ2.jpg",
+    "created_at": "2026-06-19T14:00:15Z"
+  },
+  {
     "id": "jumpingkiss-2026-06-20-live-pinned-jumpingkiss-live-info-49afeb12",
     "group_id": "jumpingkiss",
     "type": "live",
@@ -1556,30 +1535,6 @@
     "date": "2026-06-20",
     "description": "🌈無銭ぷろじぇくと!! vol.82🌈",
     "created_at": "2026-06-04T09:59:54.381Z"
-  },
-  {
-    "id": "jumpingkiss-2026-06-20-free-event-d8f123af",
-    "group_id": "jumpingkiss",
-    "type": "free",
-    "title": "📢出演します！📢",
-    "date": "2026-06-20",
-    "time_start": "9:40",
-    "description": "📢出演します！📢 / 🌈無銭ぷろじぇくと!! vol.82🌈 / 📅6月20日(土) / 🎪GOTANDA G6",
-    "post_url": "https://nitter.net/jumpingkiss/status/2062152645322969137#m",
-    "image_url": "https://nitter.net/pic/media%2FHJ48ko4bgAAIHJ8.jpg",
-    "created_at": "2026-06-03T12:41:18Z"
-  },
-  {
-    "id": "jumpingkiss-2026-06-20-free-3-e0623931",
-    "group_id": "jumpingkiss",
-    "type": "free",
-    "title": "📣明日の3本目は！📣",
-    "date": "2026-06-20",
-    "time_start": "9:40",
-    "description": "📣明日の3本目は！📣 / 🌈無銭ぷろじぇくと!! vol.82🌈 / 📅6月20日(土) / 🎪GOTANDA G6",
-    "post_url": "https://nitter.net/jumpingkiss/status/2067970719796080777#m",
-    "image_url": "https://nitter.net/pic/media%2FHLLoaObbkAAYPQ2.jpg",
-    "created_at": "2026-06-19T14:00:15Z"
   },
   {
     "id": "jumpingkiss-2026-06-21-live-event-a1cfa96c",
@@ -1671,17 +1626,6 @@
     "description": "詳細水曜日とお知らせしましたが、たったいま、解禁できました！皆様のご来場、お待ちしています！ / Jumping Kiss公式 (@jumpingkiss) / 📢速報！📢 / 🎤JumpingKiss単独公演「NON STOP LIVE Vol.4」🎤",
     "post_url": "https://nitter.net/jumpingkiss/status/2066517043843850271#m",
     "image_url": "https://nitter.net/pic/media%2FHK29lXgboAEMUbe.jpg",
-    "created_at": "2026-06-15T13:43:51Z"
-  },
-  {
-    "id": "jumpingkiss-2026-06-21-free-non-stop-live-vol-4-41cf6e65",
-    "group_id": "jumpingkiss",
-    "type": "free",
-    "title": "NON STOP LIVE Vol.4",
-    "date": "2026-06-21",
-    "description": "📢速報！📢 / 🎤JumpingKiss単独公演「NON STOP LIVE Vol.4」🎤 / 📅6月21日（日） / 🎪会場：GOTANDA G6",
-    "post_url": "https://nitter.net/jumpingkiss/status/2066516564502012135#m",
-    "image_url": "https://nitter.net/pic/media%2FHK29lXgboAEMUbe.jpg",
     "created_at": "2026-06-15T13:41:57Z"
   },
   {
@@ -1695,17 +1639,6 @@
     "created_at": "2026-06-15T11:09:22Z"
   },
   {
-    "id": "jumpingkiss-2026-06-21-free-non-stop-live-vol-4-1200f355",
-    "group_id": "jumpingkiss",
-    "type": "free",
-    "title": "NON STOP LIVE Vol.4",
-    "date": "2026-06-21",
-    "description": "📢明日の1本目は！📢 / 🎤JumpingKiss単独公演「NON STOP LIVE Vol.4」🎤 / 📅6月21日（日） / 🎪会場：GOTANDA G6",
-    "post_url": "https://nitter.net/jumpingkiss/status/2068323870680256950#m",
-    "image_url": "https://nitter.net/pic/media%2FHLQpX9mbEAANsux.jpg",
-    "created_at": "2026-06-20T13:23:33Z"
-  },
-  {
     "id": "jumpingkiss-2026-06-22-live-showroom--c5eaa3c",
     "group_id": "jumpingkiss",
     "type": "live",
@@ -1714,18 +1647,6 @@
     "time_start": "19:30",
     "description": "【配信】19:30〜秋月柑七 [SHOWROOM]",
     "created_at": "2026-06-04T09:59:54.382Z"
-  },
-  {
-    "id": "jumpingkiss-2026-06-22-live-event-4dd82c70",
-    "group_id": "jumpingkiss",
-    "type": "live",
-    "title": "📢出演します！📢",
-    "date": "2026-06-22",
-    "time_start": "22:00",
-    "description": "📢出演します！📢 / 🎂れいちゃん生誕祭🎂 / 📅7月4日（日） / 🎪渋谷Milky Way",
-    "post_url": "https://nitter.net/jumpingkiss/status/2068680338356732309#m",
-    "image_url": "https://nitter.net/pic/media%2FHLVkMzWagAAUQ8P.jpg",
-    "created_at": "2026-06-21T13:00:01Z"
   },
   {
     "id": "jumpingkiss-2026-06-22-live-event-c3f217f3",
@@ -1738,7 +1659,7 @@
     "description": "📢出演します！📢 / 💣ワンコインBOMBER!!💣 / 📅7月5日（日） / 🎪原宿GE Theater",
     "post_url": "https://nitter.net/jumpingkiss/status/2068888415886840203#m",
     "image_url": "https://nitter.net/pic/media%2FHLYqpmHb0AAs2FJ.jpg",
-    "created_at": "2026-06-22T02:46:51Z"
+    "created_at": "2026-06-21T13:00:01Z"
   },
   {
     "id": "jumpingkiss-2026-06-23-live-event-5af99e1f",
@@ -1877,30 +1798,6 @@
     "created_at": "2026-06-04T09:59:54.382Z"
   },
   {
-    "id": "jumpingkiss-2026-06-28-live-pinned-jumpingkiss-live-info-91302663",
-    "group_id": "jumpingkiss",
-    "type": "live",
-    "title": "Pinned: 🎤JumpingKiss LIVE Information🎤",
-    "date": "2026-06-28",
-    "ticket_url": "https://timetreeapp.com/public_calendars/jumpingkiss",
-    "description": "Pinned: 🎤JumpingKiss LIVE Information🎤 / 🆕スケジュール新しくなりました（タイムツリー）🆕 / 🌲新しいスケジュール→https://timetreeapp.com/public_calendars/jumpingkiss / 🆕2026年5月28日更新🆕",
-    "post_url": "https://nitter.net/jumpingkiss/status/2060018139883262201#m",
-    "image_url": "https://nitter.net/pic/media%2FHJaYdNib0AAAAqF.jpg",
-    "created_at": "2026-05-28T15:19:32Z"
-  },
-  {
-    "id": "jumpingkiss-2026-06-28-live-jumping-kiss-20c3a388",
-    "group_id": "jumpingkiss",
-    "type": "live",
-    "title": "Jumping Kiss イベント",
-    "date": "2026-06-28",
-    "ticket_url": "https://timetreeapp.com/public_calendars/jumpingkiss",
-    "description": "Pinned: 🎤JumpingKiss LIVE Information🎤 🆕スケジュール新しくなりました（タイムツリー）🆕 🌲新しいスケジュール→https://timetreeapp.com/public_calendars/jumpingkiss 🆕2026年6月26日更新🆕 ℹ️6月26日以降のライブ・イベン",
-    "post_url": "https://nitter.net/jumpingkiss/status/2070468511298912621#m",
-    "image_url": "https://nitter.net/pic/media%2FHLvGPqlbwAA8Y2z.jpg",
-    "created_at": "2026-06-26T11:25:35Z"
-  },
-  {
     "id": "jumpingkiss-2026-06-28-free-event-550a7b33",
     "group_id": "jumpingkiss",
     "type": "free",
@@ -1937,6 +1834,30 @@
     "created_at": "2026-06-27T11:38:34Z"
   },
   {
+    "id": "jumpingkiss-2026-06-28-live-pinned-jumpingkiss-live-info-91302663",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "Pinned: 🎤JumpingKiss LIVE Information🎤",
+    "date": "2026-06-28",
+    "ticket_url": "https://timetreeapp.com/public_calendars/jumpingkiss",
+    "description": "Pinned: 🎤JumpingKiss LIVE Information🎤 / 🆕スケジュール新しくなりました（タイムツリー）🆕 / 🌲新しいスケジュール→https://timetreeapp.com/public_calendars/jumpingkiss / 🆕2026年5月28日更新🆕",
+    "post_url": "https://nitter.net/jumpingkiss/status/2060018139883262201#m",
+    "image_url": "https://nitter.net/pic/media%2FHJaYdNib0AAAAqF.jpg",
+    "created_at": "2026-05-28T15:19:32Z"
+  },
+  {
+    "id": "jumpingkiss-2026-06-28-live-jumping-kiss-20c3a388",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "Jumping Kiss イベント",
+    "date": "2026-06-28",
+    "ticket_url": "https://timetreeapp.com/public_calendars/jumpingkiss",
+    "description": "Pinned: 🎤JumpingKiss LIVE Information🎤 🆕スケジュール新しくなりました（タイムツリー）🆕 🌲新しいスケジュール→https://timetreeapp.com/public_calendars/jumpingkiss 🆕2026年6月26日更新🆕 ℹ️6月26日以降のライブ・イベン",
+    "post_url": "https://nitter.net/jumpingkiss/status/2070468511298912621#m",
+    "image_url": "https://nitter.net/pic/media%2FHLvGPqlbwAA8Y2z.jpg",
+    "created_at": "2026-06-26T11:25:35Z"
+  },
+  {
     "id": "jumpingkiss-2026-06-29-live-showroom--4103bc43",
     "group_id": "jumpingkiss",
     "type": "live",
@@ -1968,6 +1889,18 @@
     "created_at": "2026-06-29T05:56:19Z"
   },
   {
+    "id": "jumpingkiss-2026-07-02-live-7-2-7c9f5e11",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "📢明日7月2日は！📢",
+    "date": "2026-07-02",
+    "description": "📢明日7月2日は！📢 / ✨山田莉愛  #近代麻雀水着祭2026  の日です！✨ / 📅7月2日（木） / 🎡東京サマーランド",
+    "post_url": "https://nitter.net/jumpingkiss/status/2072150660448174201#m",
+    "image_url": "https://nitter.net/pic/media%2FHMHCCl6bYAAbdQ6.jpg",
+    "created_at": "2026-07-01T02:49:50Z",
+    "time_start": "9:40"
+  },
+  {
     "id": "jumpingkiss-2026-07-02-release-event-06c9a20a",
     "group_id": "jumpingkiss",
     "type": "release",
@@ -1990,18 +1923,6 @@
     "created_at": "2026-07-02T03:14:56Z"
   },
   {
-    "id": "jumpingkiss-2026-07-02-live-7-2-7c9f5e11",
-    "group_id": "jumpingkiss",
-    "type": "live",
-    "title": "📢明日7月2日は！📢",
-    "date": "2026-07-02",
-    "description": "📢明日7月2日は！📢 / ✨山田莉愛  #近代麻雀水着祭2026  の日です！✨ / 📅7月2日（木） / 🎡東京サマーランド",
-    "post_url": "https://nitter.net/jumpingkiss/status/2072150660448174201#m",
-    "image_url": "https://nitter.net/pic/media%2FHMHCCl6bYAAbdQ6.jpg",
-    "created_at": "2026-07-01T02:49:50Z",
-    "time_start": "9:40"
-  },
-  {
     "id": "jumpingkiss-2026-07-03-live-event-6168d813",
     "group_id": "jumpingkiss",
     "type": "live",
@@ -2011,18 +1932,6 @@
     "description": "📣出演します！📣 / 💣ワンコインBOMBER!!💣 / 🗓️7月12日（日） / 🎪GOTANDA G3",
     "post_url": "https://nitter.net/jumpingkiss/status/2072981101153337382#m",
     "image_url": "https://nitter.net/pic/media%2FHMS1Ul_bcAAE6rT.jpg",
-    "created_at": "2026-07-03T09:49:43Z"
-  },
-  {
-    "id": "jumpingkiss-2026-07-03-live-event-46762d0d",
-    "group_id": "jumpingkiss",
-    "type": "live",
-    "title": "📣出演します！📣",
-    "date": "2026-07-03",
-    "time_start": "22:00",
-    "description": "📣出演します！📣 / 💣ワンコインBOMBER!!💣 / 🗓️7月11日（土） / 🎪GOTANDA G2",
-    "post_url": "https://nitter.net/jumpingkiss/status/2072980688337600718#m",
-    "image_url": "https://nitter.net/pic/media%2FHMS08ZhaEAA6_-n.jpg",
     "created_at": "2026-07-03T09:48:04Z"
   },
   {
@@ -2122,29 +2031,6 @@
     "created_at": "2026-07-03T08:32:46Z"
   },
   {
-    "id": "jumpingkiss-2026-07-04-live-event-e8ae13e1",
-    "group_id": "jumpingkiss",
-    "type": "live",
-    "title": "📢出演します！📢",
-    "date": "2026-07-04",
-    "description": "📢出演します！📢 / 🎂れいちゃん生誕祭🎂 / 📅7月4日（日） / 🎪渋谷Milky Way",
-    "post_url": "https://nitter.net/jumpingkiss/status/2068680338356732309#m",
-    "image_url": "https://nitter.net/pic/media%2FHLVkMzWagAAUQ8P.jpg",
-    "created_at": "2026-06-21T13:00:01Z"
-  },
-  {
-    "id": "jumpingkiss-2026-07-04-live-jumping-kiss-a0d23c2b",
-    "group_id": "jumpingkiss",
-    "type": "live",
-    "title": "Jumping Kiss イベント",
-    "date": "2026-07-04",
-    "ticket_url": "https://timetreeapp.com/public_calendars/jumpingkiss",
-    "description": "Pinned: 🎤JumpingKiss LIVE Information🎤 🆕スケジュール新しくなりました（タイムツリー）🆕 🌲新しいスケジュール→https://timetreeapp.com/public_calendars/jumpingkiss 🆕2026年6月26日更新🆕 ℹ️6月26日以降のライブ・イベン",
-    "post_url": "https://nitter.net/jumpingkiss/status/2070468511298912621#m",
-    "image_url": "https://nitter.net/pic/media%2FHLvGPqlbwAA8Y2z.jpg",
-    "created_at": "2026-06-26T11:25:35Z"
-  },
-  {
     "id": "jumpingkiss-2026-07-04-free-event-2e24460d",
     "group_id": "jumpingkiss",
     "type": "free",
@@ -2179,6 +2065,29 @@
     "post_url": "https://nitter.net/jumpingkiss/status/2072960945345741196#m",
     "image_url": "https://nitter.net/pic/media%2FHMSi5HEbsAAFORE.jpg",
     "created_at": "2026-07-03T08:29:37Z"
+  },
+  {
+    "id": "jumpingkiss-2026-07-04-live-event-e8ae13e1",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "📢出演します！📢",
+    "date": "2026-07-04",
+    "description": "📢出演します！📢 / 🎂れいちゃん生誕祭🎂 / 📅7月4日（日） / 🎪渋谷Milky Way",
+    "post_url": "https://nitter.net/jumpingkiss/status/2068680338356732309#m",
+    "image_url": "https://nitter.net/pic/media%2FHLVkMzWagAAUQ8P.jpg",
+    "created_at": "2026-06-21T13:00:01Z"
+  },
+  {
+    "id": "jumpingkiss-2026-07-04-live-jumping-kiss-a0d23c2b",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "Jumping Kiss イベント",
+    "date": "2026-07-04",
+    "ticket_url": "https://timetreeapp.com/public_calendars/jumpingkiss",
+    "description": "Pinned: 🎤JumpingKiss LIVE Information🎤 🆕スケジュール新しくなりました（タイムツリー）🆕 🌲新しいスケジュール→https://timetreeapp.com/public_calendars/jumpingkiss 🆕2026年6月26日更新🆕 ℹ️6月26日以降のライブ・イベン",
+    "post_url": "https://nitter.net/jumpingkiss/status/2070468511298912621#m",
+    "image_url": "https://nitter.net/pic/media%2FHLvGPqlbwAA8Y2z.jpg",
+    "created_at": "2026-06-26T11:25:35Z"
   },
   {
     "id": "jumpingkiss-2026-07-05-live-event-61eab107",
@@ -2243,17 +2152,6 @@
     "created_at": "2026-06-26T11:25:35Z"
   },
   {
-    "id": "jumpingkiss-2026-07-05-free-non-stop-live-vol-5-6f792d8d",
-    "group_id": "jumpingkiss",
-    "type": "free",
-    "title": "NON STOP LIVE Vol.5",
-    "date": "2026-07-05",
-    "description": "📢速報！📢 / 🎤JumpingKiss単独公演「NON STOP LIVE Vol.5」🎤 / 📅7月5日（日） / 🎪GOTANDA G6（〒141-0031 東京都品川区西五反田２丁目６−３ 東洋ビル B1）",
-    "post_url": "https://nitter.net/jumpingkiss/status/2071472814805422241#m",
-    "image_url": "https://nitter.net/pic/media%2FHL9ZJUVa0AAom8u.jpg",
-    "created_at": "2026-06-29T05:56:19Z"
-  },
-  {
     "id": "jumpingkiss-2026-07-05-free-non-stop-live-vol-5-4f8b3871",
     "group_id": "jumpingkiss",
     "type": "free",
@@ -2262,18 +2160,7 @@
     "description": "📢開場、開演時間に変更ありました！📢 / 🎤JumpingKiss単独公演「NON STOP LIVE Vol.5」🎤 / 📅7月5日（日） / 🎪GOTANDA G6（〒141-0031 東京都品川区西五反田２丁目６−３ 東洋ビル B1）",
     "post_url": "https://nitter.net/jumpingkiss/status/2072316184763257032#m",
     "image_url": "https://nitter.net/pic/media%2FHMJYlD2aMAAU3lq.jpg",
-    "created_at": "2026-07-01T13:47:34Z"
-  },
-  {
-    "id": "jumpingkiss-2026-07-05-free-non-stop-live-vol-5-2c346a74",
-    "group_id": "jumpingkiss",
-    "type": "free",
-    "title": "NON STOP LIVE Vol.5",
-    "date": "2026-07-05",
-    "description": "📢明日の2本目は！📢 / 🎤JumpingKiss単独公演「NON STOP LIVE Vol.5」🎤 / 📅7月5日（日） / 🎪GOTANDA G6（〒141-0031 東京都品川区西五反田２丁目６−３ 東洋ビル B1）",
-    "post_url": "https://nitter.net/jumpingkiss/status/2073372904126034249#m",
-    "image_url": "https://nitter.net/pic/media%2FHMYZqPqbwAA8OOk.jpg",
-    "created_at": "2026-07-04T11:46:36Z"
+    "created_at": "2026-06-29T05:56:19Z"
   },
   {
     "id": "jumpingkiss-2026-07-05-live-g-63185f14",
@@ -2390,17 +2277,6 @@
     "created_at": "2026-06-29T03:33:08Z"
   },
   {
-    "id": "jumpingkiss-2026-07-11-free-non-stop-live-vol-6-88b42aa6",
-    "group_id": "jumpingkiss",
-    "type": "free",
-    "title": "NON STOP LIVE Vol.6",
-    "date": "2026-07-11",
-    "description": "📢速報！📢 / 🎤JumpingKiss単独公演「NON STOP LIVE Vol.6」🎤 / 📅7月11日（土） / 🎪GOTANDA G3（〒141-0031 東京都品川区西五反田１丁目１１−８ 大成ビル 4F）",
-    "post_url": "https://nitter.net/jumpingkiss/status/2072676217820700842#m",
-    "image_url": "https://nitter.net/pic/media%2FHMOdKELbIAAMxOM.jpg",
-    "created_at": "2026-07-02T13:38:13Z"
-  },
-  {
     "id": "jumpingkiss-2026-07-11-free-non-stop-live-vol-6-19bdd663",
     "group_id": "jumpingkiss",
     "type": "free",
@@ -2411,18 +2287,7 @@
     "description": "🙇会場表記に誤りがありました🙇 / ⚠️11日は正しくはGOTANDA G2です。⚠️ / 🎤JumpingKiss単独公演「NON STOP LIVE Vol.6」🎤 / 📅7月11日（土）",
     "post_url": "https://nitter.net/jumpingkiss/status/2072876505722737039#m",
     "image_url": "https://nitter.net/pic/media%2FHMRVv29akAAjIk5.jpg",
-    "created_at": "2026-07-03T02:54:05Z"
-  },
-  {
-    "id": "jumpingkiss-2026-07-11-free-non-stop-live-vol-6-660bbba4",
-    "group_id": "jumpingkiss",
-    "type": "free",
-    "title": "NON STOP LIVE Vol.6",
-    "date": "2026-07-11",
-    "description": "📢明日の3本目！📢 / 🎤JumpingKiss単独公演「NON STOP LIVE Vol.6」🎤 / 📅7月11日（土） / 🎪GOTANDA G2（〒141-0031 東京都品川区西五反田２丁目５−２）",
-    "post_url": "https://nitter.net/jumpingkiss/status/2075473866361839836#m",
-    "image_url": "https://nitter.net/pic/media%2FHM2QdrwbcAAi1mK.jpg",
-    "created_at": "2026-07-10T06:55:04Z"
+    "created_at": "2026-07-02T13:38:13Z"
   },
   {
     "id": "jumpingkiss-2026-07-12-live-7-991c9313",
@@ -2632,30 +2497,6 @@
     "created_at": "2026-07-18T05:16:44Z"
   },
   {
-    "id": "jumpingkiss-2026-07-18-live-jumping-kiss-b3eb394d",
-    "group_id": "jumpingkiss",
-    "type": "live",
-    "title": "Jumping Kiss イベント",
-    "date": "2026-07-18",
-    "ticket_url": "https://timetreeapp.com/public_calendars/jumpingkiss",
-    "description": "Pinned: 🎤JumpingKiss LIVE Information🎤 🆕スケジュール新しくなりました（タイムツリー）🆕 🌲新しいスケジュール→https://timetreeapp.com/public_calendars/jumpingkiss 🆕2026年6月26日更新🆕 ℹ️6月26日以降のライブ・イベン",
-    "post_url": "https://nitter.net/jumpingkiss/status/2070468511298912621#m",
-    "image_url": "https://nitter.net/pic/media%2FHLvGPqlbwAA8Y2z.jpg",
-    "created_at": "2026-06-26T11:25:35Z"
-  },
-  {
-    "id": "jumpingkiss-2026-07-18-live-non-stop-live-vol-7-4f491ade",
-    "group_id": "jumpingkiss",
-    "type": "live",
-    "title": "NON STOP LIVE Vol.7",
-    "date": "2026-07-18",
-    "ticket_url": "https://timetreeapp.com/public_calendars/jumpingkiss",
-    "description": "Pinned: 🎤JumpingKiss LIVE Information🎤 🆕スケジュール新しくなりました（タイムツリー）🆕 🌲新しいスケジュール→https://timetreeapp.com/public_calendars/jumpingkiss 🆕2026年7月17日更新🆕 ℹ️7月17日以降のライブ・イベン",
-    "post_url": "https://nitter.net/jumpingkiss/status/2077974813327740965#m",
-    "image_url": "https://nitter.net/pic/media%2FHNZvBGpbsAAWWrQ.jpg",
-    "created_at": "2026-07-17T04:32:57Z"
-  },
-  {
     "id": "jumpingkiss-2026-07-18-free-event-d2662eca",
     "group_id": "jumpingkiss",
     "type": "free",
@@ -2678,6 +2519,30 @@
     "post_url": "https://nitter.net/jumpingkiss/status/2078102903362032042#m",
     "image_url": "https://nitter.net/pic/media%2FHNbnfUPb0AEJNsB.jpg",
     "created_at": "2026-07-17T13:01:56Z"
+  },
+  {
+    "id": "jumpingkiss-2026-07-18-live-jumping-kiss-b3eb394d",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "Jumping Kiss イベント",
+    "date": "2026-07-18",
+    "ticket_url": "https://timetreeapp.com/public_calendars/jumpingkiss",
+    "description": "Pinned: 🎤JumpingKiss LIVE Information🎤 🆕スケジュール新しくなりました（タイムツリー）🆕 🌲新しいスケジュール→https://timetreeapp.com/public_calendars/jumpingkiss 🆕2026年6月26日更新🆕 ℹ️6月26日以降のライブ・イベン",
+    "post_url": "https://nitter.net/jumpingkiss/status/2070468511298912621#m",
+    "image_url": "https://nitter.net/pic/media%2FHLvGPqlbwAA8Y2z.jpg",
+    "created_at": "2026-06-26T11:25:35Z"
+  },
+  {
+    "id": "jumpingkiss-2026-07-18-live-non-stop-live-vol-7-4f491ade",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "NON STOP LIVE Vol.7",
+    "date": "2026-07-18",
+    "ticket_url": "https://timetreeapp.com/public_calendars/jumpingkiss",
+    "description": "Pinned: 🎤JumpingKiss LIVE Information🎤 🆕スケジュール新しくなりました（タイムツリー）🆕 🌲新しいスケジュール→https://timetreeapp.com/public_calendars/jumpingkiss 🆕2026年7月17日更新🆕 ℹ️7月17日以降のライブ・イベン",
+    "post_url": "https://nitter.net/jumpingkiss/status/2077974813327740965#m",
+    "image_url": "https://nitter.net/pic/media%2FHNZvBGpbsAAWWrQ.jpg",
+    "created_at": "2026-07-17T04:32:57Z"
   },
   {
     "id": "jumpingkiss-2026-07-19-live-7-4cc535f5",
@@ -2888,17 +2753,6 @@
     "created_at": "2026-07-17T04:32:57Z"
   },
   {
-    "id": "jumpingkiss-2026-07-20-live-event-7ca3c656",
-    "group_id": "jumpingkiss",
-    "type": "live",
-    "title": "📢速報！📢",
-    "date": "2026-07-20",
-    "description": "📢速報！📢 / 📢明日の4本目は！📢 / 🎉JumpingKiss 山田莉愛アイドルデビュー7周年記念ライブ〜Riara Yamada Idol Debut 7th Anniversary LIVE〜🎉 / 📅7月20日（月/祝）",
-    "post_url": "https://nitter.net/jumpingkiss/status/2078824195556053074#m",
-    "image_url": "https://nitter.net/pic/media%2FHNl3e6VaAAAM-bR.jpg",
-    "created_at": "2026-07-19T12:48:05Z"
-  },
-  {
     "id": "jumpingkiss-2026-07-20-free-3-069b8c8b",
     "group_id": "jumpingkiss",
     "type": "free",
@@ -3078,17 +2932,6 @@
     "created_at": "2026-07-25T09:44:30Z"
   },
   {
-    "id": "jumpingkiss-2026-07-26-live-non-stop-live-vol-7-9fa07bda",
-    "group_id": "jumpingkiss",
-    "type": "live",
-    "title": "NON STOP LIVE Vol.7",
-    "date": "2026-07-26",
-    "description": "📢速報！📢 / 🎤JumpingKiss単独公演「NON STOP LIVE Vol.7」🎤 / 📅7月26日（日） / 🎪GOTANDA G2（〒141-0031 東京都品川区西五反田２丁目５−２）",
-    "post_url": "https://nitter.net/jumpingkiss/status/2077025762620629318#m",
-    "image_url": "https://nitter.net/pic/media%2FHNMTdv0awAAWCR4.jpg",
-    "created_at": "2026-07-14T13:41:45Z"
-  },
-  {
     "id": "jumpingkiss-2026-07-26-live-non-stop-live-vol-7-c12702c0",
     "group_id": "jumpingkiss",
     "type": "live",
@@ -3098,29 +2941,7 @@
     "description": "Pinned: 🎤JumpingKiss LIVE Information🎤 🆕スケジュール新しくなりました（タイムツリー）🆕 🌲新しいスケジュール→https://timetreeapp.com/public_calendars/jumpingkiss 🆕2026年7月17日更新🆕 ℹ️7月17日以降のライブ・イベン",
     "post_url": "https://nitter.net/jumpingkiss/status/2077974813327740965#m",
     "image_url": "https://nitter.net/pic/media%2FHNZvBGpbsAAWWrQ.jpg",
-    "created_at": "2026-07-17T04:32:57Z"
-  },
-  {
-    "id": "jumpingkiss-2026-07-26-live-non-stop-live-vol-7-14594f63",
-    "group_id": "jumpingkiss",
-    "type": "live",
-    "title": "NON STOP LIVE Vol.7",
-    "date": "2026-07-26",
-    "description": "📢オープニングゲスト情報更新！📢 / 🎤JumpingKiss単独公演「NON STOP LIVE Vol.7」🎤 / 📅7月26日（日） / 🎪GOTANDA G2（〒141-0031 東京都品川区西五反田２丁目５−２）",
-    "post_url": "https://nitter.net/jumpingkiss/status/2077955095980056881#m",
-    "image_url": "https://nitter.net/pic/media%2FHNZhHkaa0AAXGGa.jpg",
-    "created_at": "2026-07-17T03:14:36Z"
-  },
-  {
-    "id": "jumpingkiss-2026-07-26-live-non-stop-live-vol-7-41efb962",
-    "group_id": "jumpingkiss",
-    "type": "live",
-    "title": "NON STOP LIVE Vol.7",
-    "date": "2026-07-26",
-    "description": "📢明日の1本目は！📢 / 🎤JumpingKiss単独公演「NON STOP LIVE Vol.7」🎤 / 📅7月26日（日） / 🎪GOTANDA G7（〒141-0031 東京都品川区西五反田２丁目６−３ 東洋ビル B1）",
-    "post_url": "https://nitter.net/jumpingkiss/status/2080951801738842126#m",
-    "image_url": "https://nitter.net/pic/media%2FHOEGh2ha4AACgVs.jpg",
-    "created_at": "2026-07-25T09:42:26Z"
+    "created_at": "2026-07-14T13:41:45Z"
   },
   {
     "id": "jumpingkiss-2026-07-27-live-event-cdbeaf92",
@@ -3159,19 +2980,6 @@
     "created_at": "2026-07-25T12:35:25Z"
   },
   {
-    "id": "jumpingkiss-2026-07-28-live-sif1000-eb8763bf",
-    "group_id": "jumpingkiss",
-    "type": "live",
-    "title": "SIF1000大感謝祭",
-    "date": "2026-07-28",
-    "time_open": "17:20",
-    "time_start": "17:40",
-    "description": "📢出演します！📢 / 🌈「SIF1000大感謝祭」vol.20🌈 / 📅7月28日(火) / 🎪横浜1000club",
-    "post_url": "https://nitter.net/jumpingkiss/status/2080948595407352076#m",
-    "image_url": "https://nitter.net/pic/card_img%2F2080947685545410560%2Fd7Sf7y7z%3Fformat%3Djpg%26name%3D600x314",
-    "created_at": "2026-07-25T09:29:41Z"
-  },
-  {
     "id": "jumpingkiss-2026-07-28-live-sif1000-3eb44eb7",
     "group_id": "jumpingkiss",
     "type": "live",
@@ -3182,7 +2990,7 @@
     "description": "📢明日のライブは！📢 / 🌈「SIF1000大感謝祭」vol.20🌈 / 📅7月28日(火) / 🎪横浜1000club",
     "post_url": "https://nitter.net/jumpingkiss/status/2081726638421651726#m",
     "image_url": "https://nitter.net/pic/media%2FHOPHL6wa4AEiYKT.jpg",
-    "created_at": "2026-07-27T13:01:21Z"
+    "created_at": "2026-07-25T09:29:41Z"
   },
   {
     "id": "jumpingkiss-2026-07-28-live-non-stop-live-vol-7-9c9d4455",
@@ -3280,7 +3088,7 @@
     "created_at": "2026-07-27T12:59:38Z"
   },
   {
-    "id": "jumpingkiss-2026-07-31-live-jumping-kiss-72b9aecb",
+    "id": "jumpingkiss-2026-07-31-live-jumping-kiss-0019e0e0",
     "group_id": "jumpingkiss",
     "type": "live",
     "title": "Jumping Kiss イベント",
@@ -3288,9 +3096,9 @@
     "time_open": "10:00",
     "time_start": "10:00",
     "ticket_url": "https://official.idolfes.com/s/tif2026/page/special_enniti",
-    "description": "📢縁日、参加します！📢 🏮TOKYO IDOL 縁日2026🏮 📅7月31日(金) 🎪TIF2026内縁日ブース ⏰時間：OPEN 10:00 / END 18:30（予定） 💰チケット：1回 2,000円（TIF2026チケットをお持ちであれば参加可能） ✨詳しくは→https://official.idolfes.",
-    "post_url": "https://nitter.net/jumpingkiss/status/2081696104920514603#m",
-    "image_url": "https://nitter.net/pic/media%2FHONpgvxbwAAKNrK.jpg",
+    "description": "📢今日は縁日スタートです！📢 🏮TOKYO IDOL 縁日2026🏮 📅7月31日(金) 🎪TIF2026内縁日ブース ⏰時間：OPEN 10:00 / END 18:30（予定） 👥参加メンバー：秋月/山田/桜井 🏮JumpingKiss 15:30~16:15【E】 💰チケット：1回 2,000円（TIF2026チ",
+    "post_url": "https://nitter.net/jumpingkiss/status/2083002530502783151#m",
+    "image_url": "https://nitter.net/pic/media%2FHOhPwJIbEAAa_dQ.jpg",
     "created_at": "2026-07-27T11:00:02Z"
   },
   {
@@ -3306,20 +3114,6 @@
     "post_url": "https://nitter.net/jumpingkiss/status/2082424948308734174#m",
     "image_url": "https://nitter.net/pic/media%2FHOZCQmSaoAAyItg.jpg",
     "created_at": "2026-07-29T11:16:11Z"
-  },
-  {
-    "id": "jumpingkiss-2026-07-31-live-jumping-kiss-0019e0e0",
-    "group_id": "jumpingkiss",
-    "type": "live",
-    "title": "Jumping Kiss イベント",
-    "date": "2026-07-31",
-    "time_open": "10:00",
-    "time_start": "10:00",
-    "ticket_url": "https://official.idolfes.com/s/tif2026/page/special_enniti",
-    "description": "📢今日は縁日スタートです！📢 🏮TOKYO IDOL 縁日2026🏮 📅7月31日(金) 🎪TIF2026内縁日ブース ⏰時間：OPEN 10:00 / END 18:30（予定） 👥参加メンバー：秋月/山田/桜井 🏮JumpingKiss 15:30~16:15【E】 💰チケット：1回 2,000円（TIF2026チ",
-    "post_url": "https://nitter.net/jumpingkiss/status/2083002530502783151#m",
-    "image_url": "https://nitter.net/pic/media%2FHOhPwJIbEAAa_dQ.jpg",
-    "created_at": "2026-07-31T01:31:18Z"
   },
   {
     "id": "jumpingkiss-2026-07-31-live-event-d6ed3f79",
@@ -3371,19 +3165,6 @@
     "created_at": "2026-07-26T08:49:43Z"
   },
   {
-    "id": "jumpingkiss-2026-08-01-live-event-1219d704",
-    "group_id": "jumpingkiss",
-    "type": "live",
-    "title": "📢速報！📢",
-    "date": "2026-08-01",
-    "time_start": "10:45",
-    "venue": "er",
-    "description": "📢速報！📢 / 📢明日の1本目は！📢 / 🌈三人三様公演〜JumpingKiss 3 Colors LIVE〜🌈 / 📅8月1日（土）",
-    "post_url": "https://nitter.net/jumpingkiss/status/2083190134133199030#m",
-    "image_url": "https://nitter.net/pic/media%2FHOj6Q15asAEo_06.jpg",
-    "created_at": "2026-07-31T13:56:46Z"
-  },
-  {
     "id": "jumpingkiss-2026-08-01-live-event-4f1fef48",
     "group_id": "jumpingkiss",
     "type": "live",
@@ -3423,60 +3204,6 @@
     "created_at": "2026-07-31T13:57:33Z"
   },
   {
-    "id": "jumpingkiss-2026-08-01-live-non-stop-live-vol-7-cdd7825a",
-    "group_id": "jumpingkiss",
-    "type": "live",
-    "title": "NON STOP LIVE Vol.7",
-    "date": "2026-08-01",
-    "ticket_url": "https://timetreeapp.com/public_calendars/jumpingkiss",
-    "description": "Pinned: 🎤JumpingKiss LIVE Information🎤 🆕スケジュール新しくなりました（タイムツリー）🆕 🌲新しいスケジュール→https://timetreeapp.com/public_calendars/jumpingkiss 🆕2026年7月17日更新🆕 ℹ️7月17日以降のライブ・イベン",
-    "post_url": "https://nitter.net/jumpingkiss/status/2077974813327740965#m",
-    "image_url": "https://nitter.net/pic/media%2FHNZvBGpbsAAWWrQ.jpg",
-    "created_at": "2026-07-17T04:32:57Z"
-  },
-  {
-    "id": "jumpingkiss-2026-08-01-live-event-4a9ddb64",
-    "group_id": "jumpingkiss",
-    "type": "live",
-    "title": "お知らせ★８月１日（土）撮影会、諦めとなりました。",
-    "date": "2026-08-01",
-    "description": "お知らせ★８月１日（土）撮影会、諦めとなりました。 / 夏中に、秋月柑七が参加できる日に必ずや実施いたします。 / ８月１日は、山田莉愛、平川咲衣、桜井里咲の３人でライブ3本やることになりました！",
-    "post_url": "https://nitter.net/jumpingkiss/status/2081243751297794224#m",
-    "created_at": "2026-07-26T05:02:32Z"
-  },
-  {
-    "id": "jumpingkiss-2026-08-01-live-event-c61c6f73",
-    "group_id": "jumpingkiss",
-    "type": "live",
-    "title": "お知らせ★８月１日（土）は、浴衣撮影会も夜のライブも",
-    "date": "2026-08-01",
-    "description": "お知らせ★８月１日（土）は、浴衣撮影会も夜のライブも / 山田莉愛、平川咲衣、桜井里咲、３人での稼働となります！ / どうぞよろしくお願い致します🙇",
-    "post_url": "https://nitter.net/jumpingkiss/status/2081232148045148300#m",
-    "created_at": "2026-07-26T04:16:26Z"
-  },
-  {
-    "id": "jumpingkiss-2026-08-01-live-non-stop-live-vol-8-64ca439b",
-    "group_id": "jumpingkiss",
-    "type": "live",
-    "title": "NON STOP LIVE Vol.8",
-    "date": "2026-08-01",
-    "description": "📢速報！📢 / 🎤JumpingKiss単独公演「NON STOP LIVE Vol.8」🎤 / 📅8月2日（日） / 🎪GOTANDA G6（〒141-0031 東京都品川区西五反田２丁目６−３ 東洋ビル B1）",
-    "post_url": "https://nitter.net/jumpingkiss/status/2080995332838805511#m",
-    "image_url": "https://nitter.net/pic/media%2FHOEuOS4boAA64sY.jpg",
-    "created_at": "2026-07-25T12:35:25Z"
-  },
-  {
-    "id": "jumpingkiss-2026-08-01-live-non-stop-live-vol-8-5b8ceb2b",
-    "group_id": "jumpingkiss",
-    "type": "live",
-    "title": "NON STOP LIVE Vol.8",
-    "date": "2026-08-01",
-    "description": "📢明日の1本目は！📢 / 🎤JumpingKiss単独公演「NON STOP LIVE Vol.8」🎤 / 📅8月2日（日） / 🎪GOTANDA G6（〒141-0031 東京都品川区西五反田２丁目６−３ 東洋ビル B1）",
-    "post_url": "https://nitter.net/jumpingkiss/status/2083533153290129591#m",
-    "image_url": "https://nitter.net/pic/media%2FHOoySrkbQAAyRgI.jpg",
-    "created_at": "2026-08-01T12:39:48Z"
-  },
-  {
     "id": "jumpingkiss-2026-08-01-free-event-d033c6e3",
     "group_id": "jumpingkiss",
     "type": "free",
@@ -3511,6 +3238,49 @@
     "post_url": "https://nitter.net/jumpingkiss/status/2083190712217260423#m",
     "image_url": "https://nitter.net/pic/media%2FHOj6x90asAEYGtt.jpg",
     "created_at": "2026-07-31T13:59:04Z"
+  },
+  {
+    "id": "jumpingkiss-2026-08-01-live-non-stop-live-vol-7-cdd7825a",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "NON STOP LIVE Vol.7",
+    "date": "2026-08-01",
+    "ticket_url": "https://timetreeapp.com/public_calendars/jumpingkiss",
+    "description": "Pinned: 🎤JumpingKiss LIVE Information🎤 🆕スケジュール新しくなりました（タイムツリー）🆕 🌲新しいスケジュール→https://timetreeapp.com/public_calendars/jumpingkiss 🆕2026年7月17日更新🆕 ℹ️7月17日以降のライブ・イベン",
+    "post_url": "https://nitter.net/jumpingkiss/status/2077974813327740965#m",
+    "image_url": "https://nitter.net/pic/media%2FHNZvBGpbsAAWWrQ.jpg",
+    "created_at": "2026-07-17T04:32:57Z"
+  },
+  {
+    "id": "jumpingkiss-2026-08-01-live-event-4a9ddb64",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "お知らせ★８月１日（土）撮影会、諦めとなりました。",
+    "date": "2026-08-01",
+    "description": "お知らせ★８月１日（土）撮影会、諦めとなりました。 / 夏中に、秋月柑七が参加できる日に必ずや実施いたします。 / ８月１日は、山田莉愛、平川咲衣、桜井里咲の３人でライブ3本やることになりました！",
+    "post_url": "https://nitter.net/jumpingkiss/status/2081243751297794224#m",
+    "created_at": "2026-07-26T05:02:32Z"
+  },
+  {
+    "id": "jumpingkiss-2026-08-01-live-event-c61c6f73",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "お知らせ★８月１日（土）は、浴衣撮影会も夜のライブも",
+    "date": "2026-08-01",
+    "description": "お知らせ★８月１日（土）は、浴衣撮影会も夜のライブも / 山田莉愛、平川咲衣、桜井里咲、３人での稼働となります！ / どうぞよろしくお願い致します🙇",
+    "post_url": "https://nitter.net/jumpingkiss/status/2081232148045148300#m",
+    "created_at": "2026-07-26T04:16:26Z"
+  },
+  {
+    "id": "jumpingkiss-2026-08-01-live-non-stop-live-vol-8-5b8ceb2b",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "NON STOP LIVE Vol.8",
+    "date": "2026-08-01",
+    "description": "📢明日の1本目は！📢 / 🎤JumpingKiss単独公演「NON STOP LIVE Vol.8」🎤 / 📅8月2日（日） / 🎪GOTANDA G6（〒141-0031 東京都品川区西五反田２丁目６−３ 東洋ビル B1）",
+    "post_url": "https://nitter.net/jumpingkiss/status/2083533153290129591#m",
+    "image_url": "https://nitter.net/pic/media%2FHOoySrkbQAAyRgI.jpg",
+    "created_at": "2026-07-25T12:35:25Z"
   },
   {
     "id": "jumpingkiss-2026-08-02-live-event-2f92f04c",
@@ -3575,17 +3345,6 @@
     "created_at": "2026-07-17T04:32:57Z"
   },
   {
-    "id": "jumpingkiss-2026-08-02-live-non-stop-live-vol-8-606d8b52",
-    "group_id": "jumpingkiss",
-    "type": "live",
-    "title": "NON STOP LIVE Vol.8",
-    "date": "2026-08-02",
-    "description": "📢速報！📢 / 🎤JumpingKiss単独公演「NON STOP LIVE Vol.8」🎤 / 📅8月2日（日） / 🎪GOTANDA G6（〒141-0031 東京都品川区西五反田２丁目６−３ 東洋ビル B1）",
-    "post_url": "https://nitter.net/jumpingkiss/status/2080995332838805511#m",
-    "image_url": "https://nitter.net/pic/media%2FHOEuOS4boAA64sY.jpg",
-    "created_at": "2026-07-25T12:35:25Z"
-  },
-  {
     "id": "jumpingkiss-2026-08-02-live-non-stop-live-vol-8-7c4274e7",
     "group_id": "jumpingkiss",
     "type": "live",
@@ -3594,7 +3353,7 @@
     "description": "📢明日の1本目は！📢 / 🎤JumpingKiss単独公演「NON STOP LIVE Vol.8」🎤 / 📅8月2日（日） / 🎪GOTANDA G6（〒141-0031 東京都品川区西五反田２丁目６−３ 東洋ビル B1）",
     "post_url": "https://nitter.net/jumpingkiss/status/2083533153290129591#m",
     "image_url": "https://nitter.net/pic/media%2FHOoySrkbQAAyRgI.jpg",
-    "created_at": "2026-08-01T12:39:48Z"
+    "created_at": "2026-07-25T12:35:25Z"
   },
   {
     "id": "jumpingkiss-2026-08-02-live-nonstop-28f916d8",
@@ -3715,19 +3474,6 @@
     "created_at": "2026-08-07T13:26:37Z"
   },
   {
-    "id": "jumpingkiss-2026-08-08-live-event-b8eafb1f",
-    "group_id": "jumpingkiss",
-    "type": "live",
-    "title": "桜梅桃李〜私たちの物語〜",
-    "date": "2026-08-08",
-    "time_open": "15:00",
-    "time_start": "15:30",
-    "description": "📢出演します！📢 / 🌈イロハサクラ 8th Anniversary Tour「桜梅桃李〜私たちの物語〜」東京公演🌈 / 📅8月8日（土） / 🎪渋谷eggman",
-    "post_url": "https://nitter.net/jumpingkiss/status/2078042035496395107#m",
-    "image_url": "https://nitter.net/pic/media%2FHNZdUfSa4AApbef.jpg",
-    "created_at": "2026-07-17T09:00:04Z"
-  },
-  {
     "id": "jumpingkiss-2026-08-08-live-event-d5c5a812",
     "group_id": "jumpingkiss",
     "type": "live",
@@ -3738,7 +3484,7 @@
     "description": "📢明日の1本目は！📢 / 🌈イロハサクラ 8th Anniversary Tour「桜梅桃李〜私たちの物語〜」東京公演🌈 / 📅8月8日（土） / 🎪渋谷eggman",
     "post_url": "https://nitter.net/jumpingkiss/status/2085718844367335932#m",
     "image_url": "https://nitter.net/pic/media%2FHPH2Glmb0AAKLnt.jpg",
-    "created_at": "2026-08-07T13:24:57Z"
+    "created_at": "2026-07-17T09:00:04Z"
   },
   {
     "id": "jumpingkiss-2026-08-08-live-non-stop-live-vol-7-4a45f8af",
@@ -4142,18 +3888,6 @@
     "created_at": "2026-08-02T10:26:48Z"
   },
   {
-    "id": "jumpingkiss-2026-08-15-live-non-stop-live-vol-7-c1960b5b",
-    "group_id": "jumpingkiss",
-    "type": "live",
-    "title": "NON STOP LIVE Vol.7",
-    "date": "2026-08-15",
-    "ticket_url": "https://timetreeapp.com/public_calendars/jumpingkiss",
-    "description": "Pinned: 🎤JumpingKiss LIVE Information🎤 🆕スケジュール新しくなりました（タイムツリー）🆕 🌲新しいスケジュール→https://timetreeapp.com/public_calendars/jumpingkiss 🆕2026年7月17日更新🆕 ℹ️7月17日以降のライブ・イベン",
-    "post_url": "https://nitter.net/jumpingkiss/status/2077974813327740965#m",
-    "image_url": "https://nitter.net/pic/media%2FHNZvBGpbsAAWWrQ.jpg",
-    "created_at": "2026-07-17T04:32:57Z"
-  },
-  {
     "id": "jumpingkiss-2026-08-15-live-event-562a700d",
     "group_id": "jumpingkiss",
     "type": "live",
@@ -4164,6 +3898,18 @@
     "post_url": "https://nitter.net/jumpingkiss/status/2084630663060390362#m",
     "image_url": "https://nitter.net/pic/media%2FHO4YED4bQAAdiaX.jpg",
     "created_at": "2026-08-04T13:20:55Z"
+  },
+  {
+    "id": "jumpingkiss-2026-08-15-live-non-stop-live-vol-7-c1960b5b",
+    "group_id": "jumpingkiss",
+    "type": "live",
+    "title": "NON STOP LIVE Vol.7",
+    "date": "2026-08-15",
+    "ticket_url": "https://timetreeapp.com/public_calendars/jumpingkiss",
+    "description": "Pinned: 🎤JumpingKiss LIVE Information🎤 🆕スケジュール新しくなりました（タイムツリー）🆕 🌲新しいスケジュール→https://timetreeapp.com/public_calendars/jumpingkiss 🆕2026年7月17日更新🆕 ℹ️7月17日以降のライブ・イベン",
+    "post_url": "https://nitter.net/jumpingkiss/status/2077974813327740965#m",
+    "image_url": "https://nitter.net/pic/media%2FHNZvBGpbsAAWWrQ.jpg",
+    "created_at": "2026-07-17T04:32:57Z"
   },
   {
     "id": "jumpingkiss-2026-08-16-live-non-stop-live-vol-7-34b76d3d",

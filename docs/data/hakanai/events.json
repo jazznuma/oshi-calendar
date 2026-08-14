@@ -213,30 +213,6 @@
     "created_at": "2026-05-27T11:00:02Z"
   },
   {
-    "id": "hakanai-2026-06-03-live-mix-box-vol-10-0c9fa08f",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "MIX BOX vol.10",
-    "date": "2026-06-03",
-    "time_start": "19:00",
-    "description": "-------- 次回のライブ -------- / 6/3（水）渋谷音楽堂 / FULIT BOX presents / 『MIX BOX vol.10』",
-    "post_url": "https://nitter.net/hakanai_info/status/2060938066983080237#m",
-    "image_url": "https://nitter.net/pic/media%2FHJk5SDcbYAA3GWA.jpg",
-    "created_at": "2026-05-31T04:15:00Z"
-  },
-  {
-    "id": "hakanai-2026-06-03-live-mix-box-vol-10-4cc5e2fd",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "MIX BOX vol.10",
-    "date": "2026-06-03",
-    "time_start": "19:00",
-    "description": "-------- TT 解禁 -------- / 6/3（水）渋谷音楽堂 / FULIT BOX presents / 『MIX BOX vol.10』",
-    "post_url": "https://nitter.net/hakanai_info/status/2059590444997099566#m",
-    "image_url": "https://nitter.net/pic/media%2FHJRyQpBbsAEUapv.jpg",
-    "created_at": "2026-05-27T11:00:02Z"
-  },
-  {
     "id": "hakanai-2026-06-03-live-fulit-box-presents-m-64b71f0a",
     "group_id": "hakanai",
     "type": "live",
@@ -313,18 +289,6 @@
     "created_at": "2026-06-07T13:45:14Z"
   },
   {
-    "id": "hakanai-2026-06-09-live-astrotronic-bf27d80f",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "ASTROTRONIC",
-    "date": "2026-06-09",
-    "time_start": "18:00",
-    "description": "-------- 本日のライブ -------- / 6/9（火）渋谷音楽堂 / INFINITY LIVE presents / 『ASTROTRONIC』",
-    "post_url": "https://nitter.net/hakanai_info/status/2064150486513590780#m",
-    "image_url": "https://nitter.net/pic/media%2FHKTAeEBa8AAYj9W.jpg",
-    "created_at": "2026-06-09T01:00:00Z"
-  },
-  {
     "id": "hakanai-2026-06-09-live-infinity-live-presen-2321fa34",
     "group_id": "hakanai",
     "type": "live",
@@ -344,18 +308,6 @@
     "post_url": "https://nitter.net/hakanai_info/status/2064321612288299108#m",
     "image_url": "https://nitter.net/pic/media%2FHKTA3RYbAAAxHE9.jpg",
     "created_at": "2026-06-09T12:20:00Z"
-  },
-  {
-    "id": "hakanai-2026-06-10-live-event-fb196f1b",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "カンシャサイ。-夏-",
-    "date": "2026-06-10",
-    "time_start": "16:30",
-    "description": "-------- 本日のライブ -------- / 6/10（水）渋谷Milkyway / 『カンシャサイ。-夏-』 / 16:30 / 17:00",
-    "post_url": "https://nitter.net/hakanai_info/status/2064512878183375189#m",
-    "image_url": "https://nitter.net/pic/media%2FHKX7-m6aQAAHMXu.jpg",
-    "created_at": "2026-06-10T01:00:01Z"
   },
   {
     "id": "hakanai-2026-06-10-live---16209d2d",
@@ -427,15 +379,6 @@
     "created_at": "2026-06-01T11:16:51Z"
   },
   {
-    "id": "hakanai-2026-06-14-live-mistfes2026-10th-ann-24ff161",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "mistFES2026 10th anniversary Supported by My-th",
-    "date": "2026-06-14",
-    "description": "mistFES2026 10th anniversary Supported by My-th",
-    "created_at": "2026-06-04T09:59:58.939Z"
-  },
-  {
     "id": "hakanai-2026-06-14-live-tt-e34776e4",
     "group_id": "hakanai",
     "type": "live",
@@ -470,6 +413,15 @@
     "post_url": "https://nitter.net/hakanai_info/status/2065917126121025702#m",
     "image_url": "https://nitter.net/pic/media%2FHKtMiP8b0AA6EEX.jpg",
     "created_at": "2026-06-13T22:00:00Z"
+  },
+  {
+    "id": "hakanai-2026-06-14-live-mistfes2026-10th-ann-24ff161",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "mistFES2026 10th anniversary Supported by My-th",
+    "date": "2026-06-14",
+    "description": "mistFES2026 10th anniversary Supported by My-th",
+    "created_at": "2026-06-04T09:59:58.939Z"
   },
   {
     "id": "hakanai-2026-06-15-live-event-e7eee692",
@@ -534,17 +486,6 @@
     "created_at": "2026-06-15T10:55:00Z"
   },
   {
-    "id": "hakanai-2026-06-16-live-hakoniwa-vol-11-759d7921",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "HAKONIWA vol.11",
-    "date": "2026-06-16",
-    "description": "-------- 🍏本日のライブ🍏 -------- / 6/16（火）渋谷WWW X / OTONA CHILD.presents / 『HAKONIWA vol.11』",
-    "post_url": "https://nitter.net/hakanai_info/status/2066687203426943361#m",
-    "image_url": "https://nitter.net/pic/media%2FHK2lwSzbIAIzlt5.jpg",
-    "created_at": "2026-06-16T01:00:01Z"
-  },
-  {
     "id": "hakanai-2026-06-21-live-event-c50a09d3",
     "group_id": "hakanai",
     "type": "live",
@@ -556,18 +497,6 @@
     "post_url": "https://nitter.net/hakanai_info/status/2059228063020560594#m",
     "image_url": "https://nitter.net/pic/media%2FHJOekCtasAAXRPI.jpg",
     "created_at": "2026-05-26T11:00:03Z"
-  },
-  {
-    "id": "hakanai-2026-06-21-live-event-bc44354e",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "ひなたとまゆた",
-    "date": "2026-06-21",
-    "time_start": "18:30",
-    "description": "-------- 次回のまゆたソロ -------- / 6/21（日）渋谷REX / OTONA CHILD.presents / 『ひなたとまゆた』",
-    "post_url": "https://nitter.net/hakanai_info/status/2066475818646225220#m",
-    "image_url": "https://nitter.net/pic/media%2FHK13JiUbMAA8VYa.jpg",
-    "created_at": "2026-06-15T11:00:03Z"
   },
   {
     "id": "hakanai-2026-06-21-live-otona-child-presents-614fb02b",
@@ -599,29 +528,6 @@
     "created_at": "2026-06-16T11:00:02Z"
   },
   {
-    "id": "hakanai-2026-06-21-live-no-future-girl-ff0ef4cc",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "NO FUTURE GIRL",
-    "date": "2026-06-21",
-    "description": "----------- 本日のライブ ----------- / 6/21（日）渋谷REX / 【DAY☀️】 / OTONA CHILD.presents",
-    "post_url": "https://nitter.net/hakanai_info/status/2068468945796079739#m",
-    "image_url": "https://nitter.net/pic/media%2FHLQzSU_aMAAUvsX.jpg",
-    "created_at": "2026-06-20T23:00:01Z"
-  },
-  {
-    "id": "hakanai-2026-06-23-live-event-044af23b",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "ぜんぶ夏のせいだ。",
-    "date": "2026-06-23",
-    "time_start": "18:30",
-    "description": "-------- スケジュール解禁 -------- / 6/23（火）渋谷REX / 『ぜんぶ夏のせいだ。』 / ＼＼ ☀️新曲初披露☀️ ／／",
-    "post_url": "https://nitter.net/hakanai_info/status/2059605547406786756#m",
-    "image_url": "https://nitter.net/pic/media%2FHJSeNqla8AAkp42.jpg",
-    "created_at": "2026-05-27T12:00:02Z"
-  },
-  {
     "id": "hakanai-2026-06-23-live-event-8d129428",
     "group_id": "hakanai",
     "type": "live",
@@ -631,19 +537,7 @@
     "description": "----------- 次回のライブ ----------- / 6/23（火）渋谷REX / 『ぜんぶ夏のせいだ。』 / ＼＼ ☀️新曲初披露☀️ ／／",
     "post_url": "https://nitter.net/hakanai_info/status/2068551987508207871#m",
     "image_url": "https://nitter.net/pic/media%2FHLQzozxbUAARjWt.jpg",
-    "created_at": "2026-06-21T04:30:00Z"
-  },
-  {
-    "id": "hakanai-2026-06-23-live-event-dc5659ab",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "ぜんぶ夏のせいだ。",
-    "date": "2026-06-23",
-    "time_start": "18:30",
-    "description": "----------- 本日のライブ ----------- / 6/23（火）渋谷REX / 『ぜんぶ夏のせいだ。』 / ＼＼ ☀️新曲初披露☀️ ／／",
-    "post_url": "https://nitter.net/hakanai_info/status/2069223918276153771#m",
-    "image_url": "https://nitter.net/pic/media%2FHLah2LGaQAAKhsw.jpg",
-    "created_at": "2026-06-23T01:00:01Z"
+    "created_at": "2026-05-27T12:00:02Z"
   },
   {
     "id": "hakanai-2026-06-23-live---142d4d9d",
@@ -691,30 +585,6 @@
     "created_at": "2026-06-03T11:00:01Z"
   },
   {
-    "id": "hakanai-2026-06-27-live-event-ca9867fd",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "ガールフレンド",
-    "date": "2026-06-27",
-    "time_start": "11:30",
-    "description": "----------- 次回のライブ ----------- / 6/27（土）赤羽ReNY alpha / ツアー直前無銭ワンマン / 『ガールフレンド』",
-    "post_url": "https://nitter.net/hakanai_info/status/2069372393165140263#m",
-    "image_url": "https://nitter.net/pic/media%2FHLaiK9ca8AAsmhh.jpg",
-    "created_at": "2026-06-23T10:50:00Z"
-  },
-  {
-    "id": "hakanai-2026-06-27-live-event-b8bcd21d",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "ガールフレンド",
-    "date": "2026-06-27",
-    "time_start": "11:30",
-    "description": "----------- 本日のライブ ----------- / 6/27（土）赤羽ReNY alpha / ツアー直前無銭ワンマン / 『ガールフレンド』",
-    "post_url": "https://nitter.net/hakanai_info/status/2070636864298721575#m",
-    "image_url": "https://nitter.net/pic/media%2FHLxhOpnaMAAzhnC.jpg",
-    "created_at": "2026-06-26T22:34:33Z"
-  },
-  {
     "id": "hakanai-2026-06-27-live-hakanai-x-aice-1f1e1a83",
     "group_id": "hakanai",
     "type": "live",
@@ -757,27 +627,6 @@
     "created_at": "2026-06-04T09:59:58.939Z"
   },
   {
-    "id": "hakanai-2026-06-28-live--festival-2026-suppo-5e3a3555",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "「アイドル甲子園 FESTIVAL 2026」 supported by My-th -DAY2-",
-    "date": "2026-06-28",
-    "description": "「アイドル甲子園 FESTIVAL 2026」 supported by My-th -DAY2-",
-    "created_at": "2026-06-04T09:59:58.939Z"
-  },
-  {
-    "id": "hakanai-2026-06-28-live-festival-2026-b340a924",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "アイドル甲子園 FESTIVAL 2026",
-    "date": "2026-06-28",
-    "time_start": "9:00",
-    "description": "------ スケジュール解禁 ------ / 6/28（日）TFTホール / 「アイドル甲子園 FESTIVAL 2026」 / supported by My-th -DAY2-",
-    "post_url": "https://nitter.net/hakanai_info/status/2061779871597228305#m",
-    "image_url": "https://nitter.net/pic/media%2FHJyBBNnbYAAjdo3.jpg",
-    "created_at": "2026-06-02T12:00:02Z"
-  },
-  {
     "id": "hakanai-2026-06-28-live-festival-2026-ba62264e",
     "group_id": "hakanai",
     "type": "live",
@@ -787,31 +636,16 @@
     "description": "----------- TT 解禁 ----------- / 6/28（日）TFTホール500 / 「アイドル甲子園 FESTIVAL 2026」 / supported by My-th -DAY2-",
     "post_url": "https://nitter.net/hakanai_info/status/2067216172614127995#m",
     "image_url": "https://nitter.net/pic/media%2FHLA6ERlbYAA7n1E.jpg",
-    "created_at": "2026-06-17T12:01:57Z"
+    "created_at": "2026-06-02T12:00:02Z"
   },
   {
-    "id": "hakanai-2026-06-28-live-festival-2026-f7d38852",
+    "id": "hakanai-2026-06-28-live--festival-2026-suppo-5e3a3555",
     "group_id": "hakanai",
     "type": "live",
-    "title": "アイドル甲子園 FESTIVAL 2026",
+    "title": "「アイドル甲子園 FESTIVAL 2026」 supported by My-th -DAY2-",
     "date": "2026-06-28",
-    "time_start": "9:00",
-    "description": "----------- 次回のライブ ----------- / 🚨現衣装ラストライブ🚨 / 6/28（日）TFTホール500 / 「アイドル甲子園 FESTIVAL 2026」",
-    "post_url": "https://nitter.net/hakanai_info/status/2070714990089175272#m",
-    "image_url": "https://nitter.net/pic/media%2FHLxibX2bMAAT81e.jpg",
-    "created_at": "2026-06-27T03:45:00Z"
-  },
-  {
-    "id": "hakanai-2026-06-28-live-festival-2026-fd764927",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "アイドル甲子園 FESTIVAL 2026",
-    "date": "2026-06-28",
-    "time_start": "9:00",
-    "description": "----------- 本日のライブ ----------- / 🚨現衣装ラストライブ🚨 / 6/28（日）TFTホール500 / 「アイドル甲子園 FESTIVAL 2026」",
-    "post_url": "https://nitter.net/hakanai_info/status/2071035856748438015#m",
-    "image_url": "https://nitter.net/pic/media%2FHL0iyZBbsAAO7zY.jpg",
-    "created_at": "2026-06-28T01:00:00Z"
+    "description": "「アイドル甲子園 FESTIVAL 2026」 supported by My-th -DAY2-",
+    "created_at": "2026-06-04T09:59:58.939Z"
   },
   {
     "id": "hakanai-2026-07-02-live-hakanai-x-aice-9fab3130",
@@ -850,43 +684,6 @@
     "created_at": "2026-06-28T03:00:01Z"
   },
   {
-    "id": "hakanai-2026-07-04-live-event-8f24f93e",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "無彩色の青",
-    "date": "2026-07-04",
-    "time_start": "11:10",
-    "description": "⋆┈┈┈┈ 名古屋リリイベ ┈┈┈┈⋆ / 7/4（土）ヴィレッジヴァンガード名古屋パルコ店 / 『 無彩色の青 』リリースイベント / 限定Mカードの販売イベント＆ミニライブ",
-    "post_url": "https://nitter.net/hakanai_info/status/2072296664950587674#m",
-    "image_url": "https://nitter.net/pic/media%2FHMIvFg6agAApJUH.jpg",
-    "created_at": "2026-07-01T12:30:00Z"
-  },
-  {
-    "id": "hakanai-2026-07-04-live-event-b9195506",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "無彩色の青",
-    "date": "2026-07-04",
-    "time_start": "11:10",
-    "ticket_url": "https://hakanai-official.com/news/public/_/t7gfnjwl5suuz2ii.html",
-    "description": "----------- 本日のライブ① ----------- 7/4（土）ヴィレッジヴァンガード名古屋パルコ店 『 無彩色の青 』リリースイベント 限定Mカードの販売イベント＆ミニライブ 11:10 11:30 ※10:00より販売開始で整理券ランダム配布 詳細はこちら https://hakanai-officia",
-    "post_url": "https://nitter.net/hakanai_info/status/2073179985506894249#m",
-    "image_url": "https://nitter.net/pic/media%2FHMUgR06a0AAOu6Y.jpg",
-    "created_at": "2026-07-03T23:00:01Z"
-  },
-  {
-    "id": "hakanai-2026-07-04-live-event-1ea3e106",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "無彩色の青",
-    "date": "2026-07-04",
-    "time_start": "16:30",
-    "description": "----------- 次回はツアー初日 ----------- / ✨新衣装＆新曲お披露目あり✨ / 7/4（土）名古屋E.L.L / hakanai Release tour",
-    "post_url": "https://nitter.net/hakanai_info/status/2071203207028859167#m",
-    "image_url": "https://nitter.net/pic/media%2FHL0kMrBaQAAnUc0.jpg",
-    "created_at": "2026-06-28T12:05:00Z"
-  },
-  {
     "id": "hakanai-2026-07-04-live-event-09a8ca4f",
     "group_id": "hakanai",
     "type": "live",
@@ -896,7 +693,7 @@
     "description": "----------- 本日のライブ② ----------- / 7/4（土）名古屋E.L.L / hakanai Release tour / 『 無彩色の青 』- NAGOYA -",
     "post_url": "https://nitter.net/hakanai_info/status/2073180238180188459#m",
     "image_url": "https://nitter.net/pic/media%2FHMUi7aTaYAAvHxl.jpg",
-    "created_at": "2026-07-03T23:01:01Z"
+    "created_at": "2026-06-28T12:05:00Z"
   },
   {
     "id": "hakanai-2026-07-04-live-hakanai-release-tour-20cf2e08",
@@ -917,15 +714,6 @@
     "description": "【7/5特典会についてのご案内】 / 本日の特典会はライブ出演時間(BAKUステージ 15:20-15:35)の都合上、14:50に終了とさせていただきます。 / ご了承のほどよろしくお願いいたします。",
     "post_url": "https://nitter.net/hakanai_info/status/2073640997934993640#m",
     "created_at": "2026-07-05T05:31:54Z"
-  },
-  {
-    "id": "hakanai-2026-07-05-live--natsuzome-2026-3221639d",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "超NATSUZOME 2026",
-    "date": "2026-07-05",
-    "description": "超NATSUZOME 2026",
-    "created_at": "2026-06-04T09:59:58.939Z"
   },
   {
     "id": "hakanai-2026-07-05-live-natsuzome-2026-tt-abf57062",
@@ -1007,6 +795,15 @@
     "created_at": "2026-07-04T22:00:00Z"
   },
   {
+    "id": "hakanai-2026-07-05-live--natsuzome-2026-3221639d",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "超NATSUZOME 2026",
+    "date": "2026-07-05",
+    "description": "超NATSUZOME 2026",
+    "created_at": "2026-06-04T09:59:58.939Z"
+  },
+  {
     "id": "hakanai-2026-07-07-live--yoru-fes-sp--1814a83",
     "group_id": "hakanai",
     "type": "live",
@@ -1014,18 +811,6 @@
     "date": "2026-07-07",
     "description": "夜光性アミューズ主催ライブ 『YORU-FES ~夜を駆けるサーキットSP~』",
     "created_at": "2026-06-04T09:59:58.940Z"
-  },
-  {
-    "id": "hakanai-2026-07-07-live-yoru-fes-sp-fb4a53f6",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "YORU-FES ~夜を駆けるサーキットSP~",
-    "date": "2026-07-07",
-    "venue": "s SHIBUYA\n夜光性アミューズ主催ライブ",
-    "description": "----------- TT 解禁 ----------- / 7/7（火）Veats SHIBUYA / 夜光性アミューズ主催ライブ / 『YORU-FES ~夜を駆けるサーキットSP~』",
-    "post_url": "https://nitter.net/hakanai_info/status/2065751037638766614#m",
-    "image_url": "https://nitter.net/pic/media%2FHKnyg-6aoAAYoNy.jpg",
-    "created_at": "2026-06-13T11:00:01Z"
   },
   {
     "id": "hakanai-2026-07-07-live-yoru-fes-sp-f8272ad1",
@@ -1037,43 +822,7 @@
     "description": "----------- 特典会TT 解禁 ----------- / 7/7（火）Veats SHIBUYA / 夜光性アミューズ主催ライブ / 『YORU-FES ~夜を駆けるサーキットSP~』",
     "post_url": "https://nitter.net/hakanai_info/status/2072258917158265239#m",
     "image_url": "https://nitter.net/pic/media%2FHMHXfSbakAAidht.jpg",
-    "created_at": "2026-07-01T10:00:01Z"
-  },
-  {
-    "id": "hakanai-2026-07-07-live-yoru-fes-sp-9a2397e6",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "YORU-FES ~夜を駆けるサーキットSP~",
-    "date": "2026-07-07",
-    "venue": "s SHIBUYA\n夜光性アミューズ主催ライブ",
-    "description": "----------- 次回のライブ ----------- / 7/7（火）Veats SHIBUYA / 夜光性アミューズ主催ライブ / 『YORU-FES ~夜を駆けるサーキットSP~』",
-    "post_url": "https://nitter.net/hakanai_info/status/2073656874520764592#m",
-    "image_url": "https://nitter.net/pic/media%2FHMaHlR8bQAAGbX4.jpg",
-    "created_at": "2026-07-05T06:35:00Z"
-  },
-  {
-    "id": "hakanai-2026-07-07-live-yoru-fes-sp-58ec5685",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "YORU-FES ~夜を駆けるサーキットSP~",
-    "date": "2026-07-07",
-    "venue": "s SHIBUYA\n夜光性アミューズ主催ライブ",
-    "description": "----------- 明日のライブ ----------- / 7/7（火）Veats SHIBUYA / 夜光性アミューズ主催ライブ / 『YORU-FES ~夜を駆けるサーキットSP~』",
-    "post_url": "https://nitter.net/hakanai_info/status/2074055752734712231#m",
-    "image_url": "https://nitter.net/pic/media%2FHMh9kFaawAAryfK.jpg",
-    "created_at": "2026-07-06T09:00:00Z"
-  },
-  {
-    "id": "hakanai-2026-07-07-live-yoru-fes-sp-5ccd94e0",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "YORU-FES ~夜を駆けるサーキットSP~",
-    "date": "2026-07-07",
-    "venue": "s SHIBUYA\n夜光性アミューズ主催ライブ",
-    "description": "----------- 本日のライブ ----------- / 7/7（火）Veats SHIBUYA / 夜光性アミューズ主催ライブ / 『YORU-FES ~夜を駆けるサーキットSP~』",
-    "post_url": "https://nitter.net/hakanai_info/status/2074267148080357872#m",
-    "image_url": "https://nitter.net/pic/media%2FHMktd7maQAA2-E9.jpg",
-    "created_at": "2026-07-06T23:00:00Z"
+    "created_at": "2026-06-13T11:00:01Z"
   },
   {
     "id": "hakanai-2026-07-08-live-event-e09b4c4e",
@@ -1089,33 +838,6 @@
     "created_at": "2026-07-07T04:40:00Z"
   },
   {
-    "id": "hakanai-2026-07-11-live-event-c16e5ca3",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "白昼夢倶楽部",
-    "date": "2026-07-11",
-    "time_open": "11:00",
-    "time_start": "11:30",
-    "description": "🪼 FC限定ワンマン 開催決定 🪼 / 7/11（土）赤羽ReNY alpha / FC限定ワンマン / 『白昼夢倶楽部』",
-    "post_url": "https://nitter.net/hakanai_info/status/2070114795957690849#m",
-    "image_url": "https://nitter.net/pic/media%2FHLmV5npa8AAGykI.jpg",
-    "created_at": "2026-06-25T12:00:02Z"
-  },
-  {
-    "id": "hakanai-2026-07-11-live-event-91088b35",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "白昼夢倶楽部",
-    "date": "2026-07-11",
-    "time_open": "11:00",
-    "time_start": "11:30",
-    "ticket_url": "https://nitter.net/hakanai_info/status/2070114795957690849#m",
-    "description": "本日21時より販売開始📢 / hakanai【スケジュール】 (@hakanai_info) / 🪼 FC限定ワンマン 開催決定 🪼 / 7/11（土）赤羽ReNY alpha",
-    "post_url": "https://nitter.net/hakanai_info/status/2070454523957592409#m",
-    "image_url": "https://nitter.net/pic/media%2FHLmV5npa8AAGykI.jpg",
-    "created_at": "2026-06-26T10:30:00Z"
-  },
-  {
     "id": "hakanai-2026-07-11-live-event-5815904c",
     "group_id": "hakanai",
     "type": "live",
@@ -1127,46 +849,7 @@
     "description": "【7/11公演の特典についてのご案内】 / 7/11 赤羽ReNY alphaにて開催の / FC限定ワンマン『白昼夢倶楽部』でのコラボTシャツ着用入場でもらえる特典についてですが、コラボTシャツ売切のためレギュレーションを変更させていただきます⚠️ / ［旧］",
     "post_url": "https://nitter.net/hakanai_info/status/2072598654951551350#m",
     "image_url": "https://nitter.net/pic/media%2FHLmV5npa8AAGykI.jpg",
-    "created_at": "2026-07-02T08:30:01Z"
-  },
-  {
-    "id": "hakanai-2026-07-11-live-event-81e418ee",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "白昼夢倶楽部",
-    "date": "2026-07-11",
-    "time_open": "11:00",
-    "time_start": "11:30",
-    "description": "----------- 次回のライブ ----------- / 7/11（土）赤羽ReNY alpha / FC限定ワンマン / 『白昼夢倶楽部』",
-    "post_url": "https://nitter.net/hakanai_info/status/2074352709608825182#m",
-    "image_url": "https://nitter.net/pic/media%2FHMkzYyrbMAAUH06.jpg",
-    "created_at": "2026-07-07T04:40:00Z"
-  },
-  {
-    "id": "hakanai-2026-07-11-live-event-66ddff75",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "白昼夢倶楽部",
-    "date": "2026-07-11",
-    "time_open": "11:00",
-    "time_start": "11:30",
-    "description": "----------- 明日のライブ ----------- / 7/11（土）赤羽ReNY alpha / FC限定ワンマン / 『白昼夢倶楽部』",
-    "post_url": "https://nitter.net/hakanai_info/status/2075490210977300774#m",
-    "image_url": "https://nitter.net/pic/media%2FHM1EnNPaEAAJWGp.jpg",
-    "created_at": "2026-07-10T08:00:01Z"
-  },
-  {
-    "id": "hakanai-2026-07-11-live-event-5ad89ff7",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "白昼夢倶楽部",
-    "date": "2026-07-11",
-    "time_open": "11:00",
-    "time_start": "11:30",
-    "description": "----------- 本日のライブ ----------- / 7/11（土）赤羽ReNY alpha / FC限定ワンマン / 『白昼夢倶楽部』",
-    "post_url": "https://nitter.net/hakanai_info/status/2075716702084686256#m",
-    "image_url": "https://nitter.net/pic/media%2FHM1Gz5bbgAAqHVR.jpg",
-    "created_at": "2026-07-10T23:00:01Z"
+    "created_at": "2026-06-25T12:00:02Z"
   },
   {
     "id": "hakanai-2026-07-11-live-spark-2026-83f4c1fa",
@@ -1210,28 +893,6 @@
     "created_at": "2026-07-07T13:23:08Z"
   },
   {
-    "id": "hakanai-2026-07-12-live-spark-2026-37885a90",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "SPARK 2026 渋谷納涼祭",
-    "date": "2026-07-12",
-    "description": "----------- 縁日TT解禁 ----------- / 7/12（日）渋谷音楽堂 / 『SPARK 2026 渋谷納涼祭』 / 🎫  t-dv.com/spark2026_summer",
-    "post_url": "https://nitter.net/hakanai_info/status/2075506566237970665#m",
-    "image_url": "https://nitter.net/pic/media%2FHM2uJbjbkAEtShF.jpg",
-    "created_at": "2026-07-10T09:05:01Z"
-  },
-  {
-    "id": "hakanai-2026-07-12-live-spark-2026-bed745be",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "SPARK 2026 渋谷納涼祭",
-    "date": "2026-07-12",
-    "description": "----------- 明日のライブ ----------- / 7/12（日）渋谷音楽堂 / 『SPARK 2026 渋谷納涼祭』 / 🎫  t-dv.com/spark2026_summer",
-    "post_url": "https://nitter.net/hakanai_info/status/2075779612894724370#m",
-    "image_url": "https://nitter.net/pic/media%2FHM5IB6GaIAAw1cc.jpg",
-    "created_at": "2026-07-11T03:10:00Z"
-  },
-  {
     "id": "hakanai-2026-07-12-live-spark2026-5b53a39a",
     "group_id": "hakanai",
     "type": "live",
@@ -1241,42 +902,7 @@
     "description": "⋆┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈⋆ / この後は縁日会場でお待ちしてます🪼 / 縁日（縁日ブース10）18:15 / [種目]",
     "post_url": "https://nitter.net/hakanai_info/status/2076229249808334960#m",
     "image_url": "https://nitter.net/pic/media%2FHNA_eeXbUAAiexB.jpg",
-    "created_at": "2026-07-12T08:56:42Z"
-  },
-  {
-    "id": "hakanai-2026-07-12-live-spark2026-d06b1359",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "#SPARK2026  渋谷納涼祭",
-    "date": "2026-07-12",
-    "description": "----------- 本日のライブ ----------- / 7/12（日）渋谷音楽堂 / 『  #SPARK2026  渋谷納涼祭』 / 🎫  t-dv.com/spark2026_summer",
-    "post_url": "https://nitter.net/hakanai_info/status/2076063988249493533#m",
-    "image_url": "https://nitter.net/pic/media%2FHM-YFPHaUAAu5sF.jpg",
     "created_at": "2026-07-11T22:00:00Z"
-  },
-  {
-    "id": "hakanai-2026-07-13-live-event-2737a8b5",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "ミツドモエ。",
-    "date": "2026-07-13",
-    "time_start": "18:40",
-    "description": "------ スケジュール解禁 ------ / 7/13（月）渋谷音楽堂 / - #ﾆｷﾌﾟﾚ  2th Anniversary!!- / 18:40 / 19:00",
-    "post_url": "https://nitter.net/hakanai_info/status/2060288268063948852#m",
-    "image_url": "https://nitter.net/pic/media%2FHJedD-XaUAAzgSi.jpg",
-    "created_at": "2026-05-29T09:12:56Z"
-  },
-  {
-    "id": "hakanai-2026-07-13-live-event-461d71a7",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "ミツドモエ。",
-    "date": "2026-07-13",
-    "time_start": "18:40",
-    "description": "------ 明日のライブ ------ / 7/13（月）渋谷音楽堂 / - #ﾆｷﾌﾟﾚ  2th Anniversary!!- / 18:40 / 19:00",
-    "post_url": "https://nitter.net/hakanai_info/status/2076189814517612562#m",
-    "image_url": "https://nitter.net/pic/media%2FHM-ZxUnboAAUCut.jpg",
-    "created_at": "2026-07-12T06:20:00Z"
   },
   {
     "id": "hakanai-2026-07-13-live-event-58015abe",
@@ -1289,19 +915,7 @@
     "description": "【物販場所のご案内】 / - #ﾆｷﾌﾟﾚ  2th Anniversary!!- / 物販場所はB(フロア前方上手側)の予定です。 / お待ちしています。",
     "post_url": "https://nitter.net/hakanai_info/status/2076612829432701364#m",
     "image_url": "https://nitter.net/pic/media%2FHNGcWh0aMAAe7mz.jpg",
-    "created_at": "2026-07-13T10:20:54Z"
-  },
-  {
-    "id": "hakanai-2026-07-13-live-event-fa52b5f5",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "ミツドモエ。",
-    "date": "2026-07-13",
-    "time_start": "18:40",
-    "description": "------ 本日のライブ ------ / 7/13（月）渋谷音楽堂 / - #ﾆｷﾌﾟﾚ  2th Anniversary!!- / 18:40 / 19:00",
-    "post_url": "https://nitter.net/hakanai_info/status/2076471677647553017#m",
-    "image_url": "https://nitter.net/pic/media%2FHND0zYWbIAAswCZ.jpg",
-    "created_at": "2026-07-13T01:00:01Z"
+    "created_at": "2026-05-29T09:12:56Z"
   },
   {
     "id": "hakanai-2026-07-13-deadline-fc-s-a22bb335",
@@ -1330,18 +944,6 @@
     "created_at": "2026-07-09T14:45:55Z"
   },
   {
-    "id": "hakanai-2026-07-13-live-event-5b4f4231",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "無彩色の青",
-    "date": "2026-07-13",
-    "time_start": "23:59",
-    "description": "----------- 明日のイベント ----------- / 7/14(火)『無彩色の青』オンラインサイン会 / 20:00～（予定） / ※開始時間は前後する可能性がございます。",
-    "post_url": "https://nitter.net/hakanai_info/status/2076637778587390160#m",
-    "image_url": "https://nitter.net/pic/media%2FHND2PQKaMAAoQND.jpg",
-    "created_at": "2026-07-13T12:00:03Z"
-  },
-  {
     "id": "hakanai-2026-07-13-live--2th-anniversary--34d3aa36",
     "group_id": "hakanai",
     "type": "live",
@@ -1364,18 +966,6 @@
     "created_at": "2026-07-09T14:45:55Z"
   },
   {
-    "id": "hakanai-2026-07-14-live-event-030d0b8f",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "無彩色の青",
-    "date": "2026-07-14",
-    "time_start": "20:00",
-    "description": "----------- 明日のイベント ----------- / 7/14(火)『無彩色の青』オンラインサイン会 / 20:00～（予定） / ※開始時間は前後する可能性がございます。",
-    "post_url": "https://nitter.net/hakanai_info/status/2076637778587390160#m",
-    "image_url": "https://nitter.net/pic/media%2FHND2PQKaMAAoQND.jpg",
-    "created_at": "2026-07-13T12:00:03Z"
-  },
-  {
     "id": "hakanai-2026-07-14-live---47f5ded2",
     "group_id": "hakanai",
     "type": "live",
@@ -1394,17 +984,6 @@
     "created_at": "2026-06-04T09:59:58.940Z"
   },
   {
-    "id": "hakanai-2026-07-15-live-hakoniwa-vol-12-43c12f76",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "HAKONIWA vol.12",
-    "date": "2026-07-15",
-    "description": "----------- スケジュール解禁 ----------- / 7/15（水）渋谷WWW X / OTONA CHILD.presents / 『HAKONIWA vol.12』",
-    "post_url": "https://nitter.net/hakanai_info/status/2066853306199380247#m",
-    "image_url": "https://nitter.net/pic/media%2FHK608mYaAAAYVml.jpg",
-    "created_at": "2026-06-16T12:00:03Z"
-  },
-  {
     "id": "hakanai-2026-07-15-live-hakoniwa-vol-12-2fd1192f",
     "group_id": "hakanai",
     "type": "live",
@@ -1414,29 +993,7 @@
     "description": "FC前方申込本日23:59まで🚨 / 一般販売は24日22:00〜📢 / hakanai【スケジュール】 (@hakanai_info) / ----------- スケジュール解禁 -----------",
     "post_url": "https://nitter.net/hakanai_info/status/2069042728172757237#m",
     "image_url": "https://nitter.net/pic/media%2FHK608mYaAAAYVml.jpg",
-    "created_at": "2026-06-22T13:00:02Z"
-  },
-  {
-    "id": "hakanai-2026-07-15-live-hakoniwa-vol-12-b4efb103",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "HAKONIWA vol.12",
-    "date": "2026-07-15",
-    "description": "----------- 明日のライブ ----------- / 7/15（水）渋谷WWW X / OTONA CHILD.presents / 『HAKONIWA vol.12』",
-    "post_url": "https://nitter.net/hakanai_info/status/2076969968588001681#m",
-    "image_url": "https://nitter.net/pic/media%2FHNJIVwCbUAAEZnn.jpg",
-    "created_at": "2026-07-14T10:00:03Z"
-  },
-  {
-    "id": "hakanai-2026-07-15-live-hakoniwa-vol-12-5bd76e1c",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "HAKONIWA vol.12",
-    "date": "2026-07-15",
-    "description": "----------- 本日のライブ ----------- / 7/15（水）渋谷WWW X / OTONA CHILD.presents / 『HAKONIWA vol.12』",
-    "post_url": "https://nitter.net/hakanai_info/status/2077135048156094891#m",
-    "image_url": "https://nitter.net/pic/media%2FHNN3UG-bcAEK-U5.jpg",
-    "created_at": "2026-07-14T20:56:01Z"
+    "created_at": "2026-06-16T12:00:03Z"
   },
   {
     "id": "hakanai-2026-07-18-live-event-8d48d5e5",
@@ -1449,30 +1006,6 @@
     "post_url": "https://nitter.net/hakanai_info/status/2077349959364424040#m",
     "image_url": "https://nitter.net/pic/media%2FHNPg7B8bEAAumBx.jpg",
     "created_at": "2026-07-15T11:10:00Z"
-  },
-  {
-    "id": "hakanai-2026-07-18-live-event-e361e38e",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "無彩色の青",
-    "date": "2026-07-18",
-    "time_start": "16:30",
-    "description": "----------- 明日はツアー2公演目 ----------- / 7/18（土）［兵庫］太陽と虎 / hakanai Release tour / 『 無彩色の青 』- HYOGO -",
-    "post_url": "https://nitter.net/hakanai_info/status/2078064668690592196#m",
-    "image_url": "https://nitter.net/pic/media%2FHNa35eOagAAzGE4.jpg",
-    "created_at": "2026-07-17T10:30:00Z"
-  },
-  {
-    "id": "hakanai-2026-07-18-live-event-32d5a6c4",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "無彩色の青",
-    "date": "2026-07-18",
-    "time_start": "16:30",
-    "description": "----------- 本日のライブ ----------- / 7/18（土）［兵庫］太陽と虎 / hakanai Release tour / 『 無彩色の青 』- HYOGO -",
-    "post_url": "https://nitter.net/hakanai_info/status/2078268514385944939#m",
-    "image_url": "https://nitter.net/pic/media%2FHNdVRqna8AAeagk.jpg",
-    "created_at": "2026-07-18T00:00:00Z"
   },
   {
     "id": "hakanai-2026-07-18-live-hakanai-release-tour-2f3ee755",
@@ -1504,17 +1037,6 @@
     "created_at": "2026-07-18T09:00:00Z"
   },
   {
-    "id": "hakanai-2026-07-19-live-event-06c0c261",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "無彩色の青",
-    "date": "2026-07-19",
-    "description": "----------- 本日のライブ ----------- / 7/19（日）［大阪］Yogibo META VALLEY / hakanai Release tour / 『 無彩色の青 』- OSAKA -",
-    "post_url": "https://nitter.net/hakanai_info/status/2078630902138359995#m",
-    "image_url": "https://nitter.net/pic/media%2FHNilrT9bQAAFeb3.jpg",
-    "created_at": "2026-07-19T00:00:00Z"
-  },
-  {
     "id": "hakanai-2026-07-20-live-event-236a1ba1",
     "group_id": "hakanai",
     "type": "live",
@@ -1528,43 +1050,6 @@
     "created_at": "2026-07-03T10:00:00Z"
   },
   {
-    "id": "hakanai-2026-07-20-live-event-1be51f37",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "無彩色の青",
-    "date": "2026-07-20",
-    "time_start": "12:40",
-    "description": "⋆┈┈┈┈ 大阪リリイベ ┈┈┈┈⋆ / 7/20（月祝）ヨドバシカメラマルチメディア梅田 / B2Fイベントスペース / 『 無彩色の青 』リリースイベント",
-    "post_url": "https://nitter.net/hakanai_info/status/2078042036226113798#m",
-    "image_url": "https://nitter.net/pic/media%2FHNaXA9Aa8AEb-qH.jpg",
-    "created_at": "2026-07-17T09:00:04Z"
-  },
-  {
-    "id": "hakanai-2026-07-20-live-event-3cbc875e",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "無彩色の青",
-    "date": "2026-07-20",
-    "time_start": "12:40",
-    "ticket_url": "https://hakanai-official.com/news/public/_/8dldhthfphjj14bp.html",
-    "description": "----------- 明日のライブ ----------- 7/20（月祝）ヨドバシカメラマルチメディア梅田 B2Fイベントスペース 『 無彩色の青 』リリースイベント 限定Mカードの販売イベント＆ミニライブ 12:40 13:00 ※11:30より販売開始で整理券ランダム配布 詳細はこちら https://haka",
-    "post_url": "https://nitter.net/hakanai_info/status/2078766798883995717#m",
-    "image_url": "https://nitter.net/pic/media%2FHNioQfka4AAlxdR.jpg",
-    "created_at": "2026-07-19T09:00:01Z"
-  },
-  {
-    "id": "hakanai-2026-07-20-live-event-0c4d75f2",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "無彩色の青",
-    "date": "2026-07-20",
-    "time_start": "12:40",
-    "description": "----------- 本日のライブ ----------- / 7/20（月祝）ヨドバシカメラマルチメディア梅田 B2Fイベントスペース / 『 無彩色の青 』リリースイベント / 限定Mカードの販売イベント＆ミニライブ",
-    "post_url": "https://nitter.net/hakanai_info/status/2078978193868968368#m",
-    "image_url": "https://nitter.net/pic/media%2FHNn-fIga0AAYvxF.jpg",
-    "created_at": "2026-07-19T23:00:01Z"
-  },
-  {
     "id": "hakanai-2026-07-20-live---20242f37",
     "group_id": "hakanai",
     "type": "live",
@@ -1572,18 +1057,6 @@
     "date": "2026-07-20",
     "description": "イベント予定",
     "created_at": "2026-06-04T09:59:58.940Z"
-  },
-  {
-    "id": "hakanai-2026-07-22-live-utage-fes-vol-5-f0bcd06c",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "UTAGE FES Vol.5",
-    "date": "2026-07-22",
-    "time_start": "10:00",
-    "description": "----------- TT 解禁 ----------- / 7/22（水）Music Restaurant APEXIA / 『UTAGE FES Vol.5』 / 10:00 / 10:30",
-    "post_url": "https://nitter.net/hakanai_info/status/2073157332733993279#m",
-    "image_url": "https://nitter.net/pic/media%2FHMVVObuboAAG9K4.jpg",
-    "created_at": "2026-07-03T21:30:00Z"
   },
   {
     "id": "hakanai-2026-07-22-live-utage-fes-vol-5-c329e275",
@@ -1595,43 +1068,7 @@
     "description": "----------- 特典会TT・エリアマップ解禁 ----------- / 7/22（水）Music Restaurant APEXIA / 『UTAGE FES Vol.5』 / 10:00 / 10:30",
     "post_url": "https://nitter.net/hakanai_info/status/2077604138217624002#m",
     "image_url": "https://nitter.net/pic/media%2FHNUdOs-boAAU3jB.jpg",
-    "created_at": "2026-07-16T04:00:01Z"
-  },
-  {
-    "id": "hakanai-2026-07-22-live-utage-fes-vol-5-3d5fc61e",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "UTAGE FES Vol.5",
-    "date": "2026-07-22",
-    "time_start": "10:00",
-    "description": "----------- 次回のライブ ----------- / 7/22（水）Music Restaurant APEXIA / 『UTAGE FES Vol.5』 / 10:00 / 10:30",
-    "post_url": "https://nitter.net/hakanai_info/status/2079061236604657687#m",
-    "image_url": "https://nitter.net/pic/media%2FHNn-5dKa8AELKG8.jpg",
-    "created_at": "2026-07-20T04:30:00Z"
-  },
-  {
-    "id": "hakanai-2026-07-22-live-utage-fes-vol-5-47e3389a",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "UTAGE FES Vol.5",
-    "date": "2026-07-22",
-    "time_start": "10:00",
-    "description": "----------- 本日のライブ ----------- / 7/22（水）Music Restaurant APEXIA / 『UTAGE FES Vol.5』 / 10:00 / 10:30",
-    "post_url": "https://nitter.net/hakanai_info/status/2079687866029056263#m",
-    "image_url": "https://nitter.net/pic/media%2FHNyFkH-bIAAYLYz.jpg",
-    "created_at": "2026-07-21T22:00:00Z"
-  },
-  {
-    "id": "hakanai-2026-07-22-live-utage-fes-vol-5-d3f7c427",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "UTAGE FES Vol.5",
-    "date": "2026-07-22",
-    "time_start": "10:00",
-    "description": "----------- 明日のライブ ----------- / 7/22（水）Music Restaurant APEXIA / 『UTAGE FES Vol.5』 / 10:00 / 10:30",
-    "post_url": "https://nitter.net/hakanai_info/status/2079491584702476430#m",
-    "image_url": "https://nitter.net/pic/media%2FHNvFyHCbwAEVk_9.jpg",
-    "created_at": "2026-07-21T09:00:03Z"
+    "created_at": "2026-07-03T21:30:00Z"
   },
   {
     "id": "hakanai-2026-07-22-live--utage-fes-vol-5--14c1fe20",
@@ -1664,40 +1101,6 @@
     "created_at": "2026-07-17T09:00:02Z"
   },
   {
-    "id": "hakanai-2026-07-24-live-event-5b19a760",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "無彩色の青",
-    "date": "2026-07-24",
-    "description": "----------- 本日のライブ ----------- / 7/24(金) タワーレコード渋谷店 9Fイベントスペース / 『 無彩色の青 』リリースイベント / 限定Mカードの販売イベント＆ミニライブ",
-    "post_url": "https://nitter.net/hakanai_info/status/2080455513599611019#m",
-    "image_url": "https://nitter.net/pic/media%2FHN9DMfOaMAAHnkr.jpg",
-    "created_at": "2026-07-24T00:50:22Z"
-  },
-  {
-    "id": "hakanai-2026-07-24-live-event-bf21c64b",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "無彩色の青",
-    "date": "2026-07-24",
-    "description": "----------- 明日のライブ ----------- / 7/24(金) タワーレコード渋谷店 9Fイベントスペース / 『 無彩色の青 』リリースイベント / 限定Mカードの販売イベント＆ミニライブ",
-    "post_url": "https://nitter.net/hakanai_info/status/2080301277330985250#m",
-    "image_url": "https://nitter.net/pic/media%2FHN629elbYAAV1sF.jpg",
-    "created_at": "2026-07-23T14:37:29Z"
-  },
-  {
-    "id": "hakanai-2026-07-24-live-event-6c937f39",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "無彩色の青",
-    "date": "2026-07-24",
-    "ticket_url": "https://hakanai-official.com/news/public/_/f9jcgfpc12lwv19z.html",
-    "description": "----------- 次回のライブ ----------- 7/24(金) タワーレコード渋谷店 9Fイベントスペース 『 無彩色の青 』リリースイベント 限定Mカードの販売イベント＆ミニライブ ※アルテミスの翼さんとの合同リリイベとなります ※雨天時は9Fエレベーターホールにて特典会のみ実施 18:30 19:00",
-    "post_url": "https://nitter.net/hakanai_info/status/2079755812688515213#m",
-    "image_url": "https://nitter.net/pic/media%2FHNyPorTbYAAyrfj.jpg",
-    "created_at": "2026-07-22T02:30:00Z"
-  },
-  {
     "id": "hakanai-2026-07-25-live-hakanai-release-tour-8e3c539",
     "group_id": "hakanai",
     "type": "live",
@@ -1715,17 +1118,6 @@
     "description": "--------- 本日はいよいよツアーファイナル --------- / ⿻ 7/25（土）［FINAL］BLAZE GOTANDA / hakanai Release tour / 『 無彩色の青 』- FINAL -",
     "post_url": "https://nitter.net/hakanai_info/status/2080815826601648321#m",
     "image_url": "https://nitter.net/pic/media%2FHOCK4LXa0AAXD8R.jpg",
-    "created_at": "2026-07-25T00:42:07Z"
-  },
-  {
-    "id": "hakanai-2026-07-25-live-event-8c9a603e",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "無彩色の青",
-    "date": "2026-07-25",
-    "description": "--------- 明日はいよいよツアーファイナル --------- / ⿻ 7/25（土）［FINAL］BLAZE GOTANDA / hakanai Release tour / 『 無彩色の青 』- FINAL -",
-    "post_url": "https://nitter.net/hakanai_info/status/2080603900323975262#m",
-    "image_url": "https://nitter.net/pic/media%2FHN9aIJXboAA-HWC.jpg",
     "created_at": "2026-07-24T10:40:00Z"
   },
   {
@@ -1750,54 +1142,6 @@
     "created_at": "2026-07-17T09:01:00Z"
   },
   {
-    "id": "hakanai-2026-07-26-live-event-8d7ac53c",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "無彩色の青",
-    "date": "2026-07-26",
-    "ticket_url": "https://nitter.net/hakanai_info/status/2081167614601256977#m",
-    "description": "【時間変更のお知らせ】 / 本日のリリースイベントですが、主催の都合により、以下の時間に変更となりました。 / 優先エリア入場 18:10（※公開リハ） / ミニライブ 19:00",
-    "post_url": "https://nitter.net/hakanai_info/status/2081265707988468061#m",
-    "image_url": "https://nitter.net/pic/media%2FHOGbfNCbAAA4UTU.jpg",
-    "created_at": "2026-07-26T06:29:47Z"
-  },
-  {
-    "id": "hakanai-2026-07-26-live-event-4f5145d3",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "無彩色の青",
-    "date": "2026-07-26",
-    "ticket_url": "https://hakanai-official.com/news/public/_/4h7bsdlvpko2d9u6.html",
-    "description": "⋆┈┈┈┈ 本日のライブ ┈┈┈┈⋆ 7/26(日)アーバンドック ららぽーと豊洲 シーサイドデッキメインステージ 『 無彩色の青 』リリースイベント 限定Mカードの販売イベント＆ミニライブ ※フルコースさんとの合同イベントになります ※16:00より販売開始で整理券ランダム配布 優先エリア入場 17:00（※公開リハ",
-    "post_url": "https://nitter.net/hakanai_info/status/2081167614601256977#m",
-    "image_url": "https://nitter.net/pic/media%2FHOGbfNCbAAA4UTU.jpg",
-    "created_at": "2026-07-26T00:00:00Z"
-  },
-  {
-    "id": "hakanai-2026-07-26-live-event-269c458a",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "無彩色の青",
-    "date": "2026-07-26",
-    "ticket_url": "https://hakanai-official.com/news/public/_/4h7bsdlvpko2d9u6.html",
-    "description": "⋆┈┈┈┈ 明日のライブ ┈┈┈┈⋆ 7/26(日)アーバンドック ららぽーと豊洲 シーサイドデッキメインステージ 『 無彩色の青 』リリースイベント 限定Mカードの販売イベント＆ミニライブ ※フルコースさんとの合同イベントになります ※16:00より販売開始で整理券ランダム配布 優先エリア入場 17:00（※公開リハ",
-    "post_url": "https://nitter.net/hakanai_info/status/2081009735697092960#m",
-    "image_url": "https://nitter.net/pic/media%2FHOE7TjaaAAA4HXO.jpg",
-    "created_at": "2026-07-25T13:32:38Z"
-  },
-  {
-    "id": "hakanai-2026-07-26-live-event-4be8a7a6",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "無彩色の青",
-    "date": "2026-07-26",
-    "ticket_url": "https://hakanai-official.com/news/public/_/4h7bsdlvpko2d9u6.html",
-    "description": "⋆┈┈┈┈ 都内リリイベ情報更新 ┈┈┈┈⋆ 7/26(日)アーバンドック ららぽーと豊洲 シーサイドデッキメインステージ 『 無彩色の青 』リリースイベント 限定Mカードの販売イベント＆ミニライブ ※フルコースさんとの合同イベントに変更になりました ※16:00より販売開始で整理券ランダム配布 優先エリア入場 17:",
-    "post_url": "https://nitter.net/hakanai_info/status/2080488140460970242#m",
-    "image_url": "https://nitter.net/pic/media%2FHN9S62YawAAP3JX.jpg",
-    "created_at": "2026-07-24T03:00:00Z"
-  },
-  {
     "id": "hakanai-2026-07-30-live-idol-bible-vol-1-47a655a8",
     "group_id": "hakanai",
     "type": "live",
@@ -1808,46 +1152,7 @@
     "description": "----------- 次回のライブ ----------- / 7/30（木）VeatsSHIBUYA / 「IDOL BIBLE vol.1」 / 15:20/16:00",
     "post_url": "https://nitter.net/hakanai_info/status/2081372859524604132#m",
     "image_url": "https://nitter.net/pic/media%2FHOKFlCUakAEnapr.jpg",
-    "created_at": "2026-07-26T13:35:34Z"
-  },
-  {
-    "id": "hakanai-2026-07-30-live-idol-bible-vol-1-acdbaaca",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "IDOL BIBLE vol.1",
-    "date": "2026-07-30",
-    "time_start": "15:20",
-    "venue": "sSHIBUYA",
-    "description": "----------- TT解禁 ----------- / 7/30（木）VeatsSHIBUYA / 「IDOL BIBLE vol.1」 / 15:20/16:00",
-    "post_url": "https://nitter.net/hakanai_info/status/2079884159179170138#m",
-    "image_url": "https://nitter.net/pic/media%2FHNyMSVIaYAANlfY.jpg",
     "created_at": "2026-07-22T11:00:00Z"
-  },
-  {
-    "id": "hakanai-2026-07-30-live-idol-bible-vol-1-237d0f27",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "IDOL BIBLE vol.1",
-    "date": "2026-07-30",
-    "time_start": "15:20",
-    "venue": "sSHIBUYA",
-    "description": "----------- 明日のライブ ----------- / 7/30（木）VeatsSHIBUYA / 「IDOL BIBLE vol.1」 / 15:20/16:00",
-    "post_url": "https://nitter.net/hakanai_info/status/2082413323119702426#m",
-    "image_url": "https://nitter.net/pic/media%2FHOYwvopaYAAwisn.jpg",
-    "created_at": "2026-07-29T10:30:00Z"
-  },
-  {
-    "id": "hakanai-2026-07-30-live-idol-bible-vol-1-555908c0",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "IDOL BIBLE vol.1",
-    "date": "2026-07-30",
-    "time_start": "15:20",
-    "venue": "sSHIBUYA",
-    "description": "----------- 本日のライブ ----------- / 7/30（木）VeatsSHIBUYA / 「IDOL BIBLE vol.1」 / 15:20/16:00",
-    "post_url": "https://nitter.net/hakanai_info/status/2082632267701309824#m",
-    "image_url": "https://nitter.net/pic/media%2FHOb6A8Yb0AA9_s2.jpg",
-    "created_at": "2026-07-30T01:00:00Z"
   },
   {
     "id": "hakanai-2026-07-30-live-idol-bible-vol-1-6154b156",
@@ -1863,30 +1168,6 @@
     "created_at": "2026-07-02T11:00:00Z"
   },
   {
-    "id": "hakanai-2026-07-31-live-tokyo-idol-festival-2026-27522269",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "TOKYO IDOL FESTIVAL 2026",
-    "date": "2026-07-31",
-    "description": "--------  #TIF2026  TT解禁 -------- / 7/31＆8/2　お台場・青海周辺エリア / TOKYO IDOL FESTIVAL 2026 / supported by にしたんクリニック",
-    "post_url": "https://nitter.net/hakanai_info/status/2075159643891106228#m",
-    "image_url": "https://nitter.net/pic/media%2FHMxxlkBbcAAEiSx.jpg",
-    "created_at": "2026-07-09T10:06:28Z",
-    "time_start": "15:15"
-  },
-  {
-    "id": "hakanai-2026-07-31-live-tokyo-idol-festival-2026-ce8f9aac",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "TOKYO IDOL FESTIVAL 2026",
-    "date": "2026-07-31",
-    "description": "--------  #TIF2026  8/2ラジオ体操出演決定 -------- / 7/31＆8/2　お台場・青海周辺エリア / TOKYO IDOL FESTIVAL 2026 / supported by にしたんクリニック",
-    "post_url": "https://nitter.net/hakanai_info/status/2079159387168321812#m",
-    "image_url": "https://nitter.net/pic/media%2FHNoL2_vawAAJbBc.jpg",
-    "created_at": "2026-07-20T11:00:01Z",
-    "time_start": "15:15"
-  },
-  {
     "id": "hakanai-2026-07-31-live-tokyo-idol-festival-2026-0e3654f3",
     "group_id": "hakanai",
     "type": "live",
@@ -1895,43 +1176,7 @@
     "description": "--------  #TIF2026  物販時間・8/2縁日出演解禁 -------- / 7/31＆8/2　お台場・青海周辺エリア / TOKYO IDOL FESTIVAL 2026 / supported by にしたんクリニック",
     "post_url": "https://nitter.net/hakanai_info/status/2080608950844567812#m",
     "image_url": "https://nitter.net/pic/media%2FHN9ufG6bYAEXT5e.jpg",
-    "created_at": "2026-07-24T11:00:04Z",
-    "time_start": "15:15"
-  },
-  {
-    "id": "hakanai-2026-07-31-live-tokyo-idol-festival-2026-e148cdd6",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "TOKYO IDOL FESTIVAL 2026",
-    "date": "2026-07-31",
-    "description": "--------  #TIF2026  8/2縁日TT解禁 -------- / 7/31＆8/2　お台場・青海周辺エリア / TOKYO IDOL FESTIVAL 2026 / supported by にしたんクリニック",
-    "post_url": "https://nitter.net/hakanai_info/status/2082420878646583761#m",
-    "image_url": "https://nitter.net/pic/media%2FHOY9ibka4AAYe-t.jpg",
-    "created_at": "2026-07-29T11:00:01Z",
-    "time_start": "15:15"
-  },
-  {
-    "id": "hakanai-2026-07-31-live-tokyo-idol-festival-2026-fbdb8408",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "TOKYO IDOL FESTIVAL 2026",
-    "date": "2026-07-31",
-    "description": "------ 🔥明日はいよいよ  #TIF2026  初日🔥 ----- / 7/31（金）お台場・青海周辺エリア / TOKYO IDOL FESTIVAL 2026 / supported by にしたんクリニック",
-    "post_url": "https://nitter.net/hakanai_info/status/2082735445608128632#m",
-    "image_url": "https://nitter.net/pic/media%2FHOb7NcZaIAAg3Sk.jpg",
-    "created_at": "2026-07-30T07:50:00Z",
-    "time_start": "15:15"
-  },
-  {
-    "id": "hakanai-2026-07-31-live-tokyo-idol-festival-2026-c4b7cd0b",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "TOKYO IDOL FESTIVAL 2026",
-    "date": "2026-07-31",
-    "description": "------ 🔥本日  #TIF2026  初日🔥 ----- / 7/31（金）お台場・青海周辺エリア / TOKYO IDOL FESTIVAL 2026 / supported by にしたんクリニック",
-    "post_url": "https://nitter.net/hakanai_info/status/2082979559620956414#m",
-    "image_url": "https://nitter.net/pic/media%2FHOgxVnubYAASULN.jpg",
-    "created_at": "2026-07-31T00:00:01Z",
+    "created_at": "2026-07-09T10:06:28Z",
     "time_start": "15:15"
   },
   {
@@ -2016,6 +1261,42 @@
     "created_at": "2026-07-30T10:00:20Z"
   },
   {
+    "id": "hakanai-2026-08-02-live-tokyo-idol-festival-2026-b4bc2783",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "TOKYO IDOL FESTIVAL 2026",
+    "date": "2026-08-02",
+    "description": "--------  #TIF2026  物販時間・8/2縁日出演解禁 -------- / 7/31＆8/2　お台場・青海周辺エリア / TOKYO IDOL FESTIVAL 2026 / supported by にしたんクリニック",
+    "post_url": "https://nitter.net/hakanai_info/status/2080608950844567812#m",
+    "image_url": "https://nitter.net/pic/media%2FHN9ufG6bYAEXT5e.jpg",
+    "created_at": "2026-07-20T11:00:01Z",
+    "time_start": "9:45"
+  },
+  {
+    "id": "hakanai-2026-08-02-live-event-2f2e379e",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "------ 明日のライブ ------",
+    "date": "2026-08-02",
+    "description": "------ 明日のライブ ------ / 8/2　お台場・青海周辺エリア / TOKYO IDOL FESTIVAL 2026 / supported by にしたんクリニック",
+    "post_url": "https://nitter.net/hakanai_info/status/2083492943097381120#m",
+    "image_url": "https://nitter.net/pic/media%2FHOntqaibgAAeXka.jpg",
+    "created_at": "2026-08-01T10:00:01Z",
+    "time_start": "9:45"
+  },
+  {
+    "id": "hakanai-2026-08-02-live-event-c84f6062",
+    "group_id": "hakanai",
+    "type": "live",
+    "title": "------ 本日のライブ ------",
+    "date": "2026-08-02",
+    "description": "------ 本日のライブ ------ / 8/2　お台場・青海周辺エリア / TOKYO IDOL FESTIVAL 2026 / supported by にしたんクリニック",
+    "post_url": "https://nitter.net/hakanai_info/status/2083689233638670377#m",
+    "image_url": "https://nitter.net/pic/media%2FHOqjCf-aMAA-vP8.jpg",
+    "created_at": "2026-08-01T23:00:01Z",
+    "time_start": "9:45"
+  },
+  {
     "id": "hakanai-2026-08-02-live-tokyo-idol-festival-2026-6c6a99d4",
     "group_id": "hakanai",
     "type": "live",
@@ -2038,78 +1319,6 @@
     "post_url": "https://nitter.net/hakanai_info/status/2066109274103890148#m",
     "image_url": "https://nitter.net/pic/media%2FHKQJjuubAAAvEiK.jpg",
     "created_at": "2026-06-14T10:43:32Z"
-  },
-  {
-    "id": "hakanai-2026-08-02-live-tokyo-idol-festival-2026-5afaf969",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "TOKYO IDOL FESTIVAL 2026",
-    "date": "2026-08-02",
-    "description": "--------  #TIF2026  8/2ラジオ体操出演決定 -------- / 7/31＆8/2　お台場・青海周辺エリア / TOKYO IDOL FESTIVAL 2026 / supported by にしたんクリニック",
-    "post_url": "https://nitter.net/hakanai_info/status/2079159387168321812#m",
-    "image_url": "https://nitter.net/pic/media%2FHNoL2_vawAAJbBc.jpg",
-    "created_at": "2026-07-20T11:00:01Z",
-    "time_start": "9:45"
-  },
-  {
-    "id": "hakanai-2026-08-02-live-tokyo-idol-festival-2026-b4bc2783",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "TOKYO IDOL FESTIVAL 2026",
-    "date": "2026-08-02",
-    "description": "--------  #TIF2026  物販時間・8/2縁日出演解禁 -------- / 7/31＆8/2　お台場・青海周辺エリア / TOKYO IDOL FESTIVAL 2026 / supported by にしたんクリニック",
-    "post_url": "https://nitter.net/hakanai_info/status/2080608950844567812#m",
-    "image_url": "https://nitter.net/pic/media%2FHN9ufG6bYAEXT5e.jpg",
-    "created_at": "2026-07-24T11:00:04Z",
-    "time_start": "9:45"
-  },
-  {
-    "id": "hakanai-2026-08-02-live-tokyo-idol-festival-2026-a7f3554c",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "TOKYO IDOL FESTIVAL 2026",
-    "date": "2026-08-02",
-    "description": "--------  #TIF2026  8/2縁日TT解禁 -------- / 7/31＆8/2　お台場・青海周辺エリア / TOKYO IDOL FESTIVAL 2026 / supported by にしたんクリニック",
-    "post_url": "https://nitter.net/hakanai_info/status/2082420878646583761#m",
-    "image_url": "https://nitter.net/pic/media%2FHOY9ibka4AAYe-t.jpg",
-    "created_at": "2026-07-29T11:00:01Z",
-    "time_start": "9:45"
-  },
-  {
-    "id": "hakanai-2026-08-02-live-event-2f2e379e",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "------ 明日のライブ ------",
-    "date": "2026-08-02",
-    "description": "------ 明日のライブ ------ / 8/2　お台場・青海周辺エリア / TOKYO IDOL FESTIVAL 2026 / supported by にしたんクリニック",
-    "post_url": "https://nitter.net/hakanai_info/status/2083492943097381120#m",
-    "image_url": "https://nitter.net/pic/media%2FHOntqaibgAAeXka.jpg",
-    "created_at": "2026-08-01T10:00:01Z",
-    "time_start": "9:45"
-  },
-  {
-    "id": "hakanai-2026-08-02-live-tokyo-idol-festival-2026-4bf26c68",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "TOKYO IDOL FESTIVAL 2026",
-    "date": "2026-08-02",
-    "description": "------ 次回は  #TIF2026  最終日 ------ / 8/2　お台場・青海周辺エリア / TOKYO IDOL FESTIVAL 2026 / supported by にしたんクリニック",
-    "post_url": "https://nitter.net/hakanai_info/status/2083146907874906442#m",
-    "image_url": "https://nitter.net/pic/media%2FHOjB--DawAAGvDP.jpg",
-    "created_at": "2026-07-31T11:05:00Z",
-    "time_start": "9:45"
-  },
-  {
-    "id": "hakanai-2026-08-02-live-event-c84f6062",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "------ 本日のライブ ------",
-    "date": "2026-08-02",
-    "description": "------ 本日のライブ ------ / 8/2　お台場・青海周辺エリア / TOKYO IDOL FESTIVAL 2026 / supported by にしたんクリニック",
-    "post_url": "https://nitter.net/hakanai_info/status/2083689233638670377#m",
-    "image_url": "https://nitter.net/pic/media%2FHOqjCf-aMAA-vP8.jpg",
-    "created_at": "2026-08-01T23:00:01Z",
-    "time_start": "9:45"
   },
   {
     "id": "hakanai-2026-08-07-live-fc-ss-d5f2eff0",
@@ -2139,45 +1348,6 @@
     "created_at": "2026-07-07T12:00:00Z"
   },
   {
-    "id": "hakanai-2026-08-07-live-event-37728bf8",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "透明なキミが見上げた空に",
-    "date": "2026-08-07",
-    "time_open": "17:15",
-    "time_start": "18:00",
-    "description": "—————— 次回のライブ —————— / 8/7（金）浅草花劇場 / hakanai アコースティックワンマン / 「透明なキミが見上げた空に」",
-    "post_url": "https://nitter.net/hakanai_info/status/2083842916968271904#m",
-    "image_url": "https://nitter.net/pic/media%2FHOtMFR6bMAEFBp-.jpg",
-    "created_at": "2026-08-02T09:10:41Z"
-  },
-  {
-    "id": "hakanai-2026-08-07-live-event-dcbc644f",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "透明なキミが見上げた空に",
-    "date": "2026-08-07",
-    "time_open": "17:15",
-    "time_start": "18:00",
-    "description": "—————— 次回のライブ —————— / 8/7（金）浅草花劇場 / hakanai アコースティックワンマン / 「透明なキミが見上げた空に」",
-    "post_url": "https://nitter.net/hakanai_info/status/2084471512183300361#m",
-    "image_url": "https://nitter.net/pic/media%2FHO2HwT0bgAABQBq.jpg",
-    "created_at": "2026-08-04T02:48:30Z"
-  },
-  {
-    "id": "hakanai-2026-08-07-live-event-9c6befad",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "透明なキミが見上げた空に",
-    "date": "2026-08-07",
-    "time_open": "17:15",
-    "time_start": "18:00",
-    "description": "—————— 本日のライブ —————— / 8/7（金）浅草花劇場 / hakanai アコースティックワンマン / 「透明なキミが見上げた空に」",
-    "post_url": "https://nitter.net/hakanai_info/status/2085546689528832046#m",
-    "image_url": "https://nitter.net/pic/media%2FHPFZpzdbMAAQjKr.jpg",
-    "created_at": "2026-08-07T02:00:53Z"
-  },
-  {
     "id": "hakanai-2026-08-07-live-2026-ba04d0e8",
     "group_id": "hakanai",
     "type": "live",
@@ -2200,30 +1370,6 @@
     "post_url": "https://nitter.net/hakanai_info/status/2076652871106400483#m",
     "image_url": "https://nitter.net/pic/media%2FHND-oALaEAABZ52.jpg",
     "created_at": "2026-07-13T13:00:01Z"
-  },
-  {
-    "id": "hakanai-2026-08-08-live-free-for-morning-1a7169f9",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "FREE FOR MORNING",
-    "date": "2026-08-08",
-    "time_start": "9:30",
-    "description": "----------- 明日のライブ ----------- / 8/8（土）下北沢シャングリラ / RAY presents FREE EVENT / 「FREE FOR MORNING」",
-    "post_url": "https://nitter.net/hakanai_info/status/2085669781143683390#m",
-    "image_url": "https://nitter.net/pic/media%2FHPEovSPbIAAxzKS.jpg",
-    "created_at": "2026-08-07T10:10:00Z"
-  },
-  {
-    "id": "hakanai-2026-08-08-live-free-for-morning-c070b2aa",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "FREE FOR MORNING",
-    "date": "2026-08-08",
-    "time_start": "9:30",
-    "description": "----------- 本日のライブ ----------- / 8/8（土）下北沢シャングリラ / RAY presents FREE EVENT / 「FREE FOR MORNING」",
-    "post_url": "https://nitter.net/hakanai_info/status/2085849991629988084#m",
-    "image_url": "https://nitter.net/pic/media%2FHPJtgqQagAAICNa.jpg",
-    "created_at": "2026-08-07T22:06:05Z"
   },
   {
     "id": "hakanai-2026-08-09-live-2026-a638fcb7",
@@ -2322,18 +1468,6 @@
     "created_at": "2026-08-09T00:00:00Z"
   },
   {
-    "id": "hakanai-2026-08-10-live-neo-kassen2026-771a03ee",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "NEO KASSEN2026",
-    "date": "2026-08-10",
-    "time_start": "11:00",
-    "description": "----------- TT解禁 ----------- / 8/10（月）club asia / NEO JAPONISM主催フェス / 「NEO KASSEN2026」",
-    "post_url": "https://nitter.net/hakanai_info/status/2082437041510601172#m",
-    "image_url": "https://nitter.net/pic/media%2FHOZNXe7bcAAEaqb.jpg",
-    "created_at": "2026-07-29T12:04:15Z"
-  },
-  {
     "id": "hakanai-2026-08-10-live-neo-kassen2026-8accb24c",
     "group_id": "hakanai",
     "type": "live",
@@ -2343,31 +1477,7 @@
     "description": "----------- 特典会TT解禁 ----------- / 8/10（月）club asia / NEO JAPONISM主催フェス / 「NEO KASSEN2026」",
     "post_url": "https://nitter.net/hakanai_info/status/2084247925819842692#m",
     "image_url": "https://nitter.net/pic/media%2FHOyf1MrbgAEIKvz.jpg",
-    "created_at": "2026-08-03T12:00:03Z"
-  },
-  {
-    "id": "hakanai-2026-08-10-live-neo-kassen2026-89a18e80",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "NEO KASSEN2026",
-    "date": "2026-08-10",
-    "time_start": "11:00",
-    "description": "----------- 明日のライブ ----------- / 8/10（月）club asia / NEO JAPONISM主催フェス / 「NEO KASSEN2026」",
-    "post_url": "https://nitter.net/hakanai_info/status/2086320317497069992#m",
-    "image_url": "https://nitter.net/pic/media%2FHPPL-2DaAAAGLeG.jpg",
-    "created_at": "2026-08-09T05:15:00Z"
-  },
-  {
-    "id": "hakanai-2026-08-10-live-neo-kassen2026-120f1624",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "NEO KASSEN2026",
-    "date": "2026-08-10",
-    "time_start": "11:00",
-    "description": "----------- 本日のライブ ----------- / 8/10（月）club asia / NEO JAPONISM主催フェス / 「NEO KASSEN2026」",
-    "post_url": "https://nitter.net/hakanai_info/status/2086597979369345508#m",
-    "image_url": "https://nitter.net/pic/media%2FHPUVlkVaQAA0mu8.jpg",
-    "created_at": "2026-08-09T23:38:20Z"
+    "created_at": "2026-07-29T12:04:15Z"
   },
   {
     "id": "hakanai-2026-08-11-live-summer-edition-6c4b39ac",
@@ -2394,41 +1504,6 @@
     "created_at": "2026-07-02T11:01:00Z"
   },
   {
-    "id": "hakanai-2026-08-11-live-summer-edition-dee09d7e",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "あつまれ！ミームパーク~SUMMER EDITION~",
-    "date": "2026-08-11",
-    "time_start": "16:00",
-    "description": "----------- TT解禁 ----------- / 8/11（火）浅草花劇場 / ミームトーキョー主催ライブ / 「あつまれ！ミームパーク~SUMMER EDITION~」",
-    "post_url": "https://nitter.net/hakanai_info/status/2086059859750060371#m",
-    "image_url": "https://nitter.net/pic/media%2FHPMMHVRakAAl0D2.jpg",
-    "created_at": "2026-08-08T12:00:02Z"
-  },
-  {
-    "id": "hakanai-2026-08-11-live-summer-edition-cb463cb7",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "あつまれ！ミームパーク~SUMMER EDITION~",
-    "date": "2026-08-11",
-    "time_start": "16:00",
-    "description": "----------- 明日のライブ② ----------- / 8/11（火）浅草花劇場 / ミームトーキョー主催ライブ / 「あつまれ！ミームパーク~SUMMER EDITION~」",
-    "post_url": "https://nitter.net/hakanai_info/status/2086715672092868907#m",
-    "image_url": "https://nitter.net/pic/media%2FHPUhoIQaEAAmGjN.jpg",
-    "created_at": "2026-08-10T07:26:00Z"
-  },
-  {
-    "id": "hakanai-2026-08-11-live-event-64699750",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "水溜まりに映る夜空が綺麗だった",
-    "date": "2026-08-11",
-    "description": "‧₊˚♪ 𝄞₊˚⊹  NANIMONO × hakanai2マンライブ開催決定 ‧₊˚♪ 𝄞₊˚⊹ / 2026年8月11日(火) 赤羽ReNY alpha / OTONA CHILD. presents. / 『水溜まりに映る夜空が綺麗だった』",
-    "post_url": "https://nitter.net/hakanai_info/status/2076985059371016491#m",
-    "image_url": "https://nitter.net/pic/media%2FHNK8h3HbwAEuQIB.jpg",
-    "created_at": "2026-07-14T11:00:01Z"
-  },
-  {
     "id": "hakanai-2026-08-11-live-event-a7c3f964",
     "group_id": "hakanai",
     "type": "live",
@@ -2438,41 +1513,7 @@
     "description": "‧₊˚♪ 𝄞₊˚⊹ FC前方Sチケットは明日まで‧₊˚♪ 𝄞₊˚⊹ / ※FCチケットの販売URLにミスがございました。誠に申し訳ございません。 / ——————————————— / 2026年8月11日(火) 赤羽ReNY alpha",
     "post_url": "https://nitter.net/hakanai_info/status/2078854601483366734#m",
     "image_url": "https://nitter.net/pic/media%2FHNmTOp2aYAAMnXX.jpg",
-    "created_at": "2026-07-19T14:48:54Z"
-  },
-  {
-    "id": "hakanai-2026-08-11-live-event-dfb1bf51",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "水溜まりに映る夜空が綺麗だった",
-    "date": "2026-08-11",
-    "description": "----------- 明日のライブ① ----------- / 2026年8月11日(火) 赤羽ReNY alpha / OTONA CHILD. presents. / 『水溜まりに映る夜空が綺麗だった』",
-    "post_url": "https://nitter.net/hakanai_info/status/2086715420543946812#m",
-    "image_url": "https://nitter.net/pic/media%2FHPUhMusbcAAe88s.jpg",
-    "created_at": "2026-08-10T07:25:00Z"
-  },
-  {
-    "id": "hakanai-2026-08-11-live-event-950ed0fe",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "水溜まりに映る夜空が綺麗だった",
-    "date": "2026-08-11",
-    "description": "----------- 本日のライブ① ----------- / 2026年8月11日(火) 赤羽ReNY alpha / OTONA CHILD. presents. / 『水溜まりに映る夜空が綺麗だった』",
-    "post_url": "https://nitter.net/hakanai_info/status/2086950730078777743#m",
-    "image_url": "https://nitter.net/pic/media%2FHPZVcjtbgAAY0M4.jpg",
-    "created_at": "2026-08-10T23:00:02Z"
-  },
-  {
-    "id": "hakanai-2026-08-17-live-queenland-a62edc86",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "Queenland",
-    "date": "2026-08-17",
-    "time_start": "15:30",
-    "description": "----------- TT解禁 ----------- / 8/17（月）club asia / 「Queenland」 / 15:30/15:50",
-    "post_url": "https://nitter.net/hakanai_info/status/2086739342450446568#m",
-    "image_url": "https://nitter.net/pic/media%2FHPUjEAeasAAOYpF.jpg",
-    "created_at": "2026-08-10T09:00:03Z"
+    "created_at": "2026-07-14T11:00:01Z"
   },
   {
     "id": "hakanai-2026-08-17-live-queenland-771ccbf9",
@@ -2484,7 +1525,7 @@
     "description": "----------- 次回のライブ ----------- / 8/17（月）club asia / 「Queenland」 / 15:30/15:50",
     "post_url": "https://nitter.net/hakanai_info/status/2087123496023519580#m",
     "image_url": "https://nitter.net/pic/media%2FHPbzmF1aIAAwujl.jpg",
-    "created_at": "2026-08-11T10:26:32Z"
+    "created_at": "2026-08-10T09:00:03Z"
   },
   {
     "id": "hakanai-2026-08-17-live-queenland-2c26711f",
@@ -2545,29 +1586,6 @@
     "created_at": "2026-07-27T12:00:03Z"
   },
   {
-    "id": "hakanai-2026-08-27-live-hakoniwa-vol-13-5-c1e02eab",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "HAKONIWA vol.13.5",
-    "date": "2026-08-27",
-    "description": "----------- 衣装交換決定 ----------- / 8/27（木）渋谷WWW X / OTONA CHILD.presents / 『HAKONIWA vol.13.5』",
-    "post_url": "https://nitter.net/hakanai_info/status/2087826504675885153#m",
-    "image_url": "https://nitter.net/pic/media%2FHPlypqUaUAADdLA.jpg",
-    "created_at": "2026-08-13T09:00:03Z"
-  },
-  {
-    "id": "hakanai-2026-08-30-live-event-f6cc322e",
-    "group_id": "hakanai",
-    "type": "live",
-    "title": "廻風少女",
-    "date": "2026-08-30",
-    "time_start": "18:00",
-    "description": "----------- スケジュール解禁 ----------- / 8/30（日）渋谷REX / hakanai × KAMAITACI / 『廻風少女』",
-    "post_url": "https://nitter.net/hakanai_info/status/2082058491662110732#m",
-    "image_url": "https://nitter.net/pic/media%2FHOTO7PfbcAANc0Q.jpg",
-    "created_at": "2026-07-28T11:00:01Z"
-  },
-  {
     "id": "hakanai-2026-08-30-live-event-8ac27a50",
     "group_id": "hakanai",
     "type": "live",
@@ -2578,7 +1596,7 @@
     "description": "優先入場Sチケットの抽選受付は本日23:59まで / お申し込みがまだの方はお忘れなく꩜ .ᐟ.ᐟ / 🎫  t-dv.com/hn260830 / ----------------------------------------------",
     "post_url": "https://nitter.net/hakanai_info/status/2084218495672213972#m",
     "image_url": "https://nitter.net/pic/media%2FHOyhnr2bQAAn6QQ.jpg",
-    "created_at": "2026-08-03T10:03:06Z"
+    "created_at": "2026-07-28T11:00:01Z"
   },
   {
     "id": "hakanai-2026-09-02-live-dakeno-idol-vol-1-d5349f4b",

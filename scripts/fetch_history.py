@@ -11,6 +11,7 @@ import re
 import sys
 import time
 import urllib.request
+import urllib.parse
 from datetime import datetime, timezone
 from html.parser import HTMLParser
 from pathlib import Path
@@ -48,8 +49,7 @@ class NitterParser(HTMLParser):
         elif tag == "a" and self.current_tweet:
             if "tweet-link" in attrs_dict.get("class", ""):
                 href = attrs_dict.get("href", "")
-                self.current_tweet["post_url"] = "https://nitter.net" + href
-                # status_idをIDにする
+                self.current_tweet["post_url"] = clean_x_url(href)
                 status_match = re.search(r"/status/(\d+)", href)
                 if status_match:
                     self.current_tweet["id"] = status_match.group(1)
@@ -66,9 +66,8 @@ class NitterParser(HTMLParser):
         elif tag == "img" and self.current_tweet:
             src = attrs_dict.get("src", "")
             if "/pic/media" in src or "/pic/card_img" in src:
-                # 最初の画像を優先
                 if not self.current_tweet.get("image_url"):
-                    self.current_tweet["image_url"] = "https://nitter.net" + src
+                    self.current_tweet["image_url"] = clean_image_url(src)
 
         elif tag == "div" and not self.current_tweet:
             if "show-more" in attrs_dict.get("class", ""):
@@ -103,38 +102,10 @@ def main() -> int:
     group = load_group(args.group)
     print(f"Crawl history for {group['id']} (@{group['x_account']}), target pages: {args.pages}")
 
-    base_url = f"https://nitter.net/{group['x_account']}"
-    cursor = None
-    all_posts = []
-
-    # 過去2ヶ月分（目安として5ページほど）を巡回
-    for page_idx in range(args.pages):
-        url = base_url
-        if cursor:
-            url += f"?cursor={cursor}"
-        
-        print(f"Page {page_idx + 1}: Fetching {url} ...")
-        try:
-            html_content = fetch_html(url)
-        except Exception as e:
-            print(f"Error fetching page {page_idx + 1}: {e}")
-            break
-
-        nitter_parser = NitterParser()
-        nitter_parser.feed(html_content)
-
-        posts = nitter_parser.tweets
-        print(f"Parsed {len(posts)} posts from page {page_idx + 1}")
-        if not posts:
-            break
-
-        all_posts.extend(posts)
-        cursor = nitter_parser.next_cursor
-        if not cursor:
-            print("No next page cursor found. Stopping.")
-            break
-
-        time.sleep(2)  # マナーのためのスリープ
+    all_posts = fetch_history_posts(group["x_account"], args.pages)
+    if not all_posts:
+        print(f"WARNING: Could not crawl history for @{group['x_account']}. Keeping existing data.")
+        return 0
 
     # パース日付の標準化とマージ
     candidates = []
@@ -186,10 +157,86 @@ def load_group(group_id: str) -> dict:
     raise SystemExit(f"Unknown group id: {group_id}")
 
 
+def fetch_history_posts(x_account: str, pages: int = 5) -> list[dict]:
+    domains = [
+        "farside.link/nitter",
+        "twiiit.com",
+        "nitter.poast.org",
+        "nitter.privacydev.net",
+        "nitter.net-freaks.space",
+        "nitter.cz",
+        "nitter.soopy.moe",
+    ]
+
+    for domain in domains:
+        print(f"Trying to crawl history for @{x_account} via https://{domain} ...")
+        all_posts = []
+        cursor = None
+        success = False
+
+        for page_idx in range(pages):
+            url = f"https://{domain}/{x_account}"
+            if cursor:
+                url += f"?cursor={cursor}"
+
+            try:
+                html_content = fetch_html(url)
+                nitter_parser = NitterParser()
+                nitter_parser.feed(html_content)
+                posts = nitter_parser.tweets
+
+                if not posts and page_idx == 0:
+                    break
+
+                all_posts.extend(posts)
+                cursor = nitter_parser.next_cursor
+                success = True
+
+                if not cursor:
+                    break
+                time.sleep(1)
+            except Exception as e:
+                print(f"Failed crawling page {page_idx + 1} from {domain}: {e}")
+                break
+
+        if success and all_posts:
+            print(f"Successfully crawled {len(all_posts)} posts from https://{domain}")
+            return all_posts
+
+    return []
+
+
 def fetch_html(url: str) -> str:
-    request = urllib.request.Request(url, headers={"User-Agent": "oshi-calendar/0.1"})
-    with urllib.request.urlopen(request, timeout=30) as response:
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    }
+    request = urllib.request.Request(url, headers=headers)
+    with urllib.request.urlopen(request, timeout=15) as response:
         return response.read().decode("utf-8")
+
+
+def clean_x_url(raw_url: str) -> str:
+    if not raw_url:
+        return raw_url
+    status_match = re.search(r"/status/(\d+)", raw_url)
+    if status_match:
+        # パスからアカウント名も抽出を試みる
+        acc_match = re.search(r"/([^/]+)/status/\d+", raw_url)
+        acc = acc_match.group(1) if acc_match else "x"
+        return f"https://x.com/{acc}/status/{status_match.group(1)}"
+    return raw_url
+
+
+def clean_image_url(raw_url: str | None) -> str | None:
+    if not raw_url:
+        return None
+    media_match = re.search(r"/pic/(?:media%2F|media/|card_img%2F|card_img/)([^\"'\s?#]+)", raw_url)
+    if media_match:
+        file_part = urllib.parse.unquote(media_match.group(1))
+        file_part = file_part.split("&")[0]
+        return f"https://pbs.twimg.com/media/{file_part}"
+    return raw_url
 
 
 def normalize_text(value: str) -> str:

@@ -11,6 +11,7 @@ import os
 import re
 import sys
 import urllib.request
+import urllib.parse
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
@@ -60,8 +61,10 @@ def main() -> int:
     args = parser.parse_args()
 
     group = load_group(args.group)
-    rss_url = args.rss_url or f"https://nitter.net/{group['x_account']}/rss"
-    posts = fetch_posts(rss_url)
+    posts = fetch_posts(group['x_account'], args.rss_url)
+    if not posts:
+        print(f"No posts fetched for {group['id']}. Retaining existing events.")
+        return 0
     candidates = [post for post in posts if looks_relevant(post["text"])]
 
     write_json(ROOT / "data" / group["id"] / "candidates.json", candidates)
@@ -95,34 +98,86 @@ def load_group(group_id: str) -> dict:
     raise SystemExit(f"Unknown group id: {group_id}")
 
 
-def fetch_posts(rss_url: str) -> list[dict]:
-    request = urllib.request.Request(rss_url, headers={"User-Agent": "oshi-calendar/0.1"})
-    with urllib.request.urlopen(request, timeout=30) as response:
-        xml_bytes = response.read()
+def fetch_posts(x_account: str, rss_url_override: str | None = None) -> list[dict]:
+    if rss_url_override:
+        urls = [rss_url_override]
+    else:
+        urls = [
+            f"https://farside.link/nitter/{x_account}/rss",
+            f"https://twiiit.com/{x_account}/rss",
+            f"https://nitter.poast.org/{x_account}/rss",
+            f"https://nitter.privacydev.net/{x_account}/rss",
+            f"https://nitter.net-freaks.space/{x_account}/rss",
+            f"https://nitter.cz/{x_account}/rss",
+            f"https://nitter.soopy.moe/{x_account}/rss",
+        ]
 
-    root = ET.fromstring(xml_bytes)
-    posts = []
-    for item in root.findall("./channel/item"):
-        title = item.findtext("title", "")
-        raw_description = item.findtext("description", "")
-        description = strip_html(raw_description)
-        link = item.findtext("link", "")
-        guid = item.findtext("guid", "")
-        pub_date = item.findtext("pubDate", "")
-        text = title if len(title) >= len(description) else description
-        
-        # 画像URLを抽出
-        image_match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', raw_description)
-        image_url = image_match.group(1) if image_match else None
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    }
+    last_error = None
 
-        posts.append({
-            "id": guid or link,
-            "text": normalize_text(text),
-            "post_url": link,
-            "created_at": pub_date,
-            "image_url": image_url,
-        })
-    return posts
+    for url in urls:
+        print(f"Trying to fetch RSS for @{x_account} from {url} ...")
+        try:
+            request = urllib.request.Request(url, headers=headers)
+            with urllib.request.urlopen(request, timeout=20) as response:
+                xml_bytes = response.read()
+
+            root = ET.fromstring(xml_bytes)
+            posts = []
+            for item in root.findall("./channel/item"):
+                title = item.findtext("title", "")
+                raw_description = item.findtext("description", "")
+                description = strip_html(raw_description)
+                link = item.findtext("link", "")
+                guid = item.findtext("guid", "")
+                pub_date = item.findtext("pubDate", "")
+                text = title if len(title) >= len(description) else description
+                
+                image_match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', raw_description)
+                raw_image_url = image_match.group(1) if image_match else None
+
+                post_url = clean_x_url(guid or link, x_account)
+                image_url = clean_image_url(raw_image_url)
+
+                posts.append({
+                    "id": guid or link,
+                    "text": normalize_text(text),
+                    "post_url": post_url,
+                    "created_at": pub_date,
+                    "image_url": image_url,
+                })
+            if posts:
+                print(f"Successfully fetched {len(posts)} posts for @{x_account} from {url}")
+                return posts
+        except Exception as e:
+            print(f"Failed to fetch from {url}: {e}")
+            last_error = e
+
+    print(f"WARNING: All RSS instances failed or returned no posts for @{x_account} (Last error: {last_error}). Keeping existing data.")
+    return []
+
+
+def clean_x_url(raw_url: str, x_account: str) -> str:
+    if not raw_url:
+        return raw_url
+    status_match = re.search(r"/status/(\d+)", raw_url)
+    if status_match:
+        status_id = status_match.group(1)
+        return f"https://x.com/{x_account}/status/{status_id}"
+    return raw_url
+
+
+def clean_image_url(raw_url: str | None) -> str | None:
+    if not raw_url:
+        return None
+    media_match = re.search(r"/pic/(?:media%2F|media/|card_img%2F|card_img/)([^\"'\s?#]+)", raw_url)
+    if media_match:
+        file_part = urllib.parse.unquote(media_match.group(1))
+        file_part = file_part.split("&")[0]
+        return f"https://pbs.twimg.com/media/{file_part}"
+    return raw_url
 
 
 def looks_relevant(text: str) -> bool:

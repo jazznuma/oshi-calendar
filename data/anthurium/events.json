@@ -212,15 +212,6 @@
     "created_at": "2026-06-03T09:00:05Z"
   },
   {
-    "id": "anthurium-2026-06-04-live--hype-idol-dx--4ea3441c",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "『HYPE IDOL！ DX』",
-    "date": "2026-06-04",
-    "description": "『HYPE IDOL！ DX』",
-    "created_at": "2026-06-04T09:59:44.758Z"
-  },
-  {
     "id": "anthurium-2026-06-04-live-festival-2026-c0f54892",
     "group_id": "anthurium",
     "type": "live",
@@ -233,6 +224,15 @@
     "post_url": "https://nitter.net/anthurium0317/status/2062089466198872452#m",
     "image_url": "https://nitter.net/pic/media%2FHJ4DcFxa0AArY-S.jpg",
     "created_at": "2026-06-03T08:30:15Z"
+  },
+  {
+    "id": "anthurium-2026-06-04-live--hype-idol-dx--4ea3441c",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "『HYPE IDOL！ DX』",
+    "date": "2026-06-04",
+    "description": "『HYPE IDOL！ DX』",
+    "created_at": "2026-06-04T09:59:44.758Z"
   },
   {
     "id": "anthurium-2026-06-05-live-event-4ad39b41",
@@ -272,15 +272,6 @@
     "created_at": "2026-06-03T10:00:22Z"
   },
   {
-    "id": "anthurium-2026-06-07-live--leading--4d595760",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "『LEADING』",
-    "date": "2026-06-07",
-    "description": "『LEADING』",
-    "created_at": "2026-06-04T09:59:44.758Z"
-  },
-  {
     "id": "anthurium-2026-06-07-live-leading-ee9879e8",
     "group_id": "anthurium",
     "type": "live",
@@ -295,18 +286,13 @@
     "created_at": "2026-06-04T14:00:06Z"
   },
   {
-    "id": "anthurium-2026-06-07-live-leading-82616e57",
+    "id": "anthurium-2026-06-07-live--leading--4d595760",
     "group_id": "anthurium",
     "type": "live",
-    "title": "LEADING",
+    "title": "『LEADING』",
     "date": "2026-06-07",
-    "time_open": "9:00",
-    "time_start": "9:30",
-    "venue": "品川インターシティホール",
-    "description": "\\\\\\✨️本日✨️/// / 『LEADING』 / 6/7(日) / 📍 品川インターシティホール",
-    "post_url": "https://nitter.net/anthurium0317/status/2063429679315636610#m",
-    "image_url": "https://nitter.net/pic/media%2FHKLGWzxbEAAKUSA.jpg",
-    "created_at": "2026-06-07T01:15:46Z"
+    "description": "『LEADING』",
+    "created_at": "2026-06-04T09:59:44.758Z"
   },
   {
     "id": "anthurium-2026-06-12-live-d-butante-vol-9-b83f3ffa",
@@ -323,49 +309,12 @@
     "created_at": "2026-06-08T10:38:15Z"
   },
   {
-    "id": "anthurium-2026-06-12-live-d-butante-vol-9-42bec3f4",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "Débutante vol.9",
-    "date": "2026-06-12",
-    "time_open": "12:00",
-    "time_start": "12:30",
-    "venue": "ZeppDiverCity",
-    "description": "\\\\\\✨️明日✨️/// / AVAM presents『Débutante vol.9』 / 6/12(金) / 📍 ZeppDiverCity",
-    "post_url": "https://nitter.net/anthurium0317/status/2065018757874098481#m",
-    "image_url": "https://nitter.net/pic/media%2FHKhrlWRbYAEa0M-.jpg",
-    "created_at": "2026-06-11T10:30:12Z"
-  },
-  {
-    "id": "anthurium-2026-06-12-live-d-butante-vol-9-4868fae2",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "Débutante vol.9",
-    "date": "2026-06-12",
-    "time_open": "12:00",
-    "time_start": "12:30",
-    "venue": "ZeppDiverCity",
-    "description": "\\\\\\✨️本日✨️/// / AVAM presents『Débutante vol.9』 / 6/12(金) / 📍 ZeppDiverCity",
-    "post_url": "https://nitter.net/anthurium0317/status/2065247456548540603#m",
-    "image_url": "https://nitter.net/pic/media%2FHKk7m61bcAA-6G3.jpg",
-    "created_at": "2026-06-12T01:38:58Z"
-  },
-  {
     "id": "anthurium-2026-06-12-live-avam-presents-d-buta-7ae17f0",
     "group_id": "anthurium",
     "type": "live",
     "title": "AVAM presents『Débutante vol.9",
     "date": "2026-06-12",
     "description": "AVAM presents『Débutante vol.9",
-    "created_at": "2026-06-04T09:59:44.758Z"
-  },
-  {
-    "id": "anthurium-2026-06-13-live--in-kanda-square-hal-506b7260",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "「アイドル甲子園 in KANDA SQUARE HALL」supported by My-th -DAY1-",
-    "date": "2026-06-13",
-    "description": "「アイドル甲子園 in KANDA SQUARE HALL」supported by My-th -DAY1-",
     "created_at": "2026-06-04T09:59:44.758Z"
   },
   {
@@ -384,33 +333,13 @@
     "created_at": "2026-06-03T08:00:27Z"
   },
   {
-    "id": "anthurium-2026-06-13-live-in-kanda-square-hall-08a3fd95",
+    "id": "anthurium-2026-06-13-live--in-kanda-square-hal-506b7260",
     "group_id": "anthurium",
     "type": "live",
-    "title": "アイドル甲子園 in KANDA SQUARE HALL",
+    "title": "「アイドル甲子園 in KANDA SQUARE HALL」supported by My-th -DAY1-",
     "date": "2026-06-13",
-    "time_open": "9:15",
-    "time_start": "9:30",
-    "venue": "KANDA SQUARE HALL",
-    "ticket_url": "https://user.my-th.jp/login?redirect=/tickets/event/aikou_0613",
-    "description": "\\\\\\✨️ 明日✨️/// / 「アイドル甲子園 in KANDA SQUARE HALL」supported by My-th -DAY1- / 6/13(土) / 📍 KANDA SQUARE HALL",
-    "post_url": "https://nitter.net/anthurium0317/status/2065403858139177462#m",
-    "image_url": "https://nitter.net/pic/media%2FHKnJ3HFbMAAMope.jpg",
-    "created_at": "2026-06-12T12:00:27Z"
-  },
-  {
-    "id": "anthurium-2026-06-13-live-in-kanda-square-hall-8c2ac7a7",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "アイドル甲子園 in KANDA SQUARE HALL",
-    "date": "2026-06-13",
-    "time_open": "9:15",
-    "time_start": "9:30",
-    "venue": "KANDA SQUARE HALL",
-    "description": "\\\\\\✨️ 本日✨️/// / 「アイドル甲子園 in KANDA SQUARE HALL」supported by My-th -DAY1- / 6/13(土) / 📍 KANDA SQUARE HALL",
-    "post_url": "https://nitter.net/anthurium0317/status/2065671705771786553#m",
-    "image_url": "https://nitter.net/pic/media%2FHKq9dhUbwAAXtFK.jpg",
-    "created_at": "2026-06-13T05:44:47Z"
+    "description": "「アイドル甲子園 in KANDA SQUARE HALL」supported by My-th -DAY1-",
+    "created_at": "2026-06-04T09:59:44.758Z"
   },
   {
     "id": "anthurium-2026-06-14-live-luna-parade-4c45c824",
@@ -425,20 +354,6 @@
     "post_url": "https://nitter.net/anthurium0317/status/2065787778781298867#m",
     "image_url": "https://nitter.net/pic/media%2FHKsnB26aAAAYcoB.jpg",
     "created_at": "2026-06-13T13:26:01Z"
-  },
-  {
-    "id": "anthurium-2026-06-14-live-luna-parade-1fc499b0",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "LUNA PARADE",
-    "date": "2026-06-14",
-    "time_open": "10:15",
-    "time_start": "11:00",
-    "venue": "EX THEATER ROPPONGI",
-    "description": "\\\\\\✨️本日✨️/// / 『LUNA PARADE』 / 6/14(日) / 📍 EX THEATER ROPPONGI",
-    "post_url": "https://nitter.net/anthurium0317/status/2066042922211176547#m",
-    "image_url": "https://nitter.net/pic/media%2FHKwPFbRbIAALxko.jpg",
-    "created_at": "2026-06-14T06:19:52Z"
   },
   {
     "id": "anthurium-2026-06-14-live--luna-parade--5d4ca9bb",
@@ -464,48 +379,6 @@
     "created_at": "2026-06-05T09:03:14Z"
   },
   {
-    "id": "anthurium-2026-06-16-live-event-60ae15e5",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "伊藤詩乃ピアノリサイタル",
-    "date": "2026-06-16",
-    "time_open": "18:30",
-    "time_start": "18:45",
-    "venue": "松濤サロン",
-    "description": "\\\\\\✨️チケット完売‼️✨️/// / 『伊藤詩乃ピアノリサイタル』 / 6/16(火) / 📍 松濤サロン",
-    "post_url": "https://nitter.net/anthurium0317/status/2064301577532485735#m",
-    "image_url": "https://nitter.net/pic/media%2FHKXfTk-aYAA7NfY.jpg",
-    "created_at": "2026-06-09T11:00:23Z"
-  },
-  {
-    "id": "anthurium-2026-06-16-live-event-9ada1476",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "伊藤詩乃ピアノリサイタル",
-    "date": "2026-06-16",
-    "time_open": "18:30",
-    "time_start": "18:45",
-    "venue": "松濤サロン",
-    "description": "\\\\\\✨️明日‼️✨️///＼新レギュ追加❣️／ / 『伊藤詩乃ピアノリサイタル』 / 6/16(火) / 📍 松濤サロン",
-    "post_url": "https://nitter.net/anthurium0317/status/2066445677639713059#m",
-    "image_url": "https://nitter.net/pic/media%2FHK19Y_ybAAAuTjH.jpg",
-    "created_at": "2026-06-15T09:00:16Z"
-  },
-  {
-    "id": "anthurium-2026-06-16-live-event-fe2291a7",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "伊藤詩乃ピアノリサイタル",
-    "date": "2026-06-16",
-    "time_open": "18:30",
-    "time_start": "18:45",
-    "venue": "松濤サロン",
-    "description": "\\\\\\✨️本日‼️✨️///＼新レギュ追加❣️／ / 『伊藤詩乃ピアノリサイタル』 / 6/16(火) / 📍 松濤サロン",
-    "post_url": "https://nitter.net/anthurium0317/status/2066764464012267612#m",
-    "image_url": "https://nitter.net/pic/media%2FHK6fUzgakAACwnK.jpg",
-    "created_at": "2026-06-16T06:07:01Z"
-  },
-  {
     "id": "anthurium-2026-06-16-live---29aeaedd",
     "group_id": "anthurium",
     "type": "live",
@@ -527,48 +400,6 @@
     "post_url": "https://nitter.net/anthurium0317/status/2065418886670078457#m",
     "image_url": "https://nitter.net/pic/media%2FHKnXhlSaEAA1C9M.jpg",
     "created_at": "2026-06-12T13:00:10Z"
-  },
-  {
-    "id": "anthurium-2026-06-18-live-blooming-night-vol-3-early-s-d54021d4",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "Blooming Night vol.3 - EARLY SUMMER -",
-    "date": "2026-06-18",
-    "time_open": "18:00",
-    "time_start": "18:30",
-    "venue": "WOMBLIVE",
-    "description": "＼シャッフルメンバー公開／ / 6/18(木) / 『Blooming Night vol.3 - EARLY SUMMER -』 / 📍 WOMBLIVE",
-    "post_url": "https://nitter.net/anthurium0317/status/2067216011271848038#m",
-    "image_url": "https://nitter.net/pic/media%2FHLA5_3cbYAA1lNE.jpg",
-    "created_at": "2026-06-17T12:01:18Z"
-  },
-  {
-    "id": "anthurium-2026-06-18-live-blooming-night-vol-3-early-s-b4fbb1ad",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "Blooming Night vol.3 - EARLY SUMMER -",
-    "date": "2026-06-18",
-    "time_open": "18:00",
-    "time_start": "18:30",
-    "venue": "WOMBLIVE",
-    "description": "\\\\\\✨️明日✨️/// / 6/18(木) / 『Blooming Night vol.3 - EARLY SUMMER -』 / 📍 WOMBLIVE",
-    "post_url": "https://nitter.net/anthurium0317/status/2067170411415285954#m",
-    "image_url": "https://nitter.net/pic/media%2FHLAQhvHb0AAlZAJ.jpg",
-    "created_at": "2026-06-17T09:00:06Z"
-  },
-  {
-    "id": "anthurium-2026-06-18-live-blooming-night-vol-3-early-s-63c21550",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "Blooming Night vol.3 - EARLY SUMMER -",
-    "date": "2026-06-18",
-    "time_open": "18:00",
-    "time_start": "18:30",
-    "venue": "WOMBLIVE",
-    "description": "\\\\\\✨️本日✨️/// / 6/18(木) / 『Blooming Night vol.3 - EARLY SUMMER -』 / 📍 WOMBLIVE",
-    "post_url": "https://nitter.net/anthurium0317/status/2067450316107182463#m",
-    "image_url": "https://nitter.net/pic/media%2FHLEPGqVbQAA9pwX.jpg",
-    "created_at": "2026-06-18T03:32:21Z"
   },
   {
     "id": "anthurium-2026-06-18-live--blooming-night-vol--29e9b3a9",
@@ -608,34 +439,6 @@
     "created_at": "2026-06-02T11:06:04Z"
   },
   {
-    "id": "anthurium-2026-06-20-live-event-45ee30d4",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "もなこ色に染まっちゃえ♡",
-    "date": "2026-06-20",
-    "time_open": "12:00",
-    "time_start": "12:30",
-    "venue": "代官山UNIT",
-    "description": "＼ 明日🎂／＼もなかこゆ生誕祭🩷／ / 🩷••┈┈┈┈┈┈┈┈┈┈┈┈••🩷 / もなかこゆ生誕祭🎂 / 『もなこ色に染まっちゃえ♡』",
-    "post_url": "https://nitter.net/anthurium0317/status/2067895987390316738#m",
-    "image_url": "https://nitter.net/pic/media%2FHLKj-0QacAAJzbK.jpg",
-    "created_at": "2026-06-19T09:03:17Z"
-  },
-  {
-    "id": "anthurium-2026-06-20-live-event-fa42338f",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "もなこ色に染まっちゃえ♡",
-    "date": "2026-06-20",
-    "time_open": "12:00",
-    "time_start": "12:30",
-    "venue": "代官山UNIT",
-    "description": "＼ 本日🎂／＼もなかこゆ生誕祭🩷／ / 🩷••┈┈┈┈┈┈┈┈┈┈┈┈••🩷 / もなかこゆ生誕祭🎂 / 『もなこ色に染まっちゃえ♡』",
-    "post_url": "https://nitter.net/anthurium0317/status/2068121103395098961#m",
-    "image_url": "https://nitter.net/pic/media%2FHLNxLl3bEAAUMLv.jpg",
-    "created_at": "2026-06-19T23:57:49Z"
-  },
-  {
     "id": "anthurium-2026-06-20-live---5a74a9b1",
     "group_id": "anthurium",
     "type": "live",
@@ -657,34 +460,6 @@
     "post_url": "https://nitter.net/anthurium0317/status/2065736077739245817#m",
     "image_url": "https://nitter.net/pic/media%2FHKr4AoEacAA9UNp.jpg",
     "created_at": "2026-06-13T10:00:35Z"
-  },
-  {
-    "id": "anthurium-2026-06-21-live-neo-japonism-presents-kassen-6cd6bfb5",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "NEO JAPONISM PRESENTS KASSEN2026",
-    "date": "2026-06-21",
-    "time_open": "10:30",
-    "time_start": "11:05",
-    "venue": "ダイバーシティ東京 プラザ フェスティバル広場 KASSEN特設ステージ",
-    "description": "\\\\\\✨️明日✨️/// / 『NEO JAPONISM PRESENTS KASSEN2026』 / 6/21(日) / 📍ダイバーシティ東京 プラザ フェスティバル広場 KASSEN特設ステージ",
-    "post_url": "https://nitter.net/anthurium0317/status/2068296573755551943#m",
-    "image_url": "https://nitter.net/pic/media%2FHLQQxRCbMAAqncs.jpg",
-    "created_at": "2026-06-20T11:35:04Z"
-  },
-  {
-    "id": "anthurium-2026-06-21-live-neo-japonism-presents-kassen-074422c4",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "NEO JAPONISM PRESENTS KASSEN2026",
-    "date": "2026-06-21",
-    "time_open": "10:30",
-    "time_start": "11:05",
-    "venue": "ダイバーシティ東京 プラザ フェスティバル広場 KASSEN特設ステージ",
-    "description": "\\\\\\✨️本日✨️/// / 『NEO JAPONISM PRESENTS KASSEN2026』 / 6/21(日) / 📍ダイバーシティ東京 プラザ フェスティバル広場 KASSEN特設ステージ",
-    "post_url": "https://nitter.net/anthurium0317/status/2068493342988722581#m",
-    "image_url": "https://nitter.net/pic/media%2FHLTDukWa0AAsqLL.jpg",
-    "created_at": "2026-06-21T00:36:58Z"
   },
   {
     "id": "anthurium-2026-06-21-live-idol-symmetry-a8e67b99",
@@ -766,20 +541,6 @@
     "created_at": "2026-06-07T09:00:13Z"
   },
   {
-    "id": "anthurium-2026-06-26-live-up-t-presents-hero-sonic-202-fa78d07f",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "UP-T presents HERO SONIC 2026",
-    "date": "2026-06-26",
-    "time_open": "10:00",
-    "time_start": "11:00",
-    "venue": "横浜 赤レンガパーク",
-    "description": "\\\\\\✨️TT公開✨️/// / 『UP-T presents HERO SONIC 2026』 / 6/27(土) / 📍 横浜 赤レンガパーク",
-    "post_url": "https://nitter.net/anthurium0317/status/2065388683231162455#m",
-    "image_url": "https://nitter.net/pic/media%2FHKm8DggbYAAMwVm.jpg",
-    "created_at": "2026-06-12T11:00:09Z"
-  },
-  {
     "id": "anthurium-2026-06-27-live-up-t-presents-hero-sonic-202-0fd859c0",
     "group_id": "anthurium",
     "type": "live",
@@ -792,20 +553,6 @@
     "post_url": "https://nitter.net/anthurium0317/status/2063546560626172296#m",
     "image_url": "https://nitter.net/pic/media%2FHKMwp86aIAAe4w6.jpg",
     "created_at": "2026-06-07T09:00:13Z"
-  },
-  {
-    "id": "anthurium-2026-06-27-live-up-t-presents-hero-sonic-202-9b5d0f26",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "UP-T presents HERO SONIC 2026",
-    "date": "2026-06-27",
-    "time_open": "10:00",
-    "time_start": "11:00",
-    "venue": "横浜 赤レンガパーク",
-    "description": "\\\\\\✨️TT公開✨️/// / 『UP-T presents HERO SONIC 2026』 / 6/27(土) / 📍 横浜 赤レンガパーク",
-    "post_url": "https://nitter.net/anthurium0317/status/2065388683231162455#m",
-    "image_url": "https://nitter.net/pic/media%2FHKm8DggbYAAMwVm.jpg",
-    "created_at": "2026-06-12T11:00:09Z"
   },
   {
     "id": "anthurium-2026-06-27-live--herosonic2026--9023bcc",
@@ -830,29 +577,6 @@
     "created_at": "2026-06-15T12:00:42Z"
   },
   {
-    "id": "anthurium-2026-06-28-live--festival-2026-suppo-783e90fd",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "「アイドル甲子園 FESTIVAL 2026」supported by My-th -DAY2-",
-    "date": "2026-06-28",
-    "description": "「アイドル甲子園 FESTIVAL 2026」supported by My-th -DAY2-",
-    "created_at": "2026-06-04T09:59:44.758Z"
-  },
-  {
-    "id": "anthurium-2026-06-28-live-festival-2026-e1faf70b",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "アイドル甲子園 FESTIVAL 2026",
-    "date": "2026-06-28",
-    "time_open": "9:00",
-    "time_start": "9:30",
-    "venue": "TFTホール 1000・500・300",
-    "description": "\\\\\\✨️出演決定✨️/// / 「アイドル甲子園 FESTIVAL 2026」supported by My-th -DAY2- / 6/28(日) / 📍 TFTホール 1000・500・300",
-    "post_url": "https://nitter.net/anthurium0317/status/2062089466198872452#m",
-    "image_url": "https://nitter.net/pic/media%2FHJ4DcFxa0AArY-S.jpg",
-    "created_at": "2026-06-03T08:30:15Z"
-  },
-  {
     "id": "anthurium-2026-06-28-live-festival-2026-c6fdb75e",
     "group_id": "anthurium",
     "type": "live",
@@ -865,35 +589,16 @@
     "description": "\\\\\\✨️特典会TT公開✨️/// 「アイドル甲子園 FESTIVAL 2026」supported by My-th -DAY2-  6/28(日) 📍 TFTホール 1000 入場特典🎁サインチェキ＋写メ OPEN 9:00 / START 9:30 出演 20:10~20:35 特典会 21:10~22:30 🎫",
     "post_url": "https://nitter.net/anthurium0317/status/2067249161628745893#m",
     "image_url": "https://nitter.net/pic/media%2FHLBYJxia4AAF8eZ.jpg",
-    "created_at": "2026-06-17T14:13:02Z"
+    "created_at": "2026-06-03T08:30:15Z"
   },
   {
-    "id": "anthurium-2026-06-28-live-festival-2026-a0bb5bda",
+    "id": "anthurium-2026-06-28-live--festival-2026-suppo-783e90fd",
     "group_id": "anthurium",
     "type": "live",
-    "title": "アイドル甲子園 FESTIVAL 2026",
+    "title": "「アイドル甲子園 FESTIVAL 2026」supported by My-th -DAY2-",
     "date": "2026-06-28",
-    "time_open": "9:00",
-    "time_start": "9:30",
-    "venue": "TFTホール 1000",
-    "description": "\\\\\\✨️ライブTT公開✨️/// / 「アイドル甲子園 FESTIVAL 2026」supported by My-th -DAY2- / 6/28(日) / 📍 TFTホール 1000",
-    "post_url": "https://nitter.net/anthurium0317/status/2067200760631394511#m",
-    "image_url": "https://nitter.net/pic/media%2FHLAsIl8asAAnKWj.jpg",
-    "created_at": "2026-06-17T11:00:42Z"
-  },
-  {
-    "id": "anthurium-2026-06-28-live-festival-2026-87c27f07",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "アイドル甲子園 FESTIVAL 2026",
-    "date": "2026-06-28",
-    "time_open": "9:00",
-    "time_start": "9:30",
-    "ticket_url": "https://user.my-th.jp/?redirect=/login?redirect=/tickets/event/aikoufes_0628",
-    "description": "\\\\\\✨️明日✨️/// 「アイドル甲子園 FESTIVAL 2026」supported by My-th -DAY2-  6/28(日) 📍 TFTホール 1000 入場特典🎁サインチェキ＋写メ OPEN 9:00 / START 9:30 出演 20:10~20:35 特典会 21:10~22:30 🎫チケット販",
-    "post_url": "https://nitter.net/anthurium0317/status/2070782355841905145#m",
-    "image_url": "https://nitter.net/pic/media%2FHLzlkAAbcAADfXf.jpg",
-    "created_at": "2026-06-27T08:12:41Z"
+    "description": "「アイドル甲子園 FESTIVAL 2026」supported by My-th -DAY2-",
+    "created_at": "2026-06-04T09:59:44.758Z"
   },
   {
     "id": "anthurium-2026-06-29-live-event-94d90aa8",
@@ -965,34 +670,6 @@
     "created_at": "2026-06-18T12:31:34Z"
   },
   {
-    "id": "anthurium-2026-07-01-live-idol-symmetry-50be8a93",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "IDOL SYMMETRY",
-    "date": "2026-07-01",
-    "time_open": "15:00",
-    "time_start": "15:20",
-    "venue": "白金高輪SELENE b2",
-    "description": "\\\\\\✨️TT公開✨️/// / 『IDOL SYMMETRY』 / 7/1(水) / 📍 白金高輪SELENE b2",
-    "post_url": "https://nitter.net/anthurium0317/status/2070492336719851946#m",
-    "image_url": "https://nitter.net/pic/media%2FHLvdzj_bsAAGern.jpg",
-    "created_at": "2026-06-26T13:00:15Z"
-  },
-  {
-    "id": "anthurium-2026-07-01-live-idol-symmetry-a853c16b",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "IDOL SYMMETRY",
-    "date": "2026-07-01",
-    "time_open": "15:00",
-    "time_start": "15:20",
-    "venue": "白金高輪SELENE b2",
-    "description": "\\\\\\✨️明日✨️/// / 『IDOL SYMMETRY』 / 7/1(水) / 📍 白金高輪SELENE b2",
-    "post_url": "https://nitter.net/anthurium0317/status/2071881936436379673#m",
-    "image_url": "https://nitter.net/pic/media%2FHMDNovlWUAAij6q.jpg",
-    "created_at": "2026-06-30T09:02:02Z"
-  },
-  {
     "id": "anthurium-2026-07-02-live-event-b1912dc2",
     "group_id": "anthurium",
     "type": "live",
@@ -1019,48 +696,6 @@
     "post_url": "https://nitter.net/anthurium0317/status/2066400319442158071#m",
     "image_url": "https://nitter.net/pic/media%2FHK1UIrtagAA16_h.jpg",
     "created_at": "2026-06-15T06:00:02Z"
-  },
-  {
-    "id": "anthurium-2026-07-04-live-natsuzome-2026-cb548f5a",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "超NATSUZOME 2026",
-    "date": "2026-07-04",
-    "time_open": "9:00",
-    "time_start": "10:00",
-    "venue": "幕張海浜公園Gブロック特設会場",
-    "description": "＼ライブTT修正／＼特典会TT公開❤️‍🔥／ / 『超NATSUZOME 2026』 / 7/4(土),7/5(日) / 📍 幕張海浜公園Gブロック特設会場",
-    "post_url": "https://nitter.net/anthurium0317/status/2069048498432233653#m",
-    "image_url": "https://nitter.net/pic/media%2FHLa8o_VboAAHSlX.jpg",
-    "created_at": "2026-06-22T13:22:57Z"
-  },
-  {
-    "id": "anthurium-2026-07-04-live-natsuzome-2026-f232122c",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "超NATSUZOME 2026",
-    "date": "2026-07-04",
-    "time_open": "9:00",
-    "time_start": "10:00",
-    "venue": "幕張海浜公園Gブロック特設会場",
-    "description": "\\\\\\🌺✨明日✨️🌺/// / 『超NATSUZOME 2026』 / 7/4(土),7/5(日) / 📍 幕張海浜公園Gブロック特設会場",
-    "post_url": "https://nitter.net/anthurium0317/status/2072971515042365947#m",
-    "image_url": "https://nitter.net/pic/media%2FHMSsmgkbkAAgvR5.jpg",
-    "created_at": "2026-07-03T09:11:37Z"
-  },
-  {
-    "id": "anthurium-2026-07-04-live-natsuzome-2026-68c6eb2d",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "超NATSUZOME 2026",
-    "date": "2026-07-04",
-    "time_open": "9:00",
-    "time_start": "10:00",
-    "venue": "幕張海浜公園Gブロック特設会場",
-    "description": "\\\\\\🌺✨本日✨️🌺/// / 『超NATSUZOME 2026』 / 7/4(土),7/5(日) / 📍 幕張海浜公園Gブロック特設会場",
-    "post_url": "https://nitter.net/anthurium0317/status/2073196406467350552#m",
-    "image_url": "https://nitter.net/pic/media%2FHMV5JGUbgAAifcv.jpg",
-    "created_at": "2026-07-04T00:05:16Z"
   },
   {
     "id": "anthurium-2026-07-04-live-event-59b59501",
@@ -1125,48 +760,6 @@
     "created_at": "2026-06-15T06:00:02Z"
   },
   {
-    "id": "anthurium-2026-07-05-live-natsuzome-2026-83d8de2b",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "超NATSUZOME 2026",
-    "date": "2026-07-05",
-    "time_open": "9:00",
-    "time_start": "10:00",
-    "venue": "幕張海浜公園Gブロック特設会場",
-    "description": "＼ライブTT修正／＼特典会TT公開❤️‍🔥／ / 『超NATSUZOME 2026』 / 7/4(土),7/5(日) / 📍 幕張海浜公園Gブロック特設会場",
-    "post_url": "https://nitter.net/anthurium0317/status/2069048498432233653#m",
-    "image_url": "https://nitter.net/pic/media%2FHLa8o_VboAAHSlX.jpg",
-    "created_at": "2026-06-22T13:22:57Z"
-  },
-  {
-    "id": "anthurium-2026-07-05-live-natsuzome-2026-bd8b9a1c",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "超NATSUZOME 2026",
-    "date": "2026-07-05",
-    "time_open": "9:00",
-    "time_start": "10:00",
-    "venue": "幕張海浜公園Gブロック特設会場",
-    "description": "\\\\\\🌺✨明日✨️🌺/// / 『超NATSUZOME 2026』 / 7/4(土),7/5(日) / 📍 幕張海浜公園Gブロック特設会場",
-    "post_url": "https://nitter.net/anthurium0317/status/2072971515042365947#m",
-    "image_url": "https://nitter.net/pic/media%2FHMSsmgkbkAAgvR5.jpg",
-    "created_at": "2026-07-03T09:11:37Z"
-  },
-  {
-    "id": "anthurium-2026-07-05-live-natsuzome-2026-81d11e8b",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "超NATSUZOME 2026",
-    "date": "2026-07-05",
-    "time_open": "9:00",
-    "time_start": "10:00",
-    "venue": "幕張海浜公園Gブロック特設会場",
-    "description": "\\\\\\🌺✨本日✨️🌺/// / 『超NATSUZOME 2026』 / 7/4(土),7/5(日) / 📍 幕張海浜公園Gブロック特設会場",
-    "post_url": "https://nitter.net/anthurium0317/status/2073196406467350552#m",
-    "image_url": "https://nitter.net/pic/media%2FHMV5JGUbgAAifcv.jpg",
-    "created_at": "2026-07-04T00:05:16Z"
-  },
-  {
     "id": "anthurium-2026-07-05-live-natsuzome-2026-4327d8a9",
     "group_id": "anthurium",
     "type": "live",
@@ -1193,34 +786,6 @@
     "created_at": "2026-07-05T13:07:19Z"
   },
   {
-    "id": "anthurium-2026-07-07-live-yoru-fes-sp-a3353829",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "YORU-FES ~夜を駆けるサーキットSP~",
-    "date": "2026-07-07",
-    "time_open": "11:00",
-    "time_start": "12:00",
-    "venue": "SHIBUYA CLUB QUATTRO",
-    "description": "\\\\\\✨️特典会TT公開✨️/// / 『YORU-FES ~夜を駆けるサーキットSP~』 / 7/7(火) / 📍 SHIBUYA CLUB QUATTRO",
-    "post_url": "https://nitter.net/anthurium0317/status/2072636337031909728#m",
-    "image_url": "https://nitter.net/pic/media%2FHMN7wPsbgAAdB8i.jpg",
-    "created_at": "2026-07-02T10:59:45Z"
-  },
-  {
-    "id": "anthurium-2026-07-07-live-yoru-fes-sp-cd9826e0",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "YORU-FES ~夜を駆けるサーキットSP~",
-    "date": "2026-07-07",
-    "time_open": "11:00",
-    "time_start": "12:00",
-    "venue": "SHIBUYA CLUB QUATTRO",
-    "description": "\\\\\\✨️明日✨️/// / 『YORU-FES ~夜を駆けるサーキットSP~』 / 7/7(火) / 📍 SHIBUYA CLUB QUATTRO",
-    "post_url": "https://nitter.net/anthurium0317/status/2074067175791583574#m",
-    "image_url": "https://nitter.net/pic/media%2FHMiRGfLasAAPbpN.jpg",
-    "created_at": "2026-07-06T09:45:23Z"
-  },
-  {
     "id": "anthurium-2026-07-07-live-yoru-fes-sp-b9181f86",
     "group_id": "anthurium",
     "type": "live",
@@ -1233,16 +798,7 @@
     "description": "本日のライブは、伊藤詩乃が衣装を忘れてしまったため…！ / 急遽アンスリュームグッズ姿で出演いたします😂❤️‍🔥 / いつもとは少し違うレアな詩乃をお楽しみに✨ / アンスリューム (@anthurium0317)",
     "post_url": "https://nitter.net/anthurium0317/status/2074407096679047611#m",
     "image_url": "https://nitter.net/pic/media%2FHMiRGfLasAAPbpN.jpg",
-    "created_at": "2026-07-07T08:16:07Z"
-  },
-  {
-    "id": "anthurium-2026-07-07-live--yoru-fes-sp--3a3125b",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "『YORU-FES ~夜を駆けるサーキットSP~』",
-    "date": "2026-07-07",
-    "description": "『YORU-FES ~夜を駆けるサーキットSP~』",
-    "created_at": "2026-06-04T09:59:44.758Z"
+    "created_at": "2026-07-02T10:59:45Z"
   },
   {
     "id": "anthurium-2026-07-07-live-yoru-fes-sp-9809d31f",
@@ -1254,7 +810,7 @@
     "description": "\\\\\\✨️ライブTT公開✨️/// / 『YORU-FES ~夜を駆けるサーキットSP~』 / 7/7(火) / 📍 Veats Shibuya／SHIBUYA CLUB QUATTRO／SHIBUYA WWW X",
     "post_url": "https://nitter.net/anthurium0317/status/2065751116806271224#m",
     "image_url": "https://nitter.net/pic/media%2FHKsFrpbaEAAqaOj.jpg",
-    "created_at": "2026-06-13T11:00:20Z"
+    "created_at": "2026-06-04T09:59:44.758Z"
   },
   {
     "id": "anthurium-2026-07-08-live-in-spotify-o-east-9603efbb",
@@ -1271,20 +827,6 @@
     "created_at": "2026-07-07T11:05:03Z"
   },
   {
-    "id": "anthurium-2026-07-11-live-event-dfcbc71f",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "バリ！リーディング フクオカ!!",
-    "date": "2026-07-11",
-    "time_open": "11:00",
-    "time_start": "11:45",
-    "venue": "TKPエルガーラホール / BEAT STATION",
-    "description": "\\\\\\✨️TT公開✨️/// / 『バリ！リーディング フクオカ!!』 / 7/11(土) / 📍 TKPエルガーラホール / BEAT STATION",
-    "post_url": "https://nitter.net/anthurium0317/status/2075173125046620289#m",
-    "image_url": "https://nitter.net/pic/media%2FHMx-9G_awAA9Iq3.jpg",
-    "created_at": "2026-07-09T11:00:02Z"
-  },
-  {
     "id": "anthurium-2026-07-11-live-event-362fd871",
     "group_id": "anthurium",
     "type": "live",
@@ -1296,7 +838,7 @@
     "description": "\\\\\\✨️明日から福岡遠征✨️///\\\\サインチェキ半額💸// / 『バリ！リーディング フクオカ!!』 / 7/11(土) / 📍 TKPエルガーラホール / BEAT STATION",
     "post_url": "https://nitter.net/anthurium0317/status/2075512475546763336#m",
     "image_url": "https://nitter.net/pic/media%2FHM2zmAtbQAATFow.jpg",
-    "created_at": "2026-07-10T09:28:29Z"
+    "created_at": "2026-07-09T11:00:02Z"
   },
   {
     "id": "anthurium-2026-07-11-live---90fca99",
@@ -1319,34 +861,6 @@
     "created_at": "2026-07-11T03:34:09Z"
   },
   {
-    "id": "anthurium-2026-07-12-live-event-0d5f4a69",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "バリ！リーディング フクオカ!!",
-    "date": "2026-07-12",
-    "time_open": "11:00",
-    "time_start": "11:45",
-    "venue": "福岡トヨタホールスカラエスパシオ",
-    "description": "\\\\\\✨️福岡遠征2日目詳細解禁！✨️/// / 『バリ！リーディング フクオカ!!』 / 7/12(日) / 📍 福岡トヨタホールスカラエスパシオ",
-    "post_url": "https://nitter.net/anthurium0317/status/2073755603860865091#m",
-    "image_url": "https://nitter.net/pic/media%2FHMd1ui9akAAM6ij.jpg",
-    "created_at": "2026-07-05T13:07:19Z"
-  },
-  {
-    "id": "anthurium-2026-07-12-live-event-b916ecb7",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "バリ！リーディング フクオカ!!",
-    "date": "2026-07-12",
-    "time_open": "11:00",
-    "time_start": "11:45",
-    "venue": "福岡トヨタホールスカラエスパシオ",
-    "description": "\\\\\\✨️TT解禁✨️/// / 『バリ！リーディング フクオカ!!』 / 7/12(日) / 📍 福岡トヨタホールスカラエスパシオ",
-    "post_url": "https://nitter.net/anthurium0317/status/2075219447493935287#m",
-    "image_url": "https://nitter.net/pic/media%2FHMypE_1bIAA-Hc_.jpg",
-    "created_at": "2026-07-09T14:04:06Z"
-  },
-  {
     "id": "anthurium-2026-07-12-live-event-3a445f6c",
     "group_id": "anthurium",
     "type": "live",
@@ -1358,21 +872,7 @@
     "description": "\\\\\\✨️明日から福岡遠征✨️///\\\\サインチェキ半額💸// / 『バリ！リーディング フクオカ!!』 / 7/11(土) / 📍 TKPエルガーラホール / BEAT STATION",
     "post_url": "https://nitter.net/anthurium0317/status/2075512475546763336#m",
     "image_url": "https://nitter.net/pic/media%2FHM2zmAtbQAATFow.jpg",
-    "created_at": "2026-07-10T09:28:29Z"
-  },
-  {
-    "id": "anthurium-2026-07-12-live-event-4bd8d14d",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "バリ！リーディング フクオカ!!",
-    "date": "2026-07-12",
-    "time_open": "11:00",
-    "time_start": "11:45",
-    "venue": "福岡トヨタホールスカラエスパシオ",
-    "description": "\\\\\\✨️明日✨️///\\\\サインチェキ半額💸// / 『バリ！リーディング フクオカ!!』 / 7/12(日) / 📍 福岡トヨタホールスカラエスパシオ",
-    "post_url": "https://nitter.net/anthurium0317/status/2075907519717966328#m",
-    "image_url": "https://nitter.net/pic/media%2FHM8a4fTbsAAjZsB.jpg",
-    "created_at": "2026-07-11T11:38:15Z"
+    "created_at": "2026-07-05T13:07:19Z"
   },
   {
     "id": "anthurium-2026-07-15-live-event-c56a51ad",
@@ -1389,20 +889,6 @@
     "created_at": "2026-06-17T10:01:07Z"
   },
   {
-    "id": "anthurium-2026-07-15-live-event-233a9de5",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "ちゅらまちゅり",
-    "date": "2026-07-15",
-    "time_open": "17:00",
-    "time_start": "17:45",
-    "venue": "duo MUSIC EXCANGE",
-    "description": "\\\\\\✨️明日✨️/// / 『ちゅらまちゅり』 / 7/15(水) / 📍 duo MUSIC EXCANGE",
-    "post_url": "https://nitter.net/anthurium0317/status/2076960783557378111#m",
-    "image_url": "https://nitter.net/pic/media%2FHNLY0d4aEAA1F0X.jpg",
-    "created_at": "2026-07-14T09:23:33Z"
-  },
-  {
     "id": "anthurium-2026-07-16-live-event-d6d5d7da",
     "group_id": "anthurium",
     "type": "live",
@@ -1415,20 +901,6 @@
     "post_url": "https://nitter.net/anthurium0317/status/2068997493212545158#m",
     "image_url": "https://nitter.net/pic/media%2FHLaOQI9a0AAuZSF.jpg",
     "created_at": "2026-06-22T10:00:17Z"
-  },
-  {
-    "id": "anthurium-2026-07-16-live-event-70fbb430",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "伊藤詩乃ピアノリサイタル",
-    "date": "2026-07-16",
-    "time_open": "19:30",
-    "time_start": "19:45",
-    "venue": "松濤サロン",
-    "description": "\\\\\\✨️本日✨️/// / 『伊藤詩乃ピアノリサイタル』 / 7/16(木) / 📍 松濤サロン",
-    "post_url": "https://nitter.net/anthurium0317/status/2077602450656346510#m",
-    "image_url": "https://nitter.net/pic/media%2FHNUgaktbMAE9ZZM.jpg",
-    "created_at": "2026-07-16T03:53:18Z"
   },
   {
     "id": "anthurium-2026-07-18-free-100pt-40c9b8b7",
@@ -1483,15 +955,6 @@
     "created_at": "2026-07-19T09:23:41Z"
   },
   {
-    "id": "anthurium-2026-07-20-live---3e6be5c0",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "ライブ仮",
-    "date": "2026-07-20",
-    "description": "ライブ仮",
-    "created_at": "2026-06-04T09:59:44.758Z"
-  },
-  {
     "id": "anthurium-2026-07-20-live-in-kanda-square-hall-8011ad3a",
     "group_id": "anthurium",
     "type": "live",
@@ -1506,32 +969,13 @@
     "created_at": "2026-06-22T11:00:32Z"
   },
   {
-    "id": "anthurium-2026-07-20-live-in-kanda-square-hall-32f30c2d",
+    "id": "anthurium-2026-07-20-live---3e6be5c0",
     "group_id": "anthurium",
     "type": "live",
-    "title": "アイドル甲子園 in KANDA SQUARE HALL",
+    "title": "ライブ仮",
     "date": "2026-07-20",
-    "time_open": "9:15",
-    "time_start": "9:30",
-    "venue": "KANDA SQUARE HALL",
-    "description": "\\\\\\✨️TT公開✨️/// / 「アイドル甲子園 in KANDA SQUARE HALL」supported by My-th / 7/20(月祝) / 📍KANDA SQUARE HALL",
-    "post_url": "https://nitter.net/anthurium0317/status/2076622958395531595#m",
-    "image_url": "https://nitter.net/pic/media%2FHNGlkq9agAAHKKU.jpg",
-    "created_at": "2026-07-13T11:01:09Z"
-  },
-  {
-    "id": "anthurium-2026-07-20-live-in-kanda-square-hall-e744f78f",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "アイドル甲子園 in KANDA SQUARE HALL",
-    "date": "2026-07-20",
-    "time_open": "9:15",
-    "time_start": "9:30",
-    "venue": "KANDA SQUARE HALL",
-    "description": "\\\\\\✨️明日✨️/// / 「アイドル甲子園 in KANDA SQUARE HALL」supported by My-th / 7/20(月祝) / 📍KANDA SQUARE HALL",
-    "post_url": "https://nitter.net/anthurium0317/status/2078836382739697817#m",
-    "image_url": "https://nitter.net/pic/media%2FHNmCq0dbcAEwmCI.jpg",
-    "created_at": "2026-07-19T13:36:31Z"
+    "description": "ライブ仮",
+    "created_at": "2026-06-04T09:59:44.758Z"
   },
   {
     "id": "anthurium-2026-07-21-live-event-4e23ce10",
@@ -1560,20 +1004,6 @@
     "post_url": "https://nitter.net/anthurium0317/status/2079192881848610977#m",
     "image_url": "https://nitter.net/pic/media%2FHNrG51AbcAAMOnc.jpg",
     "created_at": "2026-07-20T13:13:07Z"
-  },
-  {
-    "id": "anthurium-2026-07-22-live-utage-fes-vol-5-125b43c4",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "UTAGE FES Vol.5",
-    "date": "2026-07-22",
-    "time_open": "10:00",
-    "time_start": "10:30",
-    "venue": "西武新宿付近野外特設ステージ",
-    "description": "\\\\\\✨️明日✨️/// / 『UTAGE FES Vol.5』 / 7/22(水) / 📍西武新宿付近野外特設ステージ",
-    "post_url": "https://nitter.net/anthurium0317/status/2079492014601896038#m",
-    "image_url": "https://nitter.net/pic/media%2FHNvW7lQbUAAPL5V.jpg",
-    "created_at": "2026-07-21T09:01:46Z"
   },
   {
     "id": "anthurium-2026-07-22-live-event-a6926cb2",
@@ -1627,57 +1057,6 @@
     "created_at": "2026-07-24T11:02:44Z"
   },
   {
-    "id": "anthurium-2026-07-25-live---26e36385",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "ライブ仮",
-    "date": "2026-07-25",
-    "description": "ライブ仮",
-    "created_at": "2026-06-04T09:59:44.758Z"
-  },
-  {
-    "id": "anthurium-2026-07-25-live-in-spotify-o-east-012d2183",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "アイドル甲子園 in Spotify O-EAST",
-    "date": "2026-07-25",
-    "time_open": "8:30",
-    "time_start": "9:00",
-    "venue": "Spotify O-EAST",
-    "description": "\\\\\\✨️出演決定✨️/// / 13th Anniversary「アイドル甲子園 in Spotify O-EAST」supported by My-th / 7/25(土) / 📍 Spotify O-EAST",
-    "post_url": "https://nitter.net/anthurium0317/status/2074449611586994479#m",
-    "image_url": "https://nitter.net/pic/media%2FHMns7MFbEAAVivV.jpg",
-    "created_at": "2026-07-07T11:05:03Z"
-  },
-  {
-    "id": "anthurium-2026-07-25-live-in-spotify-o-east-a9c2270c",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "アイドル甲子園 in Spotify O-EAST",
-    "date": "2026-07-25",
-    "time_open": "8:30",
-    "time_start": "9:00",
-    "venue": "Spotify O-EAST",
-    "description": "\\\\\\✨️TT公開✨️/// / 13th Anniversary「アイドル甲子園 in Spotify O-EAST」supported by My-th / 7/25(土) / 📍 Spotify O-EAST",
-    "post_url": "https://nitter.net/anthurium0317/status/2077702346919072080#m",
-    "image_url": "https://nitter.net/pic/media%2FHNV7Q5TbUAArpNz.jpg",
-    "created_at": "2026-07-16T10:30:16Z"
-  },
-  {
-    "id": "anthurium-2026-07-25-live-in-spotify-o-east-04a5c2ed",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "アイドル甲子園 in Spotify O-EAST",
-    "date": "2026-07-25",
-    "time_open": "8:30",
-    "time_start": "9:00",
-    "venue": "Spotify O-EAST",
-    "description": "\\\\\\✨️明日✨️/// / 13th Anniversary「アイドル甲子園 in Spotify O-EAST」supported by My-th / 7/25(土) / 📍 Spotify O-EAST",
-    "post_url": "https://nitter.net/anthurium0317/status/2080594359301628006#m",
-    "image_url": "https://nitter.net/pic/media%2FHN_BilnaIAAmTCq.jpg",
-    "created_at": "2026-07-24T10:02:05Z"
-  },
-  {
     "id": "anthurium-2026-07-25-live-in-spotify-o-east-16e6e326",
     "group_id": "anthurium",
     "type": "live",
@@ -1689,7 +1068,16 @@
     "description": "\\\\\\㊗️✨️今週末のアンスリューム✨️㊗️/// / 7/25(土) / 13th Anniversary「アイドル甲子園 in Spotify O-EAST」supported by My-th / 📍 Spotify O-EAST",
     "post_url": "https://nitter.net/anthurium0317/status/2080234320791470218#m",
     "image_url": "https://nitter.net/pic/media%2FHN56FiRawAAKans.jpg",
-    "created_at": "2026-07-23T10:11:25Z"
+    "created_at": "2026-07-07T11:05:03Z"
+  },
+  {
+    "id": "anthurium-2026-07-25-live---26e36385",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "ライブ仮",
+    "date": "2026-07-25",
+    "description": "ライブ仮",
+    "created_at": "2026-06-04T09:59:44.758Z"
   },
   {
     "id": "anthurium-2026-07-26-live-hype-idol-summer-db919dca",
@@ -1748,15 +1136,6 @@
     "created_at": "2026-07-25T12:40:39Z"
   },
   {
-    "id": "anthurium-2026-07-26-live---4437e9ba",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "ライブ仮",
-    "date": "2026-07-26",
-    "description": "ライブ仮",
-    "created_at": "2026-06-04T09:59:44.758Z"
-  },
-  {
     "id": "anthurium-2026-07-26-live-in-spotify-o-east-68de6e5e",
     "group_id": "anthurium",
     "type": "live",
@@ -1769,6 +1148,15 @@
     "post_url": "https://nitter.net/anthurium0317/status/2080234320791470218#m",
     "image_url": "https://nitter.net/pic/media%2FHN56FiRawAAKans.jpg",
     "created_at": "2026-07-23T10:11:25Z"
+  },
+  {
+    "id": "anthurium-2026-07-26-live---4437e9ba",
+    "group_id": "anthurium",
+    "type": "live",
+    "title": "ライブ仮",
+    "date": "2026-07-26",
+    "description": "ライブ仮",
+    "created_at": "2026-06-04T09:59:44.758Z"
   },
   {
     "id": "anthurium-2026-07-31-live-tokyo-girls-girls-0096be46",
@@ -1799,16 +1187,16 @@
     "time_start": "11:30"
   },
   {
-    "id": "anthurium-2026-08-01-free-tokyo-idol-festival-2026-67243ba2",
+    "id": "anthurium-2026-08-01-free-tokyo-idol-festival-2026-b1078132",
     "group_id": "anthurium",
     "type": "free",
     "title": "『 TOKYO IDOL FESTIVAL 2026",
     "date": "2026-08-01",
     "venue": "お台場・青海周辺エリア",
-    "description": "\\\\\\✨️本日！  #TIF2026  ✨️/// / 8/1(土)、8/2(日) / 『 TOKYO IDOL FESTIVAL 2026 / supported by にしたんクリニック』",
-    "post_url": "https://nitter.net/anthurium0317/status/2083356807913959853#m",
-    "image_url": "https://nitter.net/pic/media%2FHOmR9QzawAAOzWC.jpg",
-    "created_at": "2026-08-01T00:59:04Z",
+    "description": "\\\\\\✨️明日から！  #TIF2026  ✨️/// / 8/1(土)、8/2(日) / 『 TOKYO IDOL FESTIVAL 2026 / supported by にしたんクリニック』",
+    "post_url": "https://nitter.net/anthurium0317/status/2083105903516274756#m",
+    "image_url": "https://nitter.net/pic/media%2FHOitw6baIAA7mwR.jpg",
+    "created_at": "2026-07-31T08:22:04Z",
     "time_start": "11:30"
   },
   {
@@ -1823,19 +1211,6 @@
     "post_url": "https://nitter.net/anthurium0317/status/2083136918313893976#m",
     "image_url": "https://nitter.net/pic/media%2FHOjJ_FZbAAA3-mk.jpg",
     "created_at": "2026-07-31T10:25:18Z",
-    "time_start": "11:30"
-  },
-  {
-    "id": "anthurium-2026-08-01-free-tokyo-idol-festival-2026-b1078132",
-    "group_id": "anthurium",
-    "type": "free",
-    "title": "『 TOKYO IDOL FESTIVAL 2026",
-    "date": "2026-08-01",
-    "venue": "お台場・青海周辺エリア",
-    "description": "\\\\\\✨️明日から！  #TIF2026  ✨️/// / 8/1(土)、8/2(日) / 『 TOKYO IDOL FESTIVAL 2026 / supported by にしたんクリニック』",
-    "post_url": "https://nitter.net/anthurium0317/status/2083105903516274756#m",
-    "image_url": "https://nitter.net/pic/media%2FHOitw6baIAA7mwR.jpg",
-    "created_at": "2026-07-31T08:22:04Z",
     "time_start": "11:30"
   },
   {
@@ -1933,90 +1308,6 @@
     "created_at": "2026-06-09T09:00:04Z"
   },
   {
-    "id": "anthurium-2026-08-08-live-idol-summer-jungle-2026-7e406d7c",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "IDOL SUMMER JUNGLE 2026",
-    "date": "2026-08-08",
-    "time_open": "9:00",
-    "time_start": "10:00",
-    "venue": "お台場R地区",
-    "description": "\\\\\\✨️出演決定✨️/// / 『IDOL SUMMER JUNGLE 2026』 / 8/7(金)8/8(土)8/9(日) / 📍 お台場R地区",
-    "post_url": "https://nitter.net/anthurium0317/status/2064271299959193953#m",
-    "image_url": "https://nitter.net/pic/media%2FHKXDzlNbAAAH_wz.jpg",
-    "created_at": "2026-06-09T09:00:04Z"
-  },
-  {
-    "id": "anthurium-2026-08-08-live-idol-summer-jungle-2026-1bf034ab",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "IDOL SUMMER JUNGLE 2026",
-    "date": "2026-08-08",
-    "time_open": "9:00",
-    "time_start": "10:00",
-    "venue": "お台場R地区",
-    "description": "\\\\\\✨️出演日解禁✨️/// / 『IDOL SUMMER JUNGLE 2026』 / 8/8(土)8/9(日) / 📍 お台場R地区",
-    "post_url": "https://nitter.net/anthurium0317/status/2073331105235964237#m",
-    "image_url": "https://nitter.net/pic/media%2FHMXzoSja4AAo9Lh.jpg",
-    "created_at": "2026-07-04T09:00:30Z"
-  },
-  {
-    "id": "anthurium-2026-08-08-live-idol-summer-jungle-2026-fc9297d1",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "IDOL SUMMER JUNGLE 2026",
-    "date": "2026-08-08",
-    "time_open": "9:00",
-    "time_start": "10:00",
-    "venue": "お台場R地区",
-    "description": "\\\\\\ライブTT解禁///\\\\\\🔥メインステージ🔥/// / 『IDOL SUMMER JUNGLE 2026』 / 8/8(土)8/9(日) / 📍 お台場R地区",
-    "post_url": "https://nitter.net/anthurium0317/status/2081303767065219480#m",
-    "image_url": "https://nitter.net/pic/media%2FHOJGvbpaUAAHfhZ.jpg",
-    "created_at": "2026-07-26T09:01:01Z"
-  },
-  {
-    "id": "anthurium-2026-08-08-live-idol-summer-jungle-2026-7c4714a0",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "IDOL SUMMER JUNGLE 2026",
-    "date": "2026-08-08",
-    "time_open": "9:00",
-    "time_start": "10:00",
-    "venue": "お台場R地区",
-    "description": "\\\\\\特典会TT解禁///\\\\\\🔥メインステージ🔥/// / 『IDOL SUMMER JUNGLE 2026』 / 8/8(土)8/9(日) / 📍 お台場R地区",
-    "post_url": "https://nitter.net/anthurium0317/status/2082753143180525747#m",
-    "image_url": "https://nitter.net/pic/media%2FHOds7eMboAAMY35.jpg",
-    "created_at": "2026-07-30T09:00:19Z"
-  },
-  {
-    "id": "anthurium-2026-08-08-live-idol-summer-jungle-2026-a6ee08d7",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "IDOL SUMMER JUNGLE 2026",
-    "date": "2026-08-08",
-    "time_open": "9:00",
-    "time_start": "10:00",
-    "venue": "お台場R地区",
-    "description": "\\\\\\縁日TT解禁///\\\\\\🔥メインステージ🔥/// / 『IDOL SUMMER JUNGLE 2026』 / 8/8(土)8/9(日) / 📍 お台場R地区",
-    "post_url": "https://nitter.net/anthurium0317/status/2083178103258616157#m",
-    "image_url": "https://nitter.net/pic/media%2FHOjvcTkakAAjU_9.jpg",
-    "created_at": "2026-07-31T13:08:58Z"
-  },
-  {
-    "id": "anthurium-2026-08-08-live-idol-summer-jungle-2026-d484e8e0",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "IDOL SUMMER JUNGLE 2026",
-    "date": "2026-08-08",
-    "time_open": "9:00",
-    "time_start": "10:00",
-    "venue": "お台場R地区",
-    "description": "\\\\\\✨️明日！✨️/// / 『IDOL SUMMER JUNGLE 2026』 / 8/8(土) / 📍 お台場R地区",
-    "post_url": "https://nitter.net/anthurium0317/status/2085677499061829991#m",
-    "image_url": "https://nitter.net/pic/media%2FHPHQoM4acAAQ3Yv.jpg",
-    "created_at": "2026-08-07T10:40:40Z"
-  },
-  {
     "id": "anthurium-2026-08-08-live-idol-summer-jungle-2026-26da05f6",
     "group_id": "anthurium",
     "type": "live",
@@ -2029,91 +1320,7 @@
     "description": "これから縁日です！ / 是非お待ちしております！🏮💕 / ⚠️Tシャツの在庫が切れてしまったみたいで、景品はTシャツ以外となります。 / アンスリューム (@anthurium0317)",
     "post_url": "https://nitter.net/anthurium0317/status/2085975278430646284#m",
     "image_url": "https://nitter.net/pic/media%2FHPLfdUibUAA3Ynk.jpg",
-    "created_at": "2026-08-08T06:23:56Z"
-  },
-  {
-    "id": "anthurium-2026-08-08-live-idol-summer-jungle-2026-c035a8fb",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "IDOL SUMMER JUNGLE 2026",
-    "date": "2026-08-08",
-    "time_open": "9:00",
-    "time_start": "10:00",
-    "venue": "お台場R地区",
-    "description": "\\\\\\✨️本日！✨️/// / 『IDOL SUMMER JUNGLE 2026』 / 8/8(土) / 📍 お台場R地区",
-    "post_url": "https://nitter.net/anthurium0317/status/2085907513774600316#m",
-    "image_url": "https://nitter.net/pic/media%2FHPKh00jbAAAhW8a.jpg",
-    "created_at": "2026-08-08T01:54:40Z"
-  },
-  {
-    "id": "anthurium-2026-08-09-live-idol-summer-jungle-2026-b0026040",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "IDOL SUMMER JUNGLE 2026",
-    "date": "2026-08-09",
-    "time_open": "9:00",
-    "time_start": "10:00",
-    "venue": "お台場R地区",
-    "description": "\\\\\\✨️出演決定✨️/// / 『IDOL SUMMER JUNGLE 2026』 / 8/7(金)8/8(土)8/9(日) / 📍 お台場R地区",
-    "post_url": "https://nitter.net/anthurium0317/status/2064271299959193953#m",
-    "image_url": "https://nitter.net/pic/media%2FHKXDzlNbAAAH_wz.jpg",
     "created_at": "2026-06-09T09:00:04Z"
-  },
-  {
-    "id": "anthurium-2026-08-09-live-idol-summer-jungle-2026-8ac4ca81",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "IDOL SUMMER JUNGLE 2026",
-    "date": "2026-08-09",
-    "time_open": "9:00",
-    "time_start": "10:00",
-    "venue": "お台場R地区",
-    "description": "\\\\\\✨️出演日解禁✨️/// / 『IDOL SUMMER JUNGLE 2026』 / 8/8(土)8/9(日) / 📍 お台場R地区",
-    "post_url": "https://nitter.net/anthurium0317/status/2073331105235964237#m",
-    "image_url": "https://nitter.net/pic/media%2FHMXzoSja4AAo9Lh.jpg",
-    "created_at": "2026-07-04T09:00:30Z"
-  },
-  {
-    "id": "anthurium-2026-08-09-live-idol-summer-jungle-2026-c6664273",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "IDOL SUMMER JUNGLE 2026",
-    "date": "2026-08-09",
-    "time_open": "9:00",
-    "time_start": "10:00",
-    "venue": "お台場R地区",
-    "description": "\\\\\\ライブTT解禁///\\\\\\🔥メインステージ🔥/// / 『IDOL SUMMER JUNGLE 2026』 / 8/8(土)8/9(日) / 📍 お台場R地区",
-    "post_url": "https://nitter.net/anthurium0317/status/2081303767065219480#m",
-    "image_url": "https://nitter.net/pic/media%2FHOJGvbpaUAAHfhZ.jpg",
-    "created_at": "2026-07-26T09:01:01Z"
-  },
-  {
-    "id": "anthurium-2026-08-09-live-idol-summer-jungle-2026-f16c66c7",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "IDOL SUMMER JUNGLE 2026",
-    "date": "2026-08-09",
-    "time_open": "9:00",
-    "time_start": "10:00",
-    "venue": "お台場R地区",
-    "description": "\\\\\\特典会TT解禁///\\\\\\🔥メインステージ🔥/// / 『IDOL SUMMER JUNGLE 2026』 / 8/8(土)8/9(日) / 📍 お台場R地区",
-    "post_url": "https://nitter.net/anthurium0317/status/2082753143180525747#m",
-    "image_url": "https://nitter.net/pic/media%2FHOds7eMboAAMY35.jpg",
-    "created_at": "2026-07-30T09:00:19Z"
-  },
-  {
-    "id": "anthurium-2026-08-09-live-idol-summer-jungle-2026-c808526f",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "IDOL SUMMER JUNGLE 2026",
-    "date": "2026-08-09",
-    "time_open": "9:00",
-    "time_start": "10:00",
-    "venue": "お台場R地区",
-    "description": "\\\\\\縁日TT解禁///\\\\\\🔥メインステージ🔥/// / 『IDOL SUMMER JUNGLE 2026』 / 8/8(土)8/9(日) / 📍 お台場R地区",
-    "post_url": "https://nitter.net/anthurium0317/status/2083178103258616157#m",
-    "image_url": "https://nitter.net/pic/media%2FHOjvcTkakAAjU_9.jpg",
-    "created_at": "2026-07-31T13:08:58Z"
   },
   {
     "id": "anthurium-2026-08-09-live-idol-summer-jungle-2026-a7916822",
@@ -2128,21 +1335,7 @@
     "description": "この後！15:35~ TIGER STAGEにてアンスリュームのライブです！🔥 / 是非見に来てください🐅🔥❤️‍🔥 / アンスリューム (@anthurium0317) / \\\\\\✨️本日！✨️///\\\\\\🔥メインステージ🔥///",
     "post_url": "https://nitter.net/anthurium0317/status/2086339748269089155#m",
     "image_url": "https://nitter.net/pic/media%2FHPQq8TJaIAAgQYu.jpg",
-    "created_at": "2026-08-09T06:32:12Z"
-  },
-  {
-    "id": "anthurium-2026-08-09-live-idol-summer-jungle-2026-b98df87d",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "IDOL SUMMER JUNGLE 2026",
-    "date": "2026-08-09",
-    "time_open": "9:00",
-    "time_start": "10:00",
-    "venue": "お台場R地区",
-    "description": "\\\\\\✨️本日！✨️///\\\\\\🔥メインステージ🔥/// / 『IDOL SUMMER JUNGLE 2026』 / 8/9(日) / 📍 お台場R地区",
-    "post_url": "https://nitter.net/anthurium0317/status/2086284537462476946#m",
-    "image_url": "https://nitter.net/pic/media%2FHPP4uTnbcAAQ_Hb.jpg",
-    "created_at": "2026-08-09T02:52:49Z"
+    "created_at": "2026-06-09T09:00:04Z"
   },
   {
     "id": "anthurium-2026-08-09-live-appare-presents-2026-bcc43c02",
@@ -2159,63 +1352,6 @@
     "created_at": "2026-07-17T10:01:18Z"
   },
   {
-    "id": "anthurium-2026-08-10-live-neo-kassen2026-0a3a06da",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "NEO KASSEN2026",
-    "date": "2026-08-10",
-    "time_open": "11:00",
-    "time_start": "11:50",
-    "venue": "duo music exchange",
-    "description": "\\\\\\✨️ライブTT公開✨️/// / 「NEO KASSEN2026」 / 8/10(月) / 📍 duo music exchange",
-    "post_url": "https://nitter.net/anthurium0317/status/2082436039701061944#m",
-    "image_url": "https://nitter.net/pic/media%2FHOZMilxaQAEl99p.jpg",
-    "created_at": "2026-07-29T12:00:16Z"
-  },
-  {
-    "id": "anthurium-2026-08-10-live-neo-kassen2026-9d75b1d4",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "NEO KASSEN2026",
-    "date": "2026-08-10",
-    "time_open": "11:00",
-    "time_start": "11:50",
-    "venue": "duo music exchange",
-    "description": "\\\\\\✨️特典会TT公開✨️/// / 「NEO KASSEN2026」 / 8/10(月) / 📍 duo music exchange",
-    "post_url": "https://nitter.net/anthurium0317/status/2084259252265533942#m",
-    "image_url": "https://nitter.net/pic/media%2FHOzGuVubgAAfBV-.jpg",
-    "created_at": "2026-08-03T12:45:04Z"
-  },
-  {
-    "id": "anthurium-2026-08-10-live-neo-kassen2026-63a81b1a",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "NEO KASSEN2026",
-    "date": "2026-08-10",
-    "time_open": "11:00",
-    "time_start": "11:50",
-    "venue": "duo music exchange",
-    "description": "\\\\\\✨️明日✨️/// / 「NEO KASSEN2026」 / 8/10(月) / 📍 duo music exchange",
-    "post_url": "https://nitter.net/anthurium0317/status/2086434773418029528#m",
-    "image_url": "https://nitter.net/pic/media%2FHPSBXgBaAAAZ5gN.jpg",
-    "created_at": "2026-08-09T12:49:48Z"
-  },
-  {
-    "id": "anthurium-2026-08-10-live-neo-kassen2026-5fe73630",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "NEO KASSEN2026",
-    "date": "2026-08-10",
-    "time_open": "11:00",
-    "time_start": "11:50",
-    "venue": "duo music exchange",
-    "ticket_url": "https://nitter.net/anthurium0317/status/2086434773418029528#m",
-    "description": "20:45~グランドフィナーレに出演いたします‼️ / Spotify O-EASTに大集合お願いいたします🙏 / アンスリューム (@anthurium0317) / \\\\\\✨️明日✨️///",
-    "post_url": "https://nitter.net/anthurium0317/status/2086771731382018409#m",
-    "image_url": "https://nitter.net/pic/media%2FHPSBXgBaAAAZ5gN.jpg",
-    "created_at": "2026-08-10T11:08:45Z"
-  },
-  {
     "id": "anthurium-2026-08-10-live-neo-kassen2026-c7b4b715",
     "group_id": "anthurium",
     "type": "live",
@@ -2228,7 +1364,7 @@
     "description": "この後17:55~ HASHIRA STAGEにてアンスリュームのライブです❕⚔️ / 騒ぎたい人、duoに集まれー‼️☝️✨️ / アンスリューム (@anthurium0317) / \\\\\\✨️明日✨️///",
     "post_url": "https://nitter.net/anthurium0317/status/2086733511646732519#m",
     "image_url": "https://nitter.net/pic/media%2FHPSBXgBaAAAZ5gN.jpg",
-    "created_at": "2026-08-10T08:36:53Z"
+    "created_at": "2026-07-29T12:00:16Z"
   },
   {
     "id": "anthurium-2026-08-11-live-hype-idol-summer-65cb28c1",
@@ -2243,34 +1379,6 @@
     "post_url": "https://nitter.net/anthurium0317/status/2078813261764710472#m",
     "image_url": "https://nitter.net/pic/media%2FHNlsltZbEAAIjd9.jpg",
     "created_at": "2026-07-19T12:04:38Z"
-  },
-  {
-    "id": "anthurium-2026-08-11-live-hype-idol-summer-abb88825",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "HYPE IDOL！Summer",
-    "date": "2026-08-11",
-    "time_open": "9:30",
-    "time_start": "10:00",
-    "venue": "KANDA SQUARE HALL",
-    "description": "\\\\\\✨️TT公開✨️/// / 『HYPE IDOL！Summer』 / 8/11(火祝) / 📍 KANDA SQUARE HALL",
-    "post_url": "https://nitter.net/anthurium0317/status/2084988102037356808#m",
-    "image_url": "https://nitter.net/pic/media%2FHO9dn__asAALh6x.jpg",
-    "created_at": "2026-08-05T13:01:15Z"
-  },
-  {
-    "id": "anthurium-2026-08-11-live-hype-idol-summer-5601f090",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "HYPE IDOL！Summer",
-    "date": "2026-08-11",
-    "time_open": "9:30",
-    "time_start": "10:00",
-    "venue": "KANDA SQUARE HALL",
-    "description": "\\\\\\✨️明日！✨️/// / 『HYPE IDOL！Summer』 / 8/11(火祝) / 📍 KANDA SQUARE HALL",
-    "post_url": "https://nitter.net/anthurium0317/status/2086798683136520678#m",
-    "image_url": "https://nitter.net/pic/media%2FHPXMVwsbYAAKkCX.jpg",
-    "created_at": "2026-08-10T12:55:51Z"
   },
   {
     "id": "anthurium-2026-08-12-live-leading-quattro-night-86764808",
@@ -2314,20 +1422,6 @@
     "created_at": "2026-07-15T11:03:51Z"
   },
   {
-    "id": "anthurium-2026-08-13-live-the-stars-we-found-ce842712",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "明星現象 -The Stars We Found-",
-    "date": "2026-08-13",
-    "time_open": "12:00",
-    "time_start": "12:40",
-    "venue": "品川インターシティホール",
-    "description": "\\\\\\✨️明日！✨️/// / 衛星とカラテアPresents / 「明星現象 -The Stars We Found-」 / 8/13(木)",
-    "post_url": "https://nitter.net/anthurium0317/status/2087488873446420758#m",
-    "image_url": "https://nitter.net/pic/media%2FHPhAD6wb0AARMY9.jpg",
-    "created_at": "2026-08-12T10:38:25Z"
-  },
-  {
     "id": "anthurium-2026-08-13-live-the-stars-we-found-b493bd38",
     "group_id": "anthurium",
     "type": "live",
@@ -2368,20 +1462,6 @@
     "created_at": "2026-07-29T13:10:25Z"
   },
   {
-    "id": "anthurium-2026-08-15-live-tokyo-girls-girls-733f413e",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "TOKYO GIRLS GIRLS",
-    "date": "2026-08-15",
-    "time_open": "8:00",
-    "time_start": "8:20",
-    "venue": "品川ステラボール",
-    "description": "\\\\\\✨️出演決定✨️/// / 「TOKYO GIRLS GIRLS」 / 8/15(土) / 📍 品川ステラボール",
-    "post_url": "https://nitter.net/anthurium0317/status/2082438054313406961#m",
-    "image_url": "https://nitter.net/pic/media%2FHOZJ4QBa4AAGGVP.jpg",
-    "created_at": "2026-07-29T12:08:16Z"
-  },
-  {
     "id": "anthurium-2026-08-15-live-tokyo-girls-girls-bdb743d5",
     "group_id": "anthurium",
     "type": "live",
@@ -2393,21 +1473,7 @@
     "description": "\\\\\\✨️次回のアンスリューム✨️/// / 「TOKYO GIRLS GIRLS」 / 8/15(土) / 📍 品川ステラボール",
     "post_url": "https://nitter.net/anthurium0317/status/2087908780743025094#m",
     "image_url": "https://nitter.net/pic/media%2FHPm9-A2bsAA_cNn.jpg",
-    "created_at": "2026-08-13T14:26:59Z"
-  },
-  {
-    "id": "anthurium-2026-08-16-live-event-5c06b2b4",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "超宴祭！",
-    "date": "2026-08-16",
-    "time_open": "10:00",
-    "time_start": "11:00",
-    "venue": "渋谷道玄坂周辺4会場サーキット",
-    "description": "\\\\\\✨️出演決定✨️/// / UtaGe!×FES☆TIVE 主催サーキット『超宴祭！』 / 8/16(日) / 📍 渋谷道玄坂周辺4会場サーキット",
-    "post_url": "https://nitter.net/anthurium0317/status/2072291882177081536#m",
-    "image_url": "https://nitter.net/pic/media%2FHMJCWgeakAAk3DZ.jpg",
-    "created_at": "2026-07-01T12:11:00Z"
+    "created_at": "2026-07-29T12:08:16Z"
   },
   {
     "id": "anthurium-2026-08-16-live-event-73a839cf",
@@ -2421,7 +1487,7 @@
     "description": "\\\\\\✨️ライブTT公開✨️/// / UtaGe!×FES☆TIVE 主催サーキット『超宴祭！』 / 8/16(日) / 📍 Spotify O-WEST",
     "post_url": "https://nitter.net/anthurium0317/status/2084610483626328112#m",
     "image_url": "https://nitter.net/pic/media%2FHO4GLkLbAAAyUyn.jpg",
-    "created_at": "2026-08-04T12:00:44Z"
+    "created_at": "2026-07-01T12:11:00Z"
   },
   {
     "id": "anthurium-2026-08-16-live-in-kanda-square-hall-129b4a00",
@@ -2438,20 +1504,6 @@
     "created_at": "2026-07-22T11:00:18Z"
   },
   {
-    "id": "anthurium-2026-08-16-live-in-kanda-square-hall-7ac126c6",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "アイドル甲子園 in KANDA SQUARE HALL",
-    "date": "2026-08-16",
-    "time_open": "9:15",
-    "time_start": "9:30",
-    "venue": "KANDA SQUARE HALL",
-    "description": "\\\\\\✨️TT公開✨️/// / 「アイドル甲子園 in KANDA SQUARE HALL」supported by My-th -DAY2- / 8/16(日) / 📍KANDA SQUARE HALL",
-    "post_url": "https://nitter.net/anthurium0317/status/2084263244756308177#m",
-    "image_url": "https://nitter.net/pic/media%2FHOzKXZBbkAAwPjS.jpg",
-    "created_at": "2026-08-03T13:00:55Z"
-  },
-  {
     "id": "anthurium-2026-08-20-live-birthday-piano-concert-2e9968df",
     "group_id": "anthurium",
     "type": "live",
@@ -2464,20 +1516,6 @@
     "post_url": "https://nitter.net/anthurium0317/status/2080609624022216851#m",
     "image_url": "https://nitter.net/pic/media%2FHN_PausbsAAkQ9G.jpg",
     "created_at": "2026-07-24T11:02:44Z"
-  },
-  {
-    "id": "anthurium-2026-08-20-live-birthday-piano-concert-b115a9a0",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "伊藤詩乃Birthday Piano Concert",
-    "date": "2026-08-20",
-    "time_open": "19:30",
-    "time_start": "19:45",
-    "venue": "松濤サロン",
-    "description": "【訂正概要】 / 8/20(木) / 『伊藤詩乃Birthday Piano Concert』 / 📍 松濤サロン",
-    "post_url": "https://nitter.net/anthurium0317/status/2080991803432722486#m",
-    "image_url": "https://nitter.net/pic/card_img%2F2078485540161421312%2F8SDcsu-n%3Fformat%3Djpg%26name%3D800x419",
-    "created_at": "2026-07-25T12:21:23Z"
   },
   {
     "id": "anthurium-2026-08-21-live-2026-0fe5a9f8",
@@ -2494,20 +1532,6 @@
     "created_at": "2026-06-13T05:00:34Z"
   },
   {
-    "id": "anthurium-2026-08-22-live-2026-71fb06f0",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "でびぱっぱ夏祭 2026 〜東の陣〜",
-    "date": "2026-08-22",
-    "time_open": "9:45",
-    "time_start": "10:30",
-    "venue": "三崎公園野外音楽堂",
-    "description": "\\\\\\✨️日割り公開✨️/// / Devil ANTHEM. presents / 「でびぱっぱ夏祭 2026 〜東の陣〜」 / 8/22,23(土,日)",
-    "post_url": "https://nitter.net/anthurium0317/status/2062112146729644069#m",
-    "image_url": "https://nitter.net/pic/media%2FHJ4YEFza4AAFB4O.jpg",
-    "created_at": "2026-06-03T10:00:22Z"
-  },
-  {
     "id": "anthurium-2026-08-22-live-2026-81f139ce",
     "group_id": "anthurium",
     "type": "live",
@@ -2519,21 +1543,7 @@
     "description": "\\\\\\✨️一般販売開始中✨️/// / Devil ANTHEM. presents / 「でびぱっぱ夏祭 2026 〜東の陣〜」 / 8/22,23(土,日)",
     "post_url": "https://nitter.net/anthurium0317/status/2065660576228077882#m",
     "image_url": "https://nitter.net/pic/media%2FHKqzV-0bUAATnpT.jpg",
-    "created_at": "2026-06-13T05:00:34Z"
-  },
-  {
-    "id": "anthurium-2026-08-22-live-2026-7c2ccf82",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "でびぱっぱ夏祭 2026 〜東の陣〜",
-    "date": "2026-08-22",
-    "time_open": "9:45",
-    "time_start": "10:30",
-    "venue": "三崎公園野外音楽堂",
-    "description": "\\\\\\✨️TT公開✨️/// / Devil ANTHEM. presents / 「でびぱっぱ夏祭 2026 〜東の陣〜」 / 8/22,23(土,日)",
-    "post_url": "https://nitter.net/anthurium0317/status/2082769463402021366#m",
-    "image_url": "https://nitter.net/pic/media%2FHOd7x3_a8AASFEh.jpg",
-    "created_at": "2026-07-30T10:05:10Z"
+    "created_at": "2026-06-03T10:00:22Z"
   },
   {
     "id": "anthurium-2026-08-25-live-appare-presents-2026-b98099df",
@@ -2658,20 +1668,6 @@
     "created_at": "2026-06-13T05:00:34Z"
   },
   {
-    "id": "anthurium-2026-09-20-live-2026-cac607ff",
-    "group_id": "anthurium",
-    "type": "live",
-    "title": "でびぱっぱ夏祭 2026 〜東の陣〜",
-    "date": "2026-09-20",
-    "time_open": "9:45",
-    "time_start": "10:30",
-    "venue": "三崎公園野外音楽堂",
-    "description": "\\\\\\✨️日割り公開✨️/// / Devil ANTHEM. presents / 「でびぱっぱ夏祭 2026 〜東の陣〜」 / 8/22,23(土,日)",
-    "post_url": "https://nitter.net/anthurium0317/status/2062112146729644069#m",
-    "image_url": "https://nitter.net/pic/media%2FHJ4YEFza4AAFB4O.jpg",
-    "created_at": "2026-06-03T10:00:22Z"
-  },
-  {
     "id": "anthurium-2026-09-20-live-2026-cb7c7077",
     "group_id": "anthurium",
     "type": "live",
@@ -2683,7 +1679,7 @@
     "description": "\\\\\\✨️一般販売開始中✨️/// / Devil ANTHEM. presents / 「でびぱっぱ夏祭 2026 〜東の陣〜」 / 8/22,23(土,日)",
     "post_url": "https://nitter.net/anthurium0317/status/2065660576228077882#m",
     "image_url": "https://nitter.net/pic/media%2FHKqzV-0bUAATnpT.jpg",
-    "created_at": "2026-06-13T05:00:34Z"
+    "created_at": "2026-06-03T10:00:22Z"
   },
   {
     "id": "anthurium-2026-09-20-live-2026-e319df6f",
